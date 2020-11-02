@@ -1,7 +1,7 @@
 <version>
 
 <lastupdateYYMMDD>201102</lastupdateYYMMDD>
-<quality>high</quality>
+<quality>HIGH</quality>
 <versionurl>https://bitbucket.org/swtcg/swtcg-lackey-main/src/master/starwars/version.txt</versionurl>
 <updateurl>https://bitbucket.org/swtcg/swtcg-lackey-main/src/master/starwars/updatelist.txt</updateurl>
 

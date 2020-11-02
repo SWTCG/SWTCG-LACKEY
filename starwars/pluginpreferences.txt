@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>190715</lastversionupdate>
+<lastversionupdate>201102</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
