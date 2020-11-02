@@ -1,0 +1,20 @@
+# This is an example Starter pipeline configuration
+# Use a skeleton to build, test and deploy using manual and parallel steps
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: atlassian/default-image:2
+
+pipelines:
+  default:
+    - parallel:
+      - step:
+          name: 'Deploy via FTP'
+          script:
+            - pipe: atlassian/ftp-deploy:0.3.5
+              variables:
+                USER: $FTP_USER
+                PASSWORD: $FTP_PASS
+                SERVER: $FTP_URL
+                REMOTE_PATH: $FTP_REMOTE
+#                LOCAL_PATH: /my-working-directory,
+#                EXTRA_ARGS: "--exclude=filename_to_exclude.txt --exclude=folder_to_exclude/"
