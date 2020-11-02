@@ -9,6 +9,7 @@ pipelines:
     - parallel:
       - step:
           name: 'Deploy via FTP'
+          deployment: 'Deploy to The Cantina'
           script:
             - pipe: atlassian/ftp-deploy:0.3.5
               variables:
