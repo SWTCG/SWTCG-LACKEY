@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Oldrepstarterpromo_Dueling_Ambitions">Dueling Ambitions (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarterpromo_Dueling_Ambitions">Dueling Ambitions (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarterpromo_Dueling_Ambitions">Dueling Ambitions (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Double_Bladed_Lightsaber">Double-Bladed Lightsaber (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Double_Bladed_Lightsaber">Double-Bladed Lightsaber (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Gloom_Walkers_A">Gloom Walkers (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Gloom_Walkers_A">Gloom Walkers (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Nightfall_A">Nightfall (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Nightfall_A">Nightfall (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Dreadnaught">Sith Dreadnaught (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Dreadnaught">Sith Dreadnaught (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Dreadnaught">Sith Dreadnaught (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Dreadnaught">Sith Dreadnaught (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Githany_A">Githany (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Githany_A">Githany (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Assault_Team">Sith Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Assault_Team">Sith Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Assault_Team">Sith Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Assault_Team">Sith Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Attacker">Sith Attacker (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Attacker">Sith Attacker (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Attacker">Sith Attacker (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Attacker">Sith Attacker (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Flier_Swarm">Sith Flier Swarm (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Flier_Swarm">Sith Flier Swarm (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Lord">Sith Lord (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Lord">Sith Lord (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Darth_Revan_B">Darth Revan (B) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Darth_Revan_B">Darth Revan (B) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Korriban">Korriban (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Apprentice">Sith Apprentice (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Apprentice">Sith Apprentice (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Battle_Force">Sith Battle Force (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Battle_Force">Sith Battle Force (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Fighter_LS_05_80">Sith Fighter LS-05-80 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Fighter_LS_05_80">Sith Fighter LS-05-80 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Fighter_LS_05_80">Sith Fighter LS-05-80 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Fighter_LS_05_80">Sith Fighter LS-05-80 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Interceptor_LS_05_77">Sith Interceptor LS-05-77 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Interceptor_LS_05_77">Sith Interceptor LS-05-77 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Interceptor_LS_05_77">Sith Interceptor LS-05-77 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Interceptor_LS_05_77">Sith Interceptor LS-05-77 (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Marauder_Squad">Sith Marauder Squad (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Marauder_Squad">Sith Marauder Squad (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Marauder_Squad">Sith Marauder Squad (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Ajunta_Pall_A">Ajunta Pall (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Ajunta_Pall_A">Ajunta Pall (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Ancient_Korriban">Ancient Korriban (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Ancient_Korriban">Ancient Korriban (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Fear_and_Uncertainty">Fear and Uncertainty (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Fear_and_Uncertainty">Fear and Uncertainty (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarterpromo_Force_Evasion">Force Evasion (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarterpromo_Force_Evasion">Force Evasion (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarterpromo_Force_Evasion">Force Evasion (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarterpromo_Force_Evasion">Force Evasion (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Task_Force">Sith Task Force (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Task_Force">Sith Task Force (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Sith_Task_Force">Sith Task Force (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Vitiate_s_Imperial_Citadel">Vitiate&apos;s Imperial Citadel (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Vitiate_s_Imperial_Citadel">Vitiate&apos;s Imperial Citadel (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

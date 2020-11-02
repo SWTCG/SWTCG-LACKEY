@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Newrepstarter_Scimitar_Squadron_TIE">Scimitar Squadron TIE (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Scimitar_Squadron_TIE">Scimitar Squadron TIE (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Scimitar_Squadron_TIE">Scimitar Squadron TIE (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Scimitar_Squadron_TIE">Scimitar Squadron TIE (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_501st_Legion_Dark_Trooper">501st Legion Dark Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_501st_Legion_Dark_Trooper">501st Legion Dark Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_501st_Legion_Dark_Trooper">501st Legion Dark Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Instinctual_Dodge">Instinctual Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Instinctual_Dodge">Instinctual Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Dark_Jedi_Adepts">Imperial Dark Jedi Adepts (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Dark_Jedi_Adepts">Imperial Dark Jedi Adepts (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Grand_Admiral_Thrawn_A">Grand Admiral Thrawn (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Grand_Admiral_Thrawn_A">Grand Admiral Thrawn (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Grand_Admiral_Thrawn_A">Grand Admiral Thrawn (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Observers">Imperial Observers (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Observers">Imperial Observers (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Observers">Imperial Observers (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Joruus_C_baoth_D">Joruus C&apos;baoth (D) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Joruus_C_baoth_D">Joruus C&apos;baoth (D) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Pursuit">Imperial Pursuit (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Pursuit">Imperial Pursuit (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Shipyard">Imperial Shipyard (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Shipyard">Imperial Shipyard (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Noghri_Assassin_Team">Noghri Assassin Team (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Noghri_Assassin_Team">Noghri Assassin Team (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Not_Ordinary_Offworlders">Not Ordinary Offworlders (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Not_Ordinary_Offworlders">Not Ordinary Offworlders (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rukh_A">Rukh (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rukh_A">Rukh (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Carida_System">Carida System (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Carida_System">Carida System (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Jerec_C">Jerec (C) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Jerec_C">Jerec (C) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_General_Weir_A">General Weir (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_General_Weir_A">General Weir (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ysanne_Isard_A">Ysanne Isard (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ysanne_Isard_A">Ysanne Isard (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bacta_War">Bacta War (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bacta_War">Bacta War (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bacta_War">Bacta War (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bacta_War">Bacta War (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Attack_Wing">Imperial Attack Wing (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Attack_Wing">Imperial Attack Wing (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Reckoning_A">Reckoning (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Reckoning_A">Reckoning (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Repurposed_Imperial_Blasters">Repurposed Imperial Blasters (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Repurposed_Imperial_Blasters">Repurposed Imperial Blasters (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Vuultin_Base">Vuultin Base (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Vuultin_Base">Vuultin Base (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Chiss_Clawcraft_Squadron">Chiss Clawcraft Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Chiss_Clawcraft_Squadron">Chiss Clawcraft Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Sentinel_Class_Shuttle">Sentinel-Class Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Sentinel_Class_Shuttle">Sentinel-Class Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Sentinel_Class_Shuttle">Sentinel-Class Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_AT_DP">AT-DP (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_AT_DP">AT-DP (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_AT_DP">AT-DP (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_AT_DP">AT-DP (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Inquisitorius">Imperial Inquisitorius (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Imperial_Inquisitorius">Imperial Inquisitorius (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

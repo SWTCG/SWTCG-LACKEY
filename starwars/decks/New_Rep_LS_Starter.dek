@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Newrepstarter_Mirith_Sinn_A">Mirith Sinn (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Mirith_Sinn_A">Mirith Sinn (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Instinctual_Dodge">Instinctual Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Instinctual_Dodge">Instinctual Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Heavy_Machine_Gun_Team">Heavy Machine Gun Team (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Heavy_Machine_Gun_Team">Heavy Machine Gun Team (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Heavy_Machine_Gun_Team">Heavy Machine Gun Team (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Heavy_Machine_Gun_Team">Heavy Machine Gun Team (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Leia_Organa_Solo_P">Leia Organa Solo (P) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Leia_Organa_Solo_P">Leia Organa Solo (P) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Leia_Organa_Solo_P">Leia Organa Solo (P) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bimmisaari">Bimmisaari (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bimmisaari">Bimmisaari (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Marine_Special_Forces">Marine Special Forces (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Marine_Special_Forces">Marine Special Forces (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Marine_Special_Forces">Marine Special Forces (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Marine_Special_Forces">Marine Special Forces (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Kyle_Katarn_E">Kyle Katarn (E) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Kyle_Katarn_E">Kyle Katarn (E) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Lieutenant_Corran_Horn_B">Lieutenant Corran Horn (B) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Lieutenant_Corran_Horn_B">Lieutenant Corran Horn (B) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_MD_Droid">MD Droid (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_MD_Droid">MD Droid (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Captain_Dllr_Nep_C">Captain Dllr Nep (C) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Captain_Dllr_Nep_C">Captain Dllr Nep (C) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Clear_Skies_and_Easy_Shots">Clear Skies and Easy Shots (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Clear_Skies_and_Easy_Shots">Clear Skies and Easy Shots (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Oradin_Hospital">Oradin Hospital (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Oradin_Hospital">Oradin Hospital (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Eleven_A">Rogue Eleven (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Eleven_A">Rogue Eleven (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Four_A">Rogue Four (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Four_A">Rogue Four (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Nine_A">Rogue Nine (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Nine_A">Rogue Nine (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Seven_A">Rogue Seven (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Seven_A">Rogue Seven (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Ten_A">Rogue Ten (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Ten_A">Rogue Ten (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Twelve_A">Rogue Twelve (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Rogue_Twelve_A">Rogue Twelve (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarterpromo_Bacta_War">Bacta War (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarterpromo_Bacta_War">Bacta War (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarterpromo_Bacta_War">Bacta War (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarterpromo_Bacta_War">Bacta War (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bantha_Class_Assault_Shuttle">Bantha-Class Assault Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bantha_Class_Assault_Shuttle">Bantha-Class Assault Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bantha_Class_Assault_Shuttle">Bantha-Class Assault Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Bantha_Class_Assault_Shuttle">Bantha-Class Assault Shuttle (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Repurposed_Imperial_Blasters">Repurposed Imperial Blasters (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Repurposed_Imperial_Blasters">Repurposed Imperial Blasters (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ikrit_A">Ikrit (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ikrit_A">Ikrit (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ikrit_A">Ikrit (A) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Millennium_Falcon_V">Millennium Falcon (V) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Millennium_Falcon_V">Millennium Falcon (V) (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Let_the_Force_Guide_You">Let the Force Guide You (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Let_the_Force_Guide_You">Let the Force Guide You (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ranger_Class_Gunship">Ranger-Class Gunship (Starter)</name><set>START</set></card>
+		<card><name id="Newrepstarter_Ranger_Class_Gunship">Ranger-Class Gunship (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

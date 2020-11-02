@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Resstarter_BB_9E_B">BB-9E (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_BB_9E_B">BB-9E (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_Arctic_Detachment">First Order Arctic Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_Arctic_Detachment">First Order Arctic Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_Arctic_Detachment">First Order Arctic Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_Patrol_Squad">First Order Patrol Squad (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_Patrol_Squad">First Order Patrol Squad (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_Patrol_Squad">First Order Patrol Squad (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_TIE_Starfighter">First Order TIE Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_TIE_Starfighter">First Order TIE Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_TIE_Starfighter">First Order TIE Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_First_Order_TIE_Starfighter">First Order TIE Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_General_Armitage_Hux_D">General Armitage Hux (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_General_Armitage_Hux_I">General Armitage Hux (I) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_General_Armitage_Hux_I">General Armitage Hux (I) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Walker_Protection_Force">Walker Protection Force (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Walker_Protection_Force">Walker Protection Force (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Walker_Protection_Force">Walker Protection Force (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Walker_Protection_Force">Walker Protection Force (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_AT_PD">AT-PD (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_AT_PD">AT-PD (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_AT_PD">AT-PD (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Finalizer_A">Finalizer (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Finalizer_A">Finalizer (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_s_Shuttle_B">Kylo&apos;s Shuttle (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_s_Shuttle_B">Kylo&apos;s Shuttle (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_s_Shuttle_A">Kylo&apos;s Shuttle (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_s_Shuttle_A">Kylo&apos;s Shuttle (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_Ren_s_Lightsaber_C">Kylo Ren&apos;s Lightsaber (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_Ren_s_Lightsaber_C">Kylo Ren&apos;s Lightsaber (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_Ren_J">Kylo Ren (J) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_Ren_J">Kylo Ren (J) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_Ren_J">Kylo Ren (J) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Kylo_Ren_D">Kylo Ren (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Unkar_Plutt_A">Unkar Plutt (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Unkar_Plutt_A">Unkar Plutt (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_FN_2003_A">FN-2003 (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_FN_2003_A">FN-2003 (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_FN_417_A">FN-417 (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Starkiller_Base_Hangar_718">Starkiller Base Hangar 718 (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Starkiller_Base_Hangar_718">Starkiller Base Hangar 718 (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_TIE_Space_Superiority_Fighter">TIE Space Superiority Fighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_TIE_Space_Superiority_Fighter">TIE Space Superiority Fighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_TIE_Space_Superiority_Fighter">TIE Space Superiority Fighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_TIE_Space_Superiority_Fighter">TIE Space Superiority Fighter (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Wounded">Wounded (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Wounded">Wounded (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Snoke_D">Snoke (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Snoke_D">Snoke (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Ben_Solo_A">Ben Solo (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Unbalanced">Unbalanced (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Unbalanced">Unbalanced (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Vehicle_Radar_Package">Vehicle Radar Package (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Vehicle_Radar_Package">Vehicle Radar Package (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Force_Flip">Force Flip (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Force_Flip">Force Flip (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Force_Flip">Force Flip (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Force_Flip">Force Flip (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Knights_of_Ren_C">Knights of Ren (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Knights_of_Ren_C">Knights of Ren (C) (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

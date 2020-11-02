@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Repstarter_Force_Attrition">Force Attrition (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Force_Attrition">Force Attrition (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Citadel">Citadel (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Citadel">Citadel (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Flying_Mode_Vulture_Droid_Wing">Flying Mode Vulture Droid Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Flying_Mode_Vulture_Droid_Wing">Flying Mode Vulture Droid Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Flying_Mode_Vulture_Droid_Wing">Flying Mode Vulture Droid Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Flying_Mode_Vulture_Droid_Wing">Flying Mode Vulture Droid Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Lightsaber_Collection_A">Lightsaber Collection (A) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Lightsaber_Collection_A">Lightsaber Collection (A) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Separatist_Headquarters">Separatist Headquarters (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Separatist_Headquarters">Separatist Headquarters (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droid_Tri_Fighter_Squadron">Droid Tri-Fighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droid_Tri_Fighter_Squadron">Droid Tri-Fighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droid_Tri_Fighter_Squadron">Droid Tri-Fighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droid_Tri_Fighter_Squadron">Droid Tri-Fighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_IG_101_Magnaguard">IG-101 Magnaguard (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_IG_101_Magnaguard">IG-101 Magnaguard (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_IG_101_Magnaguard">IG-101 Magnaguard (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Mygeeto_Tri_droid">Mygeeto Tri-droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Mygeeto_Tri_droid">Mygeeto Tri-droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Mygeeto_Tri_droid">Mygeeto Tri-droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Mygeeto_Tri_droid">Mygeeto Tri-droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Octuptarra_Tri_Droid">Octuptarra Tri-Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Octuptarra_Tri_Droid">Octuptarra Tri-Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Octuptarra_Tri_Droid">Octuptarra Tri-Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Octuptarra_Tri_Droid">Octuptarra Tri-Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Single_Trooper_Aerial_Platform">Single Trooper Aerial Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Single_Trooper_Aerial_Platform">Single Trooper Aerial Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Single_Trooper_Aerial_Platform">Single Trooper Aerial Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Single_Trooper_Aerial_Platform">Single Trooper Aerial Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Trade_Franchise">Trade Franchise (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Trade_Franchise">Trade Franchise (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Trade_Franchise">Trade Franchise (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_B2_Super_Battle_Droid">B2 Super Battle Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_B2_Super_Battle_Droid">B2 Super Battle Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_B2_Super_Battle_Droid">B2 Super Battle Droid (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Surrounded_by_Droids">Surrounded by Droids (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Surrounded_by_Droids">Surrounded by Droids (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Surrounded_by_Droids">Surrounded by Droids (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_General_Grievous_C">General Grievous (C) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_General_Grievous_C">General Grievous (C) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_General_Grievous_C">General Grievous (C) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Scarab-Class_Droid_Starfighter">Scarab-Class Droid Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Scarab-Class_Droid_Starfighter">Scarab-Class Droid Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Scarab-Class_Droid_Starfighter">Scarab-Class Droid Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Scarab-Class_Droid_Starfighter">Scarab-Class Droid Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_A_Gift">A Gift (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_A_Gift">A Gift (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droideka_JA-11-08">Droideka JA-11-08 (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droideka_JA-11-08">Droideka JA-11-08 (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Droideka_JA-11-08">Droideka JA-11-08 (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Enhanced_Programming">Enhanced Programming (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Enhanced_Programming">Enhanced Programming (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Enhanced_Programming">Enhanced Programming (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Enhanced_Programming">Enhanced Programming (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Outmaneuvered">Outmaneuvered (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Outmaneuvered">Outmaneuvered (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Fear_Surprise_Intimidation">Fear, Surprise, Intimidation (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Fear_Surprise_Intimidation">Fear, Surprise, Intimidation (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

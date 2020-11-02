@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Rebstarter_Ewok_Militia">Ewok Militia (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Militia">Ewok Militia (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Militia">Ewok Militia (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Militia">Ewok Militia (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Bright_Tree_Village">Bright Tree Village (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Bright_Tree_Village">Bright Tree Village (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Chewbacca_N">Chewbacca (N) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Chewbacca_N">Chewbacca (N) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Chewbacca_N">Chewbacca (N) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Chewbacca_s_Bowcaster_A">Chewbacca&apos;s Bowcaster (Starter) (A)</name><set>START</set></card>
+		<card><name id="Rebstarter_Chewbacca_s_Bowcaster_A">Chewbacca&apos;s Bowcaster (Starter) (A)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Trap">Ewok Trap (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Trap">Ewok Trap (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Scout_Leader">Ewok Scout Leader (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Scout_Leader">Ewok Scout Leader (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Scout_Leader">Ewok Scout Leader (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Tribesman">Ewok Tribesman (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Tribesman">Ewok Tribesman (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Tribesman">Ewok Tribesman (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Warrior">Ewok Warrior (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Warrior">Ewok Warrior (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Warrior">Ewok Warrior (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spear">Ewok Spear (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spear">Ewok Spear (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spear">Ewok Spear (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spear">Ewok Spear (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spearmen">Ewok Spearmen (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spearmen">Ewok Spearmen (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spearmen">Ewok Spearmen (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Ewok_Spearmen">Ewok Spearmen (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Part_of_the_Tribe">Part of the Tribe (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Part_of_the_Tribe">Part of the Tribe (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Red_Squadron_A">Red Squadron (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Red_Squadron_A">Red Squadron (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Blue_Squadron_B-wing">Blue Squadron B-wing (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Blue_Squadron_B-wing">Blue Squadron B-wing (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Blue_Squadron_B-wing">Blue Squadron B-wing (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Blue_Squadron_B-wing">Blue Squadron B-wing (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endor_Battleground">Endor Battleground (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_MC-80_Battleship">MC-80 Battleship (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_MC-80_Battleship">MC-80 Battleship (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Proton_Torpedoes">Proton Torpedoes (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Proton_Torpedoes">Proton Torpedoes (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_RZ-1_A-wing_Interceptor">RZ-1 A-wing Interceptor (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_RZ-1_A-wing_Interceptor">RZ-1 A-wing Interceptor (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_RZ-1_A-wing_Interceptor">RZ-1 A-wing Interceptor (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_RZ-1_A-wing_Interceptor">RZ-1 A-wing Interceptor (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Take_Evasive_Action">Take Evasive Action (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Take_Evasive_Action">Take Evasive Action (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Take_Evasive_Action">Take Evasive Action (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Set_for_Stun">Set for Stun (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Set_for_Stun">Set for Stun (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_T2-B_Repulsor_Tank">T2-B Repulsor Tank (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_T2-B_Repulsor_Tank">T2-B Repulsor Tank (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_T2-B_Repulsor_Tank">T2-B Repulsor Tank (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_T2-B_Repulsor_Tank">T2-B Repulsor Tank (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

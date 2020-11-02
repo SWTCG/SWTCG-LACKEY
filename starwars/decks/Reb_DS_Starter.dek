@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Rebstarter_181st_Imperial_Fighter_Group_A">181st Imperial Fighter Group (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_181st_Imperial_Fighter_Group_A">181st Imperial Fighter Group (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Darth_Vader_s_Lightsaber_A">Darth Vader&apos;s Lightsaber (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Darth_Vader_s_Lightsaber_A">Darth Vader&apos;s Lightsaber (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Darth_Vader_W">Darth Vader (W) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Darth_Vader_W">Darth Vader (W) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Darth_Vader_W">Darth Vader (W) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endangering_the_Mission">Endangering the Mission (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endangering_the_Mission">Endangering the Mission (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tempest_One_A">Tempest One (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tempest_One_A">Tempest One (A) (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tempest_Force_AT-AT">Tempest Force AT-AT (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tempest_Force_AT-AT">Tempest Force AT-AT (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Death_Star_II_Hangar_Bay">Death Star II Hangar Bay (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Death_Star_II_Hangar_Bay">Death Star II Hangar Bay (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endor_Scout_Walker">Endor Scout Walker (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endor_Scout_Walker">Endor Scout Walker (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endor_Scout_Walker">Endor Scout Walker (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endor_Scout_Walker">Endor Scout Walker (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Hunter">TIE Hunter (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Hunter">TIE Hunter (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Hunter">TIE Hunter (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Hunter">TIE Hunter (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Concussion_Missiles">Concussion Missiles (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Concussion_Missiles">Concussion Missiles (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_E-11_Blaster_Carbine">E-11 Blaster Carbine (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_E-11_Blaster_Carbine">E-11 Blaster Carbine (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Endor_Battleground">Endor Battleground (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Imperial_Scout_Bike">Imperial Scout Bike (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Imperial_Scout_Bike">Imperial Scout Bike (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Imperial_Scout_Bike">Imperial Scout Bike (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Imperial_Scout_Bike">Imperial Scout Bike (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Proton_Torpedoes">Proton Torpedoes (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Proton_Torpedoes">Proton Torpedoes (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Stormtrooper_EN-502-07">Stormtrooper EN-502-07 (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Stormtrooper_EN-502-07">Stormtrooper EN-502-07 (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Stormtrooper_EN-502-07">Stormtrooper EN-502-07 (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Death_Squadron_Star_Destroyer">Death Squadron Star Destroyer (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Death_Squadron_Star_Destroyer">Death Squadron Star Destroyer (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Snowtrooper_Officer">Snowtrooper Officer (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Snowtrooper_Officer">Snowtrooper Officer (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Snowtrooper_Officer">Snowtrooper Officer (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_High_Speed_Dodge">High-Speed Dodge (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tarkin_Doctrine">Tarkin Doctrine (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tarkin_Doctrine">Tarkin Doctrine (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Tarkin_Doctrine">Tarkin Doctrine (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Assault_Trooper">Assault Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Assault_Trooper">Assault Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Assault_Trooper">Assault Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Set_for_Stun">Set for Stun (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Set_for_Stun">Set for Stun (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Fighter_Escort">TIE Fighter Escort (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Fighter_Escort">TIE Fighter Escort (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Fighter_Escort">TIE Fighter Escort (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_TIE_Fighter_Escort">TIE Fighter Escort (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Proving_Allegiance">Proving Allegiance (Starter)</name><set>START</set></card>
+		<card><name id="Rebstarter_Proving_Allegiance">Proving Allegiance (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

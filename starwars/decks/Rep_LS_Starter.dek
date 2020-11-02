@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Repstarter_Obi_Wan_s_Finesse">Obi-Wan&apos;s Finesse (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi_Wan_s_Finesse">Obi-Wan&apos;s Finesse (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Stun_Tank">Stun Tank (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Stun_Tank">Stun Tank (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Stun_Tank">Stun Tank (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Subtram_Caverns">Subtram Caverns (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Subtram_Caverns">Subtram Caverns (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Pile_of_Droids">Pile of Droids (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Pile_of_Droids">Pile of Droids (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Precision">Clone Precision (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Precision">Clone Precision (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Trooper_Detachment">Clone Trooper Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Trooper_Detachment">Clone Trooper Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Trooper_Detachment">Clone Trooper Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Jedi_s_Guidance">Jedi&apos;s Guidance (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Jedi_s_Guidance">Jedi&apos;s Guidance (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Doing_Their_Job">Doing Their Job (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Doing_Their_Job">Doing Their Job (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Doing_Their_Job">Doing Their Job (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Doing_Their_Job">Doing Their Job (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi-Wan_Kenobi_O">Obi-Wan Kenobi (O) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi-Wan_Kenobi_O">Obi-Wan Kenobi (O) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi-Wan_Kenobi_O">Obi-Wan Kenobi (O) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi-Wan_Kenobi_s_Lightsaber_A">Obi-Wan Kenobi&apos;s Lightsaber (A) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi-Wan_Kenobi_s_Lightsaber_A">Obi-Wan Kenobi&apos;s Lightsaber (A) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Obi-Wan_Kenobi_s_Lightsaber_A">Obi-Wan Kenobi&apos;s Lightsaber (A) (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Utapau_Landing_Platform">Utapau Landing Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Utapau_Landing_Platform">Utapau Landing Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Utapau_Landing_Platform">Utapau Landing Platform (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Blaster">Clone Blaster (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Blaster">Clone Blaster (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Blaster">Clone Blaster (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Blaster">Clone Blaster (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Parjai_Trooper">Parjai Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Parjai_Trooper">Parjai Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Parjai_Trooper">Parjai Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Swamp_Speeder">Swamp Speeder (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Swamp_Speeder">Swamp Speeder (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Swamp_Speeder">Swamp Speeder (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter_Squadron">V-19 Starfighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter_Squadron">V-19 Starfighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter_Squadron">V-19 Starfighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter_Squadron">V-19 Starfighter Squadron (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter">V-19 Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter">V-19 Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter">V-19 Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_V-19_Starfighter">V-19 Starfighter (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_ARC_Trooper">ARC Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_ARC_Trooper">ARC Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_ARC_Trooper">ARC Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Footsoldier">Clone Footsoldier (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Footsoldier">Clone Footsoldier (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Footsoldier">Clone Footsoldier (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Assault_Team">Clone Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Assault_Team">Clone Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Assault_Team">Clone Assault Team (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Starfighter_Wing">Clone Starfighter Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Starfighter_Wing">Clone Starfighter Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Starfighter_Wing">Clone Starfighter Wing (Starter)</name><set>START</set></card>
+		<card><name id="Repstarter_Clone_Starfighter_Wing">Clone Starfighter Wing (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

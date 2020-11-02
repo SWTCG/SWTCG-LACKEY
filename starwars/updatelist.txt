@@ -1,0 +1,44 @@
+starwars	10-10-15
+plugins/starwars/plugininfo.txt	http://www.lackeyccg.com/starwars/plugininfo.txt	458980
+plugins/starwars/ListOfCardDataFiles.txt	http://www.lackeyccg.com/starwars/ListOfCardDataFiles.txt	8457
+plugins/starwars/formats.txt	http://www.lackeyccg.com/starwars/formats.txt	135980
+plugins/starwars/packs/packdefinitions.xml	http://www.lackeyccg.com/starwars/packs/packdefinitions.xml	1084079
+plugins/starwars/packs/smug.jpg	http://www.lackeyccg.com/starwars/packs/smug.jpg	-4690
+plugins/starwars/packs/ras.jpg	http://www.lackeyccg.com/starwars/packs/ras.jpg	974698
+plugins/starwars/packs/pm.jpg	http://www.lackeyccg.com/starwars/packs/pm.jpg	960144
+plugins/starwars/packs/boy.jpg	http://www.lackeyccg.com/starwars/packs/boy.jpg	1004135
+plugins/starwars/packs/aotc.jpg	http://www.lackeyccg.com/starwars/packs/aotc.jpg	1028437
+plugins/starwars/packs/jg.jpg	http://www.lackeyccg.com/starwars/packs/jg.jpg	-12412
+plugins/starwars/packs/esb.jpg	http://www.lackeyccg.com/starwars/packs/esb.jpg	973886
+plugins/starwars/packs/sr.jpg	http://www.lackeyccg.com/starwars/packs/sr.jpg	1016518
+plugins/starwars/packs/rots.jpg	http://www.lackeyccg.com/starwars/packs/rots.jpg	-14189
+plugins/starwars/packs/rotj.jpg	http://www.lackeyccg.com/starwars/packs/rotj.jpg	954083
+plugins/starwars/packs/anh.jpg	http://www.lackeyccg.com/starwars/packs/anh.jpg	1012523
+plugins/starwars/packs/fotr.jpg	http://www.lackeyccg.com/starwars/packs/fotr.jpg	-13869
+plugins/starwars/packs/sav.jpg	http://www.lackeyccg.com/starwars/packs/sav.jpg	-1972
+plugins/starwars/packs/boe.jpg	http://www.lackeyccg.com/starwars/packs/boe.jpg	175111
+plugins/starwars/packs/raw.jpg	http://www.lackeyccg.com/starwars/packs/raw.jpg	209487
+plugins/starwars/packs/ion.jpg	http://www.lackeyccg.com/starwars/packs/ion.jpg	-6097
+plugins/starwars/packs/boh.jpg	http://www.lackeyccg.com/starwars/packs/boh.jpg	665
+plugins/starwars/packs/bh.jpg	http://www.lackeyccg.com/starwars/packs/bh.jpg	-22134
+plugins/starwars/packs/mand.jpg	http://www.lackeyccg.com/starwars/packs/mand.jpg	-51488
+plugins/starwars/packs/sith.jpg	http://www.lackeyccg.com/starwars/packs/sith.jpg	223837
+plugins/starwars/packs/jedi.jpg	http://www.lackeyccg.com/starwars/packs/jedi.jpg	22968
+plugins/starwars/packs/ro2.jpg	http://www.lackeyccg.com/starwars/packs/ro2.jpg	187771
+plugins/starwars/packs/cwso.jpg	http://www.lackeyccg.com/starwars/packs/cwso.jpg	616536
+plugins/starwars/bot.jpg	http://www.lackeyccg.com/starwars/bot.jpg	4977
+plugins/starwars/sets/AllSets.txt	http://www.lackeyccg.com/starwars/AllSets.txt	56279300
+plugins/starwars/defaultchat.txt	http://www.lackeyccg.com/starwars/defaultchat.txt	11725
+plugins/starwars/images/Phase6.jpg	http://www.lackeyccg.com/starwars/images/Phase6.jpg	-3588
+plugins/starwars/sounds/Phase6.wav	http://www.lackeyccg.com/starwars/sounds/Phase6.wav	6192
+plugins/starwars/sounds/chat/chatconfig.txt	http://www.lackeyccg.com/starwars/sounds/chat/chatconfig.txt	11135
+plugins/starwars/sounds/chat/ability.wav	http://www.lackeyccg.com/starwars/sounds/chat/ability.wav	-16488
+plugins/starwars/sounds/chat/deflect.wav	http://www.lackeyccg.com/starwars/sounds/chat/deflect.wav	-11694
+plugins/starwars/sounds/chat/evade.wav	http://www.lackeyccg.com/starwars/sounds/chat/evade.wav	-18672
+plugins/starwars/sounds/chat/intercept.wav	http://www.lackeyccg.com/starwars/sounds/chat/intercept.wav	-16545
+plugins/starwars/sounds/chat/retaliate.wav	http://www.lackeyccg.com/starwars/sounds/chat/retaliate.wav	-38635
+plugins/starwars/version.txt	http://www.lackeyccg.com/starwars/high/version.txt	22701
+plugins/starwars/cardback.jpg	http://www.lackeyccg.com/starwars/high/cardback.jpg	-26419
+plugins/starwars/spawned.jpg	http://www.lackeyccg.com/starwars/high/spawned.jpg	-36423
+CardGeneralURLs:
+http://www.lackeyccg.com/starwars/high/

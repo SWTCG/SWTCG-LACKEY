@@ -1,0 +1,96 @@
+<plugin>
+<pluginversion>2.0</pluginversion>
+
+<pluginname>starwars</pluginname>
+
+<playerstat><label>Force</label></playerstat>
+<playerstat><label>Build</label></playerstat>
+
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+	<gamezonetoloadto>Deck</gamezonetoloadto>
+</deckzone>
+
+<deckzone>
+	<label>Supply</label>
+	<zonetoloadto>4</zonetoloadto>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Removed</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Supply</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<phase><label>Untap/Force/Build</label></phase>
+<phase><label>Draw/Build:Dark</label></phase>
+<phase><label>Draw/Build:Light</label></phase>
+<phase><label>Retreat:Dark</label></phase>
+<phase><label>Retreat:Light</label></phase>
+<phase><label>Battle:Space</label></phase>
+<phase><label>Battle:Ground</label></phase>
+<phase><label>Battle:Character</label></phase>
+<phase><label>End</label></phase>
+
+<generalfunction><label>Untap All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction>
+   <label>Draw to Table</label>
+   <kind>TRANSFERCARD</kind>
+   <sourceowner>performer</sourceowner>
+   <sourcegamezone>Deck</sourcegamezone>
+   <sourceposition>top</sourceposition>
+   <destinationowner>table</destinationowner>
+   <destinationposition>faceup</destinationposition>
+   <includeasbutton>no</includeasbutton>
+</generalfunction>
+<generalfunction><label>Roll D6</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Roll D20</label><kind>ROLLD20</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Tap All</label><kind>ALLYOURCARDSMAKERIGHT90DEGREES</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction>
+	<label>Mill</label><kind>TRANSFERCARD</kind><includeasbutton>yes</includeasbutton>
+	<sourceowner>performer</sourceowner><sourcezone>Deck</sourcezone><sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner><destinationgamezone>Discard</destinationgamezone><destinationposition>top</destinationposition>
+</generalfunction>
+
+<cardfunction><label>Untap</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Tap</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Build -1</label><kind>REMOVECOUNTERGREEN</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Build +1</label><kind>ADDCOUNTERGREEN</kind><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Damage -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Damage +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Turn Over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Doesn't Untap</label><kind>TOGGLETURNALLIMMUNITY</kind><includeasbutton>no</includeasbutton></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>no</includeasbutton></cardfunction>
+<cardfunction><label>Hover</label><kind>HOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+</plugin>

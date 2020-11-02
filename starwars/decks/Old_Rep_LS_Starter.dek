@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Oldrepstarter_Dueling_Ambitions">Dueling Ambitions (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Dueling_Ambitions">Dueling Ambitions (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Dueling_Ambitions">Dueling Ambitions (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Dantooine_Enclave">Dantooine Enclave (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Dantooine_Enclave">Dantooine Enclave (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Double_Bladed_Lightsaber">Double-Bladed Lightsaber (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Double_Bladed_Lightsaber">Double-Bladed Lightsaber (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Meetra_Surik_A">Meetra Surik (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Meetra_Surik_A">Meetra Surik (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Aurek_Class_Strikefighter">Aurek-Class Strikefigher (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Aurek_Class_Strikefighter">Aurek-Class Strikefigher (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Aurek_Class_Strikefighter">Aurek-Class Strikefigher (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Aurek_Class_Strikefighter">Aurek-Class Strikefigher (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Speeder_Bike">Jedi Speeder Bike (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Speeder_Bike">Jedi Speeder Bike (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Mical_A">Mical (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Mical_A">Mical (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Encampment">Jedi Encampment (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Encampment">Jedi Encampment (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Valenthyne_Farfalla_A">Valenthyne Farfalla (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Valenthyne_Farfalla_A">Valenthyne Farfalla (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Fairwind_B">Fairwind (B) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Fairwind_B">Fairwind (B) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Airhooks">Jedi Airhooks (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Airhooks">Jedi Airhooks (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Airhooks">Jedi Airhooks (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Airhooks">Jedi Airhooks (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Battle_Veterans">Jedi Battle Veterans (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Battle_Veterans">Jedi Battle Veterans (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Battle_Veterans">Jedi Battle Veterans (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Battle_Veterans">Jedi Battle Veterans (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Gunship">Jedi Gunship (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Gunship">Jedi Gunship (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Call_for_Aid">Call for Aid (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Call_for_Aid">Call for Aid (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Hammerhead_IV_Class_Cruiser">Hammerhead IV-Class Cruiser Starter</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Hammerhead_IV_Class_Cruiser">Hammerhead IV-Class Cruiser Starter</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Defender">Jedi Defender (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Defender">Jedi Defender (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Defender">Jedi Defender (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Defender">Jedi Defender (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Ancient_Coruscant">Ancient Coruscant (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Ancient_Coruscant">Ancient Coruscant (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Starbreaker_12_A">Starbreaker 12 (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Starbreaker_12_A">Starbreaker 12 (A) (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Guardian">Jedi Guardian (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Jedi_Guardian">Jedi Guardian (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Foray_Class_Blockade_Runner">Foray-Class Blockade Runner (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Foray_Class_Blockade_Runner">Foray-Class Blockade Runner (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Old_Republic_Defense_Squad">Old Republic Defense Squad (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Old_Republic_Defense_Squad">Old Republic Defense Squad (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Old_Republic_Defense_Squad">Old Republic Defense Squad (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Old_Republic_Trooper">Old Republic Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Old_Republic_Trooper">Old Republic Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Old_Republic_Trooper">Old Republic Trooper (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Tython_System">Tython System (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Force_Evasion">Force Evasion (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Force_Evasion">Force Evasion (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Force_Evasion">Force Evasion (Starter)</name><set>START</set></card>
+		<card><name id="Oldrepstarter_Force_Evasion">Force Evasion (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

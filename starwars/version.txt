@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>190101</lastupdateYYMMDD>
+<quality>high</quality>
+<versionurl>http://www.lackeyccg.com/starwars/high/version.txt</versionurl>
+<updateurl>http://www.lackeyccg.com/starwars/high/updatelist.txt</updateurl>
+
+</version>

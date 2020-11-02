@@ -1,0 +1,5 @@
+"ability.wav":"*ability*"
+"intercept.wav":"*intercept*"
+"retaliate.wav":"*retaliate*"
+"evade.wav":"*evade*"
+"deflect.wav":"*deflect*"

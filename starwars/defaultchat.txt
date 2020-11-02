@@ -1,0 +1,16 @@
+Play or Pass?
+Pass.
+Proceed.
+Thinking...
+Using ability...
+Intercept!
+Retaliate!
+Evade!
+Deflect!
+/draw7
+/roll2
+/roll3
+/roll4
+/roll5
+/roll6
+/roll7

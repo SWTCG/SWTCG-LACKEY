@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Resstarter_Finn_s_Ski_Speeder_A">Finn&apos;s Ski Speeder (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Finn_s_Ski_Speeder_A">Finn&apos;s Ski Speeder (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Finn_E">Finn (E) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Finn_E">Finn (E) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Finn_D">Finn (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rose_Tico_E">Rose Tico (E) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rose_Tico_E">Rose Tico (E) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Troopers">Crait Base Troopers (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Troopers">Crait Base Troopers (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Troopers">Crait Base Troopers (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Troopers">Crait Base Troopers (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Detachment">Crait Base Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Detachment">Crait Base Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crait_Base_Detachment">Crait Base Detachment (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Luke_s_Illusion_A">Luke&apos;s Illusion (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Luke_s_Illusion_A">Luke&apos;s Illusion (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Nodin_s_Ski_Speeder_A">Nodin&apos;s Ski Speeder (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Nodin_s_Ski_Speeder_A">Nodin&apos;s Ski Speeder (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Resistance_Heroes_C">Resistance Heroes (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Resistance_Heroes_C">Resistance Heroes (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Resistance_Trench_Defenders">Resistance Trench Defenders (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Resistance_Trench_Defenders">Resistance Trench Defenders (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Sergeant_Salty_Sharp_A">Sergeant &quot;Salty&quot; Sharp (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Sergeant_Salty_Sharp_A">Sergeant &quot;Salty&quot; Sharp (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Vigil_B">Vigil (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Vigil_B">Vigil (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Poe_Dameron_C">Poe Dameron (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Poe_Dameron_C">Poe Dameron (C) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Poe_Dameron_s_Jacket_A">Poe Dameron&apos;s Jacket (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Poe_Dameron_s_Jacket_A">Poe Dameron&apos;s Jacket (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Poe_s_Starfighter_D">Poe&apos;s Starfighter (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Poe_s_Starfighter_D">Poe&apos;s Starfighter (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rey_B">Rey (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rey_B">Rey (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rey_B">Rey (B) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rey_D">Rey (D) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rey_F">Rey (F) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rey_F">Rey (F) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_D_Qar_Starfighter_Base">D&apos;Qar Starfighter Base (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_D_Qar_Starfighter_Base">D&apos;Qar Starfighter Base (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_T_70_X_wing_Scout">T-70 X-Wing Scout (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_T_70_X_wing_Scout">T-70 X-Wing Scout (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_T_70_X_wing_Scout">T-70 X-Wing Scout (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_T_70_X_wing_Scout">T-70 X-Wing Scout (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Cobalt_Squadron_A">Cobalt Squadron (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Cobalt_Squadron_A">Cobalt Squadron (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crimson_Squadron_A">Crimson Squadron (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Crimson_Squadron_A">Crimson Squadron (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Unbalanced">Unbalanced (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Unbalanced">Unbalanced (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rebel_Insignia_Ring">Rebel Insignia Ring (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Rebel_Insignia_Ring">Rebel Insignia Ring (Starter)</name><set>START</set></card>
+		<card><name id="Resstarterpromo_Force_Flip">Force Flip (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarterpromo_Force_Flip">Force Flip (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarterpromo_Force_Flip">Force Flip (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarterpromo_Force_Flip">Force Flip (Promo) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Anodyne_A">Anodyne (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_Anodyne_A">Anodyne (A) (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_It_s_Nice_That_Way">It&apos;s Nice That Way (Starter)</name><set>START</set></card>
+		<card><name id="Resstarter_It_s_Nice_That_Way">It&apos;s Nice That Way (Starter)</name><set>START</set></card>
+	</superzone>
+</deck>

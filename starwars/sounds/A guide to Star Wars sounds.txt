@@ -1,0 +1,37 @@
+Install Instructions:
+To install the Star Wars sounds, extract the sounds folder in this zip file to the following folder:
+LackeyCCG-> plugins -> starwars. A message may pop up asking you to merge the folders. 
+Click "Yes," and you are all set!
+
+Here are the included sounds:
+
+opening Lackey program welcome – R2-D2 beeps
+
+Messages to type into chat bar at bottom of screen - generates a Star Wars quote
+:(  -  "Oh no..." -C-3PO
+hi/hey/hello - "Hello there." -Obi-Wan
+bye/goodbye - "Goodbye old friend, and may the Force be with you." -Obi-Wan
+attack - blaster fire
+are you done?/done? -  "Anything else?" -Kylo Ren
+are you ready?/ready? - "Ready are you?" -Yoda
+done -  "I am ready!" -Luke Skywalker
+end of turn - "This party's over." -Mace Windu
+go ahead/proceed - "The time has come!" -Emperor Palpatine
+good game/gg - "You have fought gallantly...worthy of recognition in the Archives of the Jedi Order." -Darth Tyranus
+heads - "I am not signing your treaty until I have her head on my desk." -Nute Gunray
+in response - "In response..." -Jar Jar Binks
+lol/haha - "hohoho..." -Jabba the Hutt & Salacious Crumb
+mulligan - "Will somebody get this big walking carpet out of my way?" -Princess Leia
+no/noooooo - "Nooooooooo!" -Darth Vader
+ok - BB8 beep
+pass - "Pass on..." -Yoda
+pop - lightsaber ignition
+shucks/dang/damn - "Poodoo!" -Sebulba
+tails - "I call it aggressive negotiations." -Padmé Amidala
+thinking -Yoda thinking
+uhoh - "I got a bad feeling about this..." -Han Solo
+wait - "...be with me...be with me..." -Rey
+wow - The Millennium Falcon arrives, Chewbacca roars
+wtf - "No...no...that's not true...that's impossible!" -Luke Skywalker
+yay - "Yipee!" -Anakin Skywalker
+yes - "Yes..." -Emperor Palpatine
