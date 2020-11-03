@@ -6,6 +6,7 @@ plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListO
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	251314
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	11725
 plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	27965
+plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	25378
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -102,5 +103,5 @@ plugins/starwars/sounds/chat/deflect.wav	https://lackey.swtcg.com/starwars/sound
 plugins/starwars/sounds/chat/evade.wav	https://lackey.swtcg.com/starwars/sounds/chat/evade.wav	-18672
 plugins/starwars/sounds/chat/intercept.wav	https://lackey.swtcg.com/starwars/sounds/chat/intercept.wav	-16545
 plugins/starwars/sounds/chat/retaliate.wav	https://lackey.swtcg.com/starwars/sounds/chat/retaliate.wav	-38635
-CardGeneralURLs:
-https://lackey.swtcg.com/starwars/sets/setimages/
+CardURLFiles:
+CardImageURLs1.txt
