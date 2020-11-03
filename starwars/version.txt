@@ -1,8 +1,9 @@
 <version>
 
 <lastupdateYYMMDD>201103</lastupdateYYMMDD>
-<quality>HIGH</quality>
+
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
+<message>I made some changes... woot woot!</message>
 
 </version>
