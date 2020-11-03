@@ -1,12 +1,12 @@
 starwars	11-03-20
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	459272
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	326128
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	459273
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	324513
 plugins/starwars/recentdecks.txt	https://lackey.swtcg.com/starwars/recentdecks.txt	27262
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	8457
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	251314
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	11725
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	27965
-plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	25378
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	19531
+plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	93275751
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -66,7 +66,7 @@ plugins/starwars/packs/TLJ.jpg	https://lackey.swtcg.com/starwars/packs/TLJ.jpg	1
 plugins/starwars/packs/tor.jpg	https://lackey.swtcg.com/starwars/packs/tor.jpg	629528
 plugins/starwars/packs/tuf.jpg	https://lackey.swtcg.com/starwars/packs/tuf.jpg	564541
 plugins/starwars/packs/VP.jpg	https://lackey.swtcg.com/starwars/packs/VP.jpg	529453
-plugins/starwars/sets/AllSets.txt	https://lackey.swtcg.com/starwars/sets/AllSets.txt	59409581
+plugins/starwars/sets/AllSets.txt	https://lackey.swtcg.com/starwars/sets/AllSets.txt	59406993
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://lackey.swtcg.com/starwars/sounds/attack.wav	-280414
 plugins/starwars/sounds/bye.wav	https://lackey.swtcg.com/starwars/sounds/bye.wav	-284320
