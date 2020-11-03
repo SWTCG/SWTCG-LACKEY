@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>201102</lastupdateYYMMDD>
+<lastupdateYYMMDD>201103</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://swtcg.com/lackey/starwars/version.txt</versionurl>
-<updateurl>https://swtcg.com/lackey/starwars/updatelist.txt</updateurl>
+<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
+<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
 
 </version>
