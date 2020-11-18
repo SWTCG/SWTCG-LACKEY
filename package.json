@@ -1,0 +1,27 @@
+{
+  "name": "swtcg-lackey-plugin",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "/starwars/updatelist.txt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWTCG/SWTCG-LACKEY.git"
+  },
+  "keywords": [
+    "lackey",
+    "starwars",
+    "swtcg"
+  ],
+  "author": "SWTCG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWTCG/SWTCG-LACKEY/issues"
+  },
+  "homepage": "https://github.com/SWTCG/SWTCG-LACKEY#readme"
+}
