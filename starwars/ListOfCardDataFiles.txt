@@ -1,5 +1,11 @@
 <listofcarddatafiles>
 
+<filetoinclude>ANH.txt</filetoinclude>
+<filetoinclude>AOTC.txt</filetoinclude>
+<filetoinclude>BH.txt</filetoinclude>
+<filetoinclude>BOE.txt</filetoinclude>
+<filetoinclude>BOH.txt</filetoinclude>
+<filetoinclude>BOY.txt</filetoinclude>
 <filetoinclude>AllSets.txt</filetoinclude>
 
 </listofcarddatafiles>
