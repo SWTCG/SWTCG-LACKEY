@@ -73,6 +73,14 @@ plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	59406
 plugins/starwars/sets/BOE.txt	https://lackey.swtcg.com/starwars/sets/BOE.txt	59406997
 plugins/starwars/sets/BOH.txt	https://lackey.swtcg.com/starwars/sets/BOH.txt	59406998
 plugins/starwars/sets/BOY.txt	https://lackey.swtcg.com/starwars/sets/BOY.txt	59406999
+plugins/starwars/sets/ESB.txt	https://lackey.swtcg.com/starwars/sets/ESB.txt	59407000
+plugins/starwars/sets/FOTR.txt	https://lackey.swtcg.com/starwars/sets/FOTR.txt	59407001
+plugins/starwars/sets/ION.txt	https://lackey.swtcg.com/starwars/sets/ION.txt	59407002
+plugins/starwars/sets/JG.txt	https://lackey.swtcg.com/starwars/sets/JG.txt	59407003
+plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	59407004
+plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	59407005
+plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	59407006
+plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	59407007
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://lackey.swtcg.com/starwars/sounds/attack.wav	-280414
 plugins/starwars/sounds/bye.wav	https://lackey.swtcg.com/starwars/sounds/bye.wav	-284320

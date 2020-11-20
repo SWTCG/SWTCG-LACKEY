@@ -6,6 +6,14 @@
 <filetoinclude>BOE.txt</filetoinclude>
 <filetoinclude>BOH.txt</filetoinclude>
 <filetoinclude>BOY.txt</filetoinclude>
+<filetoinclude>ESB.txt</filetoinclude>
+<filetoinclude>FOTR.txt</filetoinclude>
+<filetoinclude>ION.txt</filetoinclude>
+<filetoinclude>JG.txt</filetoinclude>
+<filetoinclude>MAND.txt</filetoinclude>
+<filetoinclude>PM.txt</filetoinclude>
+<filetoinclude>RAS.txt</filetoinclude>
+<filetoinclude>RAW.txt</filetoinclude>
 <filetoinclude>AllSets.txt</filetoinclude>
 
 </listofcarddatafiles>
