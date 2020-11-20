@@ -17,5 +17,11 @@ There are two ways to install this plugin. You can either use the autoupdate url
 
 ### METHOD 1: AUTOUPDATE URL ###
 
+[![Website](https://img.shields.io/website?down_color=red&down_message=Inactive&label=Autoupdate%20URL&style=flat-square&up_color=green&up_message=Active&url=https%3A%2F%2Flackey.swtcg.com%2Fstarwars%2Fupdatelist.txt)](https://lackey.swtcg.com/starwars/updatelist.txt)
 
+[Lackey Plugin Settings](/images/lackey.png)
+
+The preferred method of installing the swtcg plugin is to use the autoupdate url. <https://lackey.swtcg.com/starwars/updatelist.txt>
+
+All you have to do is open LackeyCCG, navigate to the plugins tab, paste the above url into the text box between the "Paste AutoUpdate URL:" and "Install or Update from URL!" buttons and then finally, click the "Install or Update from URL!" button.
 
