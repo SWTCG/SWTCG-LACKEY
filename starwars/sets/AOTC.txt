@@ -51,7 +51,7 @@ Taun We (A)	AOTC	Taun_We_A	N	Character	Kaminoan Diplomat	2	20	2	3	R	49		As long 
 Trade Federation Battleship Core	AOTC	Trade_Federation_Battleship_Core	D	Ground	Trade Federation Fortification	9	10	10	12	R	50			
 Tyranus's Edict	AOTC	Tyranuss_Edict	D	Mission		3				R	51	Tyranus's Edict is compatible with Han Enchained.	Choose one of your units. As long as that unit is in an arena, your other units in that arena can't be attacked this turn.	
 Tyranus's Geonosian Speeder (A)	AOTC	Tyranuss_Geonosian_Speeder_A	D	Ground	Geonosian Speeder	6	40	2	1	R	52		[tap] -> Search your deck. You may take a Battle card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during your build step.	
-Tyranus's Solar Sailer (A)	AOTC	Tyranuss_Solar_Sailer_A	D	Space	Geonosian Starfighter	4	60	2	2	R	53		Critical Hit 2 | When it's attack ends, you may retreat Tyranus's Solar Sailer.	
+Tyranus's Solar Sailer (A)	AOTC	Tyranuss_Solar_Sailer_A	D	Space	Geonosian Starfighter	4	60	2	2	R	53		Critical Hit 2 | When its attack ends, you may retreat Tyranus's Solar Sailer.	
 Tyranus's Wrath	AOTC	Tyranuss_Wrath	D	Battle						R	54		Pay 8 Force -> the attacking unit gets +7 power for this attack.	
 War Will Follow	AOTC	War_Will_Follow	D	Battle						R	55	Text erratum	Pay 3 Force -> Choose a Space unit in your opponent's build zone. Put that unit into the Space arena. If it's tapped, untap it.	
 Ward of the Jedi	AOTC	Ward_of_the_Jedi	L	Battle						R	56		Pay 4 Force -> Choose one of your units. That unit can't be attacked this turn as long as you have any other units in the same arena.	
