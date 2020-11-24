@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>201103</lastupdateYYMMDD>
+<lastupdateYYMMDD>201123</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>I made some changes... woot woot!</message>
+<message>Fixed some card bugs and broke AllSets.txt into multiple files.</message>
 
 </version>

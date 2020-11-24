@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	
 Annihilator-Class Starfighter	SITH	Annihilator_Class_Starfighter	D	Space	Dark Jedi - Sith Starfighter	4	50	3	3	U	26		As long as Darth Krayt is in the Character arena, damage from this unit can't be prevented. | Pay 1 Force -> Retaliate 2	
 Centurion-Class Battlecruiser	SITH	Centurion_Class_Battlecruiser	D	Space	Dark Jedi - Sith Capital Ship	5	30	5	4	C	51		Discard a Sith unit from your hand -> Retaliate 4	
 Cult of the Dead	SITH	Cult_of_the_Dead	D	Resource		4				C	52		When your build step starts, if you have a Sith card in your discard pile, put 2 counters on this card. | Remove 1 counter -> Choose one of your Sith units. That unit's activated abilities that costs 2 or more Force costs 1 less Force to play until end of turn. | Remove 6 counters -> Each of your Sith's activated abilities that costs 2 or more Force costs 1 less Force to use until end of turn.	

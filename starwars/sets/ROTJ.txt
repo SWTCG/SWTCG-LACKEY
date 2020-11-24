@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	
 Admiral Ackbar (A)	ROTJ	Admiral_Ackbar_A	L	Character	Rebel Mon Calamari Officer	8	20	2	5	R	1		Each of your Rebel Space units gets +3 power.	
 Anakin Skywalker (K)	ROTJ	Anakin_Skywalker_K	L	Character	Jedi Master	6	20	2	6	R	2		Pay 2 Force -> Evade 2 | When Anakin is discarded from the Character arena, gain 6 Force.	
 Anakin's Spirit (A)	ROTJ	Anakins_Spirit_A	L	Character	Jedi Spirit	4	30	0	2	R	3	Text erratum in the last ability. | You may have Anakin's Spirit in the arena at the same time as Anakin Skywalker or Darth Vader. They do not stack or contest. | Anakin's Spirit still counts as a unit and may be targeted by effects that target units. | You may have either Princess Leia or Luke Skywalker in the arena. You don't need both to get the Force gain.	Anakin's Spirit doesn't count toward controlling the Character arena. | Prevent all damage to and done by Anakin's Spirit. | When your build step starts, if you have Luke Skywalker or Princess Leia in the Character arena, gain 2 Force.	

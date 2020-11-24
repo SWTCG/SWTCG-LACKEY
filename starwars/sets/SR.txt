@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	
 Aayla Secura (A)	SR	SR001_Aayla_Secura_A	L	Character	Twi'lek Jedi Knight	4	60	3	3	R	1		Pay 3 Force -> Evade 2 | When the battle phase starts, if Aayla is in the Character arena, remove all damage counters from her.	
 Anakin Skywalker (E)	SR	SR002_Anakin_Skywalker_E	L	Character	Jedi Padawan	6	50	6	4	R	2		When Anakin attacks, you may give him +5 power for that attack. If you do, when the attack ends, Anakin does 2 damage to himself. | Pay 3 force -> Evade 2	
 Aurra Sing (A)	SR	SR003_Aurra_Sing_A	D	Character	Bounty Hunter	6	50	5	5	R	3	Text erratum	Treat Aurra as a Dark Jedi. | When damage from Aurra causes a Jedi to be discarded, untap Aurra. | Pay 2 force -> Deflect 1	
