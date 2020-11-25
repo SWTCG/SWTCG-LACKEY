@@ -50,6 +50,8 @@ Thumbs.db
 
 *.json
 *.sqlite
+*.suo
+*.vs.json
 
-.vs/
-v16/
+.vs/*
+v16/*
