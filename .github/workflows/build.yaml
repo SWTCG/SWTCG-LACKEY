@@ -1,0 +1,48 @@
+name: Plugin Builder
+on:
+  pull:
+    branches:
+      - build
+jobs:
+  tsvtotxt:
+    name: TSV to TXT
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Copy and Rename TSV Files
+      run: |
+        for i in `find ./src/ -type f -name "*.tsv"`;
+        do
+          sname="$i"
+          sname="${sname/.\/src\//.\/starwars\/}"
+          sname="${sname/.tsv/.txt}"
+          cp $i $sname
+          echo "Copied file $i to $sname"
+        done
+  xmltotxt:
+    name: XML to TXT
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Copy and Rename XML Files
+      run: |
+        for i in `find ./src/ -type f -name "*.xml"`;
+        do
+          sname="$i"
+          sname="${sname/.\/src\//.\/starwars\/}"
+          sname="${sname/.xml/.txt}"
+          cp $i $sname
+          echo "Copied file $i to $sname"
+        done
+  commitandpush:
+    name: Git stuff
+    needs: [tsvtotxt, xmltotxt]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Commit and push built files to build branch
+      run: |
+        git config --global user.name "MatthewLarson"
+        git config --global user.email "larson.matt.b@gmail.com"
+        git add --all
+        git commit -m "ACTION: Generated starwars/.txt files."
+        git push
