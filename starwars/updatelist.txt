@@ -111,6 +111,7 @@ plugins/starwars/sets/TLJ.txt	https://lackey.swtcg.com/starwars/sets/TLJ.txt	595
 plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	3128106
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3397248
 plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	4990344
+plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt	1235654
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://lackey.swtcg.com/starwars/sounds/attack.wav	-280414
 plugins/starwars/sounds/bye.wav	https://lackey.swtcg.com/starwars/sounds/bye.wav	-284320
