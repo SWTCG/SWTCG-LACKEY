@@ -1,1 +1,0 @@
-Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	

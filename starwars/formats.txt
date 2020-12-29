@@ -1,10 +1,23 @@
 <formatdefinitions>
+<format>
+<label>Promotional Cards</label>
+<set>PROMO</set>
+</format>
+
+<format>
+<label>Knights and Exiles</label>
+<set>KAE</set>
+</format>
+
+<format>
+<label>Starter Cards</label>
+<set>START</set>
+</format>
 
 <format>
 <label>Solo</label>
 <set>SOLO</set>
 </format>
-
 
 <format>
 <label>Battle of Crait</label>

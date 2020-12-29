@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>201124</lastupdateYYMMDD>
+<lastupdateYYMMDD>201229</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Fixed some card bugs and broke AllSets.txt into multiple files.</message>
+<message>Added PROMO and KAE sets. Fixed START set. Fixed various bugs. Added new counters.</message>
 
 </version>

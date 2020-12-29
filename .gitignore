@@ -48,3 +48,10 @@ Thumbs.db
 *.mov
 *.wmv
 
+*.json
+*.sqlite
+*.suo
+*.vs.json
+
+.vs/*
+v16/*
