@@ -21,8 +21,10 @@
 <filetoinclude>JEDI.txt</filetoinclude>
 <filetoinclude>JG.txt</filetoinclude>
 <filetoinclude>JK.txt</filetoinclude>
+<filetoinclude>KAE.txt</filetoinclude>
 <filetoinclude>MAND.txt</filetoinclude>
 <filetoinclude>PM.txt</filetoinclude>
+<filetoinclude>PROMO.txt</filetoinclude>
 <filetoinclude>RAS.txt</filetoinclude>
 <filetoinclude>RAW.txt</filetoinclude>
 <filetoinclude>RO.txt</filetoinclude>
@@ -37,6 +39,7 @@
 <filetoinclude>SOLO.txt</filetoinclude>
 <filetoinclude>SOR.txt</filetoinclude>
 <filetoinclude>SR.txt</filetoinclude>
+<filetoinclude>START.txt</filetoinclude>
 <filetoinclude>TAL.txt</filetoinclude>
 <filetoinclude>TDT.txt</filetoinclude>
 <filetoinclude>TEN.txt</filetoinclude>
