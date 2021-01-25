@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>201123</dateYYMMDD>
+<dateYYMMDD>210125</dateYYMMDD>
 <removepath>sets/AllSets.txt</removepath>
 
 </uninstall>

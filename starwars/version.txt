@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>201229</lastupdateYYMMDD>
+<lastupdateYYMMDD>210125</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Added PROMO and KAE sets. Fixed START set. Fixed various bugs. Added new counters.</message>
+<message>Added Ultra Cool Tourny Format, added a booster set which pulls from all sets and fixed some bugs.</message>
 
 </version>
