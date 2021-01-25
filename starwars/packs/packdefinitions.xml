@@ -1,5 +1,48 @@
 <packdefinitions version="1.0">
 
+  <pack>
+    <packtitle>All Cards</packtitle>
+    <packimage></packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit>
+      <field>Set</field>
+      <eval>DOESNTCONTAIN</eval>
+      <data>START</data>
+    </packcommoncrit>
+    <packcommoncrit>
+      <field>Set</field>
+      <eval>DOESNTCONTAIN</eval>
+      <data>PROMO</data>
+    </packcommoncrit>
+    <chance>
+      <kind>
+        <qty>1</qty>
+        <crit>
+          <field>Rarity</field>
+          <eval>IS</eval>
+          <data>R</data>
+        </crit>
+      </kind>
+      <kind>
+        <qty>3</qty>
+        <crit>
+          <field>Rarity</field>
+          <eval>IS</eval>
+          <data>U</data>
+        </crit>
+      </kind>
+      <kind>
+        <qty>7</qty>
+        <crit>
+          <field>Rarity</field>
+          <eval>IS</eval>
+          <data>C</data>
+        </crit>
+      </kind>
+    </chance>
+  </pack>
+  
 <pack>
 	<packtitle>Attack Of The Clones</packtitle>
 	<packimage>AOTC</packimage>

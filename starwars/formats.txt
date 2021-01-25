@@ -1,4 +1,14 @@
 <formatdefinitions>
+
+<format>
+<label>Ultra Cool Tourny</label>
+<set>KAE</set>
+<set>RAW</set>
+<set>RO</set>
+<set>BH</set>
+<set>VP</set>
+</format>
+
 <format>
 <label>Promotional Cards</label>
 <set>PROMO</set>
