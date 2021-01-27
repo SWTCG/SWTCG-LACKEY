@@ -103,7 +103,7 @@ Endor Scout Walker (Starter)	START	Rebstarter_Endor_Scout_Walker	D	Ground	Imperi
 Ewok Militia (Starter)	START	Rebstarter_Ewok_Militia	L	Ground	Endor Ewok Army	5	40	4	6	R	22		Whenever you deploy an Ewok unit, this unit gets +1 power until end of turn.	
 Ewok Scout Leader (Starter)	START	Rebstarter_Ewok_Scout_Leader	L	Character	Endor Ewok Warrior	4	50	3	3	U	85		Each of your other Ewoks gets +10 speed and Stun 1.	
 Ewok Spear (Starter)	START	Rebstarter_Ewok_Spear	L	Equipment	Ground/Character	0				C	141		Pay 1 build point -> Equip | Equipped Ewok gets Lucky 2 and Stun 1.
-Ewok Spearmen (Starter)	START	Rebstarter_Ewok_Spearmen	L	Ground	Endor Ewok Squad 	
+Ewok Spearmen (Starter)	START	Rebstarter_Ewok_Spearmen	L	Ground	Endor Ewok Squad	4	30	5	4	C	142		Accuracy 1	
 Ewok Trap (Starter)	START	Rebstarter_Ewok_Trap	L	Battle						U	86		Pay 3 Force -> Each of your Ewoks gets Stun 2 until end of turn.	
 Ewok Tribesman (Starter)	START	Rebstarter_Ewok_Tribesman	L	Character	Endor Ewok Warrior	3	40	3	2	C	144		Critical Hit 2
 Ewok Warrior (Starter)	START	Rebstarter_Ewok_Warrior	L	Character	Endor Ewok Warrior	2	40	1	2	C	145		This unit gets +1 power for each other Ewok in any arena.	

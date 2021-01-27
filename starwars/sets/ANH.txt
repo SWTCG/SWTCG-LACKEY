@@ -23,8 +23,8 @@ IT-0 Interrogator Droid	ANH	IT_0_Interrogator_Droid	D	Character	Imperial Interro
 Jawa Leader	ANH	Jawa_Leader	N	Character	Tatooine Jawa	3	20	3	3	R	22		As long as this unit is in the Character arena, each other Jawa (yours and your opponent's) gets +1 power.	
 Krayt Dragon	ANH	Krayt_Dragon	N	Ground	Tatooine Dragon Creature	9	30	8	7	R	23		When this unit damages another unit and the other unit is discarded, untap this unit.	
 Leia's Kiss	ANH	Leias_Kiss	L	Battle						R	24		Pay 3 Force -> One of your units gets +30 speed and Accuracy 1 until end of turn.	
-Luke Skywalker (A)	ANH	Luke_Skywalker_A	L	Character	Jedi Padawan	5	50	4	4	R	25		Pay 2 Force -> Evade 1 | [tap] -> Search your deck. You may take a Luke Skywalker card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during the build step.	
-Luke Skywalker (B)	ANH	Luke_Skywalker_B	L	Character	Jedi Padawan	4	50	4	3	R	26		Pay 2 Force -> Evade 1 | Pay 2 Force -> Luke gets +20 speed until the end of turn.	
+Luke Skywalker (B)	ANH	Luke_Skywalker_B	L	Character	Jedi Padawan	4	50	4	3	R	25		Pay 2 Force -> Evade 1 | Pay 2 Force -> Luke gets +20 speed until the end of turn.	
+Luke Skywalker (A)	ANH	Luke_Skywalker_A	L	Character	Jedi Padawan	5	50	4	4	R	26		Pay 2 Force -> Evade 1 | [tap] -> Search your deck. You may take a Luke Skywalker card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during the build step.	
 Luke's Speeder (A)	ANH	Lukes_Speeder_A	L	Ground	Tatooine Speeder	3	50	2	2	R	27		Discard Luke's Speeder from the Ground arena -> Show one of your partially built Space unit cards to your opponent. Put 3 build counters on it. Play only during your build step.	
 Luke's X-Wing (A)	ANH	Lukes_X_Wing_A	L	Space	Rebel Starfighter	4	50	3	2	R	28		Accuracy 1 | Shields 1	
 Momaw Nadon (A)	ANH	Momaw_Nadon_A	L	Character	Ithorian Diplomat	4	30	3	5	R	29		As long as Momaw is in the Character arena, each Stormtrooper in that arena gets -20 speed.	
