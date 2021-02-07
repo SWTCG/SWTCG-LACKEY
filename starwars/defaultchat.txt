@@ -1,3 +1,4 @@
+/s BOTH gain 4 Force;/player1 stat1 +4;/player2 stat1 +4
 Play or Pass?
 Pass.
 Proceed.
@@ -13,4 +14,3 @@ Deflect!
 /roll4
 /roll5
 /roll6
-/roll7
