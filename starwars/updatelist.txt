@@ -1,10 +1,10 @@
-starwars	02-07-21
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	671006
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8662
+starwars	02-09-21
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	671008
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8664
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	184971
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	278800
-plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	15656
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	30284
+plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	30286
 plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	72574793
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
@@ -94,7 +94,7 @@ plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2
 plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1838844
 plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	2371235
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2713301
-plugins/starwars/sets/RO.txt	https://lackey.swtcg.com/starwars/sets/RO.txt	4879559
+plugins/starwars/sets/RO.txt	https://lackey.swtcg.com/starwars/sets/RO.txt	5114601
 plugins/starwars/sets/RO2.txt	https://lackey.swtcg.com/starwars/sets/RO2.txt	1864650
 plugins/starwars/sets/ROTJ.txt	https://lackey.swtcg.com/starwars/sets/ROTJ.txt	2119840
 plugins/starwars/sets/ROTS.txt	https://lackey.swtcg.com/starwars/sets/ROTS.txt	2135027
@@ -113,10 +113,10 @@ plugins/starwars/sets/TFA.txt	https://lackey.swtcg.com/starwars/sets/TFA.txt	423
 plugins/starwars/sets/TLJ.txt	https://lackey.swtcg.com/starwars/sets/TLJ.txt	5503286
 plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	2901033
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3168922
-plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	4564421
+plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	4757482
 plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt	5905636
 plugins/starwars/sets/START.txt	https://lackey.swtcg.com/starwars/sets/START.txt	4454783
-plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5399787
+plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5729420
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://lackey.swtcg.com/starwars/sounds/attack.wav	-280414
 plugins/starwars/sounds/bye.wav	https://lackey.swtcg.com/starwars/sounds/bye.wav	-284320
