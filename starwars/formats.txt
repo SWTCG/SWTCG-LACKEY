@@ -10,6 +10,16 @@
 </format>
 
 <format>
+<label>Standard</label>
+<set>JK</set>
+<set>TUF</set>
+<set>BOC</set>
+<set>SOLO</set>
+<set>KAE</set>
+<set>TM</set>
+</format>
+
+<format>
 <label>Promotional Cards</label>
 <set>PROMO</set>
 </format>
