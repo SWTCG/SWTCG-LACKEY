@@ -11,29 +11,6 @@
 </format>
 
 <format>
-<label>TOR</label>
-<set>DAN</set>
-<set>TAL</set>
-<set>TOR</set>
-<set>KAE</set>
-<set>RO2</set>
-</format>
-
-<format>
-<label>WOTC</label>
-<set>AOTC</set>
-<set>SR</set>
-<set>ANH</set>
-<set>BOY</set>
-<set>JG</set>
-<set>ESB</set>
-<set>RAS</set>
-<set>PM</set>
-<set>ROTJ</set>
-<set>ROTS</set
-</format>
-
-<format>
 <label>The Mandalorian</label>
 <set>TM</set>
 </format>
