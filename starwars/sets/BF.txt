@@ -89,13 +89,13 @@ Shriv Suurgav (A)	BF	BF087_Shriv_Suurgav_A	L	Character	Duros New Republic Office
 Tatooine Battlefront	BF	BF088_Tatooine_Battlefront	N	Location	Ground/Character - Tatooine Desert Battlefield	2				C	88		Each unit in this arena gets +10 speed and Stun 1. | Each of your Ground units and Characters gets "Reserves: [tap] -> One of your Ground units or Characters gets +20 speed and can't lose Speed until end of turn."	
 We've Captured a Command Post	BF	BF089_We_ve_Captured_a_Command_Post	N	Battle						C	89		Add 2 counters to your Resource. Play only when you gain control of an arena. | Enhance: Remove 2 counters from your Resource -> Also, one of your units gets +2 power until end of turn.	
 Yavin Battlefront	BF	BF090_Yavin_Battlefront	N	Location	Space/Ground - Yavin Tropical Battlefield	2				C	90		Each unit in this arena gets Avenge 4 and "Pay 2 Force -> Retaliate 2".	
-Danger X-wing	BF	BFsub_Danger_X_wing	L	Subordinate	Space/Ground - Rebel Starfighter		50	3	2		S		Switch: Critical Hit 1/Armor | Pay 1 Force -> Intercept	
-Death Trooper Enforcers	BF	BFsub_Death_Trooper_Enforcers	D	Subordinate	Ground - Imperial Stormtrooper Squad		40	3	3		S		Accuracy 1 | Resilience 2	
-Dio (A)	BF	BFsub_Dio_A	D	Subordinate	Character - Imperial Spy Droid		70	2	1		S		Critical Hit 2	
-Dio (B)	BF	BFsub_Dio_B	L	Subordinate	Character - Rebel Spy Droid		70	2	1		S		Stun 3	
-Imperial Royal Guards	BF	BFsub_Imperial_Royal_Guards	D	Subordinate	Ground/Character - Imperial Bodyguard Squad		30	3	3		S		Armor | [tap] -> Protect 3	
-Imperial Sentinel Messenger	BF	BFsub_Imperial_Sentinel_Messenger	D	Subordinate	Character - Imperial Droid		20	1	1		S		Upkeep: Gain 1 build point.	
-Imperial Trooper	BF	BFsub_Imperial_Trooper	D	Subordinate	Ground/Character - Imperial Stormtrooper		40	2	2		S		Armor | Resilience 1	
-Inferno TIE Fighter	BF	BFsub_Inferno_TIE_Fighter	D	Subordinate	Space - Imperial Starfighter		50	2	2		S		Fury 2	
-Rebel Honor Guards	BF	BFsub_Rebel_Honor_Guards	L	Subordinate	Ground/Character - Rebel Bodyguard Squad		30	3	3		S		Parry 1 | [tap] -> Protect 3	
-Rebel Soldier	BF	BFsub_Rebel_Soldier	L	Subordinate	Ground/Character - Rebel Soldier		40	2	2		S		Accuracy 1 | Focus 1	
+Danger X-wing	BF	BFsub_Danger_X_wing	L	Subordinate	Space/Ground - Rebel Starfighter		50	3	2	S	254		Switch: Critical Hit 1/Armor | Pay 1 Force -> Intercept	
+Death Trooper Enforcers	BF	BFsub_Death_Trooper_Enforcers	D	Subordinate	Ground - Imperial Stormtrooper Squad		40	3	3	S	255		Accuracy 1 | Resilience 2	
+Dio (A)	BF	BFsub_Dio_A	D	Subordinate	Character - Imperial Spy Droid		70	2	1	S	256		Critical Hit 2	
+Dio (B)	BF	BFsub_Dio_B	L	Subordinate	Character - Rebel Spy Droid		70	2	1	S	257		Stun 3	
+Imperial Royal Guards	BF	BFsub_Imperial_Royal_Guards	D	Subordinate	Ground/Character - Imperial Bodyguard Squad		30	3	3	S	258		Armor | [tap] -> Protect 3	
+Imperial Sentinel Messenger	BF	BFsub_Imperial_Sentinel_Messenger	D	Subordinate	Character - Imperial Droid		20	1	1	S	259		Upkeep: Gain 1 build point.	
+Imperial Trooper	BF	BFsub_Imperial_Trooper	D	Subordinate	Ground/Character - Imperial Stormtrooper		40	2	2	S	260		Armor | Resilience 1	
+Inferno TIE Fighter	BF	BFsub_Inferno_TIE_Fighter	D	Subordinate	Space - Imperial Starfighter		50	2	2	S	261		Fury 2	
+Rebel Honor Guards	BF	BFsub_Rebel_Honor_Guards	L	Subordinate	Ground/Character - Rebel Bodyguard Squad		30	3	3	S	262		Parry 1 | [tap] -> Protect 3	
+Rebel Soldier	BF	BFsub_Rebel_Soldier	L	Subordinate	Ground/Character - Rebel Soldier		40	2	2	S	263		Accuracy 1 | Focus 1	
