@@ -1,3 +1,4 @@
+/s +4Force   ;/player stat1 +4
 Play or Pass?
 Pass.
 Proceed.
