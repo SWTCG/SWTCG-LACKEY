@@ -188,7 +188,7 @@ Finn (E) (Starter)	START	Resstarter_Finn_E	L	Character	Resistance Soldier	6	50	4
 Finn's Ski Speeder (A) (Starter)	START	Resstarter_Finn_s_Ski_Speeder_A	L	Ground	Resistance Speeder	4	70	1	4	R	13		Resilience 3 | When Finn's Ski Speeder is discarded from the Ground arena, you may put 2 damage counters on one of your opponent's units in the Ground arena.	
 First Order Arctic Detachment (Starter)	START	Resstarter_First_Order_Arctic_Detachment	D	Ground	First Order Arctic Stormtrooper Squad	6	40	4	4	C	117		Focus 2 | When this unit is discarded, you may draw a card. | Double Strike	
 First Order Patrol Squad (Starter)	START	Resstarter_First_Order_Patrol_Squad	D	Ground	First Order Stormtrooper Squad	2	30	3	3	C	167		Armor | When the battle phase starts, your opponent may pay 2 Force. If he or she does, tap this unit.	
-First Order TIE Starfighter (Starter)	START	Resstarter_First_Order_TIE_Starfighter	D	Space/Ground	First Order Starfighter	1	60	2	1	C	120		Switch: +10 speed/Ferocity | Backfire 2	
+First Order TIE Starfighter (Starter)	START	Resstarter_First_Order_TIE_Starfighter	D	Space/Ground	First Order Starfighter	1	60	2	1	C	120		Switch: +10 speed/Ferocity | Backfire 1	
 FN-417 (A) (Starter)	START	Resstarter_FN_417_A	D	Character	First Order Stormtrooper	4	40	3	4	C	132		Precision | When FN-417 is discarded from the Character arena, you may draw a card.	
 FN-2003 (A) (Starter)	START	Resstarter_FN_2003_A	D	Character	First Order Stormtrooper	3	30	3	3	C	133		When FN-2003 is discarded from the Character arena, you may draw a card.	
 Force Flip (Starter)	START	Resstarter_Force_Flip	N	Battle						R	96		Pay 1 Force -> One of your units gets +20 speed and "Pay 1 Force -> Absorb 1" until end of turn. | Pay 1 Force -> Meditate	
