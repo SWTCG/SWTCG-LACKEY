@@ -56,5 +56,8 @@ Thumbs.db
 .vs/*
 v16/*
 /starwars.zip
-starwars/pluginpreferences.txt
+/starwars/pluginpreferences.txt
 /starwars/decks/*.dek
+/starwars/recentdecks.txt
+/starwars/saved/SavedGame.txt
+/starwars/saved/AutoSave*.*
