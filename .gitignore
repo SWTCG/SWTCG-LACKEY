@@ -60,4 +60,4 @@ v16/*
 /starwars/decks/*.dek
 /starwars/recentdecks.txt
 /starwars/saved/SavedGame.txt
-
+/starwars/saved/AutoSave*.*
