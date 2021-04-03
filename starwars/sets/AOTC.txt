@@ -40,7 +40,7 @@ Plot the Secession	AOTC	Plot_the_Secession	D	Mission		3				R	38		Discard your ha
 Power Dive	AOTC	Power_Dive	N	Battle						R	39		Pay 3 Force -> Untap one of your tapped Starfighters in the Space arena or tapped Speeders in the Ground arena.	
 Queen Jamillia (A)	AOTC	Queen_Jamillia_A	L	Character	Naboo Diplomat	4	30	3	2	R	40		[tap] -> Retreat one of your Diplomats. Play only when Jamillia would attack.	
 R2-D2 (A)	AOTC	R2_D2_A	L	Character	Astromech Droid	3	10	2	3	R	41		[tap] -> Each of your units in the Space arena gets Critical Hit 1 until end of battle. Play only during your build step.	
-San Hill (A)	AOTC	San_Hill_A	D	Character	IG Banking Clan Diplomat	2	20	1	2	U	42		[tap] -> You get +2 build points this turn. You opponent gets +1 build points this turn. Play only during you build step.	
+San Hill (A)	AOTC	San_Hill_A	D	Character	IG Banking Clan Diplomat	2	20	1	2	U	42		[tap] -> You get +2 build points this turn. You opponent gets +1 build points this turn. Play only during you build step.	<s><l>Tap to gain 2BP and give your opponent 1BP</l><f>/cr90;/player stat2 +2;/player2 stat2 +1;/s taps San Hill (A) to gain 2BP and give their opponent 1BP</f></s>
 Second Effort	AOTC	Second_Effort	N	Battle						R	43		Pay 5 Force -> Choose one or more of your attack dice. Reroll those dice.	
 Seek the Council's Wisdom	AOTC	Seek_the_Councils_Wisdom	L	Mission		2				R	44		You gain +4 Force.	
 Shu Mai (A)	AOTC	Shu_Mai_A	D	Character	Commerce Guild Diplomat	3	30	3	2	U	45		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.	
