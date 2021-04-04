@@ -292,3 +292,4 @@ Toydarian Royal Guard	AGD	AGDsub_Toydarian_Royal_Guard	N	Subordinate	Character -
 Trandoshan Hunter	AGD	AGDsub_Trandoshan_Hunter	N	Subordinate	Ground/Character - Trandoshan Warrior		40	3	2	S			Stealth	
 Weequay Biker Gang	AGD	AGDsub_Weequay_Biker_Gang	N	Subordinate	Ground - Pirate Squad		40	3	2	S				
 Wookiee Team	AGD	AGDsub_Wookiee_Team	L	Subordinate	Ground - Wookiee Squad		30	5	4	S			Pay 1 Force -> Retaliate 1	
+Darth Tyranus (N) (LEGO)	AGD	LEGO010_Darth_Tyranus_N	D	Character	Dark Jedi Master - Sith Lord	9	30	4	7	L	L		Inspiration | Tap -> Gain 2 Force. | Pay 5 Force -> Untap one of your Cyborgs or Droids in the Character arena. | Pay 5 Force -> Tap one of your opponent's Jedi Knights or Jedi Padawans in the Character arena. | Pay 2 Force -> Evade 3	<s><l>Tap to gain 2 Force</l><f>/cr90;/player stat1 +2;/s taps Darth Tyranus (N) to gain 2 Force</f></s>
