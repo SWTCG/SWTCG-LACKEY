@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>210209</lastupdateYYMMDD>
+<lastupdateYYMMDD>210410</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Added Ultra Cool Tourny Format, added a booster set which pulls from all sets and fixed some bugs.</message>
+<message>Added The Mandalorian set and more scripted card actions.</message>
 
 </version>

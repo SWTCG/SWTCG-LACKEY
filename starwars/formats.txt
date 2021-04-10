@@ -57,6 +57,12 @@
 <set>START</set>
 </format>
 
+
+<format>
+<label>The Mandalorian</label>
+<set>TM</set>
+</format>
+
 <format>
 <label>Solo</label>
 <set>SOLO</set>
