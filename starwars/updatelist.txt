@@ -1,10 +1,10 @@
 starwars	04-11-21
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	671002
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8658
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	671003
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8659
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	188587
-plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	319045
+plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	60371
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	26587
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	26588
 plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	72574793
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
