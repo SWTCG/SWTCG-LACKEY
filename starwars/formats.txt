@@ -1,15 +1,6 @@
 <formatdefinitions>
 
 <format>
-<label>Ultra Cool Tourny</label>
-<set>KAE</set>
-<set>RAW</set>
-<set>RO</set>
-<set>BH</set>
-<set>VP</set>
-</format>
-
-<format>
 <label>Standard</label>
 <set>JK</set>
 <set>TUF</set>
@@ -17,6 +8,16 @@
 <set>SOLO</set>
 <set>KAE</set>
 <set>TM</set>
+</format>
+
+<format>
+<label>The Mandalorian</label>
+<set>TM</set>
+</format>
+
+<format>
+<label>Promotional Cards</label>
+<set>PROMO</set>
 </format>
 
 <format>
@@ -43,228 +44,12 @@
 </format>
 
 <format>
-<label>Promotional Cards</label>
-<set>PROMO</set>
-</format>
-
-<format>
-<label>Knights and Exiles</label>
+<label>Ultra Cool Tourny</label>
 <set>KAE</set>
-</format>
-
-<format>
-<label>Starter Cards</label>
-<set>START</set>
-</format>
-
-
-<format>
-<label>The Mandalorian</label>
-<set>TM</set>
-</format>
-
-<format>
-<label>Solo</label>
-<set>SOLO</set>
-</format>
-
-<format>
-<label>Battle of Crait</label>
-<set>BOC</set>
-</format>
-
-<format>
-<label>The Unifying Force</label>
-<set>TUF</set>
-</format>
-
-<format>
-<label>Jedi Knight</label>
-<set>JK</set>
-</format>
-
-<format>
-<label>Battlefront</label>
-<set>BF</set>
-</format>
-
-<format>
-<label>Spark of Rebellion</label>
-<set>SOR</set>
-</format>
-
-<format>
-<label>The Last Jedi</label>
-<set>TLJ</set>
-</format>
-
-<format>
-<label>Battle for Starkiller Base</label>
-<set>BOSB</set>
-</format>
-
-<format>
-<label>Rogue One</label>
-<set>RO</set>
-</format>
-
-<format>
-<label>Clone Wars: Battle Lines</label>
-<set>BL</set>
-</format>
-
-<format>
-<label>Days and Nights</label>
-<set>DAN</set>
-</format>
-
-<format>
-<label>Star by Star</label>
-<set>SBS</set>
-</format>
-
-<format>
-<label>Tales and Legends</label>
-<set>TAL</set>
-</format>
-
-
-<format>
-<label>Vector Prime</label>
-<set>VP</set>
-</format>
-
-<format>
-<label>The Force Awakens</label>
-<set>TFA</set>
-</format>
-
-<format>
-<label>The Dark Times</label>
-<set>TDT</set>
-</format>
-
-<format>
-<label>Clone Wars A Galaxy Divided</label>
-<set>AGD</set>
-</format>
-
-<format>
-<label>10th Anniversary</label>
-<set>TEN</set>
-</format>
-
-
-<format>
-<label>Empire Eternal</label>
-<set>EE</set>
-</format>
-
-<format>
-<label>Empire Rising</label>
-<set>ER</set>
-</format>
-
-<format>
-<label>Rogue Squadron</label>
-<set>RS</set>
-</format>
-
-<format>
-<label>Clone Wars Separatist Offensive</label>
-<set>CWSO</set>
-</format>
-
-<format><label>Old Republic</label>
-<set>TOR</set>
-</format>
-
-<format><label>Rule of Two</label>
-<set>RO2</set>
-</format>
-
-<format><label>Jedi</label>
-<set>JEDI</set>
-</format>
-
-<format><label>Smugglers</label>
-<set>SMUG</set>
-</format>
-
-<format><label>Sith</label>
-<set>SITH</set>
-</format>
-
-<format><label>Mandalorians</label>
-<set>MAND</set>
-</format>
-
-<format><label>Bounty Hunters</label>
-<set>BH</set>
-</format>
-
-<format><label>Battle of Hoth</label>
-<set>BOH</set>
-</format>
-
-<format><label>Invasion of Naboo</label>
-<set>ION</set>
-</format>
-
-<format><label>Republic at War</label>
 <set>RAW</set>
-</format>
-
-<format><label>Battle of Endor</label>
-<set>BOE</set>
-</format>
-
-<format><label>Scum And Villainy</label>
-<set>SAV</set>
-</format>
-
-<format><label>Fall Of The Republic</label>
-<set>FOTR</set>
-</format>
-
-<format><label>Revenge Of The Sith</label>
-<set>ROTS</set>
-</format>
-
-<format><label>Return_Of_The_Jedi</label>
-<set>ROTJ</set>
-</format>
-
-<format><label>Phantom Menace</label>
-<set>PM</set>
-</format>
-
-<format><label>Rogues And Scoundrels</label>
-<set>RAS</set>
-</format>
-
-<format><label>Empire Strikes Back</label>
-<set>ESB</set>
-</format>
-
-<format><label>Jedi Guardians</label>
-<set>JG</set>
-</format>
-
-<format><label>Battle Of Yavin</label>
-<set>BOY</set>
-</format>
-
-<format><label>A New Hope</label>
-<set>ANH</set>
-</format>
-
-<format><label>Sith Rising</label>
-<set>SR</set>
-</format>
-
-<format><label>Attack Of The Clones</label>
-<set>AOTC</set>
+<set>RO</set>
+<set>BH</set>
+<set>VP</set>
 </format>
 
 </formatdefinitions>

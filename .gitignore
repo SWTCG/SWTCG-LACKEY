@@ -58,7 +58,10 @@ v16/*
 /starwars.zip
 /starwars/pluginpreferences.txt
 /starwars/decks/*.dek
+<<<<<<< HEAD
 /starwars/decks/script_tests/*.dek
+=======
+>>>>>>> 5c855e1cfbaa70e293dd3116fc4c764712703461
 /starwars/recentdecks.txt
 /starwars/saved/SavedGame.txt
 /starwars/saved/AutoSave*.*
