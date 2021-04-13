@@ -1,4 +1,4 @@
-starwars	04-13-21
+starwars	04-11-21
 plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	671003
 plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8659
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	188587
