@@ -2,6 +2,7 @@
 
 <dateYYMMDD>210413</dateYYMMDD>
 <removepath>sets/AllSets.txt</removepath>
+<removepath>AllSets.txt</removepath>
 <removepath>/sets/setimages/AGD/AGD041_Geonosian_Fortress.jpg</removepath>
 <removepath>/sets/setimages/BOC/BOC114_Crystal_Critters.jpg</removepath>
 <removepath>/sets/setimages/EE/EE029_Untold_Devastation.jpg</removepath>
