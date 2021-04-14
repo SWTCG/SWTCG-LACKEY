@@ -1,6 +1,6 @@
-starwars	04-13-21
+starwars	04-14-21
 plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	671003
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8659
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	8660
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	188587
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	60371
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
