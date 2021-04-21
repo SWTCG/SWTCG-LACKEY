@@ -1475,7 +1475,7 @@ BOE/Endor_Bunker_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/Endo
 BOE/Endor_Imperial_Army.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/Endor_Imperial_Army.jpg
 BOE/Ewok_Militia.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/Ewok_Militia.jpg
 BOE/Ewok_Sentry.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/Ewok_Sentry.jpg
-BOE/BOE024_Executor_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/BOE024_Executor_B.jpg
+BOE/Executor_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/BOE024_Executor_B.jpg
 BOE/Explosive_Charges.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/Explosive_Charges.jpg
 BOE/Final_Sacrifice.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/Final_Sacrifice.jpg
 BOE/General_Crix_Madine_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOE/General_Crix_Madine_A.jpg
