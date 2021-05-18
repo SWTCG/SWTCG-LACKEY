@@ -1,181 +1,181 @@
-Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	Script
-Anakin Skywalker (A)	AOTC	Anakin_Skywalker_A	L	Character	Jedi Padawan	7	60	6	5	R	1		Pay 3 Force -> Evade 3	
-Anakin Skywalker (B)	AOTC	Anakin_Skywalker_B	L	Character	Jedi Padawan	5	50	4	4	R	2		[tap] -> One of your units in the Ground arena gets +20 speed and +2 power until the end of battle. Play only during your build step. | Pay 1 Force -> Evade 1	
-Assassin Droid ASN-121 (A)	AOTC	Assassin_Droid_ASN_121_A	D	Character	Assassin Droid	3	50	4	1	R	3		[tap] -> Choose one of your opponents units in the Character arena. ASN-121 does 3 damage to that unit unless your opponent has a Jedi in the Character arena and pays 2 Force. Play only when ASN-121 would attack.	
-Bail Organa (A)	AOTC	Bail_Organa_A	L	Character	Alderaanian Diplomat	4	40	3	2	R	4	Because the effect begins by having your opponent choose a non-defined unit in the Character arena, your opponent may choose a tapped unit.	[tap] -> Your opponent chooses one of his or her units in the Character arena. Tap that unit unless your opponent pays 3 Force. Play only during your build step.	
-Battle Fatigue	AOTC	Battle_Fatigue	N	Battle						R	5		Pay 2 Force -> Choose an arena where no unit has attacked this turn. Each unit in that arena gets -1 power until the end of battle.	
-Boba Fett (A)	AOTC	Boba_Fett_A	N	Character	Clone Boy	2	40	2	1	R	6		As long as Boba is in the Character arena, each Bounty Hunter gets -10 speed.	
-Captain Typho (A)	AOTC	Captain_Typho_A	L	Character	Naboo Soldier	5	40	5	5	R	7		As long as Typho is in the Character arena, each of your other Naboo Soldiers gets +10 speed.	
-Clear the Skies	AOTC	Clear_the_Skies	N	Mission		3				R	8	Text erratum	Each player chooses and discards one of his or her units from each arena in which he or she  has 4 or more units. Dark Side first, then Light Side.	
-Clone Officer	AOTC	Clone_Officer	L	Character	Clone Soldier	5	40	5	4	R	9	This unit gives itself the bonus as well.	As long as this unit is in the Character arena, each of your Clones gets +1 power.	
-Dark Rendezvous	AOTC	Dark_Rendezvous	D	Mission		4				R	10		Your opponent loses 7 Force.	
-Dark Side's Command	AOTC	Dark_Sides_Command	D	Battle						R	11	If you choose to use the effect, then you get to make all the choices about which of your opponent's units is attacked. Your opponent can't choose not to attack and can't play an ability (e.g., such as an ability that is played when the unit would attack). If you choose not to use the effect, or if you can't use it because none of your opponent's units can be attacked, the unit attacks normally. In that case, your opponent gets to make all the choices, just like a normal attack.	Pay 8 Force -> Choose one of your opponent's tapped units in the Space arena. Untap that unit. The next time it would attack this turn, you may have it attack another of your opponent's units in the Space arena.	
-Dark Side's Compulsion	AOTC	Dark_Sides_Compulsion	D	Battle						R	12	If you choose to use the effect, then you get to make all the choices about which of your opponent's units is attacked. Your opponent can't choose not to attack and can't play an ability (e.g., such as an ability that is played when the unit would attack). If you choose not to use the effect, or if you can't use it because none of your opponent's units can be attacked, the unit attacks normally. In that case, your opponent gets to make all the choices, just like a normal attack.	Pay 8 Force -> Choose one of your opponent's tapped units in the Ground arena. Untap that unit. The next time it would attack this turn, you may have it attack another of your opponent's units in the Ground arena.	
-Darth Sidious (A)	AOTC	Darth_Sidious_A	D	Character	Dark Jedi Master	8	40	5	6	R	13	Text erratum	When the battle phase ends, if Sidious is in the Character arena, you gain +1 Force. | As long as Sidious is in the Character arena, your opponent builds all cards face up. The cards are still considered "face-down". | Pay 2 Force -> Evade 3	
-Darth Tyranus (A)	AOTC	Darth_Tyranus_A	D	Character	Dark Jedi Master	9	50	7	5	R	14		Pay 1 Force -> Tyranus gets +2 power for this attack. | Pay 3 Force -> Evade 3 | Pay 2 Force -> Deflect 1	
-Destruction of Hope	AOTC	Destruction_of_Hope	D	Mission		2				R	15		Your opponent chooses and discards 2 cards from his or her hand. You gain +1 Force.	
-Dexter Jettster (A)	AOTC	Dexter_Jettster_A	N	Character	Diner Owner	4	50	1	4	R	16		[tap] -> One of your Characters gets +3 power until the end of battle. Play only when Dexter would attack.	
-Geonosian Sentry	AOTC	Geonosian_Sentry	D	Character	Geonosian Soldier	6	40	4	4	R	17		As long as this unit is in the Character arena, each of your other Geonosians gets +10 speed.	
-Hero's Duty	AOTC	Heros_Duty	L	Battle						R	18		Pay 4 Force -> One of your units gets +5 power for this attack. When this attack ends, discard that unit.	
-Hero's Flaw	AOTC	Heros_Flaw	N	Battle						R	19		Pay 3 Force -> Choose one of your opponents Characters. This turn, each of your Characters get Critical Hit 2 as long as he or she is attacking that Character.	
-Interference in the Senate	AOTC	Interference_in_the_Senate	D	Battle						R	20		Pay 10 Force -> Choose an arena. Each of your opponent's units in that arena gets -20 speed and -2 power until the end of battle.	
-Jango Fett (A)	AOTC	Jango_Fett_A	D	Character	Bounty Hunter	8	60	7	6	R	21		As long as Jango is attacking a Jedi, he gets Critical Hit 2.	
-Jango Fett (B)	AOTC	Jango_Fett_B	D	Character	Bounty Hunter	6	60	6	4	R	22		As long as Jango is attacking a Jedi, he gets +1 power and Critical Hit 1.	
-Jar Jar Binks (A)	AOTC	Jar_Jar_Binks_A	L	Character	Gungan Diplomat	3	40	2	2	R	23		When your opponent rolls one or more dice in an attack on Jar Jar, you may reroll any of those dice.	
-Jedi Call for Help	AOTC	Jedi_Call_for_Help	L	Mission		3				R	24	Text erratum (Separating effects)	You may complete this Mission only if you have a Jedi in the Character arena. | Search your deck. You may take a unit card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck.	
-Jedi Council Summons	AOTC	Jedi_Council_Summons	L	Mission		2				R	25		Search your deck. You may take a Jedi card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck and gain +1 Force.	
-Jedi Knight's Deflection	AOTC	Jedi_Knights_Deflection	L	Battle						R	26		Pay 6 Force -> Prevent up to 2 damage to one of your units. That unit may do that much damage to a unit of your choice in the same arena.	
-Lama Su (A)	AOTC	Lama_Su_A	N	Character	Kaminoan Diplomat	4	20	3	3	R	27	While both players have Lama in play, the effect is doubled, making all clones cost -2 BP to deploy, instead of just -1 BP to deploy.	As long as Lama is in the Character arena, each Clone costs 1 fewer build counter to deploy.	
-Luxury Airspeeder	AOTC	Luxury_Airspeeder	N	Ground	Coruscant Speeder	3	60	2	2	U	28		As long as this unit is in the Ground arena, each of your other Ground units get +10 speed.	
-A Moment's Rest	AOTC	A_Moments_Rest	L	Mission		3				R	29		Choose one of your units. Prevent all damage to that unit this turn.	
-Naboo Defense Station	AOTC	Naboo_Defense_Station	L	Ground	Naboo Fortification	8	10	6	12	R	30			
-Obi-Wan Kenobi (A)	AOTC	Obi_Wan_Kenobi_A	L	Character	Jedi Knight	7	40	6	7	R	31	Obi-Wan can be discarded to prevent the damage to himself to gain an amount of Force equal to the damage done. 	Pay 2 Force -> Evade 2 | Discard Obi-Wan from the Character arena -> Prevent all damage to one of your Characters. Then you gain additional Force equal to the damage prevented.	
-Obi-Wan's Starfighter (A)	AOTC	Obi_Wans_Starfighter_A	L	Space	Jedi Starfighter	4	50	3	3	R	32		Critical Hit 2 | When the battle phase starts, if Obi-Wan's Starfighter is in the Space arena, remove all damage counters from Obi-Wan's Starfighter.	
-Order Here	AOTC	Order_Here	N	Mission		2				R	33		Each Battle card costs 3 more Force to play this turn. (Battle cards with no Force cost now cost 3 Force to play.)	
-Padme Amidala (A)	AOTC	Padme_Amidala_A	L	Character	Naboo Diplomat	5	60	4	4	R	34		As long as Padme is in the Character arena, each of your Jedi gets +10 speed and Anakin Skywalker gets +2 power.	
-Padme Amidala (B)	AOTC	Padme_Amidala_B	L	Character	Naboo Diplomat	4	40	3	2	R	35	If no roll for build points is made, Padme's ability has no effect.	When the roll for build points is made, if Padme is in the Character arena, the Dark Side gets -1 build point this turn.	
-Padme's Yacht (A)	AOTC	Padmes_Yacht_A	L	Space	Naboo Transport	5	40	3	5	R	36		Shields 1	
-Plo Koon (A)	AOTC	Plo_Koon_A	L	Character	Kel Dor Jedi Master	6	50	5	5	R	37		As long as you have another Jedi in the Character arena, Plo gets +1 power. | Pay 2 Force -> Evade 2	
-Plot the Secession	AOTC	Plot_the_Secession	D	Mission		3				R	38		Discard your hand. Then draw 5 cards.	
-Power Dive	AOTC	Power_Dive	N	Battle						R	39		Pay 3 Force -> Untap one of your tapped Starfighters in the Space arena or tapped Speeders in the Ground arena.	
-Queen Jamillia (A)	AOTC	Queen_Jamillia_A	L	Character	Naboo Diplomat	4	30	3	2	R	40		[tap] -> Retreat one of your Diplomats. Play only when Jamillia would attack.	
-R2-D2 (A)	AOTC	R2_D2_A	L	Character	Astromech Droid	3	10	2	3	R	41		[tap] -> Each of your units in the Space arena gets Critical Hit 1 until end of battle. Play only during your build step.	
-San Hill (A)	AOTC	San_Hill_A	D	Character	IG Banking Clan Diplomat	2	20	1	2	U	42		[tap] -> You get +2 build points this turn. You opponent gets +1 build points this turn. Play only during you build step.	<s><l>Tap to gain 2BP and give your opponent 1BP</l><f>/cr90;/player stat2 +2;/player2 stat2 +1;/s taps San Hill (A) to gain 2BP and give their opponent 1BP</f></s>
-Second Effort	AOTC	Second_Effort	N	Battle						R	43		Pay 5 Force -> Choose one or more of your attack dice. Reroll those dice.	
-Seek the Council's Wisdom	AOTC	Seek_the_Councils_Wisdom	L	Mission		2				R	44		You gain +4 Force.	
-Shu Mai (A)	AOTC	Shu_Mai_A	D	Character	Commerce Guild Diplomat	3	30	3	2	U	45		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.	
-Slave I (A)	AOTC	Slave_1_A	D	Space	Patrol Ship	4	40	5	3	R	46		As long as Slave I is in the Space arena, your opponent can't retreat any Space units with damage counters on them during his or her retreat step.	
-Spirit of the Fallen	AOTC	Spirit_of_the_Fallen	L	Battle						R	47		Pay 2 Force -> Each of you Characters gets +2 power until the end of battle. Play only if one of your Characters has been discarded from the Character arena this turn.	
-Target the Senator	AOTC	Target_the_Senator	D	Mission		3				R	48		When the battle phase starts, choose one of your opponent's units in any arena. Target the Senator does 4 dice of damage to that unit.	
-Taun We (A)	AOTC	Taun_We_A	N	Character	Kaminoan Diplomat	2	20	2	3	R	49		As long as Taun is in the Character arena, each of your Clones gets +10 speed.	
-Trade Federation Battleship Core	AOTC	Trade_Federation_Battleship_Core	D	Ground	Trade Federation Fortification	9	10	10	12	R	50			
-Tyranus's Edict	AOTC	Tyranuss_Edict	D	Mission		3				R	51	Tyranus's Edict is compatible with Han Enchained.	Choose one of your units. As long as that unit is in an arena, your other units in that arena can't be attacked this turn.	
-Tyranus's Geonosian Speeder (A)	AOTC	Tyranuss_Geonosian_Speeder_A	D	Ground	Geonosian Speeder	6	40	2	1	R	52		[tap] -> Search your deck. You may take a Battle card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during your build step.	
-Tyranus's Solar Sailer (A)	AOTC	Tyranuss_Solar_Sailer_A	D	Space	Geonosian Starfighter	4	60	2	2	R	53		Critical Hit 2 | When its attack ends, you may retreat Tyranus's Solar Sailer.	
-Tyranus's Wrath	AOTC	Tyranuss_Wrath	D	Battle						R	54		Pay 8 Force -> the attacking unit gets +7 power for this attack.	
-War Will Follow	AOTC	War_Will_Follow	D	Battle						R	55	Text erratum	Pay 3 Force -> Choose a Space unit in your opponent's build zone. Put that unit into the Space arena. If it's tapped, untap it.	
-Ward of the Jedi	AOTC	Ward_of_the_Jedi	L	Battle						R	56		Pay 4 Force -> Choose one of your units. That unit can't be attacked this turn as long as you have any other units in the same arena.	
-Windu's Solution	AOTC	Windus_Solution	L	Battle						R	57		Pay 2 Force -> One of your units gets +30 speed and +2 power until the end of battle.	
-Yoda (A)	AOTC	Yoda_A	L	Character	Jedi Master	9	40	6	6	R	58		When end the battle phase does, if Yoda in the Character arena is, +1 Force you gain. | 2 Force pay -> Evade 3 | 10 Force pay -> Deflect 3	
-Yoda's Intervention	AOTC	Yodas_Intervention	L	Battle						R	59		Pay 3 Force -> Prevent up to 3 damage to one of your units.	
-Zam Wesell (A)	AOTC	Zam_Wesell_A	D	Character	Clawdite Bounty Hunter	6	60	6	4	R	60		When the Character battle steps starts, if Zam is in the Character arena, choose one: remove 1 damage counter from Zam, or Zam gets Critical Hit 2 until end of battle.	
-Acklay	AOTC	Acklay	D	Character	Geonosian Creature	3	40	3	3	U	61		As long as you have no other units in the Character arena, this unit gets +30 speed.	
-Anakin Skywalker (C)	AOTC	Anakin_Skywalker_C	L	Character	Jedi Padawan	5	60	5	4	U	62		Pay 2 Force -> Evade 2	
-Anakin's Inspiration	AOTC	Anakins_Inspiration	L	Battle						U	63		Pay 2 Force -> Choose an arena. Each of your units in that arena gets +20 speed until end of battle.	
-AT-TE Walker 23X	AOTC	AT_TE_Walker_23X	L	Ground	Republic Assault Walker	6	50	5	4	U	64		Critical Hit 2	
-AT-TE Walker 71E	AOTC	AT_TE_Walker_71E	L	Ground	Republic Assault Walker	6	60	5	4	R	65		Shields 1	
-Attract Enemy Fire	AOTC	Attract_Enemy_Fire	N	Battle						U	66		Pay 2 Force -> Choose one of your units in the same arena as the attacking unit. the attacking unit now attacks that unit instead of the original defending unit, unless that unit can't be attacked. Play this only before your opponent rolls attack dice.	
-C-3PO (A)	AOTC	C_3PO_A	L	Character	Protocol Droid	3	10	1	3	U	67		[tap], Discard 2 cards from your hand -> Draw 2 cards. Play only during your build step.	
-Capture Obi-Wan	AOTC	Capture_Obi_Wan	D	Mission		2				U	68		Your opponent loses 2 Force. You gain +2 Force.	
-Chancellor Palpatine (A)	AOTC	Chancellor_Palpatine_A	L	Character	Coruscant Diplomat	4	30	4	4	R	69	As long as Palpatine is in the Character arena has no significance.	As long as Palpatine is in the Character arena, each of your opponent's Characters gets -10 speed.	
-Chase the Villain	AOTC	Chase_the_Villain	L	Mission		2				U	70		Your opponent can't retreat any Characters during his or her retreat step this turn.	
-Cheat the Game	AOTC	Cheat_the_Game	N	Battle						U	71	This applies only to the current attack.	Pay 3 Force -> Reroll all your attack dice.	
-Cliegg Lars (A)	AOTC	Cliegg_Lars_A	L	Character	Tatooine Farmer	2	30	2	2	U	72		When you deploy Cliegg, you lose 1 Force.	
-Clone Warrior 4/163	AOTC	Clone_Warrior_4_163	L	Character	Clone Soldier	4	40	4	4	U	73			
-Clone Warrior 5/373	AOTC	Clone_Warrior_5_373	L	Character	Clone Soldier	3	40	3	3	U	74			
-Commerce Guild Droid Platoon	AOTC	Commerce_Guild_Droid_Platoon	D	Ground	Commerce Guild Droid	7	30	5	6	U	75		Ion Cannon 3	
-Corde (A)	AOTC	Corde_A	L	Character	Naboo Handmaiden	2	30	2	1	U	76		Critical Hit 1 | Discard Corde from the Character arena -> Prevent all damage to any one non-Jedi Character.	
-Coruscant Freighter AA-9 (A)	AOTC	Coruscant_Freighter_AA_9_A	N	Space	Independent Transport	7	20	1	8	U	77		[tap] -> Draw 3 cards, then discard 2 cards from your hand. Play only during your build step.	
-Dark Speed	AOTC	Dark_Speed	D	Battle						U	78		One of your units gets +30 speed until the end of battle.	
-Darth Tyranus (B)	AOTC	Darth_Tyranus_B	D	Character	Dark Jedi Master	7	50	6	4	U	79		Pay 2 Force -> Tyranus gets Critical Hit 2 for this attack. | Pay 3 Force -> Evade 3	
-Departure Time	AOTC	Departure_Time	N	Mission		2				U	80		You may discard one of your units from any arena. If you do, you get +4 build points this turn.	
-Destroyer Droid, P Series	AOTC	Destroyer_Droid_P_Series	D	Character	Trade Federation Droid	7	40	5	4	U	81		When the Character battle step starts, if this unit is in the Character arena, choose one: this unit gets +20 speed, or this unit gets +2 power until the end of battle. | Shields 1	
-Down in Flames	AOTC	Down_in_Flames	N	Battle						U	82		Pay 4 Force -> Choose one of your opponent's Speeders in the Ground arena. Your opponent discards that Speeder.	
-Droid Control Ship	AOTC	Droid_Control_Ship	D	Space	Trade Federation Capital Ship	9	10	9	9	U	83		As long as this unit is in the Space arena, each of your Droids gets +10 speed. | When this unit is discarded from the Space arena, it does 1 damage to each of your Droids in each arena.	
-Elan Sleazebaggano (A)	AOTC	Elan_Sleazebaggano_A	N	Character	Coruscant Merchant	3	50	3	1	R	84		As long as Elan is in the Character arena, each of your other Characters gets +20 speed. When the battle phase ends, Elan does 1 damage to each of your other Characters.	
-Geonosian Guard	AOTC	Geonosian_Guard	D	Character	Geonosian Soldier	2	30	2	2	U	85			
-Geonosian Warrior	AOTC	Geonosian_Warrior	D	Character	Geonosian Soldier	3	50	3	2	U	86			
-Go to the Temple	AOTC	Go_to_the_Temple	L	Battle						U	87		Pay 2 Force -> Choose an arena. Retreat any number of your units in that arena. Play only if no unit is attacking.	
-Infantry Battle Droid, B1 Series	AOTC	Infantry_Battle_Droid_B1_Series	D	Character	Trade Federation Droid	2	40	2	1	U	88		When this unit is discarded from the Character arena, draw a card.	
-Jango Fett (C)	AOTC	Jango_Fett_C	D	Character	Bounty Hunter	5	60	4	4	U	89		As long as Jango is attacking a Jedi, he gets +2 power.	
-Jawa Sandcrawler	AOTC	Jawa_Sandcrawler	N	Ground	Tatooine Sandcrawler	4	10	2	7	U	90		[tap] -> Draw 2 cards, then discard 2 cards from your hand. Play only during your build step.	
-Jedi Patrol	AOTC	Jedi_Patrol	L	Ground	Jedi Knight	3	30	3	3	U	91		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.	
-Kaminoan Guard	AOTC	Kaminoan_Guard	N	Character	Kaminoan Soldier	4	50	3	3	U	92		As long as there are one or more Clones in any arena, this unit gets +1 power.	
-Kit Fisto (A)	AOTC	Kit_Fisto_A	L	Character	Nautolan Jedi Master	5	40	4	5	U	93		Pay 2 Force -> Evade 2	
-Master and Apprentice	AOTC	Master_and_Apprentice	L	Battle						U	94		Pay 3 Force -> Up to 2 of your units each get +2 power until the end of battle.	
-Naboo Security Guard	AOTC	Naboo_Security_Guard	L	Character	Naboo Soldier	2	30	2	2	U	95			
-Naboo Spaceport	AOTC	Naboo_Spaceport	L	Ground	Naboo Fortification	9	10	7	9	U	96		Ion Cannon 4	
-Nexu	AOTC	Nexu	D	Character	Geonosian Creature	5	50	4	3	U	97	This unit increases the cost of all activated abilities. (Not just those with Force costs.)	As long as Nexu is in the Character arena, each activated ability of your opponent's units costs 1 more Force to play.	
-Nute Gunray (A)	AOTC	Nute_Gunray_A	D	Character	Trade Federation Diplomat	3	20	2	3	U	98		[tap] -> You opponents chooses and discards a card from his or her hand. Play only during your build step.	
-Obi-Wan Kenobi (B)	AOTC	Obi_Wan_Kenobi_B	L	Character	Jedi Knight	5	40	5	5	U	99		Pay 2 Force -> Obi-Wan gets Critical Hit 2 for this attack. | Pay 2 Force -> Evade 2 | Pay 1 Force -> Prevent 1 damage to Anakin Skywalker.	
-Padme Amidala (C)	AOTC	Padme_Amidala_C	L	Character	Naboo Diplomat	4	50	3	3	U	100		Put 1 damage counter on Padme and retreat her -> Prevent all damage to Padme.	
-Poggle the Lesser (A)	AOTC	Poggle_the_Lesser_A	D	Character	Geonosian Diplomat	4	40	3	3	U	101		[tap] -> Choose one of your opponent's units in the Character arena. Tap that unit unless your opponent pays 3 Force. Play only when Poggle would attack.	
-Reek	AOTC	Reek	D	Ground	Geonosian Creature	3	50	2	2	U	102		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.	
-Republic Assault Ship	AOTC	Republic_Assault_Ship	L	Space	Republic Capital Ship	7	30	6	7	U	103		Bombard 2	
-Republic Cruiser	AOTC	Republic_Cruiser	L	Space	Republic Transport	4	30	4	3	C	104		Shields 1	
-Shaak Ti (A)	AOTC	Shaak_Ti_A	L	Character	Togruta Jedi Master	4	50	3	5	U	105		Pay 1 Force -> Evade 1	
-Ship Arrival	AOTC	Ship_Arrival	N	Mission		2				U	106		Choose Space, Ground, or Character. Reveal cards from the top of your deck until you reveal a unit card of that type. Put that card into your hand and shuffle the other revealed cards into your deck.	
-Splinter the Republic	AOTC	Splinter_the_Republic	D	Mission		1				U	107		Search your deck. You may take a card from your deck with the same name as one of your units in any arena. Show it to your opponent and put it into your hand. Then shuffle your deck.	
-Strength of Hate	AOTC	Strength_of_Hate	D	Battle						U	108		Pay 2 Force -> One of your units gets +3 power for this attack.	
-Subtle Assassination	AOTC	Subtle_Assassination	D	Mission		3				U	109		Choose one of your opponent's units in the Character arena with power 3 or less. Your opponent discards that unit.	
-Super Battle Droid 8EX	AOTC	Super_Battle_Droid_8EX	D	Character	Trade Federation Droid	5	40	5	5	U	110		As long as you have another Droid in any arena, this unit gets +10 speed and +1 power.	
-Trade Federation Battleship	AOTC	Trade_Federation_Battleship	D	Space	Trade Federation Capital Ship	6	10	4	6	U	111		Bombard 4	
-Trade Federation C-9979	AOTC	Trade_Federation_C_9979	D	Space	Trade Federation Transport	4	20	2	5	U	112		[tap] -> Draw a card. Play only during your build step.	
-Tyranus's Gift	AOTC	Tyranuss_Gift	D	Battle						U	113		Pay 3 Force -> the attacking unit gets -5 power for this attack.	
-Underworld Connections	AOTC	Underworld_Connections	L	Mission		1				U	114		Look at your opponent's hand. Then you gain +1 Force.	
-Wat Tambor (A)	AOTC	Wat_Tambor_A	D	Character	Techno Union Diplomat	4	30	2	3	U	115	If no roll for build points is made, Wat's ability has no effect.	When the roll for build points is made, if Wat is in the Character arena, the Light Side gets -1 build point this turn.	
-Watto (A)	AOTC	Watto_A	N	Character	Tatooine Merchant	4	20	3	3	U	116		When the battle phase ends, if Watto is in the Character arena, you may remove a damage counter from one of your Droids, Speeders, or Starfighters.	
-Weapon Response	AOTC	Weapon_Response	N	Battle						U	117		Pay 1 Force -> the attacking unit gets -2 power for this attack.	
-Wedding of Destiny	AOTC	Wedding_of_Destiny	L	Mission		2				U	118		Draw 3 cards. Then you gain +1 Force.	
-Yoda (B)	AOTC	Yoda_B	L	Character	Jedi Master	5	40	4	4	U	119		3 Force pay -> Evade 4 | 5 Force pay -> Deflect 2 | [tap] -> +1 Force you gain. Only during your build step play.	
-Zam's Airspeeder (A)	AOTC	Zams_Airspeeder_A	D	Ground	Coruscant Speeder	2	60	1	1	U	120		Critical Hit 3	
-Anakin Skywalker (D)	AOTC	Anakin_Skywalker_D	L	Character	Jedi Padawan	4	50	4	3	C	121		Pay 1 Force -> Evade 1	
-Battle Droid Squad	AOTC	Battle_Droid_Squad	D	Ground	Trade Federation Droid	2	10	2	3	C	122			
-Bravo N-1 Starfighter	AOTC	Bravo_N_1_Starfighter	L	Space	Naboo Starfighter	3	50	3	2	C	123		Critical Hit 1	
-Chancellor's Guard Squad	AOTC	Chancellors_Guard_Squad	L	Ground	Republic Soldier	3	30	2	3	C	124		Critical Hit 2	
-Clone Platoon	AOTC	Clone_Platoon	L	Ground	Clone Soldier	4	40	4	4	C	125			
-Clone Squad	AOTC	Clone_Squad	L	Ground	Clone Soldier	3	10	3	3	C	126			
-Commerce Guild Droid 81	AOTC	Commerce_Guild_Droid_81	D	Ground	Commerce Guild Droid	6	30	7	5	C	127			
-Commerce Guild Starship	AOTC	Commerce_Guild_Starship	D	Space	Commerce Guild Transport	4	30	3	4	C	128		Shields 1	
-Corellian Star Shuttle	AOTC	Corellian_Star_Shuttle	L	Space	Republic Transport	4	20	3	4	C	129		[tap] -> Draw a card. Play only during your build step.	
-Darth Tyranus (C)	AOTC	Darth_Tyranus_C	D	Character	Dark Jedi Master	5	50	5	4	C	130		Pay 2 Force -> Evade 2	
-Destroyer Droid Squad	AOTC	Destroyer_Droid_Squad	D	Ground	Trade Federation Droid	5	40	5	5	C	131			
-Droid Starfighter DFS-4CT	AOTC	Droid_Starfighter_DFS_4CT	D	Space	Trade Federation Droid Starfighter	2	50	2	1	C	132			
-Droid Starfighter Squadron	AOTC	Droid_Starfighter_Squadron	D	Space	Trade Federation Droid Starfighter	3	40	3	3	C	133			
-Droid Starfighter Wing	AOTC	Droid_Starfighter_Wing	D	Space	Trade Federation Droid Starfighter	4	40	4	4	C	134			
-Elite Jedi Squad	AOTC	Elite_Jedi_Squad	L	Ground	Jedi Knight	3	40	3	2	C	135		Critical Hit 2	
-Flying Geonosian Squad	AOTC	Flying_Geonosian_Squad	D	Ground	Geonosian Soldier	6	30	4	6	C	136			
-Geonosian Defense Platform	AOTC	Geonosian_Defense_Platform	D	Ground	Geonosian Fortification	7	20	7	7	C	137			
-Geonosian Fighter	AOTC	Geonosian_Fighter	D	Space	Geonosian Starfighter	3	50	2	2	C	138		Critical Hit 1	
-Geonosian Squad	AOTC	Geonosian_Squad	D	Ground	Geonosian Soldier	4	30	2	3	C	139		Critical Hit 3	
-Gozanti Cruiser	AOTC	Gozanti_Cruiser	N	Space	Independent Transport	6	10	5	6	C	140			
-Hatch a Clone	AOTC	Hatch_a_Clone	N	Mission		1				C	141		Return up to 2 Ground unit cards from your discard pile to your hand.	
-Hero's Dodge	AOTC	Heros_Dodge	N	Battle						C	142		Pay 1 Force -> Prevent up to 2 damage to one of your Characters.	
-High-Force Dodge	AOTC	High_Force_Dodge	N	Battle						C	143		Pay 5 Force -> Prevent up to 5 damage to one of your units.	
-Hyperdrive Ring	AOTC	Hyperdrive_Ring	L	Space	Republic Device	3	30	1	3	C	144		As long as you have a Starfighter in the Space arena, this unit gets +2 power.	
-Intergalactic Banking Clan Starship	AOTC	Intergalactic_Banking_Clan_Starship	D	Space	IG Banking Clan Transport	5	20	4	5	C	145		Shields 1	
-Jango Fett (D)	AOTC	Jango_Fett_D	D	Character	Bounty Hunter	4	50	4	3	C	146		Critical Hit 1	
-Jedi Starfighter 3R3	AOTC	Jedi_Starfighter_3R3	L	Space	Jedi Starfighter	3	50	3	3	C	147			
-Knockdown	AOTC	Knockdown	N	Battle						C	148		Pay 4 Force -> Choose an untapped Character. Tap that Character.	
-Lost in the Asteroids	AOTC	Lost_in_the_Asteroids	N	Battle						C	149	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Space units this turn. Play only before any unit in the Space arena attacks.	
-Lull in the Fighting	AOTC	Lull_in_the_Fighting	N	Battle						C	150	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Characters this turn. Play only before any unit in the Character arena attacks.	
-Mending	AOTC	Mending	N	Mission		2				C	151		Remove up to 4 damage counters from one of your Characters. You gain +1 Force.	
-N-1 Starfighter	AOTC	N_1_Starfighter	L	Space	Naboo Starfighter	2	60	2	1	C	152			
-Naboo Cruiser	AOTC	Naboo_Cruiser	L	Space	Naboo Transport	6	10	6	7	C	153			
-Naboo Royal Starship	AOTC	Naboo_Royal_Starship	L	Space	Naboo Transport	5	20	5	6	C	154			
-Naboo Senatorial Escort	AOTC	Naboo_Senatorial_Escort	L	Ground	Naboo Soldier	2	10	2	3	C	155			
-Naboo Starfighter Squadron	AOTC	Naboo_Starfighter_Squadron	L	Space	Naboo Starfighter	4	40	4	4	C	156			
-Obi-Wan Kenobi (C)	AOTC	Obi_Wan_Kenobi_C	L	Character	Jedi Knight	4	40	4	4	C	157		Pay 2 Force -> Evade 2	
-Padawan's Deflection	AOTC	Padawans_Deflection	N	Battle						C	158		Pay 3 Force -> Prevent 1 damage to one of your units. That unit may do that much damage to a unit of your choice in the same arena.	
-Padme Amidala (D)	AOTC	Padme_Amidala_D	L	Character	Naboo Diplomat	3	50	3	3	C	159			
-Patrol Speeder	AOTC	Patrol_Speeder	N	Ground	Naboo Speeder	4	20	3	4	C	160			
-Peace on Naboo	AOTC	Peace_on_Naboo	N	Battle						C	161	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Ground units this turn. Play only before any unit in the Ground arena attacks.	
-Pilot's Dodge	AOTC	Pilots_Dodge	N	Battle						C	162		Pay 2 Force -> Prevent up to 2 damage to one of your Space or Ground units.	
-Recon Speeder	AOTC	Recon_Speeder	N	Ground	Republic Speeder	5	30	4	3	U	163		Shields 1	
-Republic Attack Gunship UH-478	AOTC	Republic_Attack_Gunship_UH_478	L	Ground	Republic Guship	6	40	6	6	C	164			
-Repulsorlift Malfunction	AOTC	Repulsorlift_Malfunction	N	Battle						C	165		Pay 5 Force -> Choose an untapped Ground unit. Tap that unit.	
-Return to Spaceport	AOTC	Return_to_Spaceport	N	Mission		1				C	166		Remove up to 4 damage counters from one of your Ground units.	
-Rickshaw	AOTC	Rickshaw	N	Ground	Tatooine Vehicle	2	20	2	2	C	167			
-Slumming on Coruscant	AOTC	Slumming_on_Coruscant	N	Mission		1				C	168		Look at your opponent's hand. If your opponent has any Battle or Mission cards there, choose one of them. Your opponent discards that card.	
-Sonic Shockwave	AOTC	Sonic_Shockwave	N	Battle						C	169		Pay 5 Force -> Choose an untapped Space unit. Tap that unit.	
-Speeder Bike Squadron	AOTC	Speeder_Bike_Squadron	L	Ground	Republic Speeder	5	60	3	4	C	170		Shields 1	
-Starship Refit	AOTC	Starship_Refit	N	Mission		1				C	171		Remove up to 4 damage counters from one of your Space units.	
-Surge of Power	AOTC	Surge_of_Power	N	Battle						C	172		Pay 1 Force -> One of your units gets +2 power for this attack.	
-Swoop Bike	AOTC	Swoop_Bike	N	Ground	Tatooine Speeder	2	50	2	1	C	173			
-Take the Initiative	AOTC	Take_the_Initiative	N	Mission		1				C	174		Return up to 2 Space units cards from your discard pile to your hand.	
-Target Locked	AOTC	Target_Locked	N	Battle						C	175		Pay 2 Force -> One of your units gets Critical Hit 2 for this attack.	
-Taylander Shuttle	AOTC	Taylander_Shuttle	N	Space	Independent Transport	2	20	2	2	C	176			
-Techno Union Starship	AOTC	Techno_Union_Starship	D	Space	Techno Union Capital Ship	6	30	6	6	C	177			
-Trade Federation War Freighter	AOTC	Trade_Federation_War_Freighter	D	Space	Trade Federation Capital Ship	7	30	5	7	C	178		Bombard 3	
-Walking Droid Fighter	AOTC	Walking_Droid_Fighter	D	Ground	Trade Federation Droid	4	20	6	2	C	179		Shields 1	
-Zam Wesell (B)	AOTC	Zam_Wesell_B	D	Character	Clawdite Bounty Hunter	3	40	3	3	C	180			
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	Script	Classification
+Anakin Skywalker (A)	AOTC	Anakin_Skywalker_A	L	Character	Jedi Padawan	7	60	6	5	R	1		Pay 3 Force -> Evade 3		
+Anakin Skywalker (B)	AOTC	Anakin_Skywalker_B	L	Character	Jedi Padawan	5	50	4	4	R	2		[tap] -> One of your units in the Ground arena gets +20 speed and +2 power until the end of battle. Play only during your build step. | Pay 1 Force -> Evade 1		
+Assassin Droid ASN-121 (A)	AOTC	Assassin_Droid_ASN_121_A	D	Character	Assassin Droid	3	50	4	1	R	3		[tap] -> Choose one of your opponents units in the Character arena. ASN-121 does 3 damage to that unit unless your opponent has a Jedi in the Character arena and pays 2 Force. Play only when ASN-121 would attack.		
+Bail Organa (A)	AOTC	Bail_Organa_A	L	Character	Alderaanian Diplomat	4	40	3	2	R	4	Because the effect begins by having your opponent choose a non-defined unit in the Character arena, your opponent may choose a tapped unit.	[tap] -> Your opponent chooses one of his or her units in the Character arena. Tap that unit unless your opponent pays 3 Force. Play only during your build step.		
+Battle Fatigue	AOTC	Battle_Fatigue	N	Battle						R	5		Pay 2 Force -> Choose an arena where no unit has attacked this turn. Each unit in that arena gets -1 power until the end of battle.		
+Boba Fett (A)	AOTC	Boba_Fett_A	N	Character	Clone Boy	2	40	2	1	R	6		As long as Boba is in the Character arena, each Bounty Hunter gets -10 speed.		
+Captain Typho (A)	AOTC	Captain_Typho_A	L	Character	Naboo Soldier	5	40	5	5	R	7		As long as Typho is in the Character arena, each of your other Naboo Soldiers gets +10 speed.		
+Clear the Skies	AOTC	Clear_the_Skies	N	Mission		3				R	8	Text erratum	Each player chooses and discards one of his or her units from each arena in which he or she  has 4 or more units. Dark Side first, then Light Side.		
+Clone Officer	AOTC	Clone_Officer	L	Character	Clone Soldier	5	40	5	4	R	9	This unit gives itself the bonus as well.	As long as this unit is in the Character arena, each of your Clones gets +1 power.		
+Dark Rendezvous	AOTC	Dark_Rendezvous	D	Mission		4				R	10		Your opponent loses 7 Force.		
+Dark Side's Command	AOTC	Dark_Sides_Command	D	Battle						R	11	If you choose to use the effect, then you get to make all the choices about which of your opponent's units is attacked. Your opponent can't choose not to attack and can't play an ability (e.g., such as an ability that is played when the unit would attack). If you choose not to use the effect, or if you can't use it because none of your opponent's units can be attacked, the unit attacks normally. In that case, your opponent gets to make all the choices, just like a normal attack.	Pay 8 Force -> Choose one of your opponent's tapped units in the Space arena. Untap that unit. The next time it would attack this turn, you may have it attack another of your opponent's units in the Space arena.		
+Dark Side's Compulsion	AOTC	Dark_Sides_Compulsion	D	Battle						R	12	If you choose to use the effect, then you get to make all the choices about which of your opponent's units is attacked. Your opponent can't choose not to attack and can't play an ability (e.g., such as an ability that is played when the unit would attack). If you choose not to use the effect, or if you can't use it because none of your opponent's units can be attacked, the unit attacks normally. In that case, your opponent gets to make all the choices, just like a normal attack.	Pay 8 Force -> Choose one of your opponent's tapped units in the Ground arena. Untap that unit. The next time it would attack this turn, you may have it attack another of your opponent's units in the Ground arena.		
+Darth Sidious (A)	AOTC	Darth_Sidious_A	D	Character	Dark Jedi Master	8	40	5	6	R	13	Text erratum	When the battle phase ends, if Sidious is in the Character arena, you gain +1 Force. | As long as Sidious is in the Character arena, your opponent builds all cards face up. The cards are still considered "face-down". | Pay 2 Force -> Evade 3		
+Darth Tyranus (A)	AOTC	Darth_Tyranus_A	D	Character	Dark Jedi Master	9	50	7	5	R	14		Pay 1 Force -> Tyranus gets +2 power for this attack. | Pay 3 Force -> Evade 3 | Pay 2 Force -> Deflect 1		
+Destruction of Hope	AOTC	Destruction_of_Hope	D	Mission		2				R	15		Your opponent chooses and discards 2 cards from his or her hand. You gain +1 Force.		
+Dexter Jettster (A)	AOTC	Dexter_Jettster_A	N	Character	Diner Owner	4	50	1	4	R	16		[tap] -> One of your Characters gets +3 power until the end of battle. Play only when Dexter would attack.		
+Geonosian Sentry	AOTC	Geonosian_Sentry	D	Character	Geonosian Soldier	6	40	4	4	R	17		As long as this unit is in the Character arena, each of your other Geonosians gets +10 speed.		
+Hero's Duty	AOTC	Heros_Duty	L	Battle						R	18		Pay 4 Force -> One of your units gets +5 power for this attack. When this attack ends, discard that unit.		
+Hero's Flaw	AOTC	Heros_Flaw	N	Battle						R	19		Pay 3 Force -> Choose one of your opponents Characters. This turn, each of your Characters get Critical Hit 2 as long as he or she is attacking that Character.		
+Interference in the Senate	AOTC	Interference_in_the_Senate	D	Battle						R	20		Pay 10 Force -> Choose an arena. Each of your opponent's units in that arena gets -20 speed and -2 power until the end of battle.		
+Jango Fett (A)	AOTC	Jango_Fett_A	D	Character	Bounty Hunter	8	60	7	6	R	21		As long as Jango is attacking a Jedi, he gets Critical Hit 2.		
+Jango Fett (B)	AOTC	Jango_Fett_B	D	Character	Bounty Hunter	6	60	6	4	R	22		As long as Jango is attacking a Jedi, he gets +1 power and Critical Hit 1.		
+Jar Jar Binks (A)	AOTC	Jar_Jar_Binks_A	L	Character	Gungan Diplomat	3	40	2	2	R	23		When your opponent rolls one or more dice in an attack on Jar Jar, you may reroll any of those dice.		
+Jedi Call for Help	AOTC	Jedi_Call_for_Help	L	Mission		3				R	24	Text erratum (Separating effects)	You may complete this Mission only if you have a Jedi in the Character arena. | Search your deck. You may take a unit card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck.		
+Jedi Council Summons	AOTC	Jedi_Council_Summons	L	Mission		2				R	25		Search your deck. You may take a Jedi card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck and gain +1 Force.		
+Jedi Knight's Deflection	AOTC	Jedi_Knights_Deflection	L	Battle						R	26		Pay 6 Force -> Prevent up to 2 damage to one of your units. That unit may do that much damage to a unit of your choice in the same arena.		
+Lama Su (A)	AOTC	Lama_Su_A	N	Character	Kaminoan Diplomat	4	20	3	3	R	27	While both players have Lama in play, the effect is doubled, making all clones cost -2 BP to deploy, instead of just -1 BP to deploy.	As long as Lama is in the Character arena, each Clone costs 1 fewer build counter to deploy.		
+Luxury Airspeeder	AOTC	Luxury_Airspeeder	N	Ground	Coruscant Speeder	3	60	2	2	U	28		As long as this unit is in the Ground arena, each of your other Ground units get +10 speed.		
+A Moment's Rest	AOTC	A_Moments_Rest	L	Mission		3				R	29		Choose one of your units. Prevent all damage to that unit this turn.		
+Naboo Defense Station	AOTC	Naboo_Defense_Station	L	Ground	Naboo Fortification	8	10	6	12	R	30				
+Obi-Wan Kenobi (A)	AOTC	Obi_Wan_Kenobi_A	L	Character	Jedi Knight	7	40	6	7	R	31	Obi-Wan can be discarded to prevent the damage to himself to gain an amount of Force equal to the damage done. 	Pay 2 Force -> Evade 2 | Discard Obi-Wan from the Character arena -> Prevent all damage to one of your Characters. Then you gain additional Force equal to the damage prevented.		
+Obi-Wan's Starfighter (A)	AOTC	Obi_Wans_Starfighter_A	L	Space	Jedi Starfighter	4	50	3	3	R	32		Critical Hit 2 | When the battle phase starts, if Obi-Wan's Starfighter is in the Space arena, remove all damage counters from Obi-Wan's Starfighter.		
+Order Here	AOTC	Order_Here	N	Mission		2				R	33		Each Battle card costs 3 more Force to play this turn. (Battle cards with no Force cost now cost 3 Force to play.)		
+Padme Amidala (A)	AOTC	Padme_Amidala_A	L	Character	Naboo Diplomat	5	60	4	4	R	34		As long as Padme is in the Character arena, each of your Jedi gets +10 speed and Anakin Skywalker gets +2 power.		
+Padme Amidala (B)	AOTC	Padme_Amidala_B	L	Character	Naboo Diplomat	4	40	3	2	R	35	If no roll for build points is made, Padme's ability has no effect.	When the roll for build points is made, if Padme is in the Character arena, the Dark Side gets -1 build point this turn.		
+Padme's Yacht (A)	AOTC	Padmes_Yacht_A	L	Space	Naboo Transport	5	40	3	5	R	36		Shields 1		
+Plo Koon (A)	AOTC	Plo_Koon_A	L	Character	Kel Dor Jedi Master	6	50	5	5	R	37		As long as you have another Jedi in the Character arena, Plo gets +1 power. | Pay 2 Force -> Evade 2		
+Plot the Secession	AOTC	Plot_the_Secession	D	Mission		3				R	38		Discard your hand. Then draw 5 cards.		
+Power Dive	AOTC	Power_Dive	N	Battle						R	39		Pay 3 Force -> Untap one of your tapped Starfighters in the Space arena or tapped Speeders in the Ground arena.		
+Queen Jamillia (A)	AOTC	Queen_Jamillia_A	L	Character	Naboo Diplomat	4	30	3	2	R	40		[tap] -> Retreat one of your Diplomats. Play only when Jamillia would attack.		
+R2-D2 (A)	AOTC	R2_D2_A	L	Character	Astromech Droid	3	10	2	3	R	41		[tap] -> Each of your units in the Space arena gets Critical Hit 1 until end of battle. Play only during your build step.		
+San Hill (A)	AOTC	San_Hill_A	D	Character	IG Banking Clan Diplomat	2	20	1	2	U	42		[tap] -> You get +2 build points this turn. You opponent gets +1 build points this turn. Play only during you build step.	<s><l>Tap to gain 2BP and give your opponent 1BP</l><f>/cr90;/player stat2 +2;/player2 stat2 +1;/s taps San Hill (A) to gain 2BP and give their opponent 1BP</f></s>	
+Second Effort	AOTC	Second_Effort	N	Battle						R	43		Pay 5 Force -> Choose one or more of your attack dice. Reroll those dice.		
+Seek the Council's Wisdom	AOTC	Seek_the_Councils_Wisdom	L	Mission		2				R	44		You gain +4 Force.		
+Shu Mai (A)	AOTC	Shu_Mai_A	D	Character	Commerce Guild Diplomat	3	30	3	2	U	45		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.		
+Slave I (A)	AOTC	Slave_1_A	D	Space	Patrol Ship	4	40	5	3	R	46		As long as Slave I is in the Space arena, your opponent can't retreat any Space units with damage counters on them during his or her retreat step.		
+Spirit of the Fallen	AOTC	Spirit_of_the_Fallen	L	Battle						R	47		Pay 2 Force -> Each of you Characters gets +2 power until the end of battle. Play only if one of your Characters has been discarded from the Character arena this turn.		
+Target the Senator	AOTC	Target_the_Senator	D	Mission		3				R	48		When the battle phase starts, choose one of your opponent's units in any arena. Target the Senator does 4 dice of damage to that unit.		
+Taun We (A)	AOTC	Taun_We_A	N	Character	Kaminoan Diplomat	2	20	2	3	R	49		As long as Taun is in the Character arena, each of your Clones gets +10 speed.		
+Trade Federation Battleship Core	AOTC	Trade_Federation_Battleship_Core	D	Ground	Trade Federation Fortification	9	10	10	12	R	50				
+Tyranus's Edict	AOTC	Tyranuss_Edict	D	Mission		3				R	51	Tyranus's Edict is compatible with Han Enchained.	Choose one of your units. As long as that unit is in an arena, your other units in that arena can't be attacked this turn.		
+Tyranus's Geonosian Speeder (A)	AOTC	Tyranuss_Geonosian_Speeder_A	D	Ground	Geonosian Speeder	6	40	2	1	R	52		[tap] -> Search your deck. You may take a Battle card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during your build step.		
+Tyranus's Solar Sailer (A)	AOTC	Tyranuss_Solar_Sailer_A	D	Space	Geonosian Starfighter	4	60	2	2	R	53		Critical Hit 2 | When its attack ends, you may retreat Tyranus's Solar Sailer.		
+Tyranus's Wrath	AOTC	Tyranuss_Wrath	D	Battle						R	54		Pay 8 Force -> the attacking unit gets +7 power for this attack.		
+War Will Follow	AOTC	War_Will_Follow	D	Battle						R	55	Text erratum	Pay 3 Force -> Choose a Space unit in your opponent's build zone. Put that unit into the Space arena. If it's tapped, untap it.		
+Ward of the Jedi	AOTC	Ward_of_the_Jedi	L	Battle						R	56		Pay 4 Force -> Choose one of your units. That unit can't be attacked this turn as long as you have any other units in the same arena.		
+Windu's Solution	AOTC	Windus_Solution	L	Battle						R	57		Pay 2 Force -> One of your units gets +30 speed and +2 power until the end of battle.		
+Yoda (A)	AOTC	Yoda_A	L	Character	Jedi Master	9	40	6	6	R	58		When end the battle phase does, if Yoda in the Character arena is, +1 Force you gain. | 2 Force pay -> Evade 3 | 10 Force pay -> Deflect 3		
+Yoda's Intervention	AOTC	Yodas_Intervention	L	Battle						R	59		Pay 3 Force -> Prevent up to 3 damage to one of your units.		
+Zam Wesell (A)	AOTC	Zam_Wesell_A	D	Character	Clawdite Bounty Hunter	6	60	6	4	R	60		When the Character battle steps starts, if Zam is in the Character arena, choose one: remove 1 damage counter from Zam, or Zam gets Critical Hit 2 until end of battle.		
+Acklay	AOTC	Acklay	D	Character	Geonosian Creature	3	40	3	3	U	61		As long as you have no other units in the Character arena, this unit gets +30 speed.		
+Anakin Skywalker (C)	AOTC	Anakin_Skywalker_C	L	Character	Jedi Padawan	5	60	5	4	U	62		Pay 2 Force -> Evade 2		
+Anakin's Inspiration	AOTC	Anakins_Inspiration	L	Battle						U	63		Pay 2 Force -> Choose an arena. Each of your units in that arena gets +20 speed until end of battle.		
+AT-TE Walker 23X	AOTC	AT_TE_Walker_23X	L	Ground	Republic Assault Walker	6	50	5	4	U	64		Critical Hit 2		
+AT-TE Walker 71E	AOTC	AT_TE_Walker_71E	L	Ground	Republic Assault Walker	6	60	5	4	R	65		Shields 1		
+Attract Enemy Fire	AOTC	Attract_Enemy_Fire	N	Battle						U	66		Pay 2 Force -> Choose one of your units in the same arena as the attacking unit. the attacking unit now attacks that unit instead of the original defending unit, unless that unit can't be attacked. Play this only before your opponent rolls attack dice.		
+C-3PO (A)	AOTC	C_3PO_A	L	Character	Protocol Droid	3	10	1	3	U	67		[tap], Discard 2 cards from your hand -> Draw 2 cards. Play only during your build step.		
+Capture Obi-Wan	AOTC	Capture_Obi_Wan	D	Mission		2				U	68		Your opponent loses 2 Force. You gain +2 Force.		
+Chancellor Palpatine (A)	AOTC	Chancellor_Palpatine_A	L	Character	Coruscant Diplomat	4	30	4	4	R	69	As long as Palpatine is in the Character arena has no significance.	As long as Palpatine is in the Character arena, each of your opponent's Characters gets -10 speed.		
+Chase the Villain	AOTC	Chase_the_Villain	L	Mission		2				U	70		Your opponent can't retreat any Characters during his or her retreat step this turn.		
+Cheat the Game	AOTC	Cheat_the_Game	N	Battle						U	71	This applies only to the current attack.	Pay 3 Force -> Reroll all your attack dice.		
+Cliegg Lars (A)	AOTC	Cliegg_Lars_A	L	Character	Tatooine Farmer	2	30	2	2	U	72		When you deploy Cliegg, you lose 1 Force.		
+Clone Warrior 4/163	AOTC	Clone_Warrior_4_163	L	Character	Clone Soldier	4	40	4	4	U	73				
+Clone Warrior 5/373	AOTC	Clone_Warrior_5_373	L	Character	Clone Soldier	3	40	3	3	U	74				
+Commerce Guild Droid Platoon	AOTC	Commerce_Guild_Droid_Platoon	D	Ground	Commerce Guild Droid	7	30	5	6	U	75		Ion Cannon 3		
+Corde (A)	AOTC	Corde_A	L	Character	Naboo Handmaiden	2	30	2	1	U	76		Critical Hit 1 | Discard Corde from the Character arena -> Prevent all damage to any one non-Jedi Character.		
+Coruscant Freighter AA-9 (A)	AOTC	Coruscant_Freighter_AA_9_A	N	Space	Independent Transport	7	20	1	8	U	77		[tap] -> Draw 3 cards, then discard 2 cards from your hand. Play only during your build step.		
+Dark Speed	AOTC	Dark_Speed	D	Battle						U	78		One of your units gets +30 speed until the end of battle.		
+Darth Tyranus (B)	AOTC	Darth_Tyranus_B	D	Character	Dark Jedi Master	7	50	6	4	U	79		Pay 2 Force -> Tyranus gets Critical Hit 2 for this attack. | Pay 3 Force -> Evade 3		
+Departure Time	AOTC	Departure_Time	N	Mission		2				U	80		You may discard one of your units from any arena. If you do, you get +4 build points this turn.		
+Destroyer Droid, P Series	AOTC	Destroyer_Droid_P_Series	D	Character	Trade Federation Droid	7	40	5	4	U	81		When the Character battle step starts, if this unit is in the Character arena, choose one: this unit gets +20 speed, or this unit gets +2 power until the end of battle. | Shields 1		
+Down in Flames	AOTC	Down_in_Flames	N	Battle						U	82		Pay 4 Force -> Choose one of your opponent's Speeders in the Ground arena. Your opponent discards that Speeder.		
+Droid Control Ship	AOTC	Droid_Control_Ship	D	Space	Trade Federation Capital Ship	9	10	9	9	U	83		As long as this unit is in the Space arena, each of your Droids gets +10 speed. | When this unit is discarded from the Space arena, it does 1 damage to each of your Droids in each arena.		
+Elan Sleazebaggano (A)	AOTC	Elan_Sleazebaggano_A	N	Character	Coruscant Merchant	3	50	3	1	R	84		As long as Elan is in the Character arena, each of your other Characters gets +20 speed. When the battle phase ends, Elan does 1 damage to each of your other Characters.		
+Geonosian Guard	AOTC	Geonosian_Guard	D	Character	Geonosian Soldier	2	30	2	2	U	85				
+Geonosian Warrior	AOTC	Geonosian_Warrior	D	Character	Geonosian Soldier	3	50	3	2	U	86				
+Go to the Temple	AOTC	Go_to_the_Temple	L	Battle						U	87		Pay 2 Force -> Choose an arena. Retreat any number of your units in that arena. Play only if no unit is attacking.		
+Infantry Battle Droid, B1 Series	AOTC	Infantry_Battle_Droid_B1_Series	D	Character	Trade Federation Droid	2	40	2	1	U	88		When this unit is discarded from the Character arena, draw a card.		
+Jango Fett (C)	AOTC	Jango_Fett_C	D	Character	Bounty Hunter	5	60	4	4	U	89		As long as Jango is attacking a Jedi, he gets +2 power.		
+Jawa Sandcrawler	AOTC	Jawa_Sandcrawler	N	Ground	Tatooine Sandcrawler	4	10	2	7	U	90		[tap] -> Draw 2 cards, then discard 2 cards from your hand. Play only during your build step.		
+Jedi Patrol	AOTC	Jedi_Patrol	L	Ground	Jedi Knight	3	30	3	3	U	91		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.		
+Kaminoan Guard	AOTC	Kaminoan_Guard	N	Character	Kaminoan Soldier	4	50	3	3	U	92		As long as there are one or more Clones in any arena, this unit gets +1 power.		
+Kit Fisto (A)	AOTC	Kit_Fisto_A	L	Character	Nautolan Jedi Master	5	40	4	5	U	93		Pay 2 Force -> Evade 2		
+Master and Apprentice	AOTC	Master_and_Apprentice	L	Battle						U	94		Pay 3 Force -> Up to 2 of your units each get +2 power until the end of battle.		
+Naboo Security Guard	AOTC	Naboo_Security_Guard	L	Character	Naboo Soldier	2	30	2	2	U	95				
+Naboo Spaceport	AOTC	Naboo_Spaceport	L	Ground	Naboo Fortification	9	10	7	9	U	96		Ion Cannon 4		
+Nexu	AOTC	Nexu	D	Character	Geonosian Creature	5	50	4	3	U	97	This unit increases the cost of all activated abilities. (Not just those with Force costs.)	As long as Nexu is in the Character arena, each activated ability of your opponent's units costs 1 more Force to play.		
+Nute Gunray (A)	AOTC	Nute_Gunray_A	D	Character	Trade Federation Diplomat	3	20	2	3	U	98		[tap] -> You opponents chooses and discards a card from his or her hand. Play only during your build step.		
+Obi-Wan Kenobi (B)	AOTC	Obi_Wan_Kenobi_B	L	Character	Jedi Knight	5	40	5	5	U	99		Pay 2 Force -> Obi-Wan gets Critical Hit 2 for this attack. | Pay 2 Force -> Evade 2 | Pay 1 Force -> Prevent 1 damage to Anakin Skywalker.		
+Padme Amidala (C)	AOTC	Padme_Amidala_C	L	Character	Naboo Diplomat	4	50	3	3	U	100		Put 1 damage counter on Padme and retreat her -> Prevent all damage to Padme.		
+Poggle the Lesser (A)	AOTC	Poggle_the_Lesser_A	D	Character	Geonosian Diplomat	4	40	3	3	U	101		[tap] -> Choose one of your opponent's units in the Character arena. Tap that unit unless your opponent pays 3 Force. Play only when Poggle would attack.		
+Reek	AOTC	Reek	D	Ground	Geonosian Creature	3	50	2	2	U	102		[tap] -> Draw a card, then discard a card from your hand. Play only during your build step.		
+Republic Assault Ship	AOTC	Republic_Assault_Ship	L	Space	Republic Capital Ship	7	30	6	7	U	103		Bombard 2		
+Republic Cruiser	AOTC	Republic_Cruiser	L	Space	Republic Transport	4	30	4	3	C	104		Shields 1		
+Shaak Ti (A)	AOTC	Shaak_Ti_A	L	Character	Togruta Jedi Master	4	50	3	5	U	105		Pay 1 Force -> Evade 1		
+Ship Arrival	AOTC	Ship_Arrival	N	Mission		2				U	106		Choose Space, Ground, or Character. Reveal cards from the top of your deck until you reveal a unit card of that type. Put that card into your hand and shuffle the other revealed cards into your deck.		
+Splinter the Republic	AOTC	Splinter_the_Republic	D	Mission		1				U	107		Search your deck. You may take a card from your deck with the same name as one of your units in any arena. Show it to your opponent and put it into your hand. Then shuffle your deck.		
+Strength of Hate	AOTC	Strength_of_Hate	D	Battle						U	108		Pay 2 Force -> One of your units gets +3 power for this attack.		
+Subtle Assassination	AOTC	Subtle_Assassination	D	Mission		3				U	109		Choose one of your opponent's units in the Character arena with power 3 or less. Your opponent discards that unit.		
+Super Battle Droid 8EX	AOTC	Super_Battle_Droid_8EX	D	Character	Trade Federation Droid	5	40	5	5	U	110		As long as you have another Droid in any arena, this unit gets +10 speed and +1 power.		
+Trade Federation Battleship	AOTC	Trade_Federation_Battleship	D	Space	Trade Federation Capital Ship	6	10	4	6	U	111		Bombard 4		
+Trade Federation C-9979	AOTC	Trade_Federation_C_9979	D	Space	Trade Federation Transport	4	20	2	5	U	112		[tap] -> Draw a card. Play only during your build step.		
+Tyranus's Gift	AOTC	Tyranuss_Gift	D	Battle						U	113		Pay 3 Force -> the attacking unit gets -5 power for this attack.		
+Underworld Connections	AOTC	Underworld_Connections	L	Mission		1				U	114		Look at your opponent's hand. Then you gain +1 Force.		
+Wat Tambor (A)	AOTC	Wat_Tambor_A	D	Character	Techno Union Diplomat	4	30	2	3	U	115	If no roll for build points is made, Wat's ability has no effect.	When the roll for build points is made, if Wat is in the Character arena, the Light Side gets -1 build point this turn.		
+Watto (A)	AOTC	Watto_A	N	Character	Tatooine Merchant	4	20	3	3	U	116		When the battle phase ends, if Watto is in the Character arena, you may remove a damage counter from one of your Droids, Speeders, or Starfighters.		
+Weapon Response	AOTC	Weapon_Response	N	Battle						U	117		Pay 1 Force -> the attacking unit gets -2 power for this attack.		
+Wedding of Destiny	AOTC	Wedding_of_Destiny	L	Mission		2				U	118		Draw 3 cards. Then you gain +1 Force.		
+Yoda (B)	AOTC	Yoda_B	L	Character	Jedi Master	5	40	4	4	U	119		3 Force pay -> Evade 4 | 5 Force pay -> Deflect 2 | [tap] -> +1 Force you gain. Only during your build step play.		
+Zam's Airspeeder (A)	AOTC	Zams_Airspeeder_A	D	Ground	Coruscant Speeder	2	60	1	1	U	120		Critical Hit 3		
+Anakin Skywalker (D)	AOTC	Anakin_Skywalker_D	L	Character	Jedi Padawan	4	50	4	3	C	121		Pay 1 Force -> Evade 1		
+Battle Droid Squad	AOTC	Battle_Droid_Squad	D	Ground	Trade Federation Droid	2	10	2	3	C	122				
+Bravo N-1 Starfighter	AOTC	Bravo_N_1_Starfighter	L	Space	Naboo Starfighter	3	50	3	2	C	123		Critical Hit 1		
+Chancellor's Guard Squad	AOTC	Chancellors_Guard_Squad	L	Ground	Republic Soldier	3	30	2	3	C	124		Critical Hit 2		
+Clone Platoon	AOTC	Clone_Platoon	L	Ground	Clone Soldier	4	40	4	4	C	125				
+Clone Squad	AOTC	Clone_Squad	L	Ground	Clone Soldier	3	10	3	3	C	126				
+Commerce Guild Droid 81	AOTC	Commerce_Guild_Droid_81	D	Ground	Commerce Guild Droid	6	30	7	5	C	127				
+Commerce Guild Starship	AOTC	Commerce_Guild_Starship	D	Space	Commerce Guild Transport	4	30	3	4	C	128		Shields 1		
+Corellian Star Shuttle	AOTC	Corellian_Star_Shuttle	L	Space	Republic Transport	4	20	3	4	C	129		[tap] -> Draw a card. Play only during your build step.		
+Darth Tyranus (C)	AOTC	Darth_Tyranus_C	D	Character	Dark Jedi Master	5	50	5	4	C	130		Pay 2 Force -> Evade 2		
+Destroyer Droid Squad	AOTC	Destroyer_Droid_Squad	D	Ground	Trade Federation Droid	5	40	5	5	C	131				
+Droid Starfighter DFS-4CT	AOTC	Droid_Starfighter_DFS_4CT	D	Space	Trade Federation Droid Starfighter	2	50	2	1	C	132				
+Droid Starfighter Squadron	AOTC	Droid_Starfighter_Squadron	D	Space	Trade Federation Droid Starfighter	3	40	3	3	C	133				
+Droid Starfighter Wing	AOTC	Droid_Starfighter_Wing	D	Space	Trade Federation Droid Starfighter	4	40	4	4	C	134				
+Elite Jedi Squad	AOTC	Elite_Jedi_Squad	L	Ground	Jedi Knight	3	40	3	2	C	135		Critical Hit 2		
+Flying Geonosian Squad	AOTC	Flying_Geonosian_Squad	D	Ground	Geonosian Soldier	6	30	4	6	C	136				
+Geonosian Defense Platform	AOTC	Geonosian_Defense_Platform	D	Ground	Geonosian Fortification	7	20	7	7	C	137				
+Geonosian Fighter	AOTC	Geonosian_Fighter	D	Space	Geonosian Starfighter	3	50	2	2	C	138		Critical Hit 1		
+Geonosian Squad	AOTC	Geonosian_Squad	D	Ground	Geonosian Soldier	4	30	2	3	C	139		Critical Hit 3		
+Gozanti Cruiser	AOTC	Gozanti_Cruiser	N	Space	Independent Transport	6	10	5	6	C	140				
+Hatch a Clone	AOTC	Hatch_a_Clone	N	Mission		1				C	141		Return up to 2 Ground unit cards from your discard pile to your hand.		
+Hero's Dodge	AOTC	Heros_Dodge	N	Battle						C	142		Pay 1 Force -> Prevent up to 2 damage to one of your Characters.		
+High-Force Dodge	AOTC	High_Force_Dodge	N	Battle						C	143		Pay 5 Force -> Prevent up to 5 damage to one of your units.		
+Hyperdrive Ring	AOTC	Hyperdrive_Ring	L	Space	Republic Device	3	30	1	3	C	144		As long as you have a Starfighter in the Space arena, this unit gets +2 power.		
+Intergalactic Banking Clan Starship	AOTC	Intergalactic_Banking_Clan_Starship	D	Space	IG Banking Clan Transport	5	20	4	5	C	145		Shields 1		
+Jango Fett (D)	AOTC	Jango_Fett_D	D	Character	Bounty Hunter	4	50	4	3	C	146		Critical Hit 1		
+Jedi Starfighter 3R3	AOTC	Jedi_Starfighter_3R3	L	Space	Jedi Starfighter	3	50	3	3	C	147				
+Knockdown	AOTC	Knockdown	N	Battle						C	148		Pay 4 Force -> Choose an untapped Character. Tap that Character.		
+Lost in the Asteroids	AOTC	Lost_in_the_Asteroids	N	Battle						C	149	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Space units this turn. Play only before any unit in the Space arena attacks.		
+Lull in the Fighting	AOTC	Lull_in_the_Fighting	N	Battle						C	150	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Characters this turn. Play only before any unit in the Character arena attacks.		
+Mending	AOTC	Mending	N	Mission		2				C	151		Remove up to 4 damage counters from one of your Characters. You gain +1 Force.		
+N-1 Starfighter	AOTC	N_1_Starfighter	L	Space	Naboo Starfighter	2	60	2	1	C	152				
+Naboo Cruiser	AOTC	Naboo_Cruiser	L	Space	Naboo Transport	6	10	6	7	C	153				
+Naboo Royal Starship	AOTC	Naboo_Royal_Starship	L	Space	Naboo Transport	5	20	5	6	C	154				
+Naboo Senatorial Escort	AOTC	Naboo_Senatorial_Escort	L	Ground	Naboo Soldier	2	10	2	3	C	155				
+Naboo Starfighter Squadron	AOTC	Naboo_Starfighter_Squadron	L	Space	Naboo Starfighter	4	40	4	4	C	156				
+Obi-Wan Kenobi (C)	AOTC	Obi_Wan_Kenobi_C	L	Character	Jedi Knight	4	40	4	4	C	157		Pay 2 Force -> Evade 2		
+Padawan's Deflection	AOTC	Padawans_Deflection	N	Battle						C	158		Pay 3 Force -> Prevent 1 damage to one of your units. That unit may do that much damage to a unit of your choice in the same arena.		
+Padme Amidala (D)	AOTC	Padme_Amidala_D	L	Character	Naboo Diplomat	3	50	3	3	C	159				
+Patrol Speeder	AOTC	Patrol_Speeder	N	Ground	Naboo Speeder	4	20	3	4	C	160				
+Peace on Naboo	AOTC	Peace_on_Naboo	N	Battle						C	161	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Ground units this turn. Play only before any unit in the Ground arena attacks.		
+Pilot's Dodge	AOTC	Pilots_Dodge	N	Battle						C	162		Pay 2 Force -> Prevent up to 2 damage to one of your Space or Ground units.		
+Recon Speeder	AOTC	Recon_Speeder	N	Ground	Republic Speeder	5	30	4	3	U	163		Shields 1		
+Republic Attack Gunship UH-478	AOTC	Republic_Attack_Gunship_UH_478	L	Ground	Republic Guship	6	40	6	6	C	164				
+Repulsorlift Malfunction	AOTC	Repulsorlift_Malfunction	N	Battle						C	165		Pay 5 Force -> Choose an untapped Ground unit. Tap that unit.		
+Return to Spaceport	AOTC	Return_to_Spaceport	N	Mission		1				C	166		Remove up to 4 damage counters from one of your Ground units.		
+Rickshaw	AOTC	Rickshaw	N	Ground	Tatooine Vehicle	2	20	2	2	C	167				
+Slumming on Coruscant	AOTC	Slumming_on_Coruscant	N	Mission		1				C	168		Look at your opponent's hand. If your opponent has any Battle or Mission cards there, choose one of them. Your opponent discards that card.		
+Sonic Shockwave	AOTC	Sonic_Shockwave	N	Battle						C	169		Pay 5 Force -> Choose an untapped Space unit. Tap that unit.		
+Speeder Bike Squadron	AOTC	Speeder_Bike_Squadron	L	Ground	Republic Speeder	5	60	3	4	C	170		Shields 1		
+Starship Refit	AOTC	Starship_Refit	N	Mission		1				C	171		Remove up to 4 damage counters from one of your Space units.		
+Surge of Power	AOTC	Surge_of_Power	N	Battle						C	172		Pay 1 Force -> One of your units gets +2 power for this attack.		
+Swoop Bike	AOTC	Swoop_Bike	N	Ground	Tatooine Speeder	2	50	2	1	C	173				
+Take the Initiative	AOTC	Take_the_Initiative	N	Mission		1				C	174		Return up to 2 Space units cards from your discard pile to your hand.		
+Target Locked	AOTC	Target_Locked	N	Battle						C	175		Pay 2 Force -> One of your units gets Critical Hit 2 for this attack.		
+Taylander Shuttle	AOTC	Taylander_Shuttle	N	Space	Independent Transport	2	20	2	2	C	176				
+Techno Union Starship	AOTC	Techno_Union_Starship	D	Space	Techno Union Capital Ship	6	30	6	6	C	177				
+Trade Federation War Freighter	AOTC	Trade_Federation_War_Freighter	D	Space	Trade Federation Capital Ship	7	30	5	7	C	178		Bombard 3		
+Walking Droid Fighter	AOTC	Walking_Droid_Fighter	D	Ground	Trade Federation Droid	4	20	6	2	C	179		Shields 1		
+Zam Wesell (B)	AOTC	Zam_Wesell_B	D	Character	Clawdite Bounty Hunter	3	40	3	3	C	180				
