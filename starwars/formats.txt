@@ -11,6 +11,23 @@
 </format>
 
 <format>
+<label>Standard2</label>
+<set>JK</set>
+<set>TUF</set>
+<set>BOC</set>
+<set>SOLO</set>
+<set>KAE</set>
+<set>TM</set>
+<set>TROS</set>
+<set>15TH</set>
+</format>
+
+<format>
+<label>Rise of Skywalker</label>
+<set>TROS</set>
+</format>
+
+<format>
 <label>The Mandalorian</label>
 <set>TM</set>
 </format>
@@ -40,7 +57,7 @@
 <set>RAS</set>
 <set>PM</set>
 <set>ROTJ</set>
-<set>ROTS</set
+<set>ROTS</set>
 </format>
 
 <format>
