@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>210414</lastupdateYYMMDD>
+<lastupdateYYMMDD>210523</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Added The Mandalorian set and more scripted card actions. With a few card changes</message>
+<message>The Rise of Skywalker release and classification column</message>
 
 </version>
