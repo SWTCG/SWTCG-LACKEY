@@ -456,7 +456,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>VP</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -469,7 +469,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TAL</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -481,7 +481,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>SBS</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -493,7 +493,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>DAN</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -506,7 +506,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BL</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -519,7 +519,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>RO</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -533,7 +533,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BOSB</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -546,7 +546,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TLJ</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -559,7 +559,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>SOR</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -572,7 +572,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BF</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -585,7 +585,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>JK</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -598,7 +598,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TUF</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -611,7 +611,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BOC</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -624,7 +624,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>SOLO</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -637,7 +637,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>START</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -650,7 +650,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>KAE</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -663,7 +663,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>PROMO</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -676,13 +676,24 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TM</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
 </pack>
 
-
+<pack>
+	<packtitle>The Rise of Skywalker</packtitle>
+	<packimage>TROS</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TROS</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
 
 
 </packdefinitions>
