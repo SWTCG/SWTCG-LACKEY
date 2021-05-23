@@ -68,7 +68,7 @@ plugins/starwars/packs/start.jpg	https://lackey.swtcg.com/starwars/packs/start.j
 plugins/starwars/packs/promo.jpg	https://lackey.swtcg.com/starwars/packs/promo.jpg	509491
 plugins/starwars/packs/kae.jpg	https://lackey.swtcg.com/starwars/packs/kae.jpg	1462702
 plugins/starwars/packs/TM.jpg	https://lackey.swtcg.com/starwars/packs/TM.jpg	1389412
-plugins/starwars/packs/TROS.jpg	https://lackey.swtcg.com/starwars/packs/TROS.jpg	5555555
+plugins/starwars/packs/TROS.jpg	https://lackey.swtcg.com/starwars/packs/TROS.jpg	0
 plugins/starwars/sets/AGD.txt	https://lackey.swtcg.com/starwars/sets/AGD.txt	6881229
 plugins/starwars/sets/ANH.txt	https://lackey.swtcg.com/starwars/sets/ANH.txt	2997989
 plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2439874
@@ -119,7 +119,7 @@ plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt
 plugins/starwars/sets/START.txt	https://lackey.swtcg.com/starwars/sets/START.txt	4451722
 plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5767848
 plugins/starwars/sets/TM.txt	https://lackey.swtcg.com/starwars/sets/TM.txt	6744506
-plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6789996
+plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	0
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://lackey.swtcg.com/starwars/sounds/attack.wav	-280414
 plugins/starwars/sounds/bye.wav	https://lackey.swtcg.com/starwars/sounds/bye.wav	-284320
