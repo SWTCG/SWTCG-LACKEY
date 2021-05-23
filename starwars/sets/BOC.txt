@@ -112,7 +112,7 @@ Crait Battlefront	BOC	BOC110_Crait_Battlefront	N	Location	Ground - Crait Battlef
 Crait Mixed Force	BOC	BOC111_Crait_Mixed_Force	L	Ground	Resistance Soldier Squad	4	30	4	3	C	111		As long as you have a Resistance Officer in the Character arena, this unit gets +30 speed.		RES
 Crait Observer	BOC	BOC112_Crait_Observer	L	Character	Resistance Soldier	3	60	2	2	C	112		Each of your opponent's Ground units loses Stealth and can't use Ambush.		RES
 Crait System	BOC	BOC113_Crait_System	L	Location	Space - Rebel Crait Star System	3				C	113		Hidden Cost 1 | Each of your Resistance Transports gets +10 speed and Lucky 1.		RES
-Crystal Critters	BOC	BOC114_Crystal_Critters	N	Battle						C	114		Prevent up to 3 damage to one of your Creatures in any arena and retreat it. | Enhance: Pay 3 Force -> You may also remove up to 2 damage counters from that Creature.		RES
+Crystal Critters	BOC	BOC114_Crystal_Critters_v2	N	Battle						C	114		Prevent up to 3 damage to one of your Creatures in any arena and retreat it. | Enhance: Pay 3 Force -> You may also remove up to 2 damage counters from that Creature.		RES
 Finn (K)	BOC	BOC115_Finn_K	L	Character	Resistance Soldier	3	50	3	2	C	115		Speeder Pilot. The Speeder gets:  -+1 power  -Pay 1 Force -> Protect 1		RES
 Finn's Ski Speeder (C)	BOC	BOC116_Finn_s_Ski_Speeder_C	L	Ground	Resistance Speeder	4	70	1	3	C	116		Put 1 damage counter on Finn's Ski Speeder -> Put 3 damage counters on one of your opponent's units in the Ground arena, unless your opponent pays 2 Force. Play only when no unit is attacking.		RES
 First Order Arctic Detachment	BOC	BOC117_First_Order_Arctic_Detachment	D	Ground	First Order Arctic Stormtrooper Squad	6	40	4	4	C	117		Focus 2 | When this unit is discarded, you may draw a card. | Double Strike		RES
