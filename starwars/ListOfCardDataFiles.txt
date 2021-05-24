@@ -47,6 +47,7 @@
 <filetoinclude>TLJ.txt</filetoinclude>
 <filetoinclude>TM.txt</filetoinclude>
 <filetoinclude>TOR.txt</filetoinclude>
+<filetoinclude>TROS.txt</filetoinclude>
 <filetoinclude>TUF.txt</filetoinclude>
 <filetoinclude>VP.txt</filetoinclude>
 </listofcarddatafiles>

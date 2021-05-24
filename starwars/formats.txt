@@ -1,6 +1,16 @@
 <formatdefinitions>
 
 <format>
+<label>Standard1</label>
+<set>JK</set>
+<set>TUF</set>
+<set>BOC</set>
+<set>SOLO</set>
+<set>KAE</set>
+<set>TM</set>
+</format>
+
+<format>
 <label>Standard</label>
 <set>JK</set>
 <set>TUF</set>
@@ -8,6 +18,13 @@
 <set>SOLO</set>
 <set>KAE</set>
 <set>TM</set>
+<set>TROS</set>
+<set>15TH</set>
+</format>
+
+<format>
+<label>Rise of Skywalker</label>
+<set>TROS</set>
 </format>
 
 <format>
@@ -40,7 +57,7 @@
 <set>RAS</set>
 <set>PM</set>
 <set>ROTJ</set>
-<set>ROTS</set
+<set>ROTS</set>
 </format>
 
 <format>
