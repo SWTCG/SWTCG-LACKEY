@@ -1,16 +1,6 @@
 <formatdefinitions>
 
 <format>
-<label>Standard1</label>
-<set>JK</set>
-<set>TUF</set>
-<set>BOC</set>
-<set>SOLO</set>
-<set>KAE</set>
-<set>TM</set>
-</format>
-
-<format>
 <label>Standard</label>
 <set>JK</set>
 <set>TUF</set>
@@ -28,8 +18,8 @@
 </format>
 
 <format>
-<label>The Mandalorian</label>
-<set>TM</set>
+<label>IDC 15th Anniversary</label>
+<set>15TH</set>
 </format>
 
 <format>
@@ -38,13 +28,58 @@
 </format>
 
 <format>
-<label>TOR</label>
+<label>TOR - The Old Republic</label>
 <set>DAN</set>
 <set>TAL</set>
 <set>TOR</set>
 <set>KAE</set>
 <set>RO2</set>
 </format>
+
+<format>
+<label>REP/CW - Republic and Clone Wars</label>
+<set>ION</set>
+<set>CAD</set>
+<set>RAW</set>
+<set>CWSO</set>
+<set>AGD</set>
+<set>BL</set>
+<set>FOTR</set>
+</format>
+
+<format>
+<label>REB - Rebellion Era</label>
+<set>TDT</set>
+<set>SOLO</set>
+<set>SOR</set>
+<set>RO</set>
+<set>SAV</set>
+<set>BOH</set>
+<set>BOE</set>
+<set>BF</set>
+</format>
+
+<format>
+<label>NEW - New Republic and New Jedi Order</label>
+<set>TM</set>
+<set>RS</set>
+<set>ER</set>
+<set>EE</set>
+<set>JK</set>
+<set>VP</set>
+<set>SBS</set>
+<set>TUF</set>
+</format>
+
+<format>
+<label>RES - Resistance Era</label>
+<set>TFA</set>
+<set>BSB</set>
+<set>TLJ</set>
+<set>BOC</set>
+<set>TROS</set>
+</format>
+
 
 <format>
 <label>WOTC</label>
