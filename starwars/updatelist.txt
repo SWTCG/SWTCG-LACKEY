@@ -8,6 +8,7 @@ plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageU
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
+plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	6666
 plugins/starwars/decks/New_Rep_DS_Starter.dek	https://lackey.swtcg.com/starwars/decks/New_Rep_DS_Starter.dek	587201
 plugins/starwars/decks/New_Rep_LS_Starter.dek	https://lackey.swtcg.com/starwars/decks/New_Rep_LS_Starter.dek	589688
 plugins/starwars/decks/Old_Rep_DS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Old_Rep_DS_Starter.dek	586400
