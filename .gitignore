@@ -56,7 +56,6 @@ Thumbs.db
 .vs/*
 v16/*
 /starwars.zip
-/starwars/pluginpreferences.txt
 /starwars/decks/*.dek
 <<<<<<< HEAD
 /starwars/decks/script_tests/*.dek

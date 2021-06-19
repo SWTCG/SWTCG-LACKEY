@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>210602</lastupdateYYMMDD>
+<lastupdateYYMMDD>210619</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>IDC 15th Anniversary fans choice card expansion</message>
+<message>2021 Rulebook 15th Anniversary</message>
 
 </version>

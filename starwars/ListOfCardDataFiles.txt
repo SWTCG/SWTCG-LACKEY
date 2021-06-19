@@ -18,6 +18,7 @@
 <filetoinclude>ER.txt</filetoinclude>
 <filetoinclude>ESB.txt</filetoinclude>
 <filetoinclude>FOTR.txt</filetoinclude>
+<filetoinclude>HELP.txt</filetoinclude>
 <filetoinclude>ION.txt</filetoinclude>
 <filetoinclude>JEDI.txt</filetoinclude>
 <filetoinclude>JG.txt</filetoinclude>

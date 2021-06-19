@@ -13,6 +13,26 @@
 </format>
 
 <format>
+<label>Vintage</label>
+<set>AOTC</set>
+<set>SR</set>
+<set>ANH</set>
+<set>BOY</set>
+<set>JG</set>
+<set>ESB</set>
+<set>RAS</set>
+<set>PM</set>
+<set>ROTJ</set>
+<set>ROTS</set>
+<set>FOTR</set>
+<set>SAV</set>
+<set>BOE</set>
+<set>RAW</set>
+<set>ION</set>
+<set>BOH</set>
+</format>
+
+<format>
 <label>Rise of Skywalker</label>
 <set>TROS</set>
 </format>
