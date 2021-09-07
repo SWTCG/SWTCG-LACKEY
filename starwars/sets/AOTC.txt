@@ -147,8 +147,8 @@ Intergalactic Banking Clan Starship	AOTC	Intergalactic_Banking_Clan_Starship	D	S
 Jango Fett (D)	AOTC	Jango_Fett_D	D	Character	Bounty Hunter	4	50	4	3	C	146		Critical Hit 1		WOTC, REP
 Jedi Starfighter 3R3	AOTC	Jedi_Starfighter_3R3	L	Space	Jedi Starfighter	3	50	3	3	C	147				WOTC, REP, CW
 Knockdown	AOTC	Knockdown	N	Battle						C	148		Pay 4 Force -> Choose an untapped Character. Tap that Character.		WOTC, REP, CW
-Lost in the Asteroids	AOTC	Lost_in_the_Asteroids	N	Battle						C	149	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Space units this turn. Play only before any unit in the Space arena attacks.		WOTC, REP, CW
-Lull in the Fighting	AOTC	Lull_in_the_Fighting	N	Battle						C	150	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Characters this turn. Play only before any unit in the Character arena attacks.		WOTC, REP, CW
+Lost in the Asteroids	AOTC	Lost_in_the_Asteroids	N	Battle						C	149	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Space units this turn. Play only before any unit in the Space arena attacks.		VR, WOTC, REP, CW
+Lull in the Fighting	AOTC	Lull_in_the_Fighting	N	Battle						C	150	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Characters this turn. Play only before any unit in the Character arena attacks.		VR, WOTC, REP, CW
 Mending	AOTC	Mending	N	Mission		2				C	151		Remove up to 4 damage counters from one of your Characters. You gain +1 Force.		WOTC, REP, CW
 N-1 Starfighter	AOTC	N_1_Starfighter	L	Space	Naboo Starfighter	2	60	2	1	C	152				WOTC, REP, CW
 Naboo Cruiser	AOTC	Naboo_Cruiser	L	Space	Naboo Transport	6	10	6	7	C	153				WOTC, REP, CW
@@ -159,7 +159,7 @@ Obi-Wan Kenobi (C)	AOTC	Obi_Wan_Kenobi_C	L	Character	Jedi Knight	4	40	4	4	C	157	
 Padawan's Deflection	AOTC	Padawans_Deflection	N	Battle						C	158		Pay 3 Force -> Prevent 1 damage to one of your units. That unit may do that much damage to a unit of your choice in the same arena.		WOTC, REP, CW
 Padme Amidala (D)	AOTC	Padme_Amidala_D	L	Character	Naboo Diplomat	3	50	3	3	C	159				WOTC, REP, CW
 Patrol Speeder	AOTC	Patrol_Speeder	N	Ground	Naboo Speeder	4	20	3	4	C	160				WOTC, REP, CW
-Peace on Naboo	AOTC	Peace_on_Naboo	N	Battle						C	161	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Ground units this turn. Play only before any unit in the Ground arena attacks.		WOTC, REP, CW
+Peace on Naboo	AOTC	Peace_on_Naboo	N	Battle						C	161	**RESTRICTED**: This card has been restricted to one copy per deck in tournament play.	Prevent all damage done by Ground units this turn. Play only before any unit in the Ground arena attacks.		VR, WOTC, REP, CW
 Pilot's Dodge	AOTC	Pilots_Dodge	N	Battle						C	162		Pay 2 Force -> Prevent up to 2 damage to one of your Space or Ground units.		WOTC, REP, CW
 Recon Speeder	AOTC	Recon_Speeder	N	Ground	Republic Speeder	5	30	4	3	U	163		Shields 1		WOTC, REP, CW
 Republic Attack Gunship UH-478	AOTC	Republic_Attack_Gunship_UH_478	L	Ground	Republic Guship	6	40	6	6	C	164				WOTC, REP, CW
