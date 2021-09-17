@@ -10,7 +10,7 @@ Darth Tyranus (I)	ROTS	Darth_Tyranus_I	D	Character	Dark Jedi Master - Sith Lord	
 Darth Vader (R)	ROTS	Darth_Vader_R	D	Character	Dark Jedi Knight Sith Lord	10	60	6	6	R	9	Vader's Deflect also can't be prevented.	Hidden Cost 5 | Damage from Vader can't be prevented. | Pay 2 Force -> Deflect 1 | Pay 3 Force -> Evade 2		WOTC, REP, CW, REB
 Darth Vader (S)	ROTS	Darth_Vader_S	D	Character	Dark Jedi Knight Sith Lord	11	50	7	7	R	10	Text erratum in the first ability. | The first ability does not tap Vader, so Vader may still attack.	Pay 3 Force -> Put 3 damage counters on any Character unit. Play only when Vader would attack, and only once per turn. | Armor | Pay 2 Force -> Evade 2		WOTC, REP, CW, REB
 Dismiss	ROTS	Dismiss	N	Battle						R	11		Pay 4 Force, discard a card from your hand -> Disrupt a Battle card or activated ability.		WOTC, REP, CW
-Droid Security Escort	ROTS	Droid_Security_Escort	D	Character	Separatist Droid	6	40	5	6	R	12		Pay 1 Force -> Intercept | Accuracy 1 | Stun 3		WOTC, REP, CW
+Droid Security Escort	ROTS	ROTS012_Droid_Security_Escort	D	Character	Separatist Droid	6	40	5	6	R	12		Pay 1 Force -> Intercept | Accuracy 1 | Stun 3		WOTC, REP, CW
 Engine Upgrade	ROTS	Engine_Upgrade	N	Equipment	Space	2				R	13		Pay 2 build points -> Equip. | Equipped Space unit gets +20 speed.		WOTC, REP, CW
 Foil	ROTS	Foil	N	Battle						R	14		Pay 3 Force -> Disrupt a Mission		WOTC, REP, CW
 Palpatine's Sanctum	ROTS	Palpatines_Sanctum	D	Location	Character	0				R	15	Anakin Skywalker does not get the bonuses from this card.	Whenever Vader damages one of your opponent's Jedi and that unit is discarded, put two mastery counters on Palpatine's Sanctum. Vader gets +1 power and +1 health for each mastery counter on Palpatine's Sanctum.		WOTC, REP, CW
