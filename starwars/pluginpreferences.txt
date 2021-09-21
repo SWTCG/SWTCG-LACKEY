@@ -3,6 +3,7 @@
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>Playmat_Colours-01.png</recenttablebackgrounds>
 <canned>/s +4Force   ;/player stat1 +4</canned>
 <canned>/s Reminder Cards   ;/spawn Prep Setup Phase;/spawn Ready Phase;/spawn Command Phase;/spawn Battle Phase;/spawn End Of Turn;/spawn Attack Sequence;/spawn Play Or Pass Chances;/spawn Subordinates</canned>
 <canned>Play or Pass?</canned>
@@ -90,8 +91,8 @@
 <scalefactor>1.240000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<panx>-0.045000</panx>
-<pany>-0.045000</pany>
+<panx>-0.000000</panx>
+<pany>-0.000000</pany>
 <isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>
