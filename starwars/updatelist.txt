@@ -4,7 +4,7 @@ images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg
 images/avatars/TrentMcCrow.png	https://lackey.swtcg.com/images/avatars/TrentMcCrow.png	225632
 images/backgrounds/Playmat_Colours-01.png	https://lackey.swtcg.com/images/backgrounds/Playmat_Colours-01.png	-37050
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691131
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691138
 plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	333102
 plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	578337
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	203485
