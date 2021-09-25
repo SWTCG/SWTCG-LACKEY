@@ -2,14 +2,11 @@
 
 <format>
 <label>Standard</label>
-<set>JK</set>
-<set>TUF</set>
-<set>BOC</set>
-<set>SOLO</set>
 <set>KAE</set>
 <set>TM</set>
 <set>TROS</set>
 <set>15TH</set>
+<set>AAA</set>
 </format>
 
 <format>
@@ -33,13 +30,8 @@
 </format>
 
 <format>
-<label>Rise of Skywalker</label>
-<set>TROS</set>
-</format>
-
-<format>
-<label>IDC 15th Anniversary</label>
-<set>15TH</set>
+<label>Apprentices and Assassins</label>
+<set>AAA</set>
 </format>
 
 <format>
