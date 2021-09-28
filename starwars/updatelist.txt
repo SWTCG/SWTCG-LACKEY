@@ -169,8 +169,8 @@ plugins/starwars/sounds/chat/evade.wav	https://lackey.swtcg.com/starwars/sounds/
 plugins/starwars/sounds/chat/intercept.wav	https://lackey.swtcg.com/starwars/sounds/chat/intercept.wav	-16545
 plugins/starwars/sounds/chat/retaliate.wav	https://lackey.swtcg.com/starwars/sounds/chat/retaliate.wav	-38635
 CardImageURLs:
-AAA/AAA001_Anakin_Skywalker_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA001_Anakin_Skywalker_G.jpg
-AAA/AAA002_Bando_Gora_Temple.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA002_Bando_Gora_Temple.jpg
+AAA/AAA001_Anakin_Skywalker_G_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA001_Anakin_Skywalker_G.jpg
+AAA/AAA002_Bando_Gora_Temple_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA002_Bando_Gora_Temple.jpg
 AAA/AAA003_Darth_Maul_Q.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA003_Darth_Maul_Q.jpg
 AAA/AAA004_Darth_Plagueis_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA004_Darth_Plagueis_B.jpg
 AAA/AAA005_Darth_Sidious_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA005_Darth_Sidious_P.jpg
@@ -250,7 +250,7 @@ AAA/AAA078_Jedi_Master_and_Apprentice_L.jpg	https://lackey.swtcg.com/starwars/se
 AAA/AAA079_Jedi_Trials.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA079_Jedi_Trials.jpg
 AAA/AAA080_Ke_Daiv_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA080_Ke_Daiv_A.jpg
 AAA/AAA081_Komari_Vosa_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA081_Komari_Vosa_B.jpg
-AAA/AAA082_Krayn_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA082_Krayn_A.jpg
+AAA/AAA082_Krayn_A_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA082_Krayn_A.jpg
 AAA/AAA083_Mother_of_Shaa.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA083_Mother_of_Shaa.jpg
 AAA/AAA084_Mother_Zalem_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA084_Mother_Zalem_A.jpg
 AAA/AAA085_Murk_Lundi_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA085_Murk_Lundi_A.jpg
