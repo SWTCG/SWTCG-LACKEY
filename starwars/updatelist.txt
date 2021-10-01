@@ -1,7 +1,8 @@
-starwars	09-25-21
+starwars	10-01-21
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	225632
 images/avatars/TrentMcCrow.png	https://lackey.swtcg.com/images/avatars/TrentMcCrow.png	225632
+images/avatars/CatraBuurenaar.jpg	https://lackey.swtcg.com/images/avatars/CatraBuurenaar.jpg 5555
 images/backgrounds/Playmat_Colours-01.png	https://lackey.swtcg.com/images/backgrounds/Playmat_Colours-01.png	-37050
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
 plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691138
@@ -1172,7 +1173,7 @@ BH/BH068_Mynock_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH068_
 BH/BH069_Punishing_One_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH069_Punishing_One_B.jpg
 BH/BH070_Relentless_Hunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH070_Relentless_Hunter.jpg
 BH/BH071_Sintas_Vel_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH071_Sintas_Vel_A.jpg
-BH/BH072_Tracking.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH072_Tracking.jpg
+BH/BH072_Tracking_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH072_Tracking_V2.jpg
 BH/BH073_Tracking_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH073_Tracking_Droid.jpg
 BH/BH074_Wrist_Gauntlets.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH074_Wrist_Gauntlets.jpg
 BH/BH075_Xanadu_Blood_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH075_Xanadu_Blood_A.jpg

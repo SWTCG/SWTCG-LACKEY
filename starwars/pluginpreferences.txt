@@ -91,6 +91,8 @@
 <scalefactor>1.240000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
+<panx>-0.045000</panx>
+<pany>-0.045000</pany>
 <tilt>8.000000</tilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 

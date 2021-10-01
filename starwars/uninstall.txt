@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>210925</dateYYMMDD>
+<dateYYMMDD>211001</dateYYMMDD>
+<removepath>sets/setimages/BH/BH072_Tracking.jpg</removepath>
+
 <removepath>sets/AllSets.txt</removepath>
 
 <removepath>sets/setimages/ROTS/Droid_Security_Escort.jpg</removepath>
