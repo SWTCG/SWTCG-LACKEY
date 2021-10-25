@@ -1,0 +1,20 @@
+<save>
+<player>
+<name>exp_cj</name>
+<seat>0</seat>
+</player>
+<player>
+<name>Test Dummy</name>
+<seat>1</seat>
+</player>
+<table>
+<card><id>2575</id><owner>exp_cj</owner><x>-0.96</x><y>0.51</y></card>
+<card><id>6857</id><owner>exp_cj</owner><x>-0.87</x><y>0.51</y></card>
+<card><id>1158</id><owner>exp_cj</owner><x>-0.78</x><y>-0.48</y></card>
+<card><id>5924</id><owner>exp_cj</owner><x>-0.87</x><y>-0.48</y></card>
+<card><id>2318</id><owner>exp_cj</owner><x>-0.78</x><y>0.51</y></card>
+<card><id>7544</id><owner>exp_cj</owner><x>-0.96</x></card>
+<card><id>7671</id><owner>exp_cj</owner><x>-0.87</x></card>
+<card><id>2663</id><owner>exp_cj</owner><x>-0.78</x></card>
+</table>
+</save>

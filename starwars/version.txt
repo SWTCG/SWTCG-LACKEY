@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>211001</lastupdateYYMMDD>
+<lastupdateYYMMDD>211025</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Apprentices and Assassins Release fixes</message>
+<message>Apprentices and Assassins Release fixes 2</message>
 
 </version>
