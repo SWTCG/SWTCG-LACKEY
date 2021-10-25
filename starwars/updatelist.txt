@@ -209,7 +209,7 @@ AAA/AAA036_Rozatta_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AA
 AAA/AAA037_Sifo_Dyas_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA037_Sifo_Dyas_B.jpg
 AAA/AAA038_Sith_Master_and_Apprentice_J.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA038_Sith_Master_and_Apprentice_J.jpg
 AAA/AAA039_Sith_Master_and_Apprentice_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA039_Sith_Master_and_Apprentice_K.jpg
-AAA/AAA040_Slave_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA040_Slave_K.jpg
+AAA/AAA040_Slave_I_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA040_Slave_I_K.jpg
 AAA/AAA041_Tahl_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA041_Tahl_A.jpg
 AAA/AAA042_The_Grand_Plan.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA042_The_Grand_Plan.jpg
 AAA/AAA043_Tor_Vizsla_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AAA/AAA043_Tor_Vizsla_A.jpg
