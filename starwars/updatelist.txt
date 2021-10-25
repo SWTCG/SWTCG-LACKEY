@@ -1,4 +1,4 @@
-starwars	10-01-21
+starwars	10-25-21
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	225632
 images/avatars/TrentMcCrow.png	https://lackey.swtcg.com/images/avatars/TrentMcCrow.png	225632
