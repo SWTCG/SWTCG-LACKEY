@@ -1,6 +1,8 @@
 <uninstall>
 
 <dateYYMMDD>211001</dateYYMMDD>
+<removepath>/sets/setimages/KAE/KAE079_Force_Sense.jpg</removepath>
+
 <removepath>sets/setimages/BH/BH072_Tracking.jpg</removepath>
 
 <removepath>sets/AllSets.txt</removepath>
