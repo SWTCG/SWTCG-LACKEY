@@ -1,6 +1,9 @@
 <uninstall>
 
 <dateYYMMDD>211025</dateYYMMDD>
+
+<removepath>/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg</removepath>
+
 <removepath>/sets/setimages/KAE/KAE079_Force_Sense.jpg</removepath>
 
 <removepath>sets/setimages/BH/BH072_Tracking.jpg</removepath>
