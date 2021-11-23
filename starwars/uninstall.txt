@@ -4,6 +4,10 @@
 
 <removepath>/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg</removepath>
 
+<removepath>/sets/setimages/AAA/AAA002_Bando_Gora_Temple.jpg</removepath>
+<removepath>/sets/setimages/AAA/AAA001_Anakin_Skywalker_G.jpg</removepath>
+<removepath>/sets/setimages/AAA/AAA082_Krayn_A.jpg</removepath>
+
 <removepath>/sets/setimages/KAE/KAE079_Force_Sense.jpg</removepath>
 
 <removepath>sets/setimages/BH/BH072_Tracking.jpg</removepath>
