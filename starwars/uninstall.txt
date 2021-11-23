@@ -3,6 +3,8 @@
 <dateYYMMDD>211025</dateYYMMDD>
 
 <removepath>/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg</removepath>
+<removepath>/sets/setimages/TROS/TROSpromo_BB_8_F.jpg</removepath>
+<removepath>/sets/setimages/TROS/TROS077_BB_8_F.jpg</removepath>
 
 <removepath>/sets/setimages/AAA/AAA002_Bando_Gora_Temple.jpg</removepath>
 <removepath>/sets/setimages/AAA/AAA001_Anakin_Skywalker_G.jpg</removepath>
