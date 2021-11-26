@@ -1,20 +1,35 @@
 <uninstall>
 
-<dateYYMMDD>211025</dateYYMMDD>
+<dateYYMMDD>211127</dateYYMMDD>
+
+<removepath>/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg</removepath>
+<removepath>/sets/setimages/TROS/TROSpromo_BB_8_F.jpg</removepath>
+<removepath>/sets/setimages/TROS/TROS077_BB_8_F.jpg</removepath>
+
+
+<removepath>/sets/setimages/AAA/AAA002_Bando_Gora_Temple.jpg</removepath>
+<removepath>/sets/setimages/AAA/AAA001_Anakin_Skywalker_G.jpg</removepath>
+<removepath>/sets/setimages/AAA/AAA082_Krayn_A.jpg</removepath>
+
 <removepath>/sets/setimages/KAE/KAE079_Force_Sense.jpg</removepath>
 
-<removepath>sets/setimages/BH/BH072_Tracking.jpg</removepath>
+<removepath>/sets/setimages/BH/BH072_Tracking.jpg</removepath>
 
-<removepath>sets/AllSets.txt</removepath>
+<removepath>/sets/AllSets.txt</removepath>
 
-<removepath>sets/setimages/ROTS/Droid_Security_Escort.jpg</removepath>
+<removepath>/sets/setimages/ROTS/Droid_Security_Escort.jpg</removepath>
 
-<removepath>sets/setimages/15TH/15thpromo_Saving_What_We_Love.jpg</removepath>
-<removepath>sets/setimages/BH/BH020_Mist_Hunter_B.jpg</removepath>
-<removepath>sets/setimages/KAE/KAE003_Atris_A.jpg</removepath>
-<removepath>sets/setimages/KAE/KAE112_Sith_Triumvirate_B.jpg</removepath>
-<removepath>sets/setimages/TM/TM177_Even_I_am_Rich.jpg</removepath>
-<removepath>sets/setimages/TROS/TROS172_General_Armitage_Hux_J.jpg</removepath>
+<removepath>/sets/setimages/15TH/15thpromo_Saving_What_We_Love.jpg</removepath>
+<removepath>/sets/setimages/BH/BH020_Mist_Hunter_B.jpg</removepath>
+<removepath>/sets/setimages/KAE/KAE003_Atris_A.jpg</removepath>
+<removepath>/sets/setimages/KAE/KAE112_Sith_Triumvirate_B.jpg</removepath>
+<removepath>/sets/setimages/TM/TM177_Even_I_am_Rich.jpg</removepath>
+<removepath>/sets/setimages/TM/TM111_I_Can_Only_Pay_Half.jpg</removepath>
+<removepath>/sets/setimages/TM/TM079_What_the_F.jpg</removepath>
+
+<removepath>/sets/setimages/TROS/TROS172_General_Armitage_Hux_J.jpg</removepath>
+<removepath>/sets/setimages/TROS/TROS054_Resistance_Heroes_A.jpg</removepath>
+<removepath>/sets/setimages/TROS/TROS126_R2_D2_U.jpg</removepath>
 
 <removepath>/sets/setimages/AGD/AGD041_Geonosian_Fortress.jpg</removepath>
 <removepath>/sets/setimages/BOC/BOC114_Crystal_Critters.jpg</removepath>
@@ -53,37 +68,37 @@
 <removepath>/sets/setimages/TUF/TUF046_Clustership.jpg</removepath>
 <removepath>/sets/setimages/VP/VP054_Viscount_A.jpg</removepath>
 
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/501st_Legion_B.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/501st_Legion_Dark_Trooper.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Command_Post.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Crossfire.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Dash_Rendar_C.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Environmental_Modifications.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/General_Carlist_Rieekan_B.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/General_Maximilian_Veers_C.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Camp.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Hoth.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Supremacy.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Rebel_Camp.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Thundering_Herd.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/DLT_20A_Blaster_Rifle.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Ice_Caverns.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Walker_Gunner.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Rebel_Hoth.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Stalker_A.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/A280_Blaster_Rifle.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Admiral_Kendal_Ozzel_B.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Attack_Pattern_Delta.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Death_Squadron_Star_Destroyer.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/E_Web_Heavy_Repeating_Blaster.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Heavy_Armor.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Rebel_Gunner.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Rogue_Pilot.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Rogue_Squadron_B.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Thundering_Herd_AT_AT.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Thundering_Herd_AT_PT.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Tow_Cable.jpg</removepath>
-<removepath>sets/setimages/BOH/<removepath>sets/setimages/BOH/Weapon_Turret.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/501st_Legion_B.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/501st_Legion_Dark_Trooper.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Command_Post.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Crossfire.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Dash_Rendar_C.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Environmental_Modifications.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/General_Carlist_Rieekan_B.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/General_Maximilian_Veers_C.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Camp.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Hoth.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Supremacy.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Rebel_Camp.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Thundering_Herd.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/DLT_20A_Blaster_Rifle.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Ice_Caverns.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Imperial_Walker_Gunner.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Rebel_Hoth.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Stalker_A.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/A280_Blaster_Rifle.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Admiral_Kendal_Ozzel_B.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Attack_Pattern_Delta.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Death_Squadron_Star_Destroyer.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/E_Web_Heavy_Repeating_Blaster.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Heavy_Armor.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Rebel_Gunner.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Rogue_Pilot.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Rogue_Squadron_B.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Thundering_Herd_AT_AT.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Thundering_Herd_AT_PT.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Tow_Cable.jpg</removepath>
+<removepath>/sets/setimages/BOH/<removepath>sets/setimages/BOH/Weapon_Turret.jpg</removepath>
 
 
 </uninstall>

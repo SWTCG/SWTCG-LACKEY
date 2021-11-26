@@ -48,6 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+
 *.json
 *.sqlite
 *.suo
@@ -55,7 +56,7 @@ Thumbs.db
 
 .vs/*
 v16/*
-/starwars.zip
+/starwars*.zip
 /starwars/decks/*.dek
 <<<<<<< HEAD
 /starwars/decks/script_tests/*.dek
