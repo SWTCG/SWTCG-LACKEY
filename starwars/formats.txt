@@ -7,6 +7,7 @@
 <set>TROS</set>
 <set>15TH</set>
 <set>AAA</set>
+<set>FOR</set>
 </format>
 
 <format>
@@ -30,8 +31,8 @@
 </format>
 
 <format>
-<label>Apprentices and Assassins</label>
-<set>AAA</set>
+<label>Fires of Rebellion</label>
+<set>FOR</set>
 </format>
 
 <format>
@@ -64,6 +65,7 @@
 <set>TDT</set>
 <set>SOLO</set>
 <set>SOR</set>
+<set>FOR</set>
 <set>RO</set>
 <set>SAV</set>
 <set>BOH</set>
@@ -107,13 +109,5 @@
 <set>ROTS</set>
 </format>
 
-<format>
-<label>Ultra Cool Tourny</label>
-<set>KAE</set>
-<set>RAW</set>
-<set>RO</set>
-<set>BH</set>
-<set>VP</set>
-</format>
 
 </formatdefinitions>
