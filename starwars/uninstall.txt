@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>211025</dateYYMMDD>
+<dateYYMMDD>211127</dateYYMMDD>
 
 <removepath>/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg</removepath>
 <removepath>/sets/setimages/TROS/TROSpromo_BB_8_F.jpg</removepath>
