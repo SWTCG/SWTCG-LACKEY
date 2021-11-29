@@ -2,6 +2,7 @@ starwars	11-27-21
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
+images/avatars/bane.jpg	https://lackey.swtcg.com/images/avatars/bane.jpg	12412
 images/avatars/Trent_McCrow.jpg	https://lackey.swtcg.com/images/avatars/Trent_McCrow.jpg	5013
 images/avatars/CatraBuurenaar.jpg	https://lackey.swtcg.com/images/avatars/CatraBuurenaar.jpg	-2732
 images/backgrounds/01_Standard_Playmat.png	https://lackey.swtcg.com/images/backgrounds/01_Standard_Playmat.png	-47507
