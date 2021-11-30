@@ -1,8 +1,10 @@
 <pluginpreferences>
 
+<lastversionupdate>211130</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>Untitled-1.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>Playmat_Colours-01.png</recenttablebackgrounds>
 <canned>/s +4Force   ;/player stat1 +4</canned>
 <canned>/s Reminder Cards   ;/spawn Prep Setup Phase;/spawn Ready Phase;/spawn Command Phase;/spawn Battle Phase;/spawn End Of Turn;/spawn Attack Sequence;/spawn Play Or Pass Chances;/spawn Subordinates</canned>
@@ -26,12 +28,16 @@
 <canned>/draw11</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind0pos2>Roboto-Light_0.ttf</fontkind0pos2>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
 <fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind1pos2>Roboto-Light_0.ttf</fontkind1pos2>
 <fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
 <fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind2pos2>Roboto-Light_0.ttf</fontkind2pos2>
 <fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
 <fontkind3pos1>times.ttf</fontkind3pos1>
+<fontkind3pos2>Roboto-Light_0.ttf</fontkind3pos2>
 <fontsize0>12</fontsize0>
 <fontsize1>11</fontsize1>
 <fontsize2>11</fontsize2>

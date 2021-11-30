@@ -731,5 +731,93 @@
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
 </pack>
-
+<pack>
+	<packtitle>Bane Cum RO2</packtitle>
+	<packimage>RO2</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>RO2</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Event</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Resource</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>Bane Cum TOR</packtitle>
+	<packimage>TOR</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TOR</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Event</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Resource</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>Bane Cum TAL</packtitle>
+	<packimage>TAL</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TAL</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Event</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Resource</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>Bane Cum DAN</packtitle>
+	<packimage>DAN</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DAN</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Event</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Resource</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>Bane Cum KAE</packtitle>
+	<packimage>KAE</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>KAE</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Event</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Resource</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>The Old Republic Misc</packtitle>
+	<packimage>TORMisc</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>TOR</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Event</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Resource</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>DOESNTCONTAIN</eval><data>RO2</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>DOESNTCONTAIN</eval><data>TOR</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>DOESNTCONTAIN</eval><data>TAL</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>DOESNTCONTAIN</eval><data>DAN</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>DOESNTCONTAIN</eval><data>KAE</data></packcommoncrit>
+	<chance>
+ 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
 </packdefinitions>
