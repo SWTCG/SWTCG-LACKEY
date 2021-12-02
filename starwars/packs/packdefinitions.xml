@@ -732,7 +732,7 @@
 	</chance>
 </pack>
 <pack>
-	<packtitle>Bane Cum RO2</packtitle>
+	<packtitle>Bane RO2</packtitle>
 	<packimage>RO2</packimage>
 	<packkind>Pack</packkind>
 	<packformat>Sealed</packformat>
@@ -746,7 +746,7 @@
 	</chance>
 </pack>
 <pack>
-	<packtitle>Bane Cum TOR</packtitle>
+	<packtitle>Bane TOR</packtitle>
 	<packimage>TOR</packimage>
 	<packkind>Pack</packkind>
 	<packformat>Sealed</packformat>
@@ -760,7 +760,7 @@
 	</chance>
 </pack>
 <pack>
-	<packtitle>Bane Cum TAL</packtitle>
+	<packtitle>Bane TAL</packtitle>
 	<packimage>TAL</packimage>
 	<packkind>Pack</packkind>
 	<packformat>Sealed</packformat>
@@ -774,7 +774,7 @@
 	</chance>
 </pack>
 <pack>
-	<packtitle>Bane Cum DAN</packtitle>
+	<packtitle>Bane DAN</packtitle>
 	<packimage>DAN</packimage>
 	<packkind>Pack</packkind>
 	<packformat>Sealed</packformat>
@@ -788,7 +788,7 @@
 	</chance>
 </pack>
 <pack>
-	<packtitle>Bane Cum KAE</packtitle>
+	<packtitle>Bane KAE</packtitle>
 	<packimage>KAE</packimage>
 	<packkind>Pack</packkind>
 	<packformat>Sealed</packformat>
