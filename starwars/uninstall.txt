@@ -1,6 +1,12 @@
 <uninstall>
 
-<dateYYMMDD>211127</dateYYMMDD>
+<dateYYMMDD>211202</dateYYMMDD>
+
+<removepath>/sets/setimages/FOR/FOR007_Chimaera_E.jpg</removepath>
+<removepath>/sets/setimages/FOR/FOR015_Ezra_Bridger_G.jpg</removepath>
+<removepath>/sets/setimages/FOR/FOR092_Imperial_Scout_Troopers.jpg</removepath>
+<removepath>/sets/setimages/FOR/FORpromo_Phantom_II_A.jpg</removepath>
+<removepath>/sets/setimages/FOR/FORpromo_Wynkahthu_Cargo_Platform</removepath>
 
 <removepath>/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg</removepath>
 <removepath>/sets/setimages/TROS/TROSpromo_BB_8_F.jpg</removepath>
