@@ -2974,7 +2974,7 @@ FOR/FOR003_Ahsoka_Tano_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FO
 FOR/FOR004_Bendu_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR004_Bendu_A.jpg
 FOR/FOR005_Bendu_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR005_Bendu_B.jpg
 FOR/FOR006_Bo_Katan_Kryze_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR006_Bo_Katan_Kryze_C.jpg
-FOR/FOR007_Chimaera_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR007_Chimaera_E.jpg
+FOR/FOR007_Chimaera_E_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR007_Chimaera_E_V2.jpg
 FOR/FOR008_Darksaber_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR008_Darksaber_B.jpg
 FOR/FOR009_Death_Trooper_Commander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR009_Death_Trooper_Commander.jpg
 FOR/FOR010_Elite_TIE_Defender.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR010_Elite_TIE_Defender.jpg
@@ -2982,7 +2982,7 @@ FOR/FOR011_Emperor_Palpatine_W.jpg	https://lackey.swtcg.com/starwars/sets/setima
 FOR/FOR012_Emperor_Palpatine_X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR012_Emperor_Palpatine_X.jpg
 FOR/FOR013_EXD_9_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR013_EXD_9_A.jpg
 FOR/FOR014_Ezra_Bridger_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR014_Ezra_Bridger_F.jpg
-FOR/FOR015_Ezra_Bridger_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR015_Ezra_Bridger_G.jpg
+FOR/FOR015_Ezra_Bridger_G_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR015_Ezra_Bridger_G_V2.jpg
 FOR/FOR016_Ezra_Bridger_s_Ingenuity_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR016_Ezra_Bridger_s_Ingenuity_A.jpg
 FOR/FOR017_Ezra_s_Tower_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR017_Ezra_s_Tower_B.jpg
 FOR/FOR018_Frequency_Zero.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR018_Frequency_Zero.jpg
@@ -3059,7 +3059,7 @@ FOR/FOR088_Hera_Syndulla_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 FOR/FOR089_Hondo_Ohnaka_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR089_Hondo_Ohnaka_D.jpg
 FOR/FOR090_Imperial_Armory.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR090_Imperial_Armory.jpg
 FOR/FOR091_Imperial_Scout_Trooper_Armor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR091_Imperial_Scout_Trooper_Armor.jpg
-FOR/FOR092_Imperial_Scout_Troopers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR092_Imperial_Scout_Troopers.jpg
+FOR/FOR092_Imperial_Scout_Troopers_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR092_Imperial_Scout_Troopers_V2.jpg
 FOR/FOR093_Imperial_Sentry_Droid_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR093_Imperial_Sentry_Droid_Squad.jpg
 FOR/FOR094_Imperial_Walker_Detachment.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR094_Imperial_Walker_Detachment.jpg
 FOR/FOR095_Iron_Squadron_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR095_Iron_Squadron_A.jpg
@@ -3175,9 +3175,9 @@ FOR/FORpromo_Jedi_Night.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR
 FOR/FORpromo_Kanan_Jarrus_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Kanan_Jarrus_D.jpg
 FOR/FORpromo_Kyber_Explosion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Kyber_Explosion.jpg
 FOR/FORpromo_Obi_Wan_Kenobi_Z.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Obi_Wan_Kenobi_Z.jpg
-FOR/FORpromo_Phantom_II_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Phantom_II_A.jpg
+FOR/FORpromo_Phantom_II_A_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Phantom_II_A_V2.jpg
 FOR/FORpromo_Purrgil_Swarm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Purrgil_Swarm.jpg
-FOR/FORpromo_Wynkahthu_Cargo_Platform.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Wynkahthu_Cargo_Platform.jpg
+FOR/FORpromo_Wynkahthu_Cargo_Platform_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Wynkahthu_Cargo_Platform_V2.jpg
 FOTR/41st_Elite_Corps_Scout.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOTR/41st_Elite_Corps_Scout.jpg
 FOTR/501st_Legion_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOTR/501st_Legion_A.jpg
 FOTR/501st_Legion_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOTR/501st_Legion_Trooper.jpg
