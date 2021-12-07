@@ -3804,7 +3804,7 @@ KAE/KAE016_G0_T0_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/K
 KAE/KAE017_GenoHaradan.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE017_GenoHaradan.jpg
 KAE/KAE018_HK_47_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE018_HK_47_B.jpg
 KAE/KAE019_In_Search_of_the_Unknown.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE019_In_Search_of_the_Unknown.jpg
-KAE/KAE020_Jedi_Civil_War.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE020_Jedi_Civil_War.jpg
+KAE/KAE020_Jedi_Civil_War_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE020_Jedi_Civil_War_V2.jpg
 KAE/KAE021_Jedi_Council_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE021_Jedi_Council_D.jpg
 KAE/KAE022_Jedi_Exile.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE022_Jedi_Exile.jpg
 KAE/KAE023_Knights_of_the_Old_Republic.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE023_Knights_of_the_Old_Republic.jpg
