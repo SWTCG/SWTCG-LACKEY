@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>211202</dateYYMMDD>
+<dateYYMMDD>211209</dateYYMMDD>
 
 <removepath>/sets/setimages/KAE/KAE020_Jedi_Civil_War.jpg</removepath>
 

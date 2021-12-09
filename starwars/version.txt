@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>211127</lastupdateYYMMDD>
+<lastupdateYYMMDD>211209</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Fires of Rebellion</message>
+<message>TOR sealed and FOR fixes</message>
 
 </version>
