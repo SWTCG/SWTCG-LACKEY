@@ -1,27 +1,28 @@
-starwars	11-27-21
+starwars	12-09-21
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
+images/avatars/bane.jpg	https://lackey.swtcg.com/images/avatars/bane.jpg	91251
 images/avatars/Trent_McCrow.jpg	https://lackey.swtcg.com/images/avatars/Trent_McCrow.jpg	5013
 images/avatars/CatraBuurenaar.jpg	https://lackey.swtcg.com/images/avatars/CatraBuurenaar.jpg	-2732
-images/backgrounds/01_-_Standard_Playmat.png	https://lackey.swtcg.com/images/backgrounds/01_-_Standard_Playmat.png	-47507
-images/backgrounds/02_-_Vintage_Playmat.png	https://lackey.swtcg.com/images/backgrounds/02_-_Vintage_Playmat.png	-150694
-images/backgrounds/03_-_Academy_Playmat.png	https://lackey.swtcg.com/images/backgrounds/03_-_Academy_Playmat.png	-93875
-images/backgrounds/04_-_Old_Republic_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/04_-_Old_Republic_Era_Playmat.png	-811688
-images/backgrounds/05_-_Clone_Wars_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/05_-_Clone_Wars_Era_Playmat.png	-815754
-images/backgrounds/06_-_Rebellion_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/06_-_Rebellion_Era_Playmat.png	-674822
-images/backgrounds/07_-_Resistance_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/07_-_Resistance_Era_Playmat.png	-804541
-images/backgrounds/08_-_New_Republic_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/08_-_New_Republic_Era_Playmat.png	-776171
-images/backgrounds/09_-_Legacy_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/09_-_Legacy_Era_Playmat.png	-1138606
-images/backgrounds/10_-_Yuuzhan_Vong_Playmat.png	https://lackey.swtcg.com/images/backgrounds/10_-_Yuuzhan_Vong_Playmat.png	-975299
+images/backgrounds/01_Standard_Playmat.png	https://lackey.swtcg.com/images/backgrounds/01_Standard_Playmat.png	-47507
+images/backgrounds/02_Vintage_Playmat.png	https://lackey.swtcg.com/images/backgrounds/02_Vintage_Playmat.png	-150694
+images/backgrounds/03_Academy_Playmat.png	https://lackey.swtcg.com/images/backgrounds/03_Academy_Playmat.png	-93875
+images/backgrounds/04_Old_Republic_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/04_Old_Republic_Era_Playmat.png	-811688
+images/backgrounds/05_Clone_Wars_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/05_Clone_Wars_Era_Playmat.png	-815754
+images/backgrounds/06_Rebellion_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/06_Rebellion_Era_Playmat.png	-674822
+images/backgrounds/07_Resistance_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/07_Resistance_Era_Playmat.png	-804541
+images/backgrounds/08_New_Republic_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/08_New_Republic_Era_Playmat.png	-776171
+images/backgrounds/09_Legacy_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/09_Legacy_Era_Playmat.png	-1138606
+images/backgrounds/10_Yuuzhan_Vong_Playmat.png	https://lackey.swtcg.com/images/backgrounds/10_Yuuzhan_Vong_Playmat.png	-975299
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691133
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	331896
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	657687
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691134
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	330019
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	698563
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	207171
-plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	138040
+plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	129456
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23017
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23388
 plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	72574793
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
@@ -36,7 +37,7 @@ plugins/starwars/decks/Rep_DS_Starter.dek	https://lackey.swtcg.com/starwars/deck
 plugins/starwars/decks/Rep_LS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Rep_LS_Starter.dek	572435
 plugins/starwars/decks/Res_DS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Res_DS_Starter.dek	565795
 plugins/starwars/decks/Res_LS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Res_LS_Starter.dek	558308
-plugins/starwars/packs/packdefinitions.xml	https://lackey.swtcg.com/starwars/packs/packdefinitions.xml	2468230
+plugins/starwars/packs/packdefinitions.xml	https://lackey.swtcg.com/starwars/packs/packdefinitions.xml	2885956
 plugins/starwars/packs/15TH.jpg	https://lackey.swtcg.com/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://lackey.swtcg.com/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://lackey.swtcg.com/starwars/packs/AGD.jpg	532512
@@ -87,6 +88,7 @@ plugins/starwars/packs/tfa.jpg	https://lackey.swtcg.com/starwars/packs/tfa.jpg	7
 plugins/starwars/packs/TLJ.jpg	https://lackey.swtcg.com/starwars/packs/TLJ.jpg	1201105
 plugins/starwars/packs/TM.jpg	https://lackey.swtcg.com/starwars/packs/TM.jpg	1389412
 plugins/starwars/packs/tor.jpg	https://lackey.swtcg.com/starwars/packs/tor.jpg	629528
+plugins/starwars/packs/TORMisc.jpg	https://lackey.swtcg.com/starwars/packs/TORMisc.jpg	-239716
 plugins/starwars/packs/TROS.jpg	https://lackey.swtcg.com/starwars/packs/TROS.jpg	1998770
 plugins/starwars/packs/tuf.jpg	https://lackey.swtcg.com/starwars/packs/tuf.jpg	564541
 plugins/starwars/packs/VP.jpg	https://lackey.swtcg.com/starwars/packs/VP.jpg	529453
@@ -96,7 +98,7 @@ plugins/starwars/sets/AGD.txt	https://lackey.swtcg.com/starwars/sets/AGD.txt	695
 plugins/starwars/sets/ANH.txt	https://lackey.swtcg.com/starwars/sets/ANH.txt	3170708
 plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2602220
 plugins/starwars/sets/BF.txt	https://lackey.swtcg.com/starwars/sets/BF.txt	2878590
-plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	2220970
+plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	2254106
 plugins/starwars/sets/BL.txt	https://lackey.swtcg.com/starwars/sets/BL.txt	8316269
 plugins/starwars/sets/BOC.txt	https://lackey.swtcg.com/starwars/sets/BOC.txt	3812957
 plugins/starwars/sets/BOE.txt	https://lackey.swtcg.com/starwars/sets/BOE.txt	3813610
@@ -109,14 +111,14 @@ plugins/starwars/sets/DAN.txt	https://lackey.swtcg.com/starwars/sets/DAN.txt	419
 plugins/starwars/sets/EE.txt	https://lackey.swtcg.com/starwars/sets/EE.txt	2297690
 plugins/starwars/sets/ER.txt	https://lackey.swtcg.com/starwars/sets/ER.txt	2754278
 plugins/starwars/sets/ESB.txt	https://lackey.swtcg.com/starwars/sets/ESB.txt	4643943
-plugins/starwars/sets/FOR.txt	https://lackey.swtcg.com/starwars/sets/FOR.txt	5733747
+plugins/starwars/sets/FOR.txt	https://lackey.swtcg.com/starwars/sets/FOR.txt	5739078
 plugins/starwars/sets/FOTR.txt	https://lackey.swtcg.com/starwars/sets/FOTR.txt	2364016
 plugins/starwars/sets/ION.txt	https://lackey.swtcg.com/starwars/sets/ION.txt	4847471
 plugins/starwars/sets/JEDI.txt	https://lackey.swtcg.com/starwars/sets/JEDI.txt	1797773
 plugins/starwars/sets/JG.txt	https://lackey.swtcg.com/starwars/sets/JG.txt	2808224
 plugins/starwars/sets/JK.txt	https://lackey.swtcg.com/starwars/sets/JK.txt	2703124
-plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5840325
-plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2069696
+plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5830833
+plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2097840
 plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1918974
 plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	2479031
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2808241
@@ -127,14 +129,14 @@ plugins/starwars/sets/ROTS.txt	https://lackey.swtcg.com/starwars/sets/ROTS.txt	2
 plugins/starwars/sets/RS.txt	https://lackey.swtcg.com/starwars/sets/RS.txt	4380732
 plugins/starwars/sets/SAV.txt	https://lackey.swtcg.com/starwars/sets/SAV.txt	1728695
 plugins/starwars/sets/SBS.txt	https://lackey.swtcg.com/starwars/sets/SBS.txt	3713541
-plugins/starwars/sets/SITH.txt	https://lackey.swtcg.com/starwars/sets/SITH.txt	1922054
-plugins/starwars/sets/SMUG.txt	https://lackey.swtcg.com/starwars/sets/SMUG.txt	1836558
+plugins/starwars/sets/SITH.txt	https://lackey.swtcg.com/starwars/sets/SITH.txt	1942667
+plugins/starwars/sets/SMUG.txt	https://lackey.swtcg.com/starwars/sets/SMUG.txt	1871184
 plugins/starwars/sets/SOLO.txt	https://lackey.swtcg.com/starwars/sets/SOLO.txt	4815734
 plugins/starwars/sets/SOR.txt	https://lackey.swtcg.com/starwars/sets/SOR.txt	4904859
 plugins/starwars/sets/SR.txt	https://lackey.swtcg.com/starwars/sets/SR.txt	1485978
 plugins/starwars/sets/TAL.txt	https://lackey.swtcg.com/starwars/sets/TAL.txt	7591504
 plugins/starwars/sets/TDT.txt	https://lackey.swtcg.com/starwars/sets/TDT.txt	8528463
-plugins/starwars/sets/TEN.txt	https://lackey.swtcg.com/starwars/sets/TEN.txt	1028157
+plugins/starwars/sets/TEN.txt	https://lackey.swtcg.com/starwars/sets/TEN.txt	1036733
 plugins/starwars/sets/TFA.txt	https://lackey.swtcg.com/starwars/sets/TFA.txt	4651671
 plugins/starwars/sets/TLJ.txt	https://lackey.swtcg.com/starwars/sets/TLJ.txt	5750062
 plugins/starwars/sets/TM.txt	https://lackey.swtcg.com/starwars/sets/TM.txt	6831583
@@ -142,7 +144,7 @@ plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	319
 plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6114657
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3337540
 plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	4785780
-plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt	6209202
+plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt	6253736
 plugins/starwars/sets/START.txt	https://lackey.swtcg.com/starwars/sets/START.txt	4455217
 plugins/starwars/sets/HELP.txt	https://lackey.swtcg.com/starwars/sets/HELP.txt	86108
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
@@ -2973,7 +2975,7 @@ FOR/FOR003_Ahsoka_Tano_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FO
 FOR/FOR004_Bendu_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR004_Bendu_A.jpg
 FOR/FOR005_Bendu_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR005_Bendu_B.jpg
 FOR/FOR006_Bo_Katan_Kryze_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR006_Bo_Katan_Kryze_C.jpg
-FOR/FOR007_Chimaera_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR007_Chimaera_E.jpg
+FOR/FOR007_Chimaera_E_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR007_Chimaera_E_V2.jpg
 FOR/FOR008_Darksaber_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR008_Darksaber_B.jpg
 FOR/FOR009_Death_Trooper_Commander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR009_Death_Trooper_Commander.jpg
 FOR/FOR010_Elite_TIE_Defender.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR010_Elite_TIE_Defender.jpg
@@ -2981,7 +2983,7 @@ FOR/FOR011_Emperor_Palpatine_W.jpg	https://lackey.swtcg.com/starwars/sets/setima
 FOR/FOR012_Emperor_Palpatine_X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR012_Emperor_Palpatine_X.jpg
 FOR/FOR013_EXD_9_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR013_EXD_9_A.jpg
 FOR/FOR014_Ezra_Bridger_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR014_Ezra_Bridger_F.jpg
-FOR/FOR015_Ezra_Bridger_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR015_Ezra_Bridger_G.jpg
+FOR/FOR015_Ezra_Bridger_G_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR015_Ezra_Bridger_G_V2.jpg
 FOR/FOR016_Ezra_Bridger_s_Ingenuity_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR016_Ezra_Bridger_s_Ingenuity_A.jpg
 FOR/FOR017_Ezra_s_Tower_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR017_Ezra_s_Tower_B.jpg
 FOR/FOR018_Frequency_Zero.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR018_Frequency_Zero.jpg
@@ -3058,7 +3060,7 @@ FOR/FOR088_Hera_Syndulla_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 FOR/FOR089_Hondo_Ohnaka_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR089_Hondo_Ohnaka_D.jpg
 FOR/FOR090_Imperial_Armory.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR090_Imperial_Armory.jpg
 FOR/FOR091_Imperial_Scout_Trooper_Armor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR091_Imperial_Scout_Trooper_Armor.jpg
-FOR/FOR092_Imperial_Scout_Troopers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR092_Imperial_Scout_Troopers.jpg
+FOR/FOR092_Imperial_Scout_Troopers_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR092_Imperial_Scout_Troopers_V2.jpg
 FOR/FOR093_Imperial_Sentry_Droid_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR093_Imperial_Sentry_Droid_Squad.jpg
 FOR/FOR094_Imperial_Walker_Detachment.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR094_Imperial_Walker_Detachment.jpg
 FOR/FOR095_Iron_Squadron_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR095_Iron_Squadron_A.jpg
@@ -3174,9 +3176,9 @@ FOR/FORpromo_Jedi_Night.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR
 FOR/FORpromo_Kanan_Jarrus_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Kanan_Jarrus_D.jpg
 FOR/FORpromo_Kyber_Explosion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Kyber_Explosion.jpg
 FOR/FORpromo_Obi_Wan_Kenobi_Z.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Obi_Wan_Kenobi_Z.jpg
-FOR/FORpromo_Phantom_II_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Phantom_II_A.jpg
+FOR/FORpromo_Phantom_II_A_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Phantom_II_A_V2.jpg
 FOR/FORpromo_Purrgil_Swarm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Purrgil_Swarm.jpg
-FOR/FORpromo_Wynkahthu_Cargo_Platform.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Wynkahthu_Cargo_Platform.jpg
+FOR/FORpromo_Wynkahthu_Cargo_Platform_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORpromo_Wynkahthu_Cargo_Platform_V2.jpg
 FOTR/41st_Elite_Corps_Scout.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOTR/41st_Elite_Corps_Scout.jpg
 FOTR/501st_Legion_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOTR/501st_Legion_A.jpg
 FOTR/501st_Legion_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOTR/501st_Legion_Trooper.jpg
@@ -3803,7 +3805,7 @@ KAE/KAE016_G0_T0_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/K
 KAE/KAE017_GenoHaradan.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE017_GenoHaradan.jpg
 KAE/KAE018_HK_47_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE018_HK_47_B.jpg
 KAE/KAE019_In_Search_of_the_Unknown.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE019_In_Search_of_the_Unknown.jpg
-KAE/KAE020_Jedi_Civil_War.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE020_Jedi_Civil_War.jpg
+KAE/KAE020_Jedi_Civil_War_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE020_Jedi_Civil_War_V2.jpg
 KAE/KAE021_Jedi_Council_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE021_Jedi_Council_D.jpg
 KAE/KAE022_Jedi_Exile.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE022_Jedi_Exile.jpg
 KAE/KAE023_Knights_of_the_Old_Republic.jpg	https://lackey.swtcg.com/starwars/sets/setimages/KAE/KAE023_Knights_of_the_Old_Republic.jpg
