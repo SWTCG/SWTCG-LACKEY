@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	Script	Classification
+Claiming the Throne	BOBF	BOBFpromo_Claiming_the_Throne	N	Event						P			Each unit gets Cunning. | When each turn starts, if a player controls an arena, that player may choose a unit in any arena. If that player does, the chosen unit gets +2 power until end of turn.		NEW

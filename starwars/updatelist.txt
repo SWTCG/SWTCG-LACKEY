@@ -100,6 +100,7 @@ plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2
 plugins/starwars/sets/BF.txt	https://lackey.swtcg.com/starwars/sets/BF.txt	2878590
 plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	2254106
 plugins/starwars/sets/BL.txt	https://lackey.swtcg.com/starwars/sets/BL.txt	8316269
+plugins/starwars/sets/BOBF.txt	https://lackey.swtcg.com/starwars/sets/BOBF.txt	555444
 plugins/starwars/sets/BOC.txt	https://lackey.swtcg.com/starwars/sets/BOC.txt	3812957
 plugins/starwars/sets/BOE.txt	https://lackey.swtcg.com/starwars/sets/BOE.txt	3813610
 plugins/starwars/sets/BOH.txt	https://lackey.swtcg.com/starwars/sets/BOH.txt	1635457
@@ -1494,6 +1495,7 @@ BL/BLsub_Wolfpack_Detachment.jpg	https://lackey.swtcg.com/starwars/sets/setimage
 BL/BLsub_Z_95_Headhunter_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BL/BLsub_Z_95_Headhunter_Squadron.jpg
 BL/BLsub_Zardossan_Stone_Guardian.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BL/BLsub_Zardossan_Stone_Guardian.jpg
 BL/BLsub_Zygerrian_Slaver.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BL/BLsub_Zygerrian_Slaver.jpg
+BOBF/BOBFpromo_Claiming_the_Throne.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg
 BOC/BOC001_Battle_of_Crait.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOC/BOC001_Battle_of_Crait.jpg
 BOC/BOC002_BB_8_s_Analysis_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOC/BOC002_BB_8_s_Analysis_A.jpg
 BOC/BOC003_But_Not_to_Me.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOC/BOC003_But_Not_to_Me.jpg
