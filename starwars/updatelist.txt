@@ -8488,7 +8488,7 @@ VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimag
 15TH/15thpromo_Wedge_s_X_Wing_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Wedge_s_X_Wing_C.jpg
 15TH/15thpromo_Yoda_s_Stick_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Yoda_s_Stick_A.jpg
 15TH/15thpromo_Chimaera_Bridge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Chimaera_Bridge.jpg
-15TH/15thpromo_Cloaked_Asteroid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Cloaked_Asteroid.jpg
+15TH/15thpromo_Cloaked_Asteroid_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Cloaked_Asteroid_V2.jpg
 15TH/15thpromo_Conscription.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Conscription.jpg
 15TH/15thpromo_Dark_Trooper_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Dark_Trooper_Squad.jpg
 15TH/15thpromo_Grand_Admiral_Thrawn_e.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Grand_Admiral_Thrawn_e.jpg
