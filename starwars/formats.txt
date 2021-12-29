@@ -8,6 +8,10 @@
 <set>15TH</set>
 <set>AAA</set>
 <set>FOR</set>
+<set>BOTS</set>
+<set>TMW</set>
+<set>BOBF</set>
+<set>IA</set>
 </format>
 
 <format>
@@ -28,6 +32,11 @@
 <set>RAW</set>
 <set>ION</set>
 <set>BOH</set>
+</format>
+
+<format>
+<label>Battle of the Sarlacc</label>
+<set>BOTS</set>
 </format>
 
 <format>
@@ -70,6 +79,7 @@
 <set>SAV</set>
 <set>BOH</set>
 <set>BOE</set>
+<set>BOTS</set>
 <set>BF</set>
 </format>
 
