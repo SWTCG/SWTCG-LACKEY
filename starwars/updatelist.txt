@@ -141,6 +141,7 @@ plugins/starwars/sets/TEN.txt	https://lackey.swtcg.com/starwars/sets/TEN.txt	103
 plugins/starwars/sets/TFA.txt	https://lackey.swtcg.com/starwars/sets/TFA.txt	4651671
 plugins/starwars/sets/TLJ.txt	https://lackey.swtcg.com/starwars/sets/TLJ.txt	5750062
 plugins/starwars/sets/TM.txt	https://lackey.swtcg.com/starwars/sets/TM.txt	6831583
+plugins/starwars/sets/TMW.txt	https://lackey.swtcg.com/starwars/sets/TMW.txt	111111
 plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	3190442
 plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6114657
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3337540
@@ -7747,6 +7748,7 @@ TM/TMsub_Stormtrooper_Bodyguard.jpg	https://lackey.swtcg.com/starwars/sets/setim
 TM/TMsub_Trandoshan_Bounty_Hunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Trandoshan_Bounty_Hunter.jpg
 TM/TMsub_Trandoshan_Criminal.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Trandoshan_Criminal.jpg
 TM/TMsub_Tribe_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Tribe_Warrior.jpg
+TMW/TMWpromo_Watchful_Eyes.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Watchful_Eyes.jpg
 TOR/TOR001_Annihilation_Droid_XRR_3_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TOR/TOR001_Annihilation_Droid_XRR_3_A.jpg
 TOR/TOR002_BT_7_Thunderclap.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TOR/TOR002_BT_7_Thunderclap.jpg
 TOR/TOR003_Carth_Onasi_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TOR/TOR003_Carth_Onasi_A.jpg
@@ -8048,7 +8050,7 @@ TROS/TROS163_Falcon_s_Back.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 TROS/TROS164_Final_Order_Troop_Transport.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS164_Final_Order_Troop_Transport.jpg
 TROS/TROS165_Finn_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS165_Finn_N.jpg
 TROS/TROS166_First_Order_AAL.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS166_First_Order_AAL.jpg
-TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort.jpg
+TROS/TROS167_First_Order_Jet_Trooper_Escort_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS167_First_Order_Jet_Trooper_Escort_v2.jpg
 TROS/TROS168_First_Order_Patrol_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS168_First_Order_Patrol_Squad.jpg
 TROS/TROS169_First_Order_Pilot.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS169_First_Order_Pilot.jpg
 TROS/TROS170_First_Order_Treadspeeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS170_First_Order_Treadspeeder.jpg
