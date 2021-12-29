@@ -50,6 +50,7 @@ plugins/starwars/packs/BOC.jpg	https://lackey.swtcg.com/starwars/packs/BOC.jpg	2
 plugins/starwars/packs/boe.jpg	https://lackey.swtcg.com/starwars/packs/boe.jpg	175111
 plugins/starwars/packs/boh.jpg	https://lackey.swtcg.com/starwars/packs/boh.jpg	665
 plugins/starwars/packs/bosb.jpg	https://lackey.swtcg.com/starwars/packs/bosb.jpg	1415774
+plugins/starwars/packs/BOTS.jpg	https://lackey.swtcg.com/starwars/packs/BOTS.jpg	123456
 plugins/starwars/packs/boy.jpg	https://lackey.swtcg.com/starwars/packs/boy.jpg	547852
 plugins/starwars/packs/cad.jpg	https://lackey.swtcg.com/starwars/packs/cad.jpg	2881415
 plugins/starwars/packs/cwso.jpg	https://lackey.swtcg.com/starwars/packs/cwso.jpg	635730

@@ -713,7 +713,7 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>AAA</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
@@ -726,7 +726,19 @@
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>FOR</data></packcommoncrit>
 	<chance>
- 	<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>Battle of the Sarlacc</packtitle>
+	<packimage>BOTS</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BOTS</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
