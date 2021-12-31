@@ -106,7 +106,7 @@ plugins/starwars/sets/BOC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/BOE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/BOE.txt	3840580
 plugins/starwars/sets/BOH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/BOH.txt	1642127
 plugins/starwars/sets/BOSB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/BOSB.txt	2977213
-plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/BOTS.txt	4410993
+plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/BOTS.txt	4411001
 plugins/starwars/sets/BOY.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/BOY.txt	2311967
 plugins/starwars/sets/CAD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/CAD.txt	3375382
 plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/CWSO.txt	2418561
@@ -2078,8 +2078,8 @@ BOTS/BOTS021_Jabba_s_Entourage_A.jpg	https://raw.githubusercontent.com/SWTCG/SWT
 BOTS/BOTS022_Jabba_s_Sail_Barge_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS022_Jabba_s_Sail_Barge_C.jpg
 BOTS/BOTS023_Killing_the_Beast.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS023_Killing_the_Beast.jpg
 BOTS/BOTS024_Lando_Calrissian_W.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS024_Lando_Calrissian_W.jpg
-BOTS/BOTS025_Luke_Skywalker_G2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS025_Luke_Skywalker_G2.jpg
-BOTS/BOTS026_Luke_Skywalker_H2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS026_Luke_Skywalker_H2.jpg
+BOTS/BOTS025_Luke_Skywalker_H2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS025_Luke_Skywalker_H2.jpg
+BOTS/BOTS026_Luke_Skywalker_I2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS026_Luke_Skywalker_I2.jpg
 BOTS/BOTS027_Luke_s_X_wing_H.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS027_Luke_s_X_wing_H.jpg
 BOTS/BOTS028_Malakili_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS028_Malakili_B.jpg
 BOTS/BOTS029_Max_Rebo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS029_Max_Rebo_A.jpg
@@ -2113,7 +2113,7 @@ BOTS/BOTS056_Jabba_s_Palace_Gate_A.jpg	https://raw.githubusercontent.com/SWTCG/S
 BOTS/BOTS057_Jabba_s_Sail_Barge_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS057_Jabba_s_Sail_Barge_D.jpg
 BOTS/BOTS058_Jabba_s_Throne_Room.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS058_Jabba_s_Throne_Room.jpg
 BOTS/BOTS059_Lando_Calrissian_X.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS059_Lando_Calrissian_X.jpg
-BOTS/BOTS060_Luke_Skywalker_I2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS060_Luke_Skywalker_I2.jpg
+BOTS/BOTS060_Luke_Skywalker_J2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS060_Luke_Skywalker_J2.jpg
 BOTS/BOTS061_Luke_Skywalker_s_Lightsaber_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS061_Luke_Skywalker_s_Lightsaber_C.jpg
 BOTS/BOTS062_Mara_Jade_M.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS062_Mara_Jade_M.jpg
 BOTS/BOTS063_Max_Rebo_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS063_Max_Rebo_B.jpg
@@ -2198,7 +2198,7 @@ BOTS/BOTSpromo_Han_Solo_E2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 BOTS/BOTSpromo_Jabba_s_Entourage_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Jabba_s_Entourage_A.jpg
 BOTS/BOTSpromo_Jabba_the_Hutt_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Jabba_the_Hutt_G.jpg
 BOTS/BOTSpromo_Killing_the_Beast.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Killing_the_Beast.jpg
-BOTS/BOTSpromo_Luke_Skywalker_G2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Luke_Skywalker_G2.jpg
+BOTS/BOTSpromo_Luke_Skywalker_H2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Luke_Skywalker_H2.jpg
 BOTS/BOTSpromo_Palace_Concert.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Palace_Concert.jpg
 BOTS/BOTSpromo_Princess_Leia_L2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Princess_Leia_L2.jpg
 BOTS/BOTSpromo_Relax_for_a_Moment.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTSpromo_Relax_for_a_Moment.jpg
