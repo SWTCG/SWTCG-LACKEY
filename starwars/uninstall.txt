@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>211209</dateYYMMDD>
+<dateYYMMDD>211231</dateYYMMDD>
+
+<removepath>/sets/setimages/15TH/15thpromo_Cloaked_Asteroid.jpg</removepath>
 
 <removepath>/sets/setimages/KAE/KAE020_Jedi_Civil_War.jpg</removepath>
 

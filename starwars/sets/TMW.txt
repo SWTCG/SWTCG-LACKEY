@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	Script	Classification
+Watchful Eyes	TMW	TMWpromo_Watchful_Eyes	N	Equipment	Space/Ground/Character – Skill	2				P			Discard the top 2 cards from each player's deck -> Equip | Equipped unit gets "Your opponent plays with their hand revealed." | Equipped unit with "Fett" in its name or Slave I also gets "Your opponent builds all cards face-up."		NEW

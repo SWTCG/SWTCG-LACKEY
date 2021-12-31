@@ -7,10 +7,12 @@
 <filetoinclude>BF.txt</filetoinclude>
 <filetoinclude>BH.txt</filetoinclude>
 <filetoinclude>BL.txt</filetoinclude>
+<filetoinclude>BOBF.txt</filetoinclude>
 <filetoinclude>BOC.txt</filetoinclude>
 <filetoinclude>BOE.txt</filetoinclude>
 <filetoinclude>BOH.txt</filetoinclude>
 <filetoinclude>BOSB.txt</filetoinclude>
+<filetoinclude>BOTS.txt</filetoinclude>
 <filetoinclude>BOY.txt</filetoinclude>
 <filetoinclude>CAD.txt</filetoinclude>
 <filetoinclude>CWSO.txt</filetoinclude>
@@ -50,6 +52,7 @@
 <filetoinclude>TFA.txt</filetoinclude>
 <filetoinclude>TLJ.txt</filetoinclude>
 <filetoinclude>TM.txt</filetoinclude>
+<filetoinclude>TMW.txt</filetoinclude>
 <filetoinclude>TOR.txt</filetoinclude>
 <filetoinclude>TROS.txt</filetoinclude>
 <filetoinclude>TUF.txt</filetoinclude>
