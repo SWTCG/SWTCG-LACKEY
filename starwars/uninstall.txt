@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>211230</dateYYMMDD>
+<dateYYMMDD>211231</dateYYMMDD>
 
 <removepath>/sets/setimages/15TH/15thpromo_Cloaked_Asteroid.jpg</removepath>
 

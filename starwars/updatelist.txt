@@ -1,4 +1,4 @@
-starwars	12-30-21
+starwars	12-31-21
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/images/avatars/twinsuns.jpg	9666
@@ -16,13 +16,13 @@ images/backgrounds/08_New_Republic_Era_Playmat.png	https://raw.githubusercontent
 images/backgrounds/09_Legacy_Era_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/images/backgrounds/09_Legacy_Era_Playmat.png	-1138606
 images/backgrounds/10_Yuuzhan_Vong_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/images/backgrounds/10_Yuuzhan_Vong_Playmat.png	-975299
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/plugininfo.txt	691128
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/pluginpreferences.txt	343006
-plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/uninstall.txt	705823
+plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/plugininfo.txt	691129
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/pluginpreferences.txt	330019
+plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/uninstall.txt	705824
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/ListOfCardDataFiles.txt	218377
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/formats.txt	141624
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/version.txt	23237
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/version.txt	23238
 plugins/starwars/CardImageURLs1.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/CardImageURLs1.txt	72574793
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/cardback.jpg	-26419
@@ -93,7 +93,7 @@ plugins/starwars/packs/TORMisc.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 plugins/starwars/packs/TROS.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/packs/TROS.jpg	1998770
 plugins/starwars/packs/tuf.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/packs/tuf.jpg	564541
 plugins/starwars/packs/VP.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/packs/VP.jpg	529453
-plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/15TH.txt	2697540
+plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/15TH.txt	2697572
 plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/AAA.txt	4558299
 plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/AGD.txt	6951889
 plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/ANH.txt	3196808
@@ -114,7 +114,7 @@ plugins/starwars/sets/DAN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/EE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/EE.txt	2297690
 plugins/starwars/sets/ER.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/ER.txt	2754278
 plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/ESB.txt	4673668
-plugins/starwars/sets/FOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/FOR.txt	5739078
+plugins/starwars/sets/FOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/FOR.txt	5739080
 plugins/starwars/sets/FOTR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/FOTR.txt	2364016
 plugins/starwars/sets/ION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/ION.txt	4847471
 plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/JEDI.txt	1799223
@@ -2130,7 +2130,7 @@ BOTS/BOTS073_Sarlacc_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/
 BOTS/BOTS074_Slave_I_L.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS074_Slave_I_L.jpg
 BOTS/BOTS075_Someone_Who_Loves_You.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS075_Someone_Who_Loves_You.jpg
 BOTS/BOTS076_Star_Jewel_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS076_Star_Jewel_B.jpg
-BOTS/BOTS077_Surge_Of_Hunger.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS077_Surge_Of_Hunger.jpg
+BOTS/BOTS077_Surge_of_Hunger.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS077_Surge_of_Hunger.jpg
 BOTS/BOTS078_Sy_Snootles_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS078_Sy_Snootles_B.jpg
 BOTS/BOTS079_Wookiee_s_Friendship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS079_Wookiee_s_Friendship.jpg
 BOTS/BOTS080_Yarna_d_al_Gargan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOTS/BOTS080_Yarna_d_al_Gargan_A.jpg
@@ -3289,7 +3289,7 @@ FOR/FOR162_Nightbrother_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 FOR/FOR163_Occupied_Lothal.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR163_Occupied_Lothal.jpg
 FOR/FOR164_Orca_Class_Freighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR164_Orca_Class_Freighter.jpg
 FOR/FOR165_Ore_Crawler.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR165_Ore_Crawler.jpg
-FOR/FOR166_Phoenix_Squadron_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR166_Phoenix_Squadron_A.jpg
+FOR/FOR166_Phoenix_Squadron_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR166_Phoenix_Squadron_B.jpg
 FOR/FOR167_Rebel_Battle_Droids.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR167_Rebel_Battle_Droids.jpg
 FOR/FOR168_Rebel_Farewell.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR168_Rebel_Farewell.jpg
 FOR/FOR169_Rebel_Reunion.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/FOR/FOR169_Rebel_Reunion.jpg
@@ -8615,7 +8615,7 @@ VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 15TH/15thpromo_Coruscant_Outlander_Club.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Coruscant_Outlander_Club.jpg
 15TH/15thpromo_Experience.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Experience.jpg
 15TH/15thpromo_Gardulla_s_Pet_Krayt_Dragon_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Gardulla_s_Pet_Krayt_Dragon_A.jpg
-15TH/15thpromo_Gardulla_The_Hutt_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Gardulla_The_Hutt_B.jpg
+15TH/15thpromo_Gardulla_the_Hutt_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Gardulla_the_Hutt_B.jpg
 15TH/15thpromo_Globe_of_Peace_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Globe_of_Peace_A.jpg
 15TH/15thpromo_I_Have_the_High_Ground.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_I_Have_the_High_Ground.jpg
 15TH/15thpromo_Obi_Wan_s_Starfighter_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/15TH/15thpromo_Obi_Wan_s_Starfighter_C.jpg
