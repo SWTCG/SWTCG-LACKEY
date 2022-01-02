@@ -2174,7 +2174,7 @@ BOTS/BOTS117_Tatooine_Moon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 BOTS/BOTS118_Tatooine_Pirate.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS118_Tatooine_Pirate.jpg
 BOTS/BOTS119_Tessek_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS119_Tessek_A.jpg
 BOTS/BOTS120_TT_8L_Y7_Gatekeeper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS120_TT_8L_Y7_Gatekeeper.jpg
-BOTS/BOTSsub_Ak_Rev_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Ak_Rev_A.jpg
+BOTS/BOTSsub_Ak_rev_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Ak_rev_A.jpg
 BOTS/BOTSsub_Droopy_McCool_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Droopy_McCool_A.jpg
 BOTS/BOTSsub_Gamorrean_Enforcer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Gamorrean_Enforcer.jpg
 BOTS/BOTSsub_Gamorrean_Palace_Guard.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Gamorrean_Palace_Guard.jpg
