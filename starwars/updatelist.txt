@@ -2057,7 +2057,7 @@ BOSB/LEGO067_Starkiller_Base_D.jpg	https://lackey.swtcg.com/starwars/sets/setima
 BOTS/BOTS001_Battle_of_the_Sarlacc.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS001_Battle_of_the_Sarlacc.jpg
 BOTS/BOTS002_Bib_Fortuna_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS002_Bib_Fortuna_B.jpg
 BOTS/BOTS003_Boba_Fett_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS003_Boba_Fett_U.jpg
-BOTS/BOTS004_C_3PO_S.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS004_C_3PO_S.jpg
+BOTS/BOTS004_C_3PO_T.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS004_C_3PO_T.jpg
 BOTS/BOTS005_Chewbacca_G2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS005_Chewbacca_G2.jpg
 BOTS/BOTS006_Crime_Lord_s_Cruelty.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS006_Crime_Lord_s_Cruelty.jpg
 BOTS/BOTS007_Criminal_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS007_Criminal_Empire.jpg
@@ -2138,7 +2138,7 @@ BOTS/BOTS081_B_omarr_Order.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 BOTS/BOTS082_Bo_Shuda.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS082_Bo_Shuda.jpg
 BOTS/BOTS083_Bounty_Hunter_Scout_Ship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS083_Bounty_Hunter_Scout_Ship.jpg
 BOTS/BOTS084_Bubo_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS084_Bubo_B.jpg
-BOTS/BOTS085_C_3PO_T.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS085_C_3PO_T.jpg
+BOTS/BOTS085_C_3PO_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS085_C_3PO_U.jpg
 BOTS/BOTS086_Droid_Counterparts_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS086_Droid_Counterparts_B.jpg
 BOTS/BOTS087_Dunelizard_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS087_Dunelizard_Squadron.jpg
 BOTS/BOTS088_Force_Kick.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS088_Force_Kick.jpg
