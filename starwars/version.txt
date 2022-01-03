@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>211231</lastupdateYYMMDD>
+<lastupdateYYMMDD>220102</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Battle of the Sarlacc</message>
+<message>Battle of the Sarlacc fixes</message>
 
 </version>
