@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>220102</dateYYMMDD>
+<dateYYMMDD>220103</dateYYMMDD>
+
+<removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 
 <removepath>sets/setimages/15TH/15thpromo_Cloaked_Asteroid.jpg</removepath>
 
