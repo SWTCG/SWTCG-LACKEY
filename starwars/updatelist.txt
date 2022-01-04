@@ -1,4 +1,4 @@
-starwars	12-31-21
+starwars	01-03-22
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -16,13 +16,13 @@ images/backgrounds/08_New_Republic_Era_Playmat.png	https://lackey.swtcg.com/imag
 images/backgrounds/09_Legacy_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/09_Legacy_Era_Playmat.png	-1138606
 images/backgrounds/10_Yuuzhan_Vong_Playmat.png	https://lackey.swtcg.com/images/backgrounds/10_Yuuzhan_Vong_Playmat.png	-975299
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691129
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	330019
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	705824
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691127
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	322979
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	708285
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	218377
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	141624
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23238
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23811
 plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	72574793
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
@@ -106,7 +106,7 @@ plugins/starwars/sets/BOC.txt	https://lackey.swtcg.com/starwars/sets/BOC.txt	381
 plugins/starwars/sets/BOE.txt	https://lackey.swtcg.com/starwars/sets/BOE.txt	3840580
 plugins/starwars/sets/BOH.txt	https://lackey.swtcg.com/starwars/sets/BOH.txt	1642127
 plugins/starwars/sets/BOSB.txt	https://lackey.swtcg.com/starwars/sets/BOSB.txt	2977213
-plugins/starwars/sets/BOTS.txt	https://lackey.swtcg.com/starwars/sets/BOTS.txt	4411001
+plugins/starwars/sets/BOTS.txt	https://lackey.swtcg.com/starwars/sets/BOTS.txt	4401409
 plugins/starwars/sets/BOY.txt	https://lackey.swtcg.com/starwars/sets/BOY.txt	2311967
 plugins/starwars/sets/CAD.txt	https://lackey.swtcg.com/starwars/sets/CAD.txt	3375382
 plugins/starwars/sets/CWSO.txt	https://lackey.swtcg.com/starwars/sets/CWSO.txt	2418561
@@ -2057,7 +2057,7 @@ BOSB/LEGO067_Starkiller_Base_D.jpg	https://lackey.swtcg.com/starwars/sets/setima
 BOTS/BOTS001_Battle_of_the_Sarlacc.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS001_Battle_of_the_Sarlacc.jpg
 BOTS/BOTS002_Bib_Fortuna_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS002_Bib_Fortuna_B.jpg
 BOTS/BOTS003_Boba_Fett_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS003_Boba_Fett_U.jpg
-BOTS/BOTS004_C_3PO_S.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS004_C_3PO_S.jpg
+BOTS/BOTS004_C_3PO_T.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS004_C_3PO_T.jpg
 BOTS/BOTS005_Chewbacca_G2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS005_Chewbacca_G2.jpg
 BOTS/BOTS006_Crime_Lord_s_Cruelty.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS006_Crime_Lord_s_Cruelty.jpg
 BOTS/BOTS007_Criminal_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS007_Criminal_Empire.jpg
@@ -2083,7 +2083,7 @@ BOTS/BOTS026_Luke_Skywalker_I2.jpg	https://lackey.swtcg.com/starwars/sets/setima
 BOTS/BOTS027_Luke_s_X_wing_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS027_Luke_s_X_wing_H.jpg
 BOTS/BOTS028_Malakili_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS028_Malakili_B.jpg
 BOTS/BOTS029_Max_Rebo_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS029_Max_Rebo_A.jpg
-BOTS/BOTS030_Max_Rebo_Band_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B.jpg
+BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg
 BOTS/BOTS031_Millennium_Falcon_G2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS031_Millennium_Falcon_G2.jpg
 BOTS/BOTS032_Palace_Concert.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS032_Palace_Concert.jpg
 BOTS/BOTS033_Pateesa_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS033_Pateesa_A.jpg
@@ -2138,7 +2138,7 @@ BOTS/BOTS081_B_omarr_Order.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 BOTS/BOTS082_Bo_Shuda.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS082_Bo_Shuda.jpg
 BOTS/BOTS083_Bounty_Hunter_Scout_Ship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS083_Bounty_Hunter_Scout_Ship.jpg
 BOTS/BOTS084_Bubo_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS084_Bubo_B.jpg
-BOTS/BOTS085_C_3PO_T.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS085_C_3PO_T.jpg
+BOTS/BOTS085_C_3PO_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS085_C_3PO_U.jpg
 BOTS/BOTS086_Droid_Counterparts_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS086_Droid_Counterparts_B.jpg
 BOTS/BOTS087_Dunelizard_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS087_Dunelizard_Squadron.jpg
 BOTS/BOTS088_Force_Kick.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS088_Force_Kick.jpg
@@ -2174,7 +2174,7 @@ BOTS/BOTS117_Tatooine_Moon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 BOTS/BOTS118_Tatooine_Pirate.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS118_Tatooine_Pirate.jpg
 BOTS/BOTS119_Tessek_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS119_Tessek_A.jpg
 BOTS/BOTS120_TT_8L_Y7_Gatekeeper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTS120_TT_8L_Y7_Gatekeeper.jpg
-BOTS/BOTSsub_Ak_Rev_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Ak_Rev_A.jpg
+BOTS/BOTSsub_Ak_rev_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Ak_rev_A.jpg
 BOTS/BOTSsub_Droopy_McCool_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Droopy_McCool_A.jpg
 BOTS/BOTSsub_Gamorrean_Enforcer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Gamorrean_Enforcer.jpg
 BOTS/BOTSsub_Gamorrean_Palace_Guard.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOTS/BOTSsub_Gamorrean_Palace_Guard.jpg
