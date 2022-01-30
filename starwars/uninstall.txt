@@ -2,6 +2,8 @@
 
 <dateYYMMDD>220103</dateYYMMDD>
 
+<removepath>sets/setimages/AGD/AGD101_Brain_Worm.jpg</removepath>
+
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 
 <removepath>sets/setimages/15TH/15thpromo_Cloaked_Asteroid.jpg</removepath>
