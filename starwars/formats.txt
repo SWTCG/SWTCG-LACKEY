@@ -35,14 +35,25 @@
 </format>
 
 <format>
+<label>World Championship 2022</label>
+<set>ANH</set>
+<set>BOY</set>
+<set>ESB</set>
+<set>RAS</set>
+<set>ROTJ</set>
+</format>
+
+<format>
+<label>Imperial Assault</label>
+<set>IA</set>
+</format>
+
+
+<format>
 <label>Battle of the Sarlacc</label>
 <set>BOTS</set>
 </format>
 
-<format>
-<label>Fires of Rebellion</label>
-<set>FOR</set>
-</format>
 
 <format>
 <label>Promotional Cards</label>
