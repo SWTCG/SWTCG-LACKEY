@@ -23,6 +23,7 @@
 <filetoinclude>FOR.txt</filetoinclude>
 <filetoinclude>FOTR.txt</filetoinclude>
 <filetoinclude>HELP.txt</filetoinclude>
+<filetoinclude>IA.txt</filetoinclude>
 <filetoinclude>ION.txt</filetoinclude>
 <filetoinclude>JEDI.txt</filetoinclude>
 <filetoinclude>JG.txt</filetoinclude>
