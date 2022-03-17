@@ -1,4 +1,4 @@
-starwars	03-16-22
+starwars	03-17-22
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/avatars/twinsuns.jpg	9666
@@ -16,13 +16,13 @@ images/backgrounds/08_New_Republic_Era_Playmat.png	https://raw.githubusercontent
 images/backgrounds/09_Legacy_Era_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/09_Legacy_Era_Playmat.png	-1138606
 images/backgrounds/10_Yuuzhan_Vong_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/10_Yuuzhan_Vong_Playmat.png	-975299
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/plugininfo.txt	691133
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/pluginpreferences.txt	330019
-plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/uninstall.txt	708291
+plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/plugininfo.txt	691134
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/pluginpreferences.txt	322984
+plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/uninstall.txt	708292
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/ListOfCardDataFiles.txt	221970
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/formats.txt	152337
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/version.txt	30734
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/version.txt	30735
 plugins/starwars/CardImageURLs1.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/CardImageURLs1.txt	0
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/cardback.jpg	-26419
@@ -3486,7 +3486,7 @@ IA/IA12_Verena_Talos_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/
 IA/IA13_Vinto_Hreeda_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA13_Vinto_Hreeda_A.jpg
 IA/IA14_Agent_Blaise_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA14_Agent_Blaise_A.jpg
 IA/IA15_Captain_Terro_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA15_Captain_Terro_A.jpg
-IA/IA16_General_Weiss_s_AT_ST_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA16_General_Weiss_s_AT_ST_A.jpg
+IA/IA16_General_Weiss_s_AT-ST_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA16_General_Weiss_s_AT-ST_A.jpg
 IA/IA17_Kayn_Somos_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA17_Kayn_Somos_A.jpg
 IA/IA18_Royal_Guard_Champion_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA18_Royal_Guard_Champion_A.jpg
 IA/IA19_Elite_Imperial_Officer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA19_Elite_Imperial_Officer.jpg
@@ -3500,7 +3500,7 @@ IA/IA26_Disruptor_Pistol.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 IA/IA27_Endless_Ranks.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA27_Endless_Ranks.jpg
 IA/IA28_Luck_of_the_Dice.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA28_Luck_of_the_Dice.jpg
 IA/IA29_Unfinished_Business.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA29_Unfinished_Business.jpg
-IA/IA30_Vibro_Axe.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA30_Vibro_Axe.jpg
+IA/IA30_Vibro-Axe.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/IA/IA30_Vibro-Axe.jpg
 ION/000-jarjarbinksd.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ION/000-jarjarbinksd.jpg
 ION/001-accelerateourplans.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ION/001-accelerateourplans.jpg
 ION/002-activatethedroids.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ION/002-activatethedroids.jpg
