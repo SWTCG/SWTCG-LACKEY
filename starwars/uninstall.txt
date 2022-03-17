@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>220317</dateYYMMDD>
+<dateYYMMDD>220318</dateYYMMDD>
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 
