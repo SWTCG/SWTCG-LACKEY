@@ -14,7 +14,7 @@ It's Not Over Yet	ANH	Its_Not_Over_Yet	N	Battle						R	12	Anything that triggers
 EG-6 Power Droid	ANH	EG_6_Power_Droid	N	Character	Service Droid	4	10	1	4	R	13		[tap] -> Untap one of your other Droids in the Character arena. Play only when this unit would attack and only once per turn.		WOTC, REB, EP456
 Elite Stormtrooper Squad	ANH	Elite_Stormtrooper_Squad	D	Ground	Imperial Clone Stormtrooper	6	40	4	5	R	14	This unit's Accuracy does not increase its chance of getting a Critical Hit.	Critical Hit 1 | Accuracy 1		WOTC, REB, EP456
 Figrin D'an (A)	ANH	Figrin_Dan_A	N	Character	Bith Musician	4	20	3	3	R	15		As long as Figrin is in the Character arena, each of your opponent's Characters gets -10 speed and -1 power.		WOTC, REB, EP456
-Greedo (A)	ANH	Greedo_A	N	Character	Rodian Bounty Hunter	3	40	4	3	R	16		When the Character battle step starts, your opponent may pay 3 Force. If he or she does, retreat Greedo.		WOTC, REB, EP456
+Greedo (A)	ANH	ANH016_Greedo_A_HD	N	Character	Rodian Bounty Hunter	3	40	4	3	R	16		When the Character battle step starts, your opponent may pay 3 Force. If he or she does, retreat Greedo.		WOTC, REB, EP456
 Hold 'Em Off	ANH	Hold_Em_Off	L	Battle						R	17		Pay 4 Force -> Each of your Characters gets +10 speed and Stun 2 until end of turn.		WOTC, REB, EP456
 Imperial Blockade	ANH	Imperial_Blockade	D	Mission		2				R	18	Any unspent build points are lost.	To complete Imperial Blockade, you must pay 8 Force. Your opponent can't spend build points this turn.		WOTC, REB, EP456
 Imperial Navy Helmsman	ANH	Imperial_Navy_Helmsman	D	Character	Imperial Naval Officer	4	20	3	4	R	19		[Pilot] Capital Ship Pilot. The Capital Ship gets +20 Speed.		WOTC, REB, EP456
@@ -176,6 +176,6 @@ X-Wing Red Two	ANH	X_Wing_Red_Two	L	Space	Rebel Starfighter	3	50	2	2	C	174		Shie
 X-Wing Attack Formation	ANH	X_Wing_Attack_Formation	L	Space	Rebel Squadron	6	50	4	4	C	175		Critical Hit 3 | Pay 2 Force -> Evade 1		WOTC, REB, EP456
 Y-Wing Gold One	ANH	Y_Wing_Gold_One	L	Space	Rebel Starfighter	4	40	3	2	C	176		Stun 3		WOTC, REB, EP456
 Y-Wing Gold Squadron	ANH	Y_Wing_Gold_Squadron	L	Space	Rebel Squadron	5	40	4	4	C	177		Pay 2 Force -> Intercept | Critical Hit 1		WOTC, REB, EP456
-YT-1300 Transport	ANH	YT_1300_Transport	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB, EP456
+YT-1300 Transport	ANH	ANH178_YT_1300_Transport_HD	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB, EP456
 YV-664 Light Freighter	ANH	YV_664_Light_Freighter	N	Space	Independent Transport	4	30	3	3	C	179		Shields 1 | Discard this unit from the Space arena -> You get +2 build point this turn. Play only during your build step.		WOTC, REB, EP456
 Z-95 Headhunter	ANH	Z_95_Headhunter	N	Space	Independent Starfighter	3	40	2	2	C	180				WOTC, REB, EP456

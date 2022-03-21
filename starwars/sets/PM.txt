@@ -36,11 +36,11 @@ Bravo Starfighter	PM	Bravo_Starfighter	L	Space	Naboo Starfighter	3	50	1	2	U	34		
 Captain Panaka (A)	PM	Captain_Panaka_A	L	Character	Naboo Officer	4	20	3	4	U	35	This ability works on Panaka as well.	Each of your Naboo units gets Stun 2 and "Pay 0 Force -> Retaliate 2".		WOTC, REP, CW
 Captain Tarpals (A)	PM	Captain_Tarpals_A	N	Character	Gungan Officer	5	40	3	4	U	36	This ability works on Tarpals as well.	Each of your Gungan units gets Accuracy 1.		WOTC, REP, CW
 Citadel Cruiser	PM	Citadel_Cruiser	N	Space	Transport	4	40	3	3	U	37		Armor | Stun 3		WOTC, REP, CW
-Colo Claw Fish	PM	Colo_Claw_Fish	N	Ground	Naboo Aquatic Creature	6	30	5	6	U	38		This unit costs 1 fewer build counter to deploy if there is an Aquatic Location in the Ground arena. | Stun 5		WOTC, REP, CW
+Colo Claw Fish	PM	PM038_Colo_Claw_Fish_HD	N	Ground	Naboo Aquatic Creature	6	30	5	6	U	38		This unit costs 1 fewer build counter to deploy if there is an Aquatic Location in the Ground arena. | Stun 5		WOTC, REP, CW
 Discuss It in Committee	PM	Discuss_It_in_Committee	N	Battle						U	39		Pay 4 Force -> Choose an arena. Prevent all damage that would be dealt to units in that arena this turn.		WOTC, REP, CW
 Durge (A)	PM	Durge_A	D	Character	Gen'dai Bounty Hunter	12	40	9	9	U	40		Critical Hit 2 | Pay 4 build points -> Remove all damage counters from durge. Play only during your build step. | When Durge is discarded from the Character arena, you may return him to your hand.		WOTC, REP, CW
 Falumpaset	PM	Falumpaset	N	Ground	Naboo Creature	5	20	4	5	U	41		As long as you have a Gungan unit in any arena, this unit gets Accuracy 1. | As long as this unit has a Pilot, it gets Accuracy 1.		WOTC, REP, CW
-Gungan Battle Wagon	PM	Gungan_Battle_Wagon	N	Ground	Naboo Gungan	3	10	2	4	U	42		Each of your other Gungan Ground units gets +1 power. | Each of your other Gungan Ground units gets Critical Hit 1 when attacking a Droid.		WOTC, REP, CW
+Gungan Battle Wagon	PM	PM042_Gungan_Battle_Wagon_HD	N	Ground	Naboo Gungan	3	10	2	4	U	42		Each of your other Gungan Ground units gets +1 power. | Each of your other Gungan Ground units gets Critical Hit 1 when attacking a Droid.		WOTC, REP, CW
 Gungan Catapult	PM	Gungan_Catapult	N	Ground	Naboo Gungan	5	10	3	4	U	43		Pay 0 Force -> Untap this unit. Play this ability only once per turn. | Whenever this unit attacks a Droid, it gets Critical Hit 2 for that attack.		WOTC, REP, CW
 Inferno (A)	PM	Inferno_A	N	Space	Starfighter	5	50	3	3	U	44		Critical Hit 1 | Lucky 2		WOTC, REP, CW
 Kaadu Scout	PM	Kaadu_Scout	N	Ground	Gungan Naboo Creature	3	50	2	3	U	45		[tap] -> Choose one of your opponent's units in the Ground arena. Each of your Ground units gets Accuracy 1 against that unit this turn. Play only when this unit would attack.		WOTC, REP, CW
