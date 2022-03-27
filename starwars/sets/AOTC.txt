@@ -143,7 +143,7 @@ Hatch a Clone	AOTC	Hatch_a_Clone	N	Mission		1				C	141		Return up to 2 Ground un
 Hero's Dodge	AOTC	Heros_Dodge	N	Battle						C	142		Pay 1 Force -> Prevent up to 2 damage to one of your Characters.		WOTC, REP, CW
 High-Force Dodge	AOTC	High_Force_Dodge	N	Battle						C	143		Pay 5 Force -> Prevent up to 5 damage to one of your units.		WOTC, REP, CW
 Hyperdrive Ring	AOTC	Hyperdrive_Ring	L	Space	Republic Device	3	30	1	3	C	144		As long as you have a Starfighter in the Space arena, this unit gets +2 power.		WOTC, REP, CW
-Intergalactic Banking Clan Starship	AOTC	Intergalactic_Banking_Clan_Starship	D	Space	IG Banking Clan Transport	5	20	4	5	C	145		Shields 1		WOTC, REP, CW
+Intergalactic Banking Clan Starship	AOTC	InterGalactic_Banking_Clan_Starship	D	Space	IG Banking Clan Transport	5	20	4	5	C	145		Shields 1		WOTC, REP, CW
 Jango Fett (D)	AOTC	Jango_Fett_D	D	Character	Bounty Hunter	4	50	4	3	C	146		Critical Hit 1		WOTC, REP
 Jedi Starfighter 3R3	AOTC	Jedi_Starfighter_3R3	L	Space	Jedi Starfighter	3	50	3	3	C	147				WOTC, REP, CW
 Knockdown	AOTC	Knockdown	N	Battle						C	148		Pay 4 Force -> Choose an untapped Character. Tap that Character.		WOTC, REP, CW
