@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>220327</lastupdateYYMMDD>
+<lastupdateYYMMDD>220328</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/updatelist.txt</updateurl>
