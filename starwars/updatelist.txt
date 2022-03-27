@@ -698,7 +698,7 @@ ANH/Figrin_Dan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA
 ANH/Flare_S_Swoop.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Flare_S_Swoop.jpg
 ANH/General_Dodonna_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/General_Dodonna_A.jpg
 ANH/General_Tagge_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/General_Tagge_A.jpg
-ANH/Greedo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Greedo_A.jpg
+ANH/ANH016_Greedo_A_HD	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/ANH016_Greedo_A_HD.jpg
 ANH/Ground_Support.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Ground_Support.jpg
 ANH/Hans_Courage.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Hans_Courage.jpg
 ANH/Hold_Em_Off.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Hold_Em_Off.jpg
@@ -832,7 +832,7 @@ ANH/X_wing_Attack_Formation.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 ANH/X_wing_Red_One.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/X_wing_Red_One.jpg
 ANH/X_wing_Red_Three.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/X_wing_Red_Three.jpg
 ANH/X_wing_Red_Two.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/X_wing_Red_Two.jpg
-ANH/YT_1300_Transport.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/YT_1300_Transport.jpg
+ANH/ANH178_YT_1300_Transport_HD	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/ANH178_YT_1300_Transport_HD.jpg
 ANH/YV_664_Light_Freighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/YV_664_Light_Freighter.jpg
 ANH/Y_wing_Gold_One.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Y_wing_Gold_One.jpg
 ANH/Y_wing_Gold_Squadron.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ANH/Y_wing_Gold_Squadron.jpg
@@ -4274,7 +4274,7 @@ PM/Captain_Panaka_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW
 PM/Captain_Tarpals_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Captain_Tarpals_A.jpg
 PM/Citadel_Cruiser.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Citadel_Cruiser.jpg
 PM/Cloakshape_Fighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Cloakshape_Fighter.jpg
-PM/Colo_Claw_Fish.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Colo_Claw_Fish.jpg
+PM/PM038_Colo_Claw_Fish_HD	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/PM038_Colo_Claw_Fish_HD.jpg
 PM/Corridors_of_Power.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Corridors_of_Power.jpg
 PM/Dark_Woman_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Dark_Woman_A.jpg
 PM/Darth_Maul_F.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Darth_Maul_F.jpg
@@ -4293,7 +4293,7 @@ PM/Gardulla_the_Hutt_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/
 PM/Gas_Attack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Gas_Attack.jpg
 PM/Gian_Speeder.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Gian_Speeder.jpg
 PM/Guardian_Mantis_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Guardian_Mantis_A.jpg
-PM/Gungan_Battle_Wagon.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Gungan_Battle_Wagon.jpg
+PM/PM042_Gungan_Battle_Wagon_HD	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/PM042_Gungan_Battle_Wagon_HD.jpg
 PM/Gungan_Catapult.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Gungan_Catapult.jpg
 PM/Gungan_Grand_Army.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Gungan_Grand_Army.jpg
 PM/Gungan_Kaadu_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/PM/Gungan_Kaadu_Squad.jpg
@@ -5173,7 +5173,7 @@ ROTJ/Nien_Nunb_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA
 ROTJ/Occupied_Bespin.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Occupied_Bespin.jpg
 ROTJ/Occupied_Coruscant.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Occupied_Coruscant.jpg
 ROTJ/Occupied_Endor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Occupied_Endor.jpg
-ROTJ/Occupied_Tatooine.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Occupied_Tatooine.jpg
+ROTJ/ROTJ030_Occupied_Tatooine_HD.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/ROTJ030_Occupied_Tatooine_HD.jpg
 ROTJ/Oola_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Oola_A.jpg
 ROTJ/Princess_Leia_J.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Princess_Leia_J.jpg
 ROTJ/Princess_Leia_K.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/setimages/ROTJ/Princess_Leia_K.jpg
