@@ -1,4 +1,4 @@
-starwars	04-06-22
+starwars	04-17-22
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/avatars/twinsuns.jpg	9666
@@ -15,18 +15,18 @@ images/backgrounds/07_Resistance_Era_Playmat.png	https://raw.githubusercontent.c
 images/backgrounds/08_New_Republic_Era_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/08_New_Republic_Era_Playmat.png	-776171
 images/backgrounds/09_Legacy_Era_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/09_Legacy_Era_Playmat.png	-1138606
 images/backgrounds/10_Yuuzhan_Vong_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/10_Yuuzhan_Vong_Playmat.png	-975299
-images/backgrounds/SWTCG_WC2022_American_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_American_Regional_Playmat.png	4
-images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	4
-images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	4
-images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	4
+images/backgrounds/SWTCG_WC2022_American_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_American_Regional_Playmat.png	-259176
+images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	-378826
+images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
+images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/plugininfo.txt	691133
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/pluginpreferences.txt	338945
-plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/uninstall.txt	2348928
-plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/ListOfCardDataFiles.txt	221970
-plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/formats.txt	152337
+plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/plugininfo.txt	691135
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/pluginpreferences.txt	332025
+plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/uninstall.txt	2451690
+plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/ListOfCardDataFiles.txt	218377
+plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/formats.txt	146545
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/version.txt	30734
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/version.txt	30817
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/spawned.jpg	-36423
@@ -40,7 +40,7 @@ plugins/starwars/decks/Rep_DS_Starter.dek	https://raw.githubusercontent.com/SWTC
 plugins/starwars/decks/Rep_LS_Starter.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/decks/Rep_LS_Starter.dek	572435
 plugins/starwars/decks/Res_DS_Starter.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/decks/Res_DS_Starter.dek	565795
 plugins/starwars/decks/Res_LS_Starter.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/decks/Res_LS_Starter.dek	558308
-plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/packdefinitions.xml	2931587
+plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/packdefinitions.xml	2976989
 plugins/starwars/packs/15TH.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/AGD.jpg	532512
@@ -91,7 +91,7 @@ plugins/starwars/packs/tdt.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/packs/tfa.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/tfa.jpg	734165
 plugins/starwars/packs/TLJ.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/TLJ.jpg	1201105
 plugins/starwars/packs/TM.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/TM.jpg	1389412
-plugins/starwars/packs/TMW.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/TMW.jpg	
+plugins/starwars/packs/TMW.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/TMW.jpg	2592083
 plugins/starwars/packs/tor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/tor.jpg	629528
 plugins/starwars/packs/TORMisc.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/TORMisc.jpg	-239716
 plugins/starwars/packs/TROS.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/packs/TROS.jpg	1998770
@@ -147,13 +147,13 @@ plugins/starwars/sets/TDT.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/TEN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TEN.txt	1037885
 plugins/starwars/sets/TFA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TFA.txt	4651671
 plugins/starwars/sets/TLJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TLJ.txt	5750062
-plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TM.txt	6960239
-plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TMW.txt	6619184
+plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TM.txt	7679514
+plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TMW.txt	6620945
 plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TOR.txt	3190442
 plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TROS.txt	6114019
 plugins/starwars/sets/TUF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/TUF.txt	3337540
 plugins/starwars/sets/VP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/VP.txt	4785780
-plugins/starwars/sets/PROMO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/PROMO.txt	6253736
+plugins/starwars/sets/PROMO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/PROMO.txt	6181548
 plugins/starwars/sets/START.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/START.txt	4455185
 plugins/starwars/sets/HELP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sets/HELP.txt	86108
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510

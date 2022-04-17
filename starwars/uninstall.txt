@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>220406</dateYYMMDD>
+<dateYYMMDD>220417</dateYYMMDD>
 
 <removepath>sets/setimages/TMW/TMW001_3rd_Generation_Dark_Trooper_Platoon.jpg</removepath>
 <removepath>sets/setimages/TMW/TMW002_Ahsoka_Tano_M.jpg</removepath>
