@@ -43,17 +43,11 @@
 <set>ROTJ</set>
 </format>
 
-<format>
-<label>Imperial Assault</label>
-<set>IA</set>
-</format>
-
 
 <format>
-<label>Battle of the Sarlacc</label>
-<set>BOTS</set>
+<label>The Mandalorian Way</label>
+<set>TMW</set>
 </format>
-
 
 <format>
 <label>Promotional Cards</label>
