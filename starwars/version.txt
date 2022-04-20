@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220314</lastupdateYYMMDD>
+<lastupdateYYMMDD>220420</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/TMW/IA/starwars/updatelist.txt</updateurl>
-<message>The Mandalorian Way and Imperial Assault</message>
+<message>The Mandalorian Way Release!</message>
 
 </version>

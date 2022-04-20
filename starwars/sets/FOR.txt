@@ -190,7 +190,7 @@ Phantom II (A)	FOR	FORsub_Phantom_II_A	L	Subordinate	Space/Ground - Lothal Rebel
 Phantom II (B)	FOR	FORsub_Phantom_II_B	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		40	2	2	S			Stealth | INSERT: Cunning		REB
 Reactivated Droid 	FOR	FORsub_Reactivated_Droid	N	Subordinate	Ground/Character - Separatist Rebel Droid		50	2	1	S			Avenge 2		REB
 Rebel A-wing	FOR	FORsub_Rebel_A_wing	L	Subordinate	Space/Ground - Rebel Starfighter		70	2	2	S			Switch: Bombard 2/Ion Cannon 2		REB
-Rebel Y-wing	FOR	FORsub_Rebel_Y_wing	L	Subordinate	Space - Rebel Starfighter		40	2	3	S			Bombard 3 | Pay 2 Force -> Evade 1		REB
+Rebel Y-wing	FOR	FORsub_Rebel_Y_Wing	L	Subordinate	Space - Rebel Starfighter		40	2	3	S			Bombard 3 | Pay 2 Force -> Evade 1		REB
 Royal Guard 	FOR	FORsub_Royal_Guard	D	Subordinate	Ground/Character - Imperial Bodyguard		70	3	3	S			Whenever this unit attacks, put 1 captivity or corruption counter on the defending unit.		REB
 Veteran Death Troopers 	FOR	FORsub_Veteran_Death_Troopers	D	Subordinate	Ground/Character - Imperial Stormtrooper Squad		50	3	3	S			Switch: Cunning/+10 speed, Stun 1		REB
 Veteran Rebel Soldiers	FOR	FORsub_Veteran_Rebel_Soldiers	L	Subordinate	Ground/Character - Rebel Soldier Squad		50	3	3	S			Switch: Precision/+10 speed, Stun 1		REB
