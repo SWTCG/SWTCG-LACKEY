@@ -1,6 +1,24 @@
 <uninstall>
 
-<dateYYMMDD>220103</dateYYMMDD>
+<dateYYMMDD>220421</dateYYMMDD>
+
+
+
+<removepath>sets/setimages/PROMO/TMpromo_Bad_Idea.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Bounty_Hunter_Gang_D.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Din_Djarin_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Grogu_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_I_Can_Bring_You_in_Cold.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Kuiil_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Magic_Hand_Thing.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Paz_Vizsla_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Razor_Crest_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Redemption.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Sorgan_Sanctuary.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_The_Reckoning.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Come_to_Mama.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Mayfeld_s_Team_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TMpromo_Mudhorn.jpg</removepath>
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 

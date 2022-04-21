@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220103</lastupdateYYMMDD>
+<lastupdateYYMMDD>220421</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Battle of the Sarlacc fixes</message>
+<message>The Mandalorian Way and HD Revenge of the Sith</message>
 
 </version>

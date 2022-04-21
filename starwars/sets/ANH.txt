@@ -14,7 +14,7 @@ It's Not Over Yet	ANH	Its_Not_Over_Yet	N	Battle						R	12	Anything that triggers
 EG-6 Power Droid	ANH	EG_6_Power_Droid	N	Character	Service Droid	4	10	1	4	R	13		[tap] -> Untap one of your other Droids in the Character arena. Play only when this unit would attack and only once per turn.		WOTC, REB, EP456
 Elite Stormtrooper Squad	ANH	Elite_Stormtrooper_Squad	D	Ground	Imperial Clone Stormtrooper	6	40	4	5	R	14	This unit's Accuracy does not increase its chance of getting a Critical Hit.	Critical Hit 1 | Accuracy 1		WOTC, REB, EP456
 Figrin D'an (A)	ANH	Figrin_Dan_A	N	Character	Bith Musician	4	20	3	3	R	15		As long as Figrin is in the Character arena, each of your opponent's Characters gets -10 speed and -1 power.		WOTC, REB, EP456
-Greedo (A)	ANH	Greedo_A	N	Character	Rodian Bounty Hunter	3	40	4	3	R	16		When the Character battle step starts, your opponent may pay 3 Force. If he or she does, retreat Greedo.		WOTC, REB, EP456
+Greedo (A)	ANH	ANH016_Greedo_A_HD	N	Character	Rodian Bounty Hunter	3	40	4	3	R	16		When the Character battle step starts, your opponent may pay 3 Force. If he or she does, retreat Greedo.		WOTC, REB, EP456
 Hold 'Em Off	ANH	Hold_Em_Off	L	Battle						R	17		Pay 4 Force -> Each of your Characters gets +10 speed and Stun 2 until end of turn.		WOTC, REB, EP456
 Imperial Blockade	ANH	Imperial_Blockade	D	Mission		2				R	18	Any unspent build points are lost.	To complete Imperial Blockade, you must pay 8 Force. Your opponent can't spend build points this turn.		WOTC, REB, EP456
 Imperial Navy Helmsman	ANH	Imperial_Navy_Helmsman	D	Character	Imperial Naval Officer	4	20	3	4	R	19		[Pilot] Capital Ship Pilot. The Capital Ship gets +20 Speed.		WOTC, REB, EP456
@@ -26,7 +26,7 @@ Leia's Kiss	ANH	Leias_Kiss	L	Battle						R	24		Pay 3 Force -> One of your units 
 Luke Skywalker (B)	ANH	Luke_Skywalker_B	L	Character	Jedi Padawan	4	50	4	3	R	25		Pay 2 Force -> Evade 1 | Pay 2 Force -> Luke gets +20 speed until the end of turn.		WOTC, REB, NEW, RES, EP456
 Luke Skywalker (A)	ANH	Luke_Skywalker_A	L	Character	Jedi Padawan	5	50	4	4	R	26		Pay 2 Force -> Evade 1 | [tap] -> Search your deck. You may take a Luke Skywalker card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during the build step.		WOTC, REB, NEW, RES, EP456
 Luke's Speeder (A)	ANH	Lukes_Speeder_A	L	Ground	Tatooine Speeder	3	50	2	2	R	27		Discard Luke's Speeder from the Ground arena -> Show one of your partially built Space unit cards to your opponent. Put 3 build counters on it. Play only during your build step.		WOTC, REB, EP456
-Luke's X-Wing (A)	ANH	Lukes_X_Wing_A	L	Space	Rebel Starfighter	4	50	3	2	R	28		Accuracy 1 | Shields 1		WOTC, REB, NEW, RES, EP456
+Luke's X-Wing (A)	ANH	Lukes_X_wing_A	L	Space	Rebel Starfighter	4	50	3	2	R	28		Accuracy 1 | Shields 1		WOTC, REB, NEW, RES, EP456
 Momaw Nadon (A)	ANH	Momaw_Nadon_A	L	Character	Ithorian Diplomat	4	30	3	5	R	29		As long as Momaw is in the Character arena, each Stormtrooper in that arena gets -20 speed.		WOTC, REB, EP456
 Most Desperate Hour	ANH	Most_Desperate_Hour	L	Battle						R	30	This card works best in tandem with a fully stacked Luke's X-Wing (B) or (D) with Luke Skywalker (E) piloting.	Pay 5 Force -> One of your Starfighters gets Critical Hit 6 until end of turn. Tap all your other units in the Space arena. Play only before any of your Space units attack.		WOTC, REB, EP456
 No Escape	ANH	No_Escape	D	Battle						R	31	Works best against units using Reserve abilities.	Pay 3 Force -> Choose a Character in your opponent's build zone. Put that Character into the Character arena. If that Character is tapped, untap that Character.		WOTC, REB, EP456
@@ -89,7 +89,7 @@ Jedi Extinction	ANH	Jedi_Extinction	D	Mission		3				U	87	This does not allow sta
 Jon "Dutch" Vander (A)	ANH	Jon_Dutch_Vander_A	L	Character	Rebel Officer	3	20	2	3	U	88		[Pilot] Starfighter Pilot. The starfighter gets Stun 3.		WOTC, REB, EP456
 Learning the Force	ANH	Learning_the_Force	N	Mission		2				U	89	This does not include Pilots.	You gain +1 Force for each of you Characters in any arena.		WOTC, REB, EP456
 Lieutenant Tanbris (A)	ANH	Lieutenant_Tanbris_A	D	Character	Imperial Soldier	4	10	4	5	U	90				WOTC, REB, EP456
-Lin Demolitionmech	ANH	Lin_Demolitionmech	N	Character	Minelayer Droid	4	20	3	3	U	91		[tap] -> This unit does 2 damage to each other Character in the Character arena (yours and your opponent's). Play only when this unit would attack.		WOTC, REB, EP456
+Lin Demolitionmech	ANH	LIN_Demolitionmech	N	Character	Minelayer Droid	4	20	3	3	U	91		[tap] -> This unit does 2 damage to each other Character in the Character arena (yours and your opponent's). Play only when this unit would attack.		WOTC, REB, EP456
 Luke Skywalker (C)	ANH	Luke_Skywalker_C	L	Character	Jedi Padawan	3	40	2	3	U	92		As long as you have another Jedi in the Character arena, Luke gets +2 power and "Pay 3 Force -> Evade 1".		WOTC, REB, NEW, RES, EP456
 Luke's Warning	ANH	Lukes_Warning	L	Battle						U	93		Pay 2 Force -> Prevent up to 3 damage to one of your Characters, or prevent 1 damage to one of your Space or Ground units.		WOTC, REB, EP456
 Mounted Stormtrooper	ANH	Mounted_Stormtrooper	D	Ground	Imperial Clone Stormtrooper Creature	4	10	4	5	U	94		Discard this unit from the Ground arena -> Show one of your partially built Stormtrooper Character cards to your opponent. Put 2 build counters on it. Play only during your build step.		WOTC, REB, EP456
@@ -154,7 +154,7 @@ Rebel Pilot	ANH	Rebel_Pilot	L	Character	Rebel Officer	2	20	2	2	C	152		[Pilot] St
 Rebel Squad	ANH	Rebel_Squad	L	Ground	Rebel Soldier	2	20	2	2	C	153		Pay 2 Force -> Intercept		WOTC, REB, EP456
 Rescue	ANH	Rescue	N	Battle						C	154		Pay 4 Force -> Choose one: prevent up to 2 damage to one of your units, or one of your units gets +3 power for this attack.		WOTC, REB, EP456
 Slipping Through	ANH	Slipping_Through	N	Battle						C	155		Pay 8 Force -> Choose an arena. Prevent all damage that would be done by units in that arena until end of turn.		WOTC, REB, EP456
-Sorusuub V-35 Courier	ANH	Sorusuub_V_35_Courier	L	Ground	Independent Speeder	2	30	2	2	C	156				WOTC, REB, EP456
+Sorusuub V-35 Courier	ANH	SoruSuub_V_35_Courier	L	Ground	Independent Speeder	2	30	2	2	C	156				WOTC, REB, EP456
 Synchronized Assault	ANH	Synchronized_Assault	N	Battle						C	157		Pay 4 Force -> Each of your Starfighters gets Accuracy 1 until end of turn.		WOTC, REB, EP456
 Stormtrooper Assault Team	ANH	Stormtrooper_Assault_Team	D	Ground	Imperial Clone Stormtrooper	2	30	2	2	C	158		Damage from this unit's attack can't be prevented.		WOTC, REB, EP456
 Stormtrooper DV-523	ANH	Stormtrooper_DV_523	D	Character	Imperial Clone Stormtrooper	4	40	5	4	C	159		This unit gets -2 power as long as it's attacking a unique Character.		WOTC, REB, EP456
@@ -170,12 +170,12 @@ Tusken Squad	ANH	Tusken_Squad	N	Ground	Tatooine Tusken Warrior	4	30	4	3	C	168			
 Vader's Grip	ANH	Vaders_Grip	D	Battle						U	169		Pay 7 Force -> Choose an untapped unit. Tap that unit.		WOTC, REB, EP456
 Victory-Class Star Destroyer	ANH	Victory_Class_Star_Destroyer	D	Space	Imperial Capital Ship	6	20	6	6	C	170		Bombard 2		WOTC, REB, EP456
 Well-Aimed Shot	ANH	Well_Aimed_Shot	N	Battle						C	171		Pay 2 Force -> One of your Space units gets +4 power for this attack.		WOTC, REB, EP456
-X-Wing Red One	ANH	X_Wing_Red_One	L	Space	Rebel Starfighter	5	60	3	2	C	172		When this unit attacks, you may give it +3 power for that attack. If you do, this unit does 2 damage to itself when the attack ends.		WOTC, REB, EP456
-X-Wing Red Three	ANH	X_Wing_Red_Three	L	Space	Rebel Starfighter	3	60	2	2	C	173		Pay 2 Force -> Intercept		WOTC, REB, EP456
-X-Wing Red Two	ANH	X_Wing_Red_Two	L	Space	Rebel Starfighter	3	50	2	2	C	174		Shields 1		WOTC, REB, EP456
-X-Wing Attack Formation	ANH	X_Wing_Attack_Formation	L	Space	Rebel Squadron	6	50	4	4	C	175		Critical Hit 3 | Pay 2 Force -> Evade 1		WOTC, REB, EP456
-Y-Wing Gold One	ANH	Y_Wing_Gold_One	L	Space	Rebel Starfighter	4	40	3	2	C	176		Stun 3		WOTC, REB, EP456
-Y-Wing Gold Squadron	ANH	Y_Wing_Gold_Squadron	L	Space	Rebel Squadron	5	40	4	4	C	177		Pay 2 Force -> Intercept | Critical Hit 1		WOTC, REB, EP456
-YT-1300 Transport	ANH	YT_1300_Transport	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB, EP456
+X-Wing Red One	ANH	X_wing_Red_One	L	Space	Rebel Starfighter	5	60	3	2	C	172		When this unit attacks, you may give it +3 power for that attack. If you do, this unit does 2 damage to itself when the attack ends.		WOTC, REB, EP456
+X-Wing Red Three	ANH	X_wing_Red_Three	L	Space	Rebel Starfighter	3	60	2	2	C	173		Pay 2 Force -> Intercept		WOTC, REB, EP456
+X-Wing Red Two	ANH	X_wing_Red_Two	L	Space	Rebel Starfighter	3	50	2	2	C	174		Shields 1		WOTC, REB, EP456
+X-Wing Attack Formation	ANH	X_wing_Attack_Formation	L	Space	Rebel Squadron	6	50	4	4	C	175		Critical Hit 3 | Pay 2 Force -> Evade 1		WOTC, REB, EP456
+Y-Wing Gold One	ANH	Y_wing_Gold_One	L	Space	Rebel Starfighter	4	40	3	2	C	176		Stun 3		WOTC, REB, EP456
+Y-Wing Gold Squadron	ANH	Y_wing_Gold_Squadron	L	Space	Rebel Squadron	5	40	4	4	C	177		Pay 2 Force -> Intercept | Critical Hit 1		WOTC, REB, EP456
+YT-1300 Transport	ANH	ANH178_YT_1300_Transport_HD	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB, EP456
 YV-664 Light Freighter	ANH	YV_664_Light_Freighter	N	Space	Independent Transport	4	30	3	3	C	179		Shields 1 | Discard this unit from the Space arena -> You get +2 build point this turn. Play only during your build step.		WOTC, REB, EP456
 Z-95 Headhunter	ANH	Z_95_Headhunter	N	Space	Independent Starfighter	3	40	2	2	C	180				WOTC, REB, EP456

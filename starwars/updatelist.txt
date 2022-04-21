@@ -1,4 +1,4 @@
-starwars	01-03-22
+starwars	04-21-22
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -15,15 +15,18 @@ images/backgrounds/07_Resistance_Era_Playmat.png	https://lackey.swtcg.com/images
 images/backgrounds/08_New_Republic_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/08_New_Republic_Era_Playmat.png	-776171
 images/backgrounds/09_Legacy_Era_Playmat.png	https://lackey.swtcg.com/images/backgrounds/09_Legacy_Era_Playmat.png	-1138606
 images/backgrounds/10_Yuuzhan_Vong_Playmat.png	https://lackey.swtcg.com/images/backgrounds/10_Yuuzhan_Vong_Playmat.png	-975299
-plugins/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2021_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	32531365
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691127
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	322979
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	708285
+images/backgrounds/SWTCG_WC2022_American_Regional_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_American_Regional_Playmat.png	-259176
+images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	-378826
+images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
+images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
+plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691130
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	330019
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	811048
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	218377
-plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	141624
+plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	162871
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23811
-plugins/starwars/CardImageURLs1.txt	https://lackey.swtcg.com/starwars/CardImageURLs1.txt	72574793
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	25389
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -37,7 +40,7 @@ plugins/starwars/decks/Rep_DS_Starter.dek	https://lackey.swtcg.com/starwars/deck
 plugins/starwars/decks/Rep_LS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Rep_LS_Starter.dek	572435
 plugins/starwars/decks/Res_DS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Res_DS_Starter.dek	565795
 plugins/starwars/decks/Res_LS_Starter.dek	https://lackey.swtcg.com/starwars/decks/Res_LS_Starter.dek	558308
-plugins/starwars/packs/packdefinitions.xml	https://lackey.swtcg.com/starwars/packs/packdefinitions.xml	2931587
+plugins/starwars/packs/packdefinitions.xml	https://lackey.swtcg.com/starwars/packs/packdefinitions.xml	2976989
 plugins/starwars/packs/15TH.jpg	https://lackey.swtcg.com/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://lackey.swtcg.com/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://lackey.swtcg.com/starwars/packs/AGD.jpg	532512
@@ -88,6 +91,7 @@ plugins/starwars/packs/tdt.jpg	https://lackey.swtcg.com/starwars/packs/tdt.jpg	-
 plugins/starwars/packs/tfa.jpg	https://lackey.swtcg.com/starwars/packs/tfa.jpg	734165
 plugins/starwars/packs/TLJ.jpg	https://lackey.swtcg.com/starwars/packs/TLJ.jpg	1201105
 plugins/starwars/packs/TM.jpg	https://lackey.swtcg.com/starwars/packs/TM.jpg	1389412
+plugins/starwars/packs/TMW.jpg	https://lackey.swtcg.com/starwars/packs/TMW.jpg	2592083
 plugins/starwars/packs/tor.jpg	https://lackey.swtcg.com/starwars/packs/tor.jpg	629528
 plugins/starwars/packs/TORMisc.jpg	https://lackey.swtcg.com/starwars/packs/TORMisc.jpg	-239716
 plugins/starwars/packs/TROS.jpg	https://lackey.swtcg.com/starwars/packs/TROS.jpg	1998770
@@ -96,17 +100,17 @@ plugins/starwars/packs/VP.jpg	https://lackey.swtcg.com/starwars/packs/VP.jpg	529
 plugins/starwars/sets/15TH.txt	https://lackey.swtcg.com/starwars/sets/15TH.txt	2697572
 plugins/starwars/sets/AAA.txt	https://lackey.swtcg.com/starwars/sets/AAA.txt	4558299
 plugins/starwars/sets/AGD.txt	https://lackey.swtcg.com/starwars/sets/AGD.txt	6951889
-plugins/starwars/sets/ANH.txt	https://lackey.swtcg.com/starwars/sets/ANH.txt	3196808
-plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2602220
-plugins/starwars/sets/BF.txt	https://lackey.swtcg.com/starwars/sets/BF.txt	2878590
-plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	2254106
+plugins/starwars/sets/ANH.txt	https://lackey.swtcg.com/starwars/sets/ANH.txt	3198337
+plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2602188
+plugins/starwars/sets/BF.txt	https://lackey.swtcg.com/starwars/sets/BF.txt	2899959
+plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	2254522
 plugins/starwars/sets/BL.txt	https://lackey.swtcg.com/starwars/sets/BL.txt	8316269
-plugins/starwars/sets/BOBF.txt	https://lackey.swtcg.com/starwars/sets/BOBF.txt	32964
+plugins/starwars/sets/BOBF.txt	https://lackey.swtcg.com/starwars/sets/BOBF.txt	33203
 plugins/starwars/sets/BOC.txt	https://lackey.swtcg.com/starwars/sets/BOC.txt	3812957
 plugins/starwars/sets/BOE.txt	https://lackey.swtcg.com/starwars/sets/BOE.txt	3840580
 plugins/starwars/sets/BOH.txt	https://lackey.swtcg.com/starwars/sets/BOH.txt	1642127
 plugins/starwars/sets/BOSB.txt	https://lackey.swtcg.com/starwars/sets/BOSB.txt	2977213
-plugins/starwars/sets/BOTS.txt	https://lackey.swtcg.com/starwars/sets/BOTS.txt	4401409
+plugins/starwars/sets/BOTS.txt	https://lackey.swtcg.com/starwars/sets/BOTS.txt	4401523
 plugins/starwars/sets/BOY.txt	https://lackey.swtcg.com/starwars/sets/BOY.txt	2311967
 plugins/starwars/sets/CAD.txt	https://lackey.swtcg.com/starwars/sets/CAD.txt	3375382
 plugins/starwars/sets/CWSO.txt	https://lackey.swtcg.com/starwars/sets/CWSO.txt	2418561
@@ -114,21 +118,22 @@ plugins/starwars/sets/DAN.txt	https://lackey.swtcg.com/starwars/sets/DAN.txt	419
 plugins/starwars/sets/EE.txt	https://lackey.swtcg.com/starwars/sets/EE.txt	2297690
 plugins/starwars/sets/ER.txt	https://lackey.swtcg.com/starwars/sets/ER.txt	2754278
 plugins/starwars/sets/ESB.txt	https://lackey.swtcg.com/starwars/sets/ESB.txt	4673668
-plugins/starwars/sets/FOR.txt	https://lackey.swtcg.com/starwars/sets/FOR.txt	5739080
+plugins/starwars/sets/FOR.txt	https://lackey.swtcg.com/starwars/sets/FOR.txt	5739048
 plugins/starwars/sets/FOTR.txt	https://lackey.swtcg.com/starwars/sets/FOTR.txt	2364016
-plugins/starwars/sets/ION.txt	https://lackey.swtcg.com/starwars/sets/ION.txt	4847471
-plugins/starwars/sets/JEDI.txt	https://lackey.swtcg.com/starwars/sets/JEDI.txt	1799223
+plugins/starwars/sets/IA.txt	https://lackey.swtcg.com/starwars/sets/IA.txt	765553
+plugins/starwars/sets/ION.txt	https://lackey.swtcg.com/starwars/sets/ION.txt	4847439
+plugins/starwars/sets/JEDI.txt	https://lackey.swtcg.com/starwars/sets/JEDI.txt	1798455
 plugins/starwars/sets/JG.txt	https://lackey.swtcg.com/starwars/sets/JG.txt	2808224
 plugins/starwars/sets/JK.txt	https://lackey.swtcg.com/starwars/sets/JK.txt	2703124
 plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5830833
 plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2097840
-plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1918974
+plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1920253
 plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	2491936
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2808241
 plugins/starwars/sets/RO.txt	https://lackey.swtcg.com/starwars/sets/RO.txt	5323981
 plugins/starwars/sets/RO2.txt	https://lackey.swtcg.com/starwars/sets/RO2.txt	1904972
-plugins/starwars/sets/ROTJ.txt	https://lackey.swtcg.com/starwars/sets/ROTJ.txt	2232876
-plugins/starwars/sets/ROTS.txt	https://lackey.swtcg.com/starwars/sets/ROTS.txt	2247433
+plugins/starwars/sets/ROTJ.txt	https://lackey.swtcg.com/starwars/sets/ROTJ.txt	2234530
+plugins/starwars/sets/ROTS.txt	https://lackey.swtcg.com/starwars/sets/ROTS.txt	2336040
 plugins/starwars/sets/RS.txt	https://lackey.swtcg.com/starwars/sets/RS.txt	4380732
 plugins/starwars/sets/SAV.txt	https://lackey.swtcg.com/starwars/sets/SAV.txt	1737685
 plugins/starwars/sets/SBS.txt	https://lackey.swtcg.com/starwars/sets/SBS.txt	3713541
@@ -142,14 +147,14 @@ plugins/starwars/sets/TDT.txt	https://lackey.swtcg.com/starwars/sets/TDT.txt	852
 plugins/starwars/sets/TEN.txt	https://lackey.swtcg.com/starwars/sets/TEN.txt	1037885
 plugins/starwars/sets/TFA.txt	https://lackey.swtcg.com/starwars/sets/TFA.txt	4651671
 plugins/starwars/sets/TLJ.txt	https://lackey.swtcg.com/starwars/sets/TLJ.txt	5750062
-plugins/starwars/sets/TM.txt	https://lackey.swtcg.com/starwars/sets/TM.txt	6831583
-plugins/starwars/sets/TMW.txt	https://lackey.swtcg.com/starwars/sets/TMW.txt	37864
+plugins/starwars/sets/TM.txt	https://lackey.swtcg.com/starwars/sets/TM.txt	7679514
+plugins/starwars/sets/TMW.txt	https://lackey.swtcg.com/starwars/sets/TMW.txt	6606577
 plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	3190442
-plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6113987
+plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6114019
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3337540
 plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	4785780
-plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt	6253736
-plugins/starwars/sets/START.txt	https://lackey.swtcg.com/starwars/sets/START.txt	4455217
+plugins/starwars/sets/PROMO.txt	https://lackey.swtcg.com/starwars/sets/PROMO.txt	6181548
+plugins/starwars/sets/START.txt	https://lackey.swtcg.com/starwars/sets/START.txt	4455185
 plugins/starwars/sets/HELP.txt	https://lackey.swtcg.com/starwars/sets/HELP.txt	86108
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://lackey.swtcg.com/starwars/sounds/attack.wav	-280414
@@ -697,7 +702,7 @@ ANH/Figrin_Dan_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Figrin
 ANH/Flare_S_Swoop.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Flare_S_Swoop.jpg
 ANH/General_Dodonna_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/General_Dodonna_A.jpg
 ANH/General_Tagge_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/General_Tagge_A.jpg
-ANH/Greedo_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Greedo_A.jpg
+ANH/ANH016_Greedo_A_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/ANH016_Greedo_A_HD.jpg
 ANH/Ground_Support.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Ground_Support.jpg
 ANH/Hans_Courage.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Hans_Courage.jpg
 ANH/Hold_Em_Off.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Hold_Em_Off.jpg
@@ -728,7 +733,7 @@ ANH/Krayt_Dragon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Krayt_
 ANH/Learning_the_Force.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Learning_the_Force.jpg
 ANH/Leias_Kiss.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Leias_Kiss.jpg
 ANH/Lieutenant_Tanbris_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lieutenant_Tanbris_A.jpg
-ANH/Lin_Demolitionmech.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lin_Demolitionmech.jpg
+ANH/LIN_Demolitionmech.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/LIN_Demolitionmech.jpg
 ANH/Luke_Skywalker_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Luke_Skywalker_A.jpg
 ANH/Luke_Skywalker_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Luke_Skywalker_B.jpg
 ANH/Luke_Skywalker_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Luke_Skywalker_C.jpg
@@ -736,7 +741,7 @@ ANH/Luke_Skywalker_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lu
 ANH/Lukes_Repairs.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lukes_Repairs.jpg
 ANH/Lukes_Speeder_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lukes_Speeder_A.jpg
 ANH/Lukes_Warning.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lukes_Warning.jpg
-ANH/Lukes_X_Wing_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lukes_X_Wing_A.jpg
+ANH/Lukes_X_wing_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Lukes_X_wing_A.jpg
 ANH/Moisture_Farm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Moisture_Farm.jpg
 ANH/Momaw_Nadon_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Momaw_Nadon_A.jpg
 ANH/Most_Desperate_Hour.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Most_Desperate_Hour.jpg
@@ -783,7 +788,7 @@ ANH/Remote_Seeker_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH
 ANH/Rescue.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Rescue.jpg
 ANH/Sandtrooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Sandtrooper.jpg
 ANH/Slipping_Through.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Slipping_Through.jpg
-ANH/Sorusuub_V_35_Courier.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Sorusuub_V_35_Courier.jpg
+ANH/SoruSuub_V_35_Courier.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/SoruSuub_V_35_Courier.jpg
 ANH/Stabilize_Deflectors.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Stabilize_Deflectors.jpg
 ANH/Star_Destroyer_Commander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Star_Destroyer_Commander.jpg
 ANH/Starfighters_End.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Starfighters_End.jpg
@@ -827,14 +832,14 @@ ANH/Victory_Class_Star_Destroyer.jpg	https://lackey.swtcg.com/starwars/sets/seti
 ANH/Wedge_Antilles_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Wedge_Antilles_A.jpg
 ANH/Well_Aimed_Shot.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Well_Aimed_Shot.jpg
 ANH/Wuher_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Wuher_A.jpg
-ANH/X_Wing_Attack_Formation.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_Wing_Attack_Formation.jpg
-ANH/X_Wing_Red_One.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_Wing_Red_One.jpg
-ANH/X_Wing_Red_Three.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_Wing_Red_Three.jpg
-ANH/X_Wing_Red_Two.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_Wing_Red_Two.jpg
-ANH/YT_1300_Transport.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/YT_1300_Transport.jpg
+ANH/X_wing_Attack_Formation.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_wing_Attack_Formation.jpg
+ANH/X_wing_Red_One.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_wing_Red_One.jpg
+ANH/X_wing_Red_Three.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_wing_Red_Three.jpg
+ANH/X_wing_Red_Two.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/X_wing_Red_Two.jpg
+ANH/ANH178_YT_1300_Transport_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/ANH178_YT_1300_Transport_HD.jpg
 ANH/YV_664_Light_Freighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/YV_664_Light_Freighter.jpg
-ANH/Y_Wing_Gold_One.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Y_Wing_Gold_One.jpg
-ANH/Y_Wing_Gold_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Y_Wing_Gold_Squadron.jpg
+ANH/Y_wing_Gold_One.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Y_wing_Gold_One.jpg
+ANH/Y_wing_Gold_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Y_wing_Gold_Squadron.jpg
 ANH/Yavin_4_Hangar_Base.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Yavin_4_Hangar_Base.jpg
 ANH/Z_95_Headhunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Z_95_Headhunter.jpg
 AOTC/AT_TE_Walker_23X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AT_TE_Walker_23X.jpg
@@ -910,7 +915,7 @@ AOTC/High_Force_Dodge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/
 AOTC/Hyperdrive_Ring.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Hyperdrive_Ring.jpg
 AOTC/Infantry_Battle_Droid_B1_Series.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Infantry_Battle_Droid_B1_Series.jpg
 AOTC/Interference_in_the_Senate.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Interference_in_the_Senate.jpg
-AOTC/Intergalactic_Banking_Clan_Starship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Intergalactic_Banking_Clan_Starship.jpg
+AOTC/InterGalactic_Banking_Clan_Starship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/InterGalactic_Banking_Clan_Starship.jpg
 AOTC/Jango_Fett_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Jango_Fett_A.jpg
 AOTC/Jango_Fett_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Jango_Fett_B.jpg
 AOTC/Jango_Fett_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Jango_Fett_C.jpg
@@ -1169,7 +1174,7 @@ BH/BH046_Relentless.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH04
 BH/BH047_Sleight_of_Hand_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH047_Sleight_of_Hand_A.jpg
 BH/BH048_Stinger_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH048_Stinger_B.jpg
 BH/BH049_Talon_s_Death_Mark.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH049_Talon_s_Death_Mark.jpg
-BH/BH050_To_The_Highest_Bidder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH050_To_The_Highest_Bidder.jpg
+BH/BH050_To_the_Highest_Bidder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH050_To_the_Highest_Bidder.jpg
 BH/BH051_Ailyn_Vel_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH051_Ailyn_Vel_A.jpg
 BH/BH052_Ambushing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH052_Ambushing.jpg
 BH/BH053_Assassin_s_Rifle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BH/BH053_Assassin_s_Rifle.jpg
@@ -3315,7 +3320,7 @@ FOR/FORsub_Phantom_II_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR
 FOR/FORsub_Phantom_II_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Phantom_II_B.jpg
 FOR/FORsub_Reactivated_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Reactivated_Droid.jpg
 FOR/FORsub_Rebel_A_wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Rebel_A_wing.jpg
-FOR/FORsub_Rebel_Y_wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Rebel_Y_wing.jpg
+FOR/FORsub_Rebel_Y_Wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Rebel_Y_Wing.jpg
 FOR/FORsub_Royal_Guard.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Royal_Guard.jpg
 FOR/FORsub_Veteran_Death_Troopers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Veteran_Death_Troopers.jpg
 FOR/FORsub_Veteran_Rebel_Soldiers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FORsub_Veteran_Rebel_Soldiers.jpg
@@ -3470,6 +3475,36 @@ HELP/HELP005_End_of_Turn.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HE
 HELP/HELP006_Attack_Sequence.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HELP/HELP006_Attack_Sequence.jpg
 HELP/HELP007_Play_Or_Pass_Chances.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HELP/HELP007_Play_Or_Pass_Chances.jpg
 HELP/HELP008_Subordinates.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HELP/HELP008_Subordinates.jpg
+IA/IA01_Imperial_Assault.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA01_Imperial_Assault.jpg
+IA/IA02_Davith_Elso_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA02_Davith_Elso_A.jpg
+IA/IA03_Diala_Passil_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA03_Diala_Passil_A.jpg
+IA/IA04_Drokkatta_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA04_Drokkatta_A.jpg
+IA/IA05_Gaarkhan_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA05_Gaarkhan_A.jpg
+IA/IA06_Gideon_Argus_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA06_Gideon_Argus_A.jpg
+IA/IA07_Jyn_Odan_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA07_Jyn_Odan_A.jpg
+IA/IA08_Loku_Kanoloa_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA08_Loku_Kanoloa_A.jpg
+IA/IA09_Mak_Eshka_rey_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA09_Mak_Eshka_rey_A.jpg
+IA/IA10_Onar_Koma_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA10_Onar_Koma_A.jpg
+IA/IA11_Shyla_Varad_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA11_Shyla_Varad_A.jpg
+IA/IA12_Verena_Talos_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA12_Verena_Talos_A.jpg
+IA/IA13_Vinto_Hreeda_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA13_Vinto_Hreeda_A.jpg
+IA/IA14_Agent_Blaise_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA14_Agent_Blaise_A.jpg
+IA/IA15_Captain_Terro_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA15_Captain_Terro_A.jpg
+IA/IA16_General_Weiss_s_AT-ST_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA16_General_Weiss_s_AT-ST_A.jpg
+IA/IA17_Kayn_Somos_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA17_Kayn_Somos_A.jpg
+IA/IA18_Royal_Guard_Champion_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA18_Royal_Guard_Champion_A.jpg
+IA/IA19_Elite_Imperial_Officer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA19_Elite_Imperial_Officer.jpg
+IA/IA20_Elite_Stormtrooper_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA20_Elite_Stormtrooper_Squad.jpg
+IA/IA21_Imperial_Threat.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA21_Imperial_Threat.jpg
+IA/IA22_Rebel_Experience.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA22_Rebel_Experience.jpg
+IA/IA23_Ancient_Lightsaber.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA23_Ancient_Lightsaber.jpg
+IA/IA24_Assemble_the_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA24_Assemble_the_Team.jpg
+IA/IA25_Bacta_Pump.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA25_Bacta_Pump.jpg
+IA/IA26_Disruptor_Pistol.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA26_Disruptor_Pistol.jpg
+IA/IA27_Endless_Ranks.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA27_Endless_Ranks.jpg
+IA/IA28_Luck_of_the_Dice.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA28_Luck_of_the_Dice.jpg
+IA/IA29_Unfinished_Business.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA29_Unfinished_Business.jpg
+IA/IA30_Vibro-Axe.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA30_Vibro-Axe.jpg
 ION/000-jarjarbinksd.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/000-jarjarbinksd.jpg
 ION/001-accelerateourplans.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/001-accelerateourplans.jpg
 ION/002-activatethedroids.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/002-activatethedroids.jpg
@@ -3494,7 +3529,7 @@ ION/020-gungangeneral.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/0
 ION/021-gunganshieldwall.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/021-gunganshieldwall.jpg
 ION/022-heatofbattle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/022-heatofbattle.jpg
 ION/023-iwillmakeitlegal.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/023-iwillmakeitlegal.jpg
-ION/024-implosion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/024-implosion.jpg
+ION/024-Implosion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/024-Implosion.jpg
 ION/025-invasionarmy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/025-invasionarmy.jpg
 ION/026-jedimasterandapprenticea.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/026-jedimasterandapprenticea.jpg
 ION/027-kaaducavalry.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ION/027-kaaducavalry.jpg
@@ -4243,7 +4278,7 @@ PM/Captain_Panaka_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Capt
 PM/Captain_Tarpals_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Captain_Tarpals_A.jpg
 PM/Citadel_Cruiser.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Citadel_Cruiser.jpg
 PM/Cloakshape_Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Cloakshape_Fighter.jpg
-PM/Colo_Claw_Fish.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Colo_Claw_Fish.jpg
+PM/PM038_Colo_Claw_Fish_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/PM038_Colo_Claw_Fish_HD.jpg
 PM/Corridors_of_Power.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Corridors_of_Power.jpg
 PM/Dark_Woman_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Dark_Woman_A.jpg
 PM/Darth_Maul_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Darth_Maul_F.jpg
@@ -4262,7 +4297,7 @@ PM/Gardulla_the_Hutt_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/G
 PM/Gas_Attack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Gas_Attack.jpg
 PM/Gian_Speeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Gian_Speeder.jpg
 PM/Guardian_Mantis_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Guardian_Mantis_A.jpg
-PM/Gungan_Battle_Wagon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Gungan_Battle_Wagon.jpg
+PM/PM042_Gungan_Battle_Wagon_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/PM042_Gungan_Battle_Wagon_HD.jpg
 PM/Gungan_Catapult.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Gungan_Catapult.jpg
 PM/Gungan_Grand_Army.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Gungan_Grand_Army.jpg
 PM/Gungan_Kaadu_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PM/Gungan_Kaadu_Squad.jpg
@@ -5142,7 +5177,7 @@ ROTJ/Nien_Nunb_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Nien_
 ROTJ/Occupied_Bespin.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Occupied_Bespin.jpg
 ROTJ/Occupied_Coruscant.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Occupied_Coruscant.jpg
 ROTJ/Occupied_Endor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Occupied_Endor.jpg
-ROTJ/Occupied_Tatooine.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Occupied_Tatooine.jpg
+ROTJ/ROTJ030_Occupied_Tatooine_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ030_Occupied_Tatooine_HD.jpg
 ROTJ/Oola_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Oola_A.jpg
 ROTJ/Princess_Leia_J.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Princess_Leia_J.jpg
 ROTJ/Princess_Leia_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Princess_Leia_K.jpg
@@ -5170,116 +5205,116 @@ ROTJ/Wicket_W_Warrick_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROT
 ROTJ/Wookiee_Hug.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Wookiee_Hug.jpg
 ROTJ/Worrt.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Worrt.jpg
 ROTJ/Yodas_Spirit_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/Yodas_Spirit_A.jpg
-ROTS/ARC-170_Starfighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ARC-170_Starfighter.jpg
-ROTS/AT-AP.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/AT-AP.jpg
-ROTS/AT-RT.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/AT-RT.jpg
-ROTS/Acclamator_II-Class_Assault_Ship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Acclamator_II-Class_Assault_Ship.jpg
-ROTS/Anakin_Skywalker_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Anakin_Skywalker_L.jpg
-ROTS/Anakin_Skywalker_M.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Anakin_Skywalker_M.jpg
-ROTS/Anakins_Starfighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Anakins_Starfighter_A.jpg
-ROTS/BARC_Speeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/BARC_Speeder.jpg
-ROTS/Bail_Organa_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Bail_Organa_B.jpg
-ROTS/Blaster_Pistol.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Blaster_Pistol.jpg
-ROTS/Blaster_Rifle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Blaster_Rifle.jpg
-ROTS/Buzz_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Buzz_Droid.jpg
-ROTS/C-3PO_I.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/C-3PO_I.jpg
-ROTS/Chancellors_Office.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Chancellors_Office.jpg
-ROTS/Chewbacca_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Chewbacca_L.jpg
-ROTS/Chewbacca_M.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Chewbacca_M.jpg
-ROTS/Combined_Squadron_Tactics.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Combined_Squadron_Tactics.jpg
-ROTS/Commerce_Guild_Droid_81-X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Commerce_Guild_Droid_81-X.jpg
-ROTS/Commerce_Guild_Starship_ROTS.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Commerce_Guild_Starship_ROTS.jpg
-ROTS/Confusion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Confusion.jpg
-ROTS/Coruscant_Emergency_Ship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Coruscant_Emergency_Ship.jpg
-ROTS/Coruscant_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Coruscant_Shuttle.jpg
-ROTS/DC0052_Intergalactic_Airspeeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/DC0052_Intergalactic_Airspeeder.jpg
-ROTS/Darth_Sidious_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Sidious_E.jpg
-ROTS/Darth_Sidious_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Sidious_F.jpg
-ROTS/Darth_Sidious_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Sidious_G.jpg
-ROTS/Darth_Tyranus_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Tyranus_H.jpg
-ROTS/Darth_Tyranus_I.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Tyranus_I.jpg
-ROTS/Darth_Vader_Q.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Vader_Q.jpg
-ROTS/Darth_Vader_R.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Vader_R.jpg
-ROTS/Darth_Vader_S.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Darth_Vader_S.jpg
-ROTS/Destroyer_Droid_Q_Series.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Destroyer_Droid_Q_Series.jpg
-ROTS/Dismiss.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Dismiss.jpg
-ROTS/Diving_Attack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Diving_Attack.jpg
-ROTS/Droid_Battlestaff.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Droid_Battlestaff.jpg
-ROTS/Droid_Missiles.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Droid_Missiles.jpg
-ROTS/ROTS012_Droid_Security_Escort.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS012_Droid_Security_Escort.jpg
-ROTS/Droid_Tri-Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Droid_Tri-Fighter.jpg
-ROTS/Elite_Guardian.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Elite_Guardian.jpg
-ROTS/Engine_Upgrade.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Engine_Upgrade.jpg
-ROTS/Foil.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Foil.jpg
-ROTS/Force_Dodge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Force_Dodge.jpg
-ROTS/GH-7_Medical_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/GH-7_Medical_Droid.jpg
-ROTS/Grand_Moff_Tarkin_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Grand_Moff_Tarkin_D.jpg
-ROTS/HAVw_A6_Juggernaut.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/HAVw_A6_Juggernaut.jpg
-ROTS/Hardcell-Class_Transport.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Hardcell-Class_Transport.jpg
-ROTS/Homing_Missiles_Salvo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Homing_Missiles_Salvo.jpg
-ROTS/IBC_Hailfire_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/IBC_Hailfire_Droid.jpg
-ROTS/Instill_Doubt.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Instill_Doubt.jpg
-ROTS/InterGalactic_Banking_Clan_Cruiser.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/InterGalactic_Banking_Clan_Cruiser.jpg
-ROTS/It_Just_Might_Work.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/It_Just_Might_Work.jpg
-ROTS/Jar_Jar_Binks_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Jar_Jar_Binks_C.jpg
-ROTS/Jedi_Concentration.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Jedi_Concentration.jpg
-ROTS/Jedi_Lightsaber.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Jedi_Lightsaber.jpg
-ROTS/Jedi_Masters_Deflection.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Jedi_Masters_Deflection.jpg
-ROTS/Jedi_Piloting.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Jedi_Piloting.jpg
-ROTS/Kashyyyk_System.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Kashyyyk_System.jpg
-ROTS/Lightsaber_Quick_Draw.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Lightsaber_Quick_Draw.jpg
-ROTS/Mace_Windu_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Mace_Windu_F.jpg
-ROTS/Mas_Amedda_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Mas_Amedda_A.jpg
-ROTS/Meditate.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Meditate.jpg
-ROTS/Mustafar_Battle_Grounds.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Mustafar_Battle_Grounds.jpg
-ROTS/Mustafar_System.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Mustafar_System.jpg
-ROTS/Naboo_Star_Skiff.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Naboo_Star_Skiff.jpg
-ROTS/Nos_Monster.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Nos_Monster.jpg
-ROTS/Nute_Gunray_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Nute_Gunray_D.jpg
-ROTS/Obi-Wan_Kenobi_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Obi-Wan_Kenobi_L.jpg
-ROTS/Obi-Wan_Kenobi_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Obi-Wan_Kenobi_N.jpg
-ROTS/Obi_Wan_Kenobi_M.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Obi_Wan_Kenobi_M.jpg
-ROTS/Padme_Amidala_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Padme_Amidala_G.jpg
-ROTS/Padme_Amidala_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Padme_Amidala_H.jpg
-ROTS/Palpatines_Sanctum.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Palpatines_Sanctum.jpg
-ROTS/Patrol_Mode_Vulture_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Patrol_Mode_Vulture_Droid.jpg
-ROTS/Plo_Koons_Starfighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Plo_Koons_Starfighter_A.jpg
-ROTS/Power_Attack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Power_Attack.jpg
-ROTS/R2-D2_J.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/R2-D2_J.jpg
-ROTS/R4-P17_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/R4-P17_A.jpg
-ROTS/Rage_of_Victory.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Rage_of_Victory.jpg
-ROTS/Recusant-Class_Light_Destroyer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Recusant-Class_Light_Destroyer.jpg
-ROTS/Republic_Assault_Gunboat.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Republic_Assault_Gunboat.jpg
-ROTS/Republic_Fighter_Wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Republic_Fighter_Wing.jpg
-ROTS/Sacrifice_the_Expendable.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Sacrifice_the_Expendable.jpg
-ROTS/Security_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Security_Droid.jpg
-ROTS/Separatist_Fleet.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Separatist_Fleet.jpg
-ROTS/Sith_Lightsaber.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Sith_Lightsaber.jpg
-ROTS/Spinning_Slash.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Spinning_Slash.jpg
-ROTS/Stap_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Stap_Squad.jpg
-ROTS/Strike_with_Impunity.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Strike_with_Impunity.jpg
-ROTS/Stubborn_Personality.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Stubborn_Personality.jpg
-ROTS/Super_Battle_Droid_7EX.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Super_Battle_Droid_7EX.jpg
-ROTS/Surge_of_Strength.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Surge_of_Strength.jpg
-ROTS/TF_Battle_Droid_Army.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/TF_Battle_Droid_Army.jpg
-ROTS/Tank_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Tank_Droid.jpg
-ROTS/Techno_Union_Interceptor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Techno_Union_Interceptor.jpg
-ROTS/Theta-Class_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Theta-Class_Shuttle.jpg
-ROTS/Thread_the_Needle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Thread_the_Needle.jpg
-ROTS/Thwart.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Thwart.jpg
-ROTS/Trade_Federation_Cruiser.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Trade_Federation_Cruiser.jpg
-ROTS/Treachery.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Treachery.jpg
-ROTS/Unexpected_Attack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Unexpected_Attack.jpg
-ROTS/Unity_of_the_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Unity_of_the_Jedi.jpg
-ROTS/Utapau_Sinkhole.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Utapau_Sinkhole.jpg
-ROTS/Utapau_System.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Utapau_System.jpg
-ROTS/V-wing_Clone_Starfighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/V-wing_Clone_Starfighter.jpg
-ROTS/Vehicle_Shields_Package.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Vehicle_Shields_Package.jpg
-ROTS/Vehicle_Weapons_Package.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Vehicle_Weapons_Package.jpg
-ROTS/Venator-Class_Destroyer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Venator-Class_Destroyer.jpg
-ROTS/Vulture_Droid_Starfighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Vulture_Droid_Starfighter.jpg
-ROTS/Yoda_J.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Yoda_J.jpg
-ROTS/Yoda_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/Yoda_K.jpg
+ROTS/ROTS001_Anakin_Skywalker_M_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS001_Anakin_Skywalker_M_HD.jpg
+ROTS/ROTS002_Bail_Organa_B_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS002_Bail_Organa_B_HD.jpg
+ROTS/ROTS003_Chewbacca_M_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS003_Chewbacca_M_HD.jpg
+ROTS/ROTS004_Commerce_Guild_Droid_81-X_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS004_Commerce_Guild_Droid_81-X_HD.jpg
+ROTS/ROTS005_Commerce_Guild_Starship_ROTS_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS005_Commerce_Guild_Starship_ROTS_HD.jpg
+ROTS/ROTS006_Coruscant_Shuttle_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS006_Coruscant_Shuttle_HD.jpg
+ROTS/ROTS007_Darth_Sidious_G_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS007_Darth_Sidious_G_HD.jpg
+ROTS/ROTS008_Darth_Tyranus_I_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS008_Darth_Tyranus_I_HD.jpg
+ROTS/ROTS009_Darth_Vader_R_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS009_Darth_Vader_R_HD.jpg
+ROTS/ROTS010_Darth_Vader_S_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS010_Darth_Vader_S_HD.jpg
+ROTS/ROTS011_Dismiss_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS011_Dismiss_HD.jpg
+ROTS/ROTS012_Droid_Security_Escort_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS012_Droid_Security_Escort_HD.jpg
+ROTS/ROTS013_Engine_Upgrade_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS013_Engine_Upgrade_HD.jpg
+ROTS/ROTS014_Foil_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS014_Foil_HD.jpg
+ROTS/ROTS015_Palpatines_Sanctum_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS015_Palpatines_Sanctum_HD.jpg
+ROTS/ROTS016_Grand_Moff_Tarkin_D_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS016_Grand_Moff_Tarkin_D_HD.jpg
+ROTS/ROTS017_It_Just_Might_Work_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS017_It_Just_Might_Work_HD.jpg
+ROTS/ROTS018_Jar_Jar_Binks_C_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS018_Jar_Jar_Binks_C_HD.jpg
+ROTS/ROTS019_Lightsaber_Quick_Draw_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS019_Lightsaber_Quick_Draw_HD.jpg
+ROTS/ROTS020_Mace_Windu_F_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS020_Mace_Windu_F_HD.jpg
+ROTS/ROTS021_Mas_Amedda_A_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS021_Mas_Amedda_A_HD.jpg
+ROTS/ROTS022_Mustafar_Battle_Grounds_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS022_Mustafar_Battle_Grounds_HD.jpg
+ROTS/ROTS023_Mustafar_System_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS023_Mustafar_System_HD.jpg
+ROTS/ROTS024_Nos_Monster_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS024_Nos_Monster_HD.jpg
+ROTS/ROTS025_Obi-Wan_Kenobi_N_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS025_Obi-Wan_Kenobi_N_HD.jpg
+ROTS/ROTS026_Padme_Amidala_G_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS026_Padme_Amidala_G_HD.jpg
+ROTS/ROTS027_R4-P17_A_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS027_R4-P17_A_HD.jpg
+ROTS/ROTS028_Rage_of_Victory_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS028_Rage_of_Victory_HD.jpg
+ROTS/ROTS029_Recusant-Class_Light_Destroyer_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS029_Recusant-Class_Light_Destroyer_HD.jpg
+ROTS/ROTS030_Republic_Fighter_Wing_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS030_Republic_Fighter_Wing_HD.jpg
+ROTS/ROTS031_Sacrifice_the_Expendable_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS031_Sacrifice_the_Expendable_HD.jpg
+ROTS/ROTS032_Separatist_Fleet_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS032_Separatist_Fleet_HD.jpg
+ROTS/ROTS033_Spinning_Slash_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS033_Spinning_Slash_HD.jpg
+ROTS/ROTS034_Strike_with_Impunity_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS034_Strike_with_Impunity_HD.jpg
+ROTS/ROTS035_Stubborn_Personality_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS035_Stubborn_Personality_HD.jpg
+ROTS/ROTS036_Super_Battle_Droid_7EX_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS036_Super_Battle_Droid_7EX_HD.jpg
+ROTS/ROTS037_Theta-Class_Shuttle_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS037_Theta-Class_Shuttle_HD.jpg
+ROTS/ROTS038_Unexpected_Attack_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS038_Unexpected_Attack_HD.jpg
+ROTS/ROTS039_Venator-Class_Destroyer_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS039_Venator-Class_Destroyer_HD.jpg
+ROTS/ROTS040_Yoda_K_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS040_Yoda_K_HD.jpg
+ROTS/ROTS041_Acclamator_II-Class_Assault_Ship_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS041_Acclamator_II-Class_Assault_Ship_HD.jpg
+ROTS/ROTS042_AT-AP_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS042_AT-AP_HD.jpg
+ROTS/ROTS043_C-3PO_I_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS043_C-3PO_I_HD.jpg
+ROTS/ROTS044_Chancellors_Office_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS044_Chancellors_Office_HD.jpg
+ROTS/ROTS045_Combined_Squadron_Tactics_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS045_Combined_Squadron_Tactics_HD.jpg
+ROTS/ROTS046_Confusion_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS046_Confusion_HD.jpg
+ROTS/ROTS047_Darth_Sidious_F_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS047_Darth_Sidious_F_HD.jpg
+ROTS/ROTS048_Darth_Vader_Q_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS048_Darth_Vader_Q_HD.jpg
+ROTS/ROTS049_Destroyer_Droid_Q_Series_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS049_Destroyer_Droid_Q_Series_HD.jpg
+ROTS/ROTS050_Droid_Missiles_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS050_Droid_Missiles_HD.jpg
+ROTS/ROTS051_Elite_Guardian_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS051_Elite_Guardian_HD.jpg
+ROTS/ROTS052_Hardcell-Class_Transport_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS052_Hardcell-Class_Transport_HD.jpg
+ROTS/ROTS053_Jedi_Concentration_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS053_Jedi_Concentration_HD.jpg
+ROTS/ROTS054_Jedi_Masters_Deflection_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS054_Jedi_Masters_Deflection_HD.jpg
+ROTS/ROTS055_Kashyyyk_System_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS055_Kashyyyk_System_HD.jpg
+ROTS/ROTS056_Naboo_Star_Skiff_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS056_Naboo_Star_Skiff_HD.jpg
+ROTS/ROTS057_Nute_Gunray_D_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS057_Nute_Gunray_D_HD.jpg
+ROTS/ROTS058_Obi-Wan_Kenobi_L_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS058_Obi-Wan_Kenobi_L_HD.jpg
+ROTS/ROTS059_Padme_Amidala_H_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS059_Padme_Amidala_H_HD.jpg
+ROTS/ROTS060_Patrol_Mode_Vulture_Droid_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS060_Patrol_Mode_Vulture_Droid_HD.jpg
+ROTS/ROTS061_GH-7_Medical_Droid_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS061_GH-7_Medical_Droid_HD.jpg
+ROTS/ROTS062_R2-D2_J_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS062_R2-D2_J_HD.jpg
+ROTS/ROTS063_Thread_the_Needle_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS063_Thread_the_Needle_HD.jpg
+ROTS/ROTS064_Thwart_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS064_Thwart_HD.jpg
+ROTS/ROTS065_Treachery_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS065_Treachery_HD.jpg
+ROTS/ROTS066_Techno_Union_Interceptor_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS066_Techno_Union_Interceptor_HD.jpg
+ROTS/ROTS067_Utapau_System_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS067_Utapau_System_HD.jpg
+ROTS/ROTS068_Vehicle_Shields_Package_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS068_Vehicle_Shields_Package_HD.jpg
+ROTS/ROTS069_Vehicle_Weapons_Package_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS069_Vehicle_Weapons_Package_HD.jpg
+ROTS/ROTS070_Yoda_J_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS070_Yoda_J_HD.jpg
+ROTS/ROTS071_Anakin_Skywalker_L_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS071_Anakin_Skywalker_L_HD.jpg
+ROTS/ROTS072_Anakins_Starfighter_A_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS072_Anakins_Starfighter_A_HD.jpg
+ROTS/ROTS073_ARC-170_Starfighter_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS073_ARC-170_Starfighter_HD.jpg
+ROTS/ROTS074_AT-RT_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS074_AT-RT_HD.jpg
+ROTS/ROTS075_BARC_Speeder_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS075_BARC_Speeder_HD.jpg
+ROTS/ROTS076_Blaster_Pistol_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS076_Blaster_Pistol_HD.jpg
+ROTS/ROTS077_Blaster_Rifle_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS077_Blaster_Rifle_HD.jpg
+ROTS/ROTS078_Buzz_Droid_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS078_Buzz_Droid_HD.jpg
+ROTS/ROTS079_Chewbacca_L_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS079_Chewbacca_L_HD.jpg
+ROTS/ROTS080_Coruscant_Emergency_Ship_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS080_Coruscant_Emergency_Ship_HD.jpg
+ROTS/ROTS081_Darth_Sidious_E_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS081_Darth_Sidious_E_HD.jpg
+ROTS/ROTS082_Darth_Tyranus_H_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS082_Darth_Tyranus_H_HD.jpg
+ROTS/ROTS083_DC0052_Intergalactic_Airspeeder_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS083_DC0052_Intergalactic_Airspeeder_HD.jpg
+ROTS/ROTS084_Diving_Attack_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS084_Diving_Attack_HD.jpg
+ROTS/ROTS085_Droid_Battlestaff_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS085_Droid_Battlestaff_HD.jpg
+ROTS/ROTS086_Droid_Tri-Fighter_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS086_Droid_Tri-Fighter_HD.jpg
+ROTS/ROTS087_Force_Dodge_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS087_Force_Dodge_HD.jpg
+ROTS/ROTS088_HAVw_A6_Juggernaut_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS088_HAVw_A6_Juggernaut_HD.jpg
+ROTS/ROTS089_Homing_Missiles_Salvo_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS089_Homing_Missiles_Salvo_HD.jpg
+ROTS/ROTS090_IBC_Hailfire_Droid_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS090_IBC_Hailfire_Droid_HD.jpg
+ROTS/ROTS091_Instill_Doubt_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS091_Instill_Doubt_HD.jpg
+ROTS/ROTS092_InterGalactic_Banking_Clan_Cruiser_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS092_InterGalactic_Banking_Clan_Cruiser_HD.jpg
+ROTS/ROTS093_Jedi_Lightsaber_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS093_Jedi_Lightsaber_HD.jpg
+ROTS/ROTS094_Jedi_Piloting_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS094_Jedi_Piloting_HD.jpg
+ROTS/ROTS095_Meditate_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS095_Meditate_HD.jpg
+ROTS/ROTS096_Obi_Wan_Kenobi_M_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS096_Obi_Wan_Kenobi_M_HD.jpg
+ROTS/ROTS097_Plo_Koons_Starfighter_A_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS097_Plo_Koons_Starfighter_A_HD.jpg
+ROTS/ROTS098_Power_Attack_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS098_Power_Attack_HD.jpg
+ROTS/ROTS099_Republic_Assault_Gunboat_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS099_Republic_Assault_Gunboat_HD.jpg
+ROTS/ROTS100_Security_Droid_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS100_Security_Droid_HD.jpg
+ROTS/ROTS101_Sith_Lightsaber_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS101_Sith_Lightsaber_HD.jpg
+ROTS/ROTS102_Stap_Squad_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS102_Stap_Squad_HD.jpg
+ROTS/ROTS103_Surge_of_Strength_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS103_Surge_of_Strength_HD.jpg
+ROTS/ROTS104_Tank_Droid_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS104_Tank_Droid_HD.jpg
+ROTS/ROTS105_TF_Battle_Droid_Army_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS105_TF_Battle_Droid_Army_HD.jpg
+ROTS/ROTS106_Trade_Federation_Cruiser_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS106_Trade_Federation_Cruiser_HD.jpg
+ROTS/ROTS107_Unity_of_the_Jedi_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS107_Unity_of_the_Jedi_HD.jpg
+ROTS/ROTS108_Utapau_Sinkhole_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS108_Utapau_Sinkhole_HD.jpg
+ROTS/ROTS109_Vulture_Droid_Starfighter_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS109_Vulture_Droid_Starfighter_HD.jpg
+ROTS/ROTS110_V-wing_Clone_Starfighter_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS110_V-wing_Clone_Starfighter_HD.jpg
 RS/RS001_Attack_Position.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS001_Attack_Position.jpg
 RS/RS002_Baron_Soontir_Fel_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS002_Baron_Soontir_Fel_B.jpg
 RS/RS003_Black_Asp_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS003_Black_Asp_A.jpg
@@ -6484,7 +6519,7 @@ START/Repstarter_General_Grievous_C.jpg	https://lackey.swtcg.com/starwars/sets/s
 START/Repstarter_IG_101_Magnaguard.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_IG_101_Magnaguard.jpg
 START/Repstarter_Jedi_s_Guidance.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Jedi_s_Guidance.jpg
 START/Repstarter_Lightsaber_Collection_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Lightsaber_Collection_A.jpg
-START/Repstarter_Mygeeto_Tri_droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Mygeeto_Tri_droid.jpg
+START/Repstarter_Mygeeto_Tri_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Mygeeto_Tri_Droid.jpg
 START/Repstarter_Obi-Wan_Kenobi_O.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Obi-Wan_Kenobi_O.jpg
 START/Repstarter_Obi-Wan_Kenobi_s_Lightsaber_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Obi-Wan_Kenobi_s_Lightsaber_A.jpg
 START/Repstarter_Obi_Wan_s_Finesse.jpg	https://lackey.swtcg.com/starwars/sets/setimages/START/Repstarter_Obi_Wan_s_Finesse.jpg
@@ -7868,8 +7903,35 @@ TM/TM237_Underground_Lava_River.jpg	https://lackey.swtcg.com/starwars/sets/setim
 TM/TM238_Urchins_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TM238_Urchins_B.jpg
 TM/TM239_Xi_an_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TM239_Xi_an_A.jpg
 TM/TM240_Zabrak_Gladiator.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TM240_Zabrak_Gladiator.jpg
+TM/TMpromo_Bad_Idea.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Bad_Idea.jpg
+TM/TMpromo_Cara_Dune_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Cara_Dune_A.jpg
+TM/TMpromo_Come_to_Mama.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Come_to_Mama.jpg
+TM/TMpromo_Din_Djarin_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Din_Djarin_B.jpg
+TM/TMpromo_Din_Djarin_s_Blaster_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Din_Djarin_s_Blaster_A.jpg
+TM/TMpromo_Din_Djarin_s_Whistling_Birds_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Din_Djarin_s_Whistling_Birds_A.jpg
+TM/TMpromo_I_Can_Bring_You_in_Cold.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_I_Can_Bring_You_in_Cold.jpg
+TM/TMpromo_I_Have_Spoken.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_I_Have_Spoken.jpg
+TM/TMpromo_IG_11_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_IG_11_B.jpg
+TM/TMpromo_Klatooinian_AT_ST_Raider_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Klatooinian_AT_ST_Raider_A.jpg
+TM/TMpromo_Kuiil_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Kuiil_B.jpg
+TM/TMpromo_Magic_Hand_Thing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Magic_Hand_Thing.jpg
+TM/TMpromo_Mandalorian_Armorer_Workshop.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Mandalorian_Armorer_Workshop.jpg
+TM/TMpromo_Mayfeld_s_Team_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Mayfeld_s_Team_A.jpg
+TM/TMpromo_Mudhorn.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Mudhorn.jpg
+TM/TMpromo_Paz_Vizsla_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Paz_Vizsla_A.jpg
+TM/TMpromo_Paz_Vizsla_s_Heavy_Blaster_Cannon_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Paz_Vizsla_s_Heavy_Blaster_Cannon_A.jpg
+TM/TMpromo_Ravinak.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Ravinak.jpg
+TM/TMpromo_Razor_Crest_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Razor_Crest_A.jpg
+TM/TMpromo_Razor_Crest_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Razor_Crest_C.jpg
+TM/TMpromo_Redemption.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Redemption.jpg
+TM/TMpromo_Remnant_E_Web_Heavy_Repeating_Blaster.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Remnant_E_Web_Heavy_Repeating_Blaster.jpg
+TM/TMpromo_Remnant_Scout.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Remnant_Scout.jpg
+TM/TMpromo_Sorgan_Sanctuary.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Sorgan_Sanctuary.jpg
 TM/TMpromo_The_Child_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_The_Child_A.jpg
 TM/TMpromo_The_Mandalorian_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_The_Mandalorian_A.jpg
+TM/TMpromo_The_Reckoning.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_The_Reckoning.jpg
+TM/TMpromo_The_Tribe_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_The_Tribe_A.jpg
+TM/TMpromo_This_Is_the_Way.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_This_Is_the_Way.jpg
 TM/TMsub_Alpha_Trawler.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Alpha_Trawler.jpg
 TM/TMsub_Arvala_Jawa.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Arvala_Jawa.jpg
 TM/TMsub_Arvala_Jawa_Scavengers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Arvala_Jawa_Scavengers.jpg
@@ -7900,6 +7962,245 @@ TM/TMsub_Stormtrooper_Bodyguard.jpg	https://lackey.swtcg.com/starwars/sets/setim
 TM/TMsub_Trandoshan_Bounty_Hunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Trandoshan_Bounty_Hunter.jpg
 TM/TMsub_Trandoshan_Criminal.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Trandoshan_Criminal.jpg
 TM/TMsub_Tribe_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMsub_Tribe_Warrior.jpg
+TMW/TMW001_3rd_Generation_Dark_Trooper_Platoon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW001_3rd_Generation_Dark_Trooper_Platoon.jpg
+TMW/TMW002_Ahsoka_Tano_M.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW002_Ahsoka_Tano_M.jpg
+TMW/TMW003_Ahsoka_Tano_s_Lightsabers_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW003_Ahsoka_Tano_s_Lightsabers_D.jpg
+TMW/TMW004_Ancient_Temple_Ruins.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW004_Ancient_Temple_Ruins.jpg
+TMW/TMW005_Axe_Woves_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW005_Axe_Woves_A.jpg
+TMW/TMW006_Bo_Katan_Kryze_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW006_Bo_Katan_Kryze_E.jpg
+TMW/TMW007_Boba_Fett_W.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW007_Boba_Fett_W.jpg
+TMW/TMW008_Boba_Fett_X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW008_Boba_Fett_X.jpg
+TMW/TMW009_Boba_Fett_s_Armor_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW009_Boba_Fett_s_Armor_B.jpg
+TMW/TMW010_Camtono_of_Silicax_Crystals.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW010_Camtono_of_Silicax_Crystals.jpg
+TMW/TMW011_Cobb_Vanth_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW011_Cobb_Vanth_A.jpg
+TMW/TMW012_Coming_of_Age.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW012_Coming_of_Age.jpg
+TMW/TMW013_Crest_Bridge_Crew_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW013_Crest_Bridge_Crew_B.jpg
+TMW/TMW014_Dark_Trooper_Cold_Storage.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW014_Dark_Trooper_Cold_Storage.jpg
+TMW/TMW015_Darksaber_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW015_Darksaber_C.jpg
+TMW/TMW016_Din_Djarin_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW016_Din_Djarin_F.jpg
+TMW/TMW017_Din_Djarin_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW017_Din_Djarin_G.jpg
+TMW/TMW018_Din_Djarin_s_Clan_Insignia_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW018_Din_Djarin_s_Clan_Insignia_B.jpg
+TMW/TMW019_Din_s_Clan_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW019_Din_s_Clan_B.jpg
+TMW/TMW020_Din_s_Clan_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW020_Din_s_Clan_C.jpg
+TMW/TMW021_E_22_Rifle_Cache.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW021_E_22_Rifle_Cache.jpg
+TMW/TMW022_Evacuation_TIE_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW022_Evacuation_TIE_Team.jpg
+TMW/TMW023_Fennec_Shand_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW023_Fennec_Shand_B.jpg
+TMW/TMW024_Friend_of_the_Creatures.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW024_Friend_of_the_Creatures.jpg
+TMW/TMW025_Gamorrean_Gladiators.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW025_Gamorrean_Gladiators.jpg
+TMW/TMW026_General_Valin_Hess_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW026_General_Valin_Hess_A.jpg
+TMW/TMW027_Gideon_s_Cruiser_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW027_Gideon_s_Cruiser_A.jpg
+TMW/TMW028_Gozanti_Class_Freighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW028_Gozanti_Class_Freighter.jpg
+TMW/TMW029_Grogu_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW029_Grogu_F.jpg
+TMW/TMW030_Grogu_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW030_Grogu_G.jpg
+TMW/TMW031_Heiress_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW031_Heiress_A.jpg
+TMW/TMW032_I_Was_Aiming_For_the_Other_One.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW032_I_Was_Aiming_For_the_Other_One.jpg
+TMW/TMW033_Ice_Spider_Queen.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW033_Ice_Spider_Queen.jpg
+TMW/TMW034_Imperial_Bike_Hangar.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW034_Imperial_Bike_Hangar.jpg
+TMW/TMW035_Imperial_Research_Lab.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW035_Imperial_Research_Lab.jpg
+TMW/TMW036_Jedi_Farewell.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW036_Jedi_Farewell.jpg
+TMW/TMW037_Letting_Go.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW037_Letting_Go.jpg
+TMW/TMW038_Luke_Skywalker_K2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW038_Luke_Skywalker_K2.jpg
+TMW/TMW039_Luke_s_X_Wing_I.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW039_Luke_s_X_Wing_I.jpg
+TMW/TMW040_Magistrate_s_Force.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW040_Magistrate_s_Force.jpg
+TMW/TMW041_Mining_Collective_Suppression_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW041_Mining_Collective_Suppression_Team.jpg
+TMW/TMW042_Moff_Gideon_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW042_Moff_Gideon_E.jpg
+TMW/TMW043_Moff_Gideon_s_Hologram_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW043_Moff_Gideon_s_Hologram_A.jpg
+TMW/TMW044_Morgan_Elsbeth_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW044_Morgan_Elsbeth_A.jpg
+TMW/TMW045_Morgan_Elsbeth_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW045_Morgan_Elsbeth_B.jpg
+TMW/TMW046_Nevarro_Remnant_Base.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW046_Nevarro_Remnant_Base.jpg
+TMW/TMW047_Nite_Owl_s_Kom_rk_Class_Fighter_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW047_Nite_Owl_s_Kom_rk_Class_Fighter_B.jpg
+TMW/TMW048_Nite_Owls_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW048_Nite_Owls_B.jpg
+TMW/TMW049_Peli_s_Pit_Droids_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW049_Peli_s_Pit_Droids_C.jpg
+TMW/TMW050_R5_D4_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW050_R5_D4_B.jpg
+TMW/TMW051_Rampage.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW051_Rampage.jpg
+TMW/TMW052_Razor_Crest_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW052_Razor_Crest_E.jpg
+TMW/TMW053_Remnant_Lambda_Class_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW053_Remnant_Lambda_Class_Shuttle.jpg
+TMW/TMW054_Remnants_Rearming.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW054_Remnants_Rearming.jpg
+TMW/TMW055_Seeing_Stone.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW055_Seeing_Stone.jpg
+TMW/TMW056_Shuttle_Decoy_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW056_Shuttle_Decoy_Team.jpg
+TMW/TMW057_Slave_I_M.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW057_Slave_I_M.jpg
+TMW/TMW058_Spent_Force.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW058_Spent_Force.jpg
+TMW/TMW059_Staff_of_Pure_Beskar_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW059_Staff_of_Pure_Beskar_A.jpg
+TMW/TMW060_Stun_Ring.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW060_Stun_Ring.jpg
+TMW/TMW061_The_Creed_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW061_The_Creed_A.jpg
+TMW/TMW062_The_Krayt_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW062_The_Krayt_A.jpg
+TMW/TMW063_The_Marshal_s_Speeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW063_The_Marshal_s_Speeder.jpg
+TMW/TMW064_Tracking_Device_Fitted.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW064_Tracking_Device_Fitted.jpg
+TMW/TMW065_Trask_Boatman.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW065_Trask_Boatman.jpg
+TMW/TMW066_Trexlor_906.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW066_Trexlor_906.jpg
+TMW/TMW067_Watchful_Eyes.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW067_Watchful_Eyes.jpg
+TMW/TMW068_Watching_From_the_Shadows.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW068_Watching_From_the_Shadows.jpg
+TMW/TMW069_Where_Is_Your_Master.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW069_Where_Is_Your_Master.jpg
+TMW/TMW070_Z_6_Jetpack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW070_Z_6_Jetpack.jpg
+TMW/TMW071_3rd_Generation_Dark_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW071_3rd_Generation_Dark_Trooper.jpg
+TMW/TMW072_546_Class_Cruiser.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW072_546_Class_Cruiser.jpg
+TMW/TMW073_A_Simple_Man.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW073_A_Simple_Man.jpg
+TMW/TMW074_Ahsoka_Tano_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW074_Ahsoka_Tano_N.jpg
+TMW/TMW075_Bo_Katan_Kryze_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW075_Bo_Katan_Kryze_D.jpg
+TMW/TMW076_Boba_Fett_Y.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW076_Boba_Fett_Y.jpg
+TMW/TMW077_Boba_Fett_s_Chain_Code_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW077_Boba_Fett_s_Chain_Code_A.jpg
+TMW/TMW078_Bothan_Five_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW078_Bothan_Five_A.jpg
+TMW/TMW079_Brown_Eyes.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW079_Brown_Eyes.jpg
+TMW/TMW080_Calodan_HK_87_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW080_Calodan_HK_87_Droid.jpg
+TMW/TMW081_Calodan_Townsfolk.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW081_Calodan_Townsfolk.jpg
+TMW/TMW082_Cara_Dune_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW082_Cara_Dune_E.jpg
+TMW/TMW083_Close_All_The_Doors.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW083_Close_All_The_Doors.jpg
+TMW/TMW084_Cobb_Vanth_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW084_Cobb_Vanth_B.jpg
+TMW/TMW085_Commandeered_Cruiser_Bridge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW085_Commandeered_Cruiser_Bridge.jpg
+TMW/TMW086_Din_Djarin_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW086_Din_Djarin_H.jpg
+TMW/TMW087_Din_s_Strike_Team_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW087_Din_s_Strike_Team_C.jpg
+TMW/TMW088_Dock_Crane.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW088_Dock_Crane.jpg
+TMW/TMW089_Enhanced_Targetting_Scanner.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW089_Enhanced_Targetting_Scanner.jpg
+TMW/TMW090_Facility_Garrison.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW090_Facility_Garrison.jpg
+TMW/TMW091_Fighting_Pit_Doorman.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW091_Fighting_Pit_Doorman.jpg
+TMW/TMW092_Frog_Lady_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW092_Frog_Lady_A.jpg
+TMW/TMW093_Frog_Man_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW093_Frog_Man_A.jpg
+TMW/TMW094_Gideon_s_Cruiser_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW094_Gideon_s_Cruiser_B.jpg
+TMW/TMW095_Greef_Karga_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW095_Greef_Karga_F.jpg
+TMW/TMW096_Hunting_Electrobinoculars.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW096_Hunting_Electrobinoculars.jpg
+TMW/TMW097_I_Have_a_Proposition.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW097_I_Have_a_Proposition.jpg
+TMW/TMW098_Ice_Spider_Horde.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW098_Ice_Spider_Horde.jpg
+TMW/TMW099_Karthon_Chop_Fields.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW099_Karthon_Chop_Fields.jpg
+TMW/TMW100_Karthon_Correctional_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW100_Karthon_Correctional_Shuttle.jpg
+TMW/TMW101_Koska_Reeves_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW101_Koska_Reeves_A.jpg
+TMW/TMW102_Lang_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW102_Lang_A.jpg
+TMW/TMW103_Large_Ice_Spider.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW103_Large_Ice_Spider.jpg
+TMW/TMW104_Long_Live_the_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW104_Long_Live_the_Empire.jpg
+TMW/TMW105_Massiff_Pack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW105_Massiff_Pack.jpg
+TMW/TMW106_Memories_of_the_Temple.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW106_Memories_of_the_Temple.jpg
+TMW/TMW107_Moff_Gideon_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW107_Moff_Gideon_F.jpg
+TMW/TMW108_Morak_Imperial_Refinery.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW108_Morak_Imperial_Refinery.jpg
+TMW/TMW109_Mos_Pelgo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW109_Mos_Pelgo.jpg
+TMW/TMW110_My_Price_is_High.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW110_My_Price_is_High.jpg
+TMW/TMW111_Mythrol_s_Speeder_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW111_Mythrol_s_Speeder_A.jpg
+TMW/TMW112_Nevarro_TIE_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW112_Nevarro_TIE_Team.jpg
+TMW/TMW113_Nite_Owl_s_Kom_rk_Class_Fighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW113_Nite_Owl_s_Kom_rk_Class_Fighter_A.jpg
+TMW/TMW114_Nite_Owls_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW114_Nite_Owls_C.jpg
+TMW/TMW115_Pay_Up.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW115_Pay_Up.jpg
+TMW/TMW116_R2_D2_X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW116_R2_D2_X.jpg
+TMW/TMW117_Razor_Crest_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW117_Razor_Crest_G.jpg
+TMW/TMW118_Reaching_Out.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW118_Reaching_Out.jpg
+TMW/TMW119_Reactor_Control_Station.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW119_Reactor_Control_Station.jpg
+TMW/TMW120_Recognizable_Face.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW120_Recognizable_Face.jpg
+TMW/TMW121_Remnant_Captain.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW121_Remnant_Captain.jpg
+TMW/TMW122_Remnant_Deck_Officer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW122_Remnant_Deck_Officer.jpg
+TMW/TMW123_Remnant_Freighter_Pilot.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW123_Remnant_Freighter_Pilot.jpg
+TMW/TMW124_Rhydonium_Shipment.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW124_Rhydonium_Shipment.jpg
+TMW/TMW125_Searching_For_His_People.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW125_Searching_For_His_People.jpg
+TMW/TMW126_Situational_Sensors.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW126_Situational_Sensors.jpg
+TMW/TMW127_Slave_I_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW127_Slave_I_N.jpg
+TMW/TMW128_Strike_Team_Commander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW128_Strike_Team_Commander.jpg
+TMW/TMW129_Stronger_Together.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW129_Stronger_Together.jpg
+TMW/TMW130_The_Mythrol_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW130_The_Mythrol_B.jpg
+TMW/TMW131_The_Rescue.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW131_The_Rescue.jpg
+TMW/TMW132_The_Siege.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW132_The_Siege.jpg
+TMW/TMW133_The_Tragedy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW133_The_Tragedy.jpg
+TMW/TMW134_Trapper_s_Starfighter_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW134_Trapper_s_Starfighter_B.jpg
+TMW/TMW135_Trask_Trawler.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW135_Trask_Trawler.jpg
+TMW/TMW136_Tusken_Bantha_Herder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW136_Tusken_Bantha_Herder.jpg
+TMW/TMW137_Tusken_Elder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW137_Tusken_Elder.jpg
+TMW/TMW138_Tusken_Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW138_Tusken_Fighter.jpg
+TMW/TMW139_We_Have_Them_Trapped.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW139_We_Have_Them_Trapped.jpg
+TMW/TMW140_X_Wing_Patrol.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW140_X_Wing_Patrol.jpg
+TMW/TMW141_3rd_Generation_Dark_Troopers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW141_3rd_Generation_Dark_Troopers.jpg
+TMW/TMW142_546_Class_Cruiser_Launch_Tube.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW142_546_Class_Cruiser_Launch_Tube.jpg
+TMW/TMW143_Axe_Woves_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW143_Axe_Woves_B.jpg
+TMW/TMW144_Bantha_Train.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW144_Bantha_Train.jpg
+TMW/TMW145_Battle_of_Obligation.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW145_Battle_of_Obligation.jpg
+TMW/TMW146_Belief.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW146_Belief.jpg
+TMW/TMW147_Bo_Katan_Kryze_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW147_Bo_Katan_Kryze_F.jpg
+TMW/TMW148_Boba_Fett_Z.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW148_Boba_Fett_Z.jpg
+TMW/TMW149_Calodan_Lookouts.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW149_Calodan_Lookouts.jpg
+TMW/TMW150_Calodan_Stronghold.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW150_Calodan_Stronghold.jpg
+TMW/TMW151_Cara_Dune_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW151_Cara_Dune_F.jpg
+TMW/TMW152_Carson_Teva_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW152_Carson_Teva_A.jpg
+TMW/TMW153_Carson_s_X_Wing_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW153_Carson_s_X_Wing_A.jpg
+TMW/TMW154_Cobb_Vanth_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW154_Cobb_Vanth_C.jpg
+TMW/TMW155_Din_Djarin_s_Hologram_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW155_Din_Djarin_s_Hologram_A.jpg
+TMW/TMW156_Din_s_Quest.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW156_Din_s_Quest.jpg
+TMW/TMW157_Dock_Worker.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW157_Dock_Worker.jpg
+TMW/TMW158_Doctor_Mandible_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW158_Doctor_Mandible_A.jpg
+TMW/TMW159_Don_t_Be_Afraid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW159_Don_t_Be_Afraid.jpg
+TMW/TMW160_E_11_Rifle_Cache.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW160_E_11_Rifle_Cache.jpg
+TMW/TMW161_Empty_Base_Huh.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW161_Empty_Base_Huh.jpg
+TMW/TMW162_Fennec_Shand_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW162_Fennec_Shand_C.jpg
+TMW/TMW163_Frog_Family_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW163_Frog_Family_A.jpg
+TMW/TMW164_Gideon_s_Cruiser_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW164_Gideon_s_Cruiser_C.jpg
+TMW/TMW165_Gideon_s_Cruiser_Bridge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW165_Gideon_s_Cruiser_Bridge.jpg
+TMW/TMW166_Gideon_s_Lieutenant_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW166_Gideon_s_Lieutenant_A.jpg
+TMW/TMW167_Gor_Koresh_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW167_Gor_Koresh_A.jpg
+TMW/TMW168_Greef_Karga_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW168_Greef_Karga_E.jpg
+TMW/TMW169_Grogu_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW169_Grogu_H.jpg
+TMW/TMW170_I_Need_Your_Hands.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW170_I_Need_Your_Hands.jpg
+TMW/TMW171_I_m_Gonna_Protect_You.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW171_I_m_Gonna_Protect_You.jpg
+TMW/TMW172_Imperial_Juggernaut_Transporter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW172_Imperial_Juggernaut_Transporter.jpg
+TMW/TMW173_Karthon_Security_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW173_Karthon_Security_Droid.jpg
+TMW/TMW174_Koska_Reeves_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW174_Koska_Reeves_B.jpg
+TMW/TMW175_Lava_Meerkat.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW175_Lava_Meerkat.jpg
+TMW/TMW176_M1_11_X_Wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW176_M1_11_X_Wing.jpg
+TMW/TMW177_Migs_Mayfeld_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW177_Migs_Mayfeld_C.jpg
+TMW/TMW178_Mists_of_Calodan.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW178_Mists_of_Calodan.jpg
+TMW/TMW179_Mos_Pelgo_Villagers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW179_Mos_Pelgo_Villagers.jpg
+TMW/TMW180_Nav_Computer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW180_Nav_Computer.jpg
+TMW/TMW181_Nevarro_Schoolroom.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW181_Nevarro_Schoolroom.jpg
+TMW/TMW182_Orbital_Strike.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW182_Orbital_Strike.jpg
+TMW/TMW183_Outgunned.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW183_Outgunned.jpg
+TMW/TMW184_Outland_TIE_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW184_Outland_TIE_Squadron.jpg
+TMW/TMW185_Peli_Motto_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW185_Peli_Motto_C.jpg
+TMW/TMW186_Put_the_Blue_One_Where_the_Red_One_Was.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW186_Put_the_Blue_One_Where_the_Red_One_Was.jpg
+TMW/TMW187_Put_the_Red_One_Where_the_Blue_One_Was.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW187_Put_the_Red_One_Where_the_Blue_One_Was.jpg
+TMW/TMW188_Razor_Crest_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW188_Razor_Crest_F.jpg
+TMW/TMW189_Remnant_Navy_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW189_Remnant_Navy_Squad.jpg
+TMW/TMW190_Remnant_TIE_Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW190_Remnant_TIE_Fighter.jpg
+TMW/TMW191_Remnant_Troop_Lander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW191_Remnant_Troop_Lander.jpg
+TMW/TMW192_Remnant_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW192_Remnant_Trooper.jpg
+TMW/TMW193_Repurposed_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW193_Repurposed_Shuttle.jpg
+TMW/TMW194_Reserve_TIE_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW194_Reserve_TIE_Team.jpg
+TMW/TMW195_Scrap_Crane.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW195_Scrap_Crane.jpg
+TMW/TMW196_Shydopp_Skiff.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW196_Shydopp_Skiff.jpg
+TMW/TMW197_Silicax_Oxalate_Crystals.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW197_Silicax_Oxalate_Crystals.jpg
+TMW/TMW198_Slave_I_O.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW198_Slave_I_O.jpg
+TMW/TMW199_Someone_Could_Use_Some_Repairs.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW199_Someone_Could_Use_Some_Repairs.jpg
+TMW/TMW200_Sound_the_Alarm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW200_Sound_the_Alarm.jpg
+TMW/TMW201_Stormtrooper_Mortar_Specialist.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW201_Stormtrooper_Mortar_Specialist.jpg
+TMW/TMW202_Stormtrooper_Soldiers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW202_Stormtrooper_Soldiers.jpg
+TMW/TMW203_Taking_the_Hit.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW203_Taking_the_Hit.jpg
+TMW/TMW204_Tatooine_Jawa_Sandcrawler.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW204_Tatooine_Jawa_Sandcrawler.jpg
+TMW/TMW205_The_Way_the_Cookie_Crumbles.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW205_The_Way_the_Cookie_Crumbles.jpg
+TMW/TMW206_These_Stripes_Mean_Something.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW206_These_Stripes_Mean_Something.jpg
+TMW/TMW207_Trask.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW207_Trask.jpg
+TMW/TMW208_Tusken_Ballista.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW208_Tusken_Ballista.jpg
+TMW/TMW209_Tusken_Cycler_Rifle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW209_Tusken_Cycler_Rifle.jpg
+TMW/TMW210_Tusken_Hunting_Party.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMW210_Tusken_Hunting_Party.jpg
+TMW/TMWsub_74_Z_Pursuit_Speeder_Bike.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_74_Z_Pursuit_Speeder_Bike.jpg
+TMW/TMWsub_Calodan_Villager.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Calodan_Villager.jpg
+TMW/TMWsub_Frog_Eggs.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Frog_Eggs.jpg
+TMW/TMWsub_Gamorrean_Gladiator.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Gamorrean_Gladiator.jpg
+TMW/TMWsub_Hangar_Deck_Guards.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Hangar_Deck_Guards.jpg
+TMW/TMWsub_Ice_Spider_sub.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Ice_Spider_sub.jpg
+TMW/TMWsub_Magistrate_s_Guard.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Magistrate_s_Guard.jpg
+TMW/TMWsub_Mining_Collective_Enforcer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Mining_Collective_Enforcer.jpg
+TMW/TMWsub_Mos_Pelgo_Villager.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Mos_Pelgo_Villager.jpg
+TMW/TMWsub_Outland_TIE_Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Outland_TIE_Fighter.jpg
+TMW/TMWsub_Remnant_Escort_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Remnant_Escort_Trooper.jpg
+TMW/TMWsub_Remnant_TIE_Interdictor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Remnant_TIE_Interdictor.jpg
+TMW/TMWsub_Seismic_Charge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Seismic_Charge.jpg
+TMW/TMWsub_Stormtrooper_Attack_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Stormtrooper_Attack_Squad.jpg
+TMW/TMWsub_Tusken_Hunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWsub_Tusken_Hunter.jpg
+TMW/TMWpromo_3rd_Generation_Dark_Troopers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_3rd_Generation_Dark_Troopers.jpg
+TMW/TMWpromo_Ahsoka_Tano_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Ahsoka_Tano_N.jpg
+TMW/TMWpromo_Ancient_Temple_Ruins.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Ancient_Temple_Ruins.jpg
+TMW/TMWpromo_Bo_Katan_Kryze_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Bo_Katan_Kryze_E.jpg
+TMW/TMWpromo_Carson_s_X_Wing_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Carson_s_X_Wing_A.jpg
+TMW/TMWpromo_Din_Djarin_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Din_Djarin_F.jpg
+TMW/TMWpromo_Grogu_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Grogu_G.jpg
+TMW/TMWpromo_Ice_Spider_Queen.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Ice_Spider_Queen.jpg
+TMW/TMWpromo_Imperial_Research_Lab.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Imperial_Research_Lab.jpg
+TMW/TMWpromo_Orbital_Strike.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Orbital_Strike.jpg
+TMW/TMWpromo_Razor_Crest_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Razor_Crest_G.jpg
+TMW/TMWpromo_Slave_I_O.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Slave_I_O.jpg
+TMW/TMWpromo_Trexlor_906.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Trexlor_906.jpg
+TMW/TMWpromo_Tusken_Bantha_Herder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Tusken_Bantha_Herder.jpg
 TMW/TMWpromo_Watchful_Eyes.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TMW/TMWpromo_Watchful_Eyes.jpg
 TOR/TOR001_Annihilation_Droid_XRR_3_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TOR/TOR001_Annihilation_Droid_XRR_3_A.jpg
 TOR/TOR002_BT_7_Thunderclap.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TOR/TOR002_BT_7_Thunderclap.jpg
@@ -8096,7 +8397,7 @@ TROS/TROS057_Rey_Skywalker_N.jpg	https://lackey.swtcg.com/starwars/sets/setimage
 TROS/TROS058_Rey_s_Strength_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS058_Rey_s_Strength_B.jpg
 TROS/TROS059_Rey_s_Dark_Vision_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS059_Rey_s_Dark_Vision_A.jpg
 TROS/TROS060_Rey_s_Final_Steps.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS060_Rey_s_Final_Steps.jpg
-TROS/TROS061_Rising_Up_Across_The_Galaxy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS061_Rising_Up_Across_The_Galaxy.jpg
+TROS/TROS061_Rising_Up_Across_the_Galaxy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS061_Rising_Up_Across_the_Galaxy.jpg
 TROS/TROS062_Sith_Trooper_Team.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS062_Sith_Trooper_Team.jpg
 TROS/TROS063_Steadfast_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS063_Steadfast_B.jpg
 TROS/TROS064_Tantive_IV_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TROS/TROS064_Tantive_IV_E.jpg
@@ -8603,7 +8904,7 @@ VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimag
 15TH/15thpromo_Drexl.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Drexl.jpg
 15TH/15thpromo_Force_Suppression.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Force_Suppression.jpg
 15TH/15thpromo_HK_47_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_HK_47_C.jpg
-15TH/15thpromo_Hunt_for_the_Star_maps.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Hunt_for_the_Star_maps.jpg
+15TH/15thpromo_Hunt_for_the_Star_Maps.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Hunt_for_the_Star_Maps.jpg
 15TH/15thpromo_Hutt_Cartel_Cruiser.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Hutt_Cartel_Cruiser.jpg
 15TH/15thpromo_Jedi_Meditation_Trance.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Jedi_Meditation_Trance.jpg
 15TH/15thpromo_Memory_Wipe.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Memory_Wipe.jpg
@@ -8639,13 +8940,13 @@ VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimag
 15TH/15thpromo_More_Powerful_Than_You_Can_Possibly_Imagine.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_More_Powerful_Than_You_Can_Possibly_Imagine.jpg
 15TH/15thpromo_Size_Matters_Not.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Size_Matters_Not.jpg
 15TH/15thpromo_Vader_s_Fist.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Vader_s_Fist.jpg
-15TH/15thpromo_Wedge_s_X_Wing_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Wedge_s_X_Wing_C.jpg
+15TH/15thpromo_Wedge_s_X_wing_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Wedge_s_X_wing_C.jpg
 15TH/15thpromo_Yoda_s_Stick_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Yoda_s_Stick_A.jpg
 15TH/15thpromo_Chimaera_Bridge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Chimaera_Bridge.jpg
 15TH/15thpromo_Cloaked_Asteroid_V2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Cloaked_Asteroid_V2.jpg
 15TH/15thpromo_Conscription.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Conscription.jpg
 15TH/15thpromo_Dark_Trooper_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Dark_Trooper_Squad.jpg
-15TH/15thpromo_Grand_Admiral_Thrawn_e.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Grand_Admiral_Thrawn_e.jpg
+15TH/15thpromo_Grand_Admiral_Thrawn_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Grand_Admiral_Thrawn_E.jpg
 15TH/15thpromo_Grand_Admiral_Thrawn_s_Art_Collection_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Grand_Admiral_Thrawn_s_Art_Collection_A.jpg
 15TH/15thpromo_Grand_Admiral_Thrawn_s_Tactical_Genius_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Grand_Admiral_Thrawn_s_Tactical_Genius_A.jpg
 15TH/15thpromo_Greater_Krayt_Dragon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Greater_Krayt_Dragon.jpg
@@ -8673,7 +8974,7 @@ VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimag
 15TH/15thpromo_They_Were_Nobody.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_They_Were_Nobody.jpg
 15TH/15thpromo_Abeloth_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Abeloth_A.jpg
 15TH/15thpromo_Bastion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Bastion.jpg
-15TH/15thpromo_Bounty_For_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Bounty_For_Jedi.jpg
+15TH/15thpromo_Bounty_for_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Bounty_for_Jedi.jpg
 15TH/15thpromo_Darth_Bane_s_Holocron_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Darth_Bane_s_Holocron_A.jpg
 15TH/15thpromo_Darth_Talon_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Darth_Talon_A.jpg
 15TH/15thpromo_Flow_Walking.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Flow_Walking.jpg

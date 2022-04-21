@@ -35,13 +35,25 @@
 </format>
 
 <format>
-<label>Battle of the Sarlacc</label>
-<set>BOTS</set>
+<label>World Championship 2022</label>
+<set>ANH</set>
+<set>BOY</set>
+<set>ESB</set>
+<set>RAS</set>
+<set>ROTJ</set>
+</format>
+
+
+<format>
+<label>The Mandalorian Way</label>
+<set>TMW</set>
 </format>
 
 <format>
-<label>Fires of Rebellion</label>
-<set>FOR</set>
+<label>Mandoverse</label>
+<set>TM</set>
+<set>TMW</set>
+<set>BOBF</set>
 </format>
 
 <format>
@@ -85,7 +97,6 @@
 
 <format>
 <label>NEW - New Republic and New Jedi Order</label>
-<set>TM</set>
 <set>RS</set>
 <set>ER</set>
 <set>EE</set>
@@ -104,6 +115,14 @@
 <set>TROS</set>
 </format>
 
+<format>
+<label>LEG - Legacy</label>
+<set>BH</set>
+<set>MAND</set>
+<set>SITH</set>
+<set>SMUG</set>
+<set>JEDI</set>
+</format>
 
 <format>
 <label>WOTC</label>
