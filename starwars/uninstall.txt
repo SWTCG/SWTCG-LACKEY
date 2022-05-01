@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>220420</dateYYMMDD>
+<dateYYMMDD>220501</dateYYMMDD>
 
 <removepath>sets/setimages/TMW/TMW207_Trask.jpg</removepath>
 <removepath>sets/setimages/TM/TMpromo_Klatooinian_AT_ST_Raider_A.jpg</removepath>

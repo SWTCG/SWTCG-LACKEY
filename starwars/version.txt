@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220421</lastupdateYYMMDD>
+<lastupdateYYMMDD>220501</lastupdateYYMMDD>
 
-<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
-<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>The Mandalorian Way and HD Revenge of the Sith</message>
+<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/updatelist.txt</updateurl>
+<message>Imperial Assault Release</message>
 
 </version>

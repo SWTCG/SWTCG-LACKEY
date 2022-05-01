@@ -1,5 +1,5 @@
 <plugin>
-<pluginversion>2022.04.21</pluginversion>
+<pluginversion>2022.05.01</pluginversion>
 
 <pluginname>starwars</pluginname>
 
