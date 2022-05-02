@@ -3494,7 +3494,7 @@ IA/IA16_General_Weiss_s_AT-ST_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTC
 IA/IA17_Kayn_Somos_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA17_Kayn_Somos_A.jpg
 IA/IA18_Royal_Guard_Champion_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA18_Royal_Guard_Champion_A.jpg
 IA/IA19_Elite_Imperial_Officer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA19_Elite_Imperial_Officer.jpg
-IA/IA20_Elite_Stormtrooper_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA20_Elite_Stormtrooper_Squad.jpg
+IA/IA20_Elite_Stormtrooper_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA20_Elite_Stormtrooper_Team.jpg
 IA/IA21_Imperial_Threat.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA21_Imperial_Threat.jpg
 IA/IA22_Rebel_Experience.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA22_Rebel_Experience.jpg
 IA/IA23_Ancient_Lightsaber.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA23_Ancient_Lightsaber.jpg
