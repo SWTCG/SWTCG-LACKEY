@@ -7202,7 +7202,7 @@ TDT/TDTsub_Stormtrooper_Guard.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 TDT/TDTsub_Terror_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTsub_Terror_Droid.jpg
 TDT/TDTsub_Wookiee_Slave.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTsub_Wookiee_Slave.jpg
 TDT/TDTsub_Zeeo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTsub_Zeeo_A.jpg
-TDT/TDTpromo_Able_B.jpg https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTpromo_Able_B.jpg
+TDT/TDTpromo_Able_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTpromo_Able_B.jpg
 TDT/TDTpromo_Bail_Organa_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTpromo_Bail_Organa_C.jpg
 TDT/TDTpromo_Biggs_Darklighter_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTpromo_Biggs_Darklighter_B.jpg
 TDT/TDTpromo_Boba_Fett_O.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/TDT/TDTpromo_Boba_Fett_O.jpg
