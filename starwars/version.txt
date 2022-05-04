@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220502</lastupdateYYMMDD>
+<lastupdateYYMMDD>220504</lastupdateYYMMDD>
 
-<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/updatelist.txt</updateurl>
+<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
+<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
 <message>Imperial Assault Release</message>
 
 </version>
