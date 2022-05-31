@@ -36,6 +36,12 @@
 <removepath>sets/setimages/PROMO/RSpromo_Heart_of_the_Squadron.jpg</removepath>
 <removepath>sets/setimages/PROMO/RSpromo_Rogue_Squadron_C.jpg</removepath>
 <removepath>sets/setimages/PROMO/RSpromo_Verpine_Tech.jpg</removepath>
+<removepath>sets/setimages/PROMO/SMUGpromo_Ebon_Hawk_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SMUGpromo_Gambling.jpg</removepath>
+<removepath>sets/setimages/PROMO/SMUGpromo_Hylo_Visz_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SMUGpromo_Sabacc_Parlor.jpg</removepath>
+<removepath>sets/setimages/PROMO/SMUGpromo_Smuggling.jpg</removepath>
+
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>

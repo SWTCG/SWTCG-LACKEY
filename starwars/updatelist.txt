@@ -4429,11 +4429,6 @@ PROMO/SBSpromo_Voxyn.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/
 PROMO/SBSpromo_Voxyn_Attack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SBSpromo_Voxyn_Attack.jpg
 PROMO/SBSpromo_Vua_Rapuung_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SBSpromo_Vua_Rapuung_A.jpg
 PROMO/SBSpromo_Yaret_Kor_Plasma_Cannon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SBSpromo_Yaret_Kor_Plasma_Cannon.jpg
-PROMO/SMUGpromo_Ebon_Hawk_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SMUGpromo_Ebon_Hawk_A.jpg
-PROMO/SMUGpromo_Gambling.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SMUGpromo_Gambling.jpg
-PROMO/SMUGpromo_Hylo_Visz_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SMUGpromo_Hylo_Visz_A.jpg
-PROMO/SMUGpromo_Sabacc_Parlor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SMUGpromo_Sabacc_Parlor.jpg
-PROMO/SMUGpromo_Smuggling.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SMUGpromo_Smuggling.jpg
 PROMO/SOLOpromo_Chewbacca_C2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SOLOpromo_Chewbacca_C2.jpg
 PROMO/SOLOpromo_Cunning.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SOLOpromo_Cunning.jpg
 PROMO/SOLOpromo_Enfys_Nest_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SOLOpromo_Enfys_Nest_B.jpg
@@ -5840,6 +5835,11 @@ SMUG/SMUG072_Transport_Modifications.jpg	https://lackey.swtcg.com/starwars/sets/
 SMUG/SMUG073_Vilmarh_Grahrk_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUG073_Vilmarh_Grahrk_B.jpg
 SMUG/SMUG074_Vornskr.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUG074_Vornskr.jpg
 SMUG/SMUG075_Weapons_Modifications.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUG075_Weapons_Modifications.jpg
+SMUG/SMUGpromo_Ebon_Hawk_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUGpromo_Ebon_Hawk_A.jpg
+SMUG/SMUGpromo_Gambling.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUGpromo_Gambling.jpg
+SMUG/SMUGpromo_Hylo_Visz_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUGpromo_Hylo_Visz_A.jpg
+SMUG/SMUGpromo_Sabacc_Parlor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUGpromo_Sabacc_Parlor.jpg
+SMUG/SMUGpromo_Smuggling.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SMUG/SMUGpromo_Smuggling.jpg
 SOLO/SOLO001_20_T_Railcrawler_Conveyex_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SOLO/SOLO001_20_T_Railcrawler_Conveyex_A.jpg
 SOLO/SOLO002_Aemon_Gremm_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SOLO/SOLO002_Aemon_Gremm_A.jpg
 SOLO/SOLO003_Are_We_Going_Somewhere.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SOLO/SOLO003_Are_We_Going_Somewhere.jpg
