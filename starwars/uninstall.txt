@@ -21,16 +21,22 @@
 <removepath>sets/setimages/PROMO/TMpromo_Come_to_Mama.jpg</removepath>
 <removepath>sets/setimages/PROMO/TMpromo_Mayfeld_s_Team_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/TMpromo_Mudhorn.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Annihilation_Droid_XRR_3_A.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_D5_Mantis_Patrol_Craft.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Darth_Malgus_C.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Force_Blast.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Force_Evasion.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Great_Galactic_War.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Kao_Cen_Darach_A.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Satele_s_Intervention.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Shae_Vizla_B.jpg</removepath>
-<removepath>sets/setimages/TOR/TORpromo_Theron_Shan_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Annihilation_Droid_XRR_3_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_D5_Mantis_Patrol_Craft.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Darth_Malgus_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Force_Blast.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Force_Evasion.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Great_Galactic_War.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Kao_Cen_Darach_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Satele_s_Intervention.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Shae_Vizla_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TORpromo_Theron_Shan_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/RSpromo_181st_Imperial_Fighter_Group_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/RSpromo_Bacta_War.jpg</removepath>
+<removepath>sets/setimages/PROMO/RSpromo_Heart_of_the_Squadron.jpg</removepath>
+<removepath>sets/setimages/PROMO/RSpromo_Rogue_Squadron_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/RSpromo_Verpine_Tech.jpg</removepath>
+
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 

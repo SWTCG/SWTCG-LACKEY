@@ -4419,11 +4419,6 @@ PROMO/ROpromo_K_2SO_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO
 PROMO/ROpromo_Lightmaker_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ROpromo_Lightmaker_A.jpg
 PROMO/ROpromo_Resilience.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ROpromo_Resilience.jpg
 PROMO/ROpromo_Ultimate_Sacrifice.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ROpromo_Ultimate_Sacrifice.jpg
-PROMO/RSpromo_181st_Imperial_Fighter_Group_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/RSpromo_181st_Imperial_Fighter_Group_B.jpg
-PROMO/RSpromo_Bacta_War.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/RSpromo_Bacta_War.jpg
-PROMO/RSpromo_Heart_of_the_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/RSpromo_Heart_of_the_Squadron.jpg
-PROMO/RSpromo_Rogue_Squadron_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/RSpromo_Rogue_Squadron_C.jpg
-PROMO/RSpromo_Verpine_Tech.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/RSpromo_Verpine_Tech.jpg
 PROMO/SBSpromo_Anakin_Solo_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SBSpromo_Anakin_Solo_C.jpg
 PROMO/SBSpromo_Baanu_Rass_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SBSpromo_Baanu_Rass_A.jpg
 PROMO/SBSpromo_Fall_Of_Coruscant.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/SBSpromo_Fall_Of_Coruscant.jpg
@@ -5451,6 +5446,11 @@ RS/RS177_Whyren_s_Reserve.jpg	https://lackey.swtcg.com/starwars/sets/setimages/R
 RS/RS178_Wingman.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS178_Wingman.jpg
 RS/RS179_Winter_Celchu_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS179_Winter_Celchu_A.jpg
 RS/RS180_X_wing_Inspection.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS180_X_wing_Inspection.jpg
+RS/RSpromo_181st_Imperial_Fighter_Group_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSpromo_181st_Imperial_Fighter_Group_B.jpg
+RS/RSpromo_Bacta_War.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSpromo_Bacta_War.jpg
+RS/RSpromo_Heart_of_the_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSpromo_Heart_of_the_Squadron.jpg
+RS/RSpromo_Rogue_Squadron_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSpromo_Rogue_Squadron_C.jpg
+RS/RSpromo_Verpine_Tech.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSpromo_Verpine_Tech.jpg
 RS/RSsub_Elite_Commando_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSsub_Elite_Commando_Squad.jpg
 RS/RSsub_Elite_Hunting_Party.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSsub_Elite_Hunting_Party.jpg
 RS/RSsub_Imperial_Clone.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RSsub_Imperial_Clone.jpg
