@@ -2503,11 +2503,11 @@ CWSO/SO088_Separatist_Mutant_Horde.jpg	https://lackey.swtcg.com/starwars/sets/se
 CWSO/SO089_Skakoan_Overseer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SO089_Skakoan_Overseer.jpg
 CWSO/SO090_Z_6_Rotary_Blaster_Cannon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SO090_Z_6_Rotary_Blaster_Cannon.jpg
 CWSO/SO26_Shaak_Ti_s_Lightsaber_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SO26_Shaak_Ti_s_Lightsaber_A.jpg
-SO/SOpromo_Anakin_Skywalker_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SO/SOpromo_Anakin_Skywalker_U.jpg
-SO/SOpromo_General_Grievous_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SO/SOpromo_General_Grievous_G.jpg
-SO/SOpromo_Knighting_Ceremony.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SO/SOpromo_Knighting_Ceremony.jpg
-SO/SOpromo_Separatist_Offensive.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SO/SOpromo_Separatist_Offensive.jpg
-SO/SOpromo_Sudden_Assault.jpg	https://lackey.swtcg.com/starwars/sets/setimages/SO/SOpromo_Sudden_Assault.jpg
+CWSO/SOpromo_Anakin_Skywalker_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOpromo_Anakin_Skywalker_U.jpg
+CWSO/SOpromo_General_Grievous_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOpromo_General_Grievous_G.jpg
+CWSO/SOpromo_Knighting_Ceremony.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOpromo_Knighting_Ceremony.jpg
+CWSO/SOpromo_Separatist_Offensive.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOpromo_Separatist_Offensive.jpg
+CWSO/SOpromo_Sudden_Assault.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOpromo_Sudden_Assault.jpg
 CWSO/SOsub_ARC_Grenadier.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOsub_ARC_Grenadier.jpg
 CWSO/SOsub_Advanced_Recon_Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOsub_Advanced_Recon_Fighter.jpg
 CWSO/SOsub_Enraged_Mutant.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CWSO/SOsub_Enraged_Mutant.jpg
