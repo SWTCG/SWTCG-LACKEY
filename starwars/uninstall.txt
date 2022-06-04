@@ -46,7 +46,11 @@
 <removepath>sets/setimages/PROMO/PROMO/SOpromo_Knighting_Ceremony.jpg</removepath>
 <removepath>sets/setimages/PROMO/PROMO/SOpromo_Separatist_Offensive.jpg</removepath>
 <removepath>sets/setimages/PROMO/PROMO/SOpromo_Sudden_Assault.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/ERpromo_Grand_Admiral_Thrawn_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/ERpromo_Joruus_C_baoth_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/ERpromo_Katana_Fleet_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/ERpromo_Leia_Organa_Solo_P.jpg</removepath>
+<removepath>sets/setimages/PROMO/ERpromo_Mara_Jade_F.jpg</removepath>
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 

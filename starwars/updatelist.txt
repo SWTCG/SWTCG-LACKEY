@@ -2888,6 +2888,11 @@ ER/ER117_Stokhli_Stick.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/E
 ER/ER118_Talon_Karrde_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ER118_Talon_Karrde_E.jpg
 ER/ER119_Tantiss.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ER119_Tantiss.jpg
 ER/ER120_Whirlpool_Tapcafe.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ER120_Whirlpool_Tapcafe.jpg
+ER/ERpromo_Grand_Admiral_Thrawn_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERpromo_Grand_Admiral_Thrawn_A.jpg
+ER/ERpromo_Joruus_C_baoth_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERpromo_Joruus_C_baoth_A.jpg
+ER/ERpromo_Katana_Fleet_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERpromo_Katana_Fleet_A.jpg
+ER/ERpromo_Leia_Organa_Solo_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERpromo_Leia_Organa_Solo_P.jpg
+ER/ERpromo_Mara_Jade_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERpromo_Mara_Jade_F.jpg
 ER/ERsub_Imperial_Freighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERsub_Imperial_Freighter.jpg
 ER/ERsub_Imperial_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERsub_Imperial_Squadron.jpg
 ER/ERsub_Imperial_Starfighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ER/ERsub_Imperial_Starfighter.jpg
@@ -4397,11 +4402,6 @@ PROMO/EEpromo_Luke_Skywalker_V.jpg	https://lackey.swtcg.com/starwars/sets/setima
 PROMO/EEpromo_Royal_Guard_TIE_Interceptor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/EEpromo_Royal_Guard_TIE_Interceptor.jpg
 PROMO/EEpromo_Royal_Guardsman_s_Training.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/EEpromo_Royal_Guardsman_s_Training.jpg
 PROMO/EEpromo_Royal_Guardsman_s_Vibroblade.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/EEpromo_Royal_Guardsman_s_Vibroblade.jpg
-PROMO/ERpromo_Grand_Admiral_Thrawn_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ERpromo_Grand_Admiral_Thrawn_A.jpg
-PROMO/ERpromo_Joruus_C_baoth_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ERpromo_Joruus_C_baoth_A.jpg
-PROMO/ERpromo_Katana_Fleet_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ERpromo_Katana_Fleet_A.jpg
-PROMO/ERpromo_Leia_Organa_Solo_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ERpromo_Leia_Organa_Solo_P.jpg
-PROMO/ERpromo_Mara_Jade_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/ERpromo_Mara_Jade_F.jpg
 PROMO/Electro-Proton_Bomb_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Electro-Proton_Bomb_promo.jpg
 PROMO/JKpromo_Jerec_s_Dark_Jedi_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Jerec_s_Dark_Jedi_B.jpg
 PROMO/JKpromo_Kyle_Katarn_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Kyle_Katarn_C.jpg
