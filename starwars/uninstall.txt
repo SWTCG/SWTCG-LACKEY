@@ -41,11 +41,11 @@
 <removepath>sets/setimages/PROMO/SMUGpromo_Hylo_Visz_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/SMUGpromo_Sabacc_Parlor.jpg</removepath>
 <removepath>sets/setimages/PROMO/SMUGpromo_Smuggling.jpg</removepath>
-<removepath>sets/setimages/PROMO/PROMO/SOpromo_Anakin_Skywalker_U.jpg</removepath>
-<removepath>sets/setimages/PROMO/PROMO/SOpromo_General_Grievous_G.jpg</removepath>
-<removepath>sets/setimages/PROMO/PROMO/SOpromo_Knighting_Ceremony.jpg</removepath>
-<removepath>sets/setimages/PROMO/PROMO/SOpromo_Separatist_Offensive.jpg</removepath>
-<removepath>sets/setimages/PROMO/PROMO/SOpromo_Sudden_Assault.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOpromo_Anakin_Skywalker_U.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOpromo_General_Grievous_G.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOpromo_Knighting_Ceremony.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOpromo_Separatist_Offensive.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOpromo_Sudden_Assault.jpg</removepath>
 <removepath>sets/setimages/PROMO/ERpromo_Grand_Admiral_Thrawn_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/ERpromo_Joruus_C_baoth_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/ERpromo_Katana_Fleet_A.jpg</removepath>
