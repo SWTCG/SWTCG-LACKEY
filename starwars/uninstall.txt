@@ -61,7 +61,21 @@
 <removepath>sets/setimages/PROMO/EEpromo_Royal_Guard_TIE_Interceptor.jpg</removepath>
 <removepath>sets/setimages/PROMO/EEpromo_Royal_Guardsman_s_Training.jpg</removepath>
 <removepath>sets/setimages/PROMO/EEpromo_Royal_Guardsman_s_Vibroblade.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/DANpromo_Cassus_Fett_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Chantique_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Days_of_Fear.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Demagol_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Dueling_Ambitions.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Exogorth_Swarm.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Forewarning.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Jarael_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Jedi_Covenant_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Lucien_Draay_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Mandalorian_Invasion_Force.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Morne_s_Monsters_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Nights_of_Anger.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Republic_Protection_Fleet.jpg</removepath>
+<removepath>sets/setimages/PROMO/DANpromo_Zayne_Carrick_A.jpg</removepath>
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
