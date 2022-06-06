@@ -86,7 +86,16 @@
 <removepath>sets/setimages/PROMO/ROpromo_Lightmaker_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/ROpromo_Resilience.jpg</removepath>
 <removepath>sets/setimages/PROMO/ROpromo_Ultimate_Sacrifice.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/SBSpromo_Anakin_Solo_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Baanu_Rass_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Fall_Of_Coruscant.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Lusankya_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Skywalker_Family_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Tenel_Ka_s_Lightsaber_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Voxyn.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Voxyn_Attack.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Vua_Rapuung_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SBSpromo_Yaret_Kor_Plasma_Cannon.jpg</removepath>
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
