@@ -97,7 +97,21 @@
 <removepath>sets/setimages/PROMO/SBSpromo_Voxyn_Attack.jpg</removepath>
 <removepath>sets/setimages/PROMO/SBSpromo_Vua_Rapuung_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/SBSpromo_Yaret_Kor_Plasma_Cannon.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/VPpromo_Chewbacca_U.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Finn_Galfridian_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Fire_Breathers.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Grutchins.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Han_Solo_S.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Invasion_Fleet.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Light_in_the_Darkness.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Mara_Jade_Skywalker_I.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Nina_Galfridian_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Nom_Anor_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Outer_Rim_Alliance_Fleet_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Refugee_Station.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Tsalok_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Tsavong_Lah_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/VPpromo_Wookiee_Defiance.jpg</removepath>
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 
