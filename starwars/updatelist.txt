@@ -3975,6 +3975,11 @@ JK/JK087_Taspir_III_Landing_Platform.jpg	https://lackey.swtcg.com/starwars/sets/
 JK/JK088_WeeGee_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JK088_WeeGee_A.jpg
 JK/JK089_Yavin_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JK089_Yavin_Shuttle.jpg
 JK/JK090_Yun_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JK090_Yun_A.jpg
+JK/JKpromo_Jerec_s_Dark_Jedi_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKpromo_Jerec_s_Dark_Jedi_B.jpg
+JK/JKpromo_Kyle_Katarn_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKpromo_Kyle_Katarn_C.jpg
+JK/JKpromo_Kyle_Katarn_s_Lightsaber_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKpromo_Kyle_Katarn_s_Lightsaber_A.jpg
+JK/JKpromo_Riposte.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKpromo_Riposte.jpg
+JK/JKpromo_Valley_of_the_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKpromo_Valley_of_the_Jedi.jpg
 JK/JKsub_Imperial_Youth.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKsub_Imperial_Youth.jpg
 JK/JKsub_Jedi_Acolyte.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKsub_Jedi_Acolyte.jpg
 JK/JKsub_Reborn_Assault_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JKsub_Reborn_Assault_Squad.jpg
@@ -4403,11 +4408,6 @@ PROMO/Captain_Rex_A_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/P
 PROMO/Darth_Sidious_N_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Darth_Sidious_N_promo.jpg
 PROMO/Darth_Tyranus_N_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Darth_Tyranus_N_promo.jpg
 PROMO/Electro-Proton_Bomb_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Electro-Proton_Bomb_promo.jpg
-PROMO/JKpromo_Jerec_s_Dark_Jedi_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Jerec_s_Dark_Jedi_B.jpg
-PROMO/JKpromo_Kyle_Katarn_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Kyle_Katarn_C.jpg
-PROMO/JKpromo_Kyle_Katarn_s_Lightsaber_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Kyle_Katarn_s_Lightsaber_A.jpg
-PROMO/JKpromo_Riposte.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Riposte.jpg
-PROMO/JKpromo_Valley_of_the_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/JKpromo_Valley_of_the_Jedi.jpg
 PROMO/Jocasta_Nu_B_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Jocasta_Nu_B_promo.jpg
 PROMO/Jocasta_Nu_B_promofilm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Jocasta_Nu_B_promofilm.jpg
 PROMO/Malevolence_A_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Malevolence_A_promo.jpg

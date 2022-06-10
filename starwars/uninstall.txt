@@ -112,6 +112,12 @@
 <removepath>sets/setimages/PROMO/VPpromo_Tsalok_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/VPpromo_Tsavong_Lah_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/VPpromo_Wookiee_Defiance.jpg</removepath>
+<removepath>sets/setimages/PROMO/JKpromo_Jerec_s_Dark_Jedi_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/JKpromo_Kyle_Katarn_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/JKpromo_Kyle_Katarn_s_Lightsaber_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/JKpromo_Riposte.jpg</removepath>
+<removepath>sets/setimages/PROMO/JKpromo_Valley_of_the_Jedi.jpg</removepath>
+
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
 
