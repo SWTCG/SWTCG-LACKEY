@@ -117,6 +117,27 @@
 <removepath>sets/setimages/PROMO/JKpromo_Kyle_Katarn_s_Lightsaber_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/JKpromo_Riposte.jpg</removepath>
 <removepath>sets/setimages/PROMO/JKpromo_Valley_of_the_Jedi.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Butch_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Daragon_Family_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Exar_Kun_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Force_Wars.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Great_Hyperspace_War.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Infinite_Empire.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Je_daii_Journeyers_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Lost_Tribe_of_the_Sith_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Naga_Sadow_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Nomi_Sunrider_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Odan_Urr_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Rakatan_Fleet.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Rakatan_Warriors.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Sek_nos_Rath_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Shae_Koda_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Sithspawn.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Tasha_Ryo_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Trill_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Ulic_Qel_Droma_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TALpromo_Xesh_A.jpg</removepath>
+
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
