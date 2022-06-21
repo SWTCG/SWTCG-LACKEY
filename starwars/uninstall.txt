@@ -137,6 +137,22 @@
 <removepath>sets/setimages/PROMO/TALpromo_Trill_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/TALpromo_Ulic_Qel_Droma_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/TALpromo_Xesh_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Ahsoka_Tano_I.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Art_Attack.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Born_a_Rebel.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Darth_Vader_C2.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Ezra_Bridger_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Ezra_Bridger_s_Lightsaber_Blaster_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Ghost_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Ghost_Crew_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Grand_Inquisitor_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Inquisitor_Strike_Team_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Kanan_Jarrus_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Maul_N.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Phantom_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Rebel_AT_TE.jpg</removepath>
+<removepath>sets/setimages/PROMO/SORpromo_Rise_Together.jpg</removepath>
+
 
 
 
