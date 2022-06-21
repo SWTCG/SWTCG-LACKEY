@@ -157,6 +157,11 @@
 <removepath>sets/setimages/PROMO/BOSBpromo_Rey_F.jpg</removepath>
 <removepath>sets/setimages/PROMO/BOSBpromo_Some_Things_Never_Change.jpg</removepath>
 <removepath>sets/setimages/PROMO/BOSBpromo_Starkiller_Base_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/BFpromo_Battlefront.jpg</removepath>
+<removepath>sets/setimages/PROMO/BFpromo_Commander_Iden_Versio_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BFpromo_Dio_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BFpromo_Inferno_Squad_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BFpromo_Inferno_Squad_B.jpg</removepath>
 
 
 

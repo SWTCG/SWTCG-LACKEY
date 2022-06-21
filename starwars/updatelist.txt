@@ -1112,6 +1112,11 @@ BF/BF087_Shriv_Suurgav_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF
 BF/BF088_Tatooine_Battlefront.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BF088_Tatooine_Battlefront.jpg
 BF/BF089_We_ve_Captured_a_Command_Post.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BF089_We_ve_Captured_a_Command_Post.jpg
 BF/BF090_Yavin_Battlefront.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BF090_Yavin_Battlefront.jpg
+BF/BFpromo_Battlefront.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFpromo_Battlefront.jpg
+BF/BFpromo_Commander_Iden_Versio_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFpromo_Commander_Iden_Versio_A.jpg
+BF/BFpromo_Dio_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFpromo_Dio_A.jpg
+BF/BFpromo_Inferno_Squad_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFpromo_Inferno_Squad_A.jpg
+BF/BFpromo_Inferno_Squad_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFpromo_Inferno_Squad_B.jpg
 BF/BFsub_Danger_X_wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFsub_Danger_X_wing.jpg
 BF/BFsub_Death_Trooper_Enforcers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFsub_Death_Trooper_Enforcers.jpg
 BF/BFsub_Dio_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BF/BFsub_Dio_A.jpg
@@ -4369,11 +4374,6 @@ PROMO/Ahsoka_Tano_A_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/P
 PROMO/Anakin_Skywalker_V_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Anakin_Skywalker_V_promo.jpg
 PROMO/Asajj's_Speeder_A_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Asajj's_Speeder_A_promo.jpg
 PROMO/Asajj_Ventress_D_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Asajj_Ventress_D_promo.jpg
-PROMO/BFpromo_Battlefront.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BFpromo_Battlefront.jpg
-PROMO/BFpromo_Commander_Iden_Versio_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BFpromo_Commander_Iden_Versio_A.jpg
-PROMO/BFpromo_Dio_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BFpromo_Dio_A.jpg
-PROMO/BFpromo_Inferno_Squad_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BFpromo_Inferno_Squad_A.jpg
-PROMO/BFpromo_Inferno_Squad_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BFpromo_Inferno_Squad_B.jpg
 PROMO/BLpromo_Ahsoka_Tano_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BLpromo_Ahsoka_Tano_F.jpg
 PROMO/BLpromo_Anakin_Skywalker_X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BLpromo_Anakin_Skywalker_X.jpg
 PROMO/BLpromo_Asajj_Ventress_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BLpromo_Asajj_Ventress_G.jpg
