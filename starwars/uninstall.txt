@@ -187,7 +187,21 @@
 <removepath>sets/setimages/PROMO/BLpromo_Maul_s_Revival.jpg</removepath>
 <removepath>sets/setimages/PROMO/BLpromo_Tyranus_s_Triumph.jpg</removepath>
 <removepath>sets/setimages/PROMO/BLpromo_Yoda_s_Starfighter_A.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/TLJpromo_AT_M6.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Chewbacca_X.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_First_Jedi_Temple.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Force_Projection.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_General_Leia_Organa_Solo_A2.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Jedi_Lessons.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Kylo_Ren_G.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Kylo_s_TIE_Silencer_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Learning_from_Failure.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Let_the_Past_Die.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Long_Live_the_Supreme_Leader.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Luke_Skywalker_A2.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Rey_G.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Skywalker_Twins_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/TLJpromo_Snoke_s_Praetorian_Guard_B.jpg</removepath>
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
