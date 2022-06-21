@@ -172,6 +172,21 @@
 <removepath>sets/setimages/PROMO/SOLOpromo_Maul_P.jpg</removepath>
 <removepath>sets/setimages/PROMO/SOLOpromo_Millennium_Falcon_D2.jpg</removepath>
 <removepath>sets/setimages/PROMO/SOLOpromo_Qi_ra_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Ahsoka_Tano_F.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Anakin_Skywalker_X.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Asajj_Ventress_G.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Brotherly_Bond.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Captain_Rex_C.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Commander_Wolffe_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Darksaber_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Darth_Maul_K.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Dirty_Work.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Gauntlet_A.jpg	</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Jedi_Initiate_Team_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Loss.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Maul_s_Revival.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Tyranus_s_Triumph.jpg</removepath>
+<removepath>sets/setimages/PROMO/BLpromo_Yoda_s_Starfighter_A.jpg</removepath>
 
 
 
