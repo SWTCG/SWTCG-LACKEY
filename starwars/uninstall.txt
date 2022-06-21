@@ -152,7 +152,11 @@
 <removepath>sets/setimages/PROMO/SORpromo_Phantom_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/SORpromo_Rebel_AT_TE.jpg</removepath>
 <removepath>sets/setimages/PROMO/SORpromo_Rise_Together.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/BOSBpromo_Lightsaber_Call.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOSBpromo_Poe_Dameron_D.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOSBpromo_Rey_F.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOSBpromo_Some_Things_Never_Change.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOSBpromo_Starkiller_Base_B.jpg</removepath>
 
 
 

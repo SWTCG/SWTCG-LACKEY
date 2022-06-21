@@ -2020,6 +2020,11 @@ BOSB/BOSB102_Stationary_Tactics.jpg	https://lackey.swtcg.com/starwars/sets/setim
 BOSB/BOSB103_There_s_Still_Light_in_Him.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSB103_There_s_Still_Light_in_Him.jpg
 BOSB/BOSB104_They_re_in_Trouble.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSB104_They_re_in_Trouble.jpg
 BOSB/BOSB105_Vober_Dand_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSB105_Vober_Dand_A.jpg
+BOSB/BOSBpromo_Lightsaber_Call.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBpromo_Lightsaber_Call.jpg
+BOSB/BOSBpromo_Poe_Dameron_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBpromo_Poe_Dameron_D.jpg
+BOSB/BOSBpromo_Rey_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBpromo_Rey_F.jpg
+BOSB/BOSBpromo_Some_Things_Never_Change.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBpromo_Some_Things_Never_Change.jpg
+BOSB/BOSBpromo_Starkiller_Base_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBpromo_Starkiller_Base_B.jpg
 BOSB/BOSBsub_First_Order_Search_Party.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBsub_First_Order_Search_Party.jpg
 BOSB/BOSBsub_First_Order_Snowtrooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBsub_First_Order_Snowtrooper.jpg
 BOSB/BOSBsub_Resistance_Technician.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOSB/BOSBsub_Resistance_Technician.jpg
@@ -4399,11 +4404,6 @@ PROMO/BOCpromo_Resistance_Trenches.jpg	https://lackey.swtcg.com/starwars/sets/se
 PROMO/BOCpromo_Rey_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOCpromo_Rey_K.jpg
 PROMO/BOCpromo_Shuttle_Command_Center.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOCpromo_Shuttle_Command_Center.jpg
 PROMO/BOCpromo_Vulptex.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOCpromo_Vulptex.jpg
-PROMO/BOSBpromo_Lightsaber_Call.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOSBpromo_Lightsaber_Call.jpg
-PROMO/BOSBpromo_Poe_Dameron_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOSBpromo_Poe_Dameron_D.jpg
-PROMO/BOSBpromo_Rey_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOSBpromo_Rey_F.jpg
-PROMO/BOSBpromo_Some_Things_Never_Change.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOSBpromo_Some_Things_Never_Change.jpg
-PROMO/BOSBpromo_Starkiller_Base_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/BOSBpromo_Starkiller_Base_B.jpg
 PROMO/Captain_Rex_A_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Captain_Rex_A_promo.jpg
 PROMO/Darth_Sidious_N_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Darth_Sidious_N_promo.jpg
 PROMO/Darth_Tyranus_N_promo.jpg	https://lackey.swtcg.com/starwars/sets/setimages/PROMO/Darth_Tyranus_N_promo.jpg
