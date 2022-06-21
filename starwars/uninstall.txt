@@ -162,6 +162,16 @@
 <removepath>sets/setimages/PROMO/BFpromo_Dio_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/BFpromo_Inferno_Squad_A.jpg</removepath>
 <removepath>sets/setimages/PROMO/BFpromo_Inferno_Squad_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Chewbacca_C2.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Cunning.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Enfys_Nest_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Good_Feeling_About_This.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Han_Solo_A2.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Hell_of_a_Pilot.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Lando_Calrissian_Q.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Maul_P.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Millennium_Falcon_D2.jpg</removepath>
+<removepath>sets/setimages/PROMO/SOLOpromo_Qi_ra_A.jpg</removepath>
 
 
 
