@@ -227,6 +227,25 @@
 <removepath>sets/setimages/PROMO/BOCpromo_Rey_K.jpg</removepath>
 <removepath>sets/setimages/PROMO/BOCpromo_Shuttle_Command_Center.jpg</removepath>
 <removepath>sets/setimages/PROMO/BOCpromo_Vulptex.jpg</removepath>
+<removepath>sets/setimages/PROMO/Ahsoka_Tano_A_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Anakin_Skywalker_V_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Asajj's_Speeder_A_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Asajj_Ventress_D_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Captain_Rex_A_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Darth_Sidious_N_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Darth_Tyranus_N_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Electro-Proton_Bomb_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Jocasta_Nu_B_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Jocasta_Nu_B_promofilm.jpg</removepath>
+<removepath>sets/setimages/PROMO/Malevolence_A_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Mortis_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Obi_Wan_Kenobi_U_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Padme_Amidala_L_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Savage_Opress_B_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Venator_Class_Fleet_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Yoda_O_promo.jpg</removepath>
+<removepath>sets/setimages/PROMO/Zillo_Beast_A_promo.jpg</removepath>
+
 
 
 <removepath>sets/setimages/TM/TM003_Bounty_Hunter_Gang_D.jpg</removepath>
