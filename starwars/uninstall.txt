@@ -212,7 +212,21 @@
 <removepath>sets/setimages/PROMO/TUFpromo_Vergere_B.jpg</removepath>
 <removepath>sets/setimages/PROMO/TUFpromo_Yuuzhan_Vong_Victory.jpg</removepath>
 <removepath>sets/setimages/PROMO/TUFpromo_Yuuzhan_tar.jpg</removepath>
-
+<removepath>sets/setimages/PROMO/BOCpromo_Battle_of_Crait.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Chewbacca_A2.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Elite_Shuttle_Pilot.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_General_Leia_Organa_Solo_G2.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Kylo_Ren_K.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Lost_Padawan.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Luke_Skywalker_G2.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Luke_s_Illusion_A.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Luke_s_Intervention.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Millennium_Falcon_A2.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Poe_Dameron_J.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Resistance_Trenches.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Rey_K.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Shuttle_Command_Center.jpg</removepath>
+<removepath>sets/setimages/PROMO/BOCpromo_Vulptex.jpg</removepath>
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
