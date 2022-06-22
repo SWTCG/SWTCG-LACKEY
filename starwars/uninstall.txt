@@ -202,6 +202,17 @@
 <removepath>sets/setimages/PROMO/TLJpromo_Rey_G.jpg</removepath>
 <removepath>sets/setimages/PROMO/TLJpromo_Skywalker_Twins_C.jpg</removepath>
 <removepath>sets/setimages/PROMO/TLJpromo_Snoke_s_Praetorian_Guard_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_All_in_a_Day_s_Work.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Intimidation.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Jacen_Solo_D.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Jaina_Solo_E.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Redirection.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Slayer_Ship.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_The_Unifying_Force.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Vergere_B.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Yuuzhan_Vong_Victory.jpg</removepath>
+<removepath>sets/setimages/PROMO/TUFpromo_Yuuzhan_tar.jpg</removepath>
+
 
 
 <removepath>sets/setimages/BOTS/BOTS030_Max_Rebo_Band_B_V2.jpg</removepath>
