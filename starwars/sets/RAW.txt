@@ -119,6 +119,6 @@ Starfighter Modifications	RAW	Starfighter_Modifications	L	Equipment	Space	1				C
 Stolen Lightsaber	RAW	Stolen_Lightsaber	N	Equipment	Ground/Character	0				C	118		Pay 3 Force -> Equip | Equipped Jedi or Sith gets +1 health. | Equipped General Grievous also gets +1 power.		REP, CW
 Underwater Tactics	RAW	Underwater_Tactics	N	Mission		2				C	119		Each of your Aquatic units gets +2 power and Critical Hit 1 until end of turn.		REP, CW
 V-19 Starfighter	RAW	V_19_Starfighter	L	Space	Republic Clone Starfighter	4	50	3	3	C	120		Accuracy 1 When this unit damages another unit (after damage prevention), draw a card.		REP, CW
-Assault Gunship (LEGO)	RAW	LEGO004_Assault_Gunship	L	Ground	Republic Gunship	5	60	4	4	L	L		Double Strike		REP, CW
-Separatist Starfighter Squadron (LEGO)	RAW	LEGO064_Separatist_Starfighter_Squadron	D	Space	Separatist Squadron	4	60	4	4	L	L		This unit gets +1 power for each Separatist Starfighter in the Space arena. | Overkill		REP, CW
-Upgraded Geonosian Starfighter (LEGO)	RAW	LEGO071_Upgraded_Geonosian_Starfighter	D	Space	Separatist Geonosian Starfighter	3	50	3	3	L	L		Accuracy 1 As long as this unit has a Droid Pilot on it, this unit gets Critical Hit 3.		REP, CW
+Assault Gunship (LEGO)	RAW	LEGO004_Assault_Gunship	L	Ground	Republic Gunship	5	60	4	4	L			Double Strike		REP, CW
+Separatist Starfighter Squadron (LEGO)	RAW	LEGO064_Separatist_Starfighter_Squadron	D	Space	Separatist Squadron	4	60	4	4	L			This unit gets +1 power for each Separatist Starfighter in the Space arena. | Overkill		REP, CW
+Upgraded Geonosian Starfighter (LEGO)	RAW	LEGO071_Upgraded_Geonosian_Starfighter	D	Space	Separatist Geonosian Starfighter	3	50	3	3	L			Accuracy 1 As long as this unit has a Droid Pilot on it, this unit gets Critical Hit 3.		REP, CW

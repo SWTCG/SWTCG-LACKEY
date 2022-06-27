@@ -98,4 +98,4 @@ Imperial Youth	JK	JKsub_Imperial_Youth	D	Subordinate	Ground/Character - Imperial
 Jedi Acolyte	JK	JKsub_Jedi_Acolyte	L	Subordinate	Ground/Character - Kel Dor New Republic Jedi Padawan		50	3	3	S			Parry 1 | Tap 1 Force -> Retaliate 2		
 Reborn Assault Squad	JK	JKsub_Reborn_Assault_Squad	D	Subordinate	Ground - Reborn Imperial Dark Jedi Squad		60	3	3	S			Critical Hit 1 | Pay 1 Force -> Retaliate 2		
 Shadowtrooper	JK	JKsub_Shadowtrooper	D	Subordinate	Character - Reborn Imperial Dark Jedi Stormtrooper		40	3	3	S			Armor | Stealth		
-Sith Cultist	JK	JKsub_Sith_Cultist	D	Subordinate	Character - Reborn Imperial Dark Jedi - Sith Cultist		50	3	1	S	P		Fury 3		
+Sith Cultist	JK	JKsub_Sith_Cultist	D	Subordinate	Character - Reborn Imperial Dark Jedi - Sith Cultist		50	3	1	S			Fury 3		

@@ -184,13 +184,13 @@ Bacta War (Promo)	RS	RSpromo_Bacta_War	N	Battle						P			Pay 1 Force -> Choose o
 Heart of the Squadron (Promo)	RS	RSpromo_Heart_of_the_Squadron	L	Resource		4				P			Add 1 counter -> One of your Rogues gets +1 power until end of turn. | Remove 2 counters -> Prevent up to 3 damage to one of your Rogues. | Remove 3 counters -> Choose an arena. Remove 1 damage counter from each of your Rogues in the chosen arena. Play only during your build step.		REB
 Rogue Squadron (C) (Promo)	RS	RSpromo_Rogue_Squadron_C	L	Space	Rogue New Republic Squadron	8	70	6	6	P			Stack: Any Rogue New Republic Starfighter. | Hidden Cost 6 | When the Space battle step starts, you may choose an ability on another card in Rogue Squadron's Stack. If you do, Rogue Squadron gets the chosen ability until end of turn.		REB
 Verpine Tech (Promo)	RS	RSpromo_Verpine_Tech	L	Character	Verpine New Republic Mechanic	3	20	2	2	P			Tap -> One of your Starfighters gets Accuracy 1 until end of turn. Play only when that Starfighter would attack.| Reserves: Pay 1 build point -> Remove up to 2 damage counters from one of your Starfighters. Play only during your build step.		REB
-Elite Commando Squad	RS	RSsub_Elite_Commando_Squad	L	Subordinate	Ground/Character - New Republic Soldier Squad		50	3	3		S		Accuracy 1 | Precision		REB
-Elite Hunting Party	RS	RSsub_Elite_Hunting_Party	D	Subordinate	Ground/Character - Imperial Stormtrooper Squad		50	3	3		S		Accuracy 1 | Precision		REB
-Imperial Clone	RS	RSsub_Imperial_Clone	D	Subordinate	Character - Imperial Clone Stormtrooper		50	3	2		S				REB
-Malrev TIE Squadron	RS	RSsub_Malrev_TIE_Squadron	D	Subordinate	Space - Imperial Squadron		50	3	2		S		When Carturian would be discarded or retreated from any arena, return this unit to your supply.		REB
-New Republic Heroes	RS	RSsub_New_Republic_Heroes	L	Subordinate	Ground/Character - New Republic Soldier Squad		50	2	3		S		Double Strike		REB
-Raptor Trooper Squad	RS	RSsub_Raptor_Trooper_Squad	D	Subordinate	Ground/Character - Imperial Bodyguard Squad		40	3	3		S		Armor | Pay 0 Force -> Intercept		REB
-Stormtrooper Team	RS	RSsub_Stormtrooper_Team	D	Subordinate	Ground - Imperial Stormtrooper Squad		50	3	3		S				REB
-TIE Raptor	RS	RSsub_TIE_Raptor	D	Subordinate	Space - Imperial Starfighter		50	3	1		S				REB
-X-Wing	RS	RSsub_X_wing	L	Subordinate	Space - New Republic Starfighter		50	2	2		S				REB
-Z-95 Starfighter	RS	RSsub_Z_95_Starfighter	L	Subordinate	Space - New Republic Starfighter		40	2	1		S				REB
+Elite Commando Squad	RS	RSsub_Elite_Commando_Squad	L	Subordinate	Ground/Character - New Republic Soldier Squad		50	3	3	S			Accuracy 1 | Precision		REB
+Elite Hunting Party	RS	RSsub_Elite_Hunting_Party	D	Subordinate	Ground/Character - Imperial Stormtrooper Squad		50	3	3	S			Accuracy 1 | Precision		REB
+Imperial Clone	RS	RSsub_Imperial_Clone	D	Subordinate	Character - Imperial Clone Stormtrooper		50	3	2	S					REB
+Malrev TIE Squadron	RS	RSsub_Malrev_TIE_Squadron	D	Subordinate	Space - Imperial Squadron		50	3	2	S			When Carturian would be discarded or retreated from any arena, return this unit to your supply.		REB
+New Republic Heroes	RS	RSsub_New_Republic_Heroes	L	Subordinate	Ground/Character - New Republic Soldier Squad		50	2	3	S			Double Strike		REB
+Raptor Trooper Squad	RS	RSsub_Raptor_Trooper_Squad	D	Subordinate	Ground/Character - Imperial Bodyguard Squad		40	3	3	S			Armor | Pay 0 Force -> Intercept		REB
+Stormtrooper Team	RS	RSsub_Stormtrooper_Team	D	Subordinate	Ground - Imperial Stormtrooper Squad		50	3	3	S					REB
+TIE Raptor	RS	RSsub_TIE_Raptor	D	Subordinate	Space - Imperial Starfighter		50	3	1	S					REB
+X-Wing	RS	RSsub_X_wing	L	Subordinate	Space - New Republic Starfighter		50	2	2	S					REB
+Z-95 Starfighter	RS	RSsub_Z_95_Starfighter	L	Subordinate	Space - New Republic Starfighter		40	2	1	S					REB

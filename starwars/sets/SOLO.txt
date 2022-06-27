@@ -189,18 +189,18 @@ Lando Calrissian (Q) (Promo)	SOLO	SOLOpromo_Lando_Calrissian_Q	N	Character	Indep
 Maul (P) (Promo)	SOLO	SOLOpromo_Maul_P	N	Character	Zabrak Dark Jedi - Nightbrother Crime Lord	6	30	6	5	P			Pay 3 Force -> Deflect 2 | Reserves: Whenever one of your Crime Gang units or Crime Lords is discarded from any arena, you may put 1 damage counter on one of your opponent's units in the same arena.		REB
 Millennium Falcon (D2) (Promo)	SOLO	SOLOpromo_Millennium_Falcon_D2	N	Space/Ground	Independent Smuggler Transport	6	40	4	4	P			Damage Control 1 | When your build step starts, choose one: Put 1 credit counter on the Millennium Falcon. Or: Remove 1 credit counter from the Millennium Falcon -> Gain 1 build point. 		REB
 Qi'ra (A) (Promo)	SOLO	SOLOpromo_Qi_ra_A	N	Character	Corellian Crime Gang Thief	5	40	3	5	P			Damage Control 2 | Han Solo gets +1 health and Damage Control 1. | Pay 5 Force -> Meditate		REB
-Boosted Speeder	SOLO	SOLOsub_Boosted_Speeder	N	Subordinate	Ground/Character - Thief Speeder		60	1	2		S		Return this unit to your supply -> Protect 2		REB
-Cargo Container Car	SOLO	SOLOsub_Cargo_Container_Car	D	Subordinate	Ground - Imperial Arctic Train Transport		10	1	3		S		Upkeep: Gain 1 build point or add 1 counter to your Resource.		REB
-Cloud-Rider	SOLO	SOLOsub_Cloud_Rider	L	Subordinate	Character - Rodian Rebel Pirate		50	2	1		S		Riposte 1		REB
-Corellian Hounds	SOLO	SOLOsub_Corellian_Hounds	N	Subordinate	Ground/Character - Corellian Creature Squad		60	2	2		S		Fury 3		REB
-Crime Gang Enforcers	SOLO	SOLOsub_Crime_Gang_Enforcers	N	Subordinate	Ground/Character - Crime Gang Squad		50	3	2		S		Critical Hit 1		REB
-Droid Gladiators	SOLO	SOLOsub_Droid_Gladiators	N	Subordinate	Ground/Character - Gladiator Droid Squad		40	1	3		S		Fury 2		REB
-Elite Range Trooper	SOLO	SOLOsub_Elite_Range_Trooper	D	Subordinate	Ground/Character - Imperial Arctic Stormtrooper		50	2	2		S		Switch: +10 speed/+1 power | Armor		REB
-Free Droid	SOLO	SOLOsub_Free_Droid	N	Subordinate	Ground/Character - Independent Droid		30	1	2		S		Lucky 1		REB
-Mimban Imperial Detachment	SOLO	SOLOsub_Mimban_Imperial_Detachment	D	Subordinate	Ground - Imperial Soldier Squad		40	3	2		S				REB
-Mimban Stormtrooper	SOLO	SOLOsub_Mimban_Stormtrooper	D	Subordinate	Ground/Character - Imperial Stormtrooper		50	3	2		S		Fury 1 | Armor`		REB
-Mimbanese Rebel	SOLO	SOLOsub_Mimbanese_Rebel	L	Subordinate	Ground/Character - Mimban Rebel Pirate		40	2	2		S		Avenge 2		REB
-Pyke Mine Guards	SOLO	SOLOsub_Pyke_Mine_Guards	N	Subordinate	Ground - Pyke Crime Gang Squad		40	2	3		S				REB
-Savareen Refinery Worker	SOLO	SOLOsub_Savareen_Refinery_Worker	N	Subordinate	Character - Savareen Merchant		30	1	1		S		Tap -> Add 1 counter to your Resource. Play only during your build step.		REB
-Train Range Troopers	SOLO	SOLOsub_Train_Range_Troopers	D	Subordinate	Ground - Imperial Arctic Stormtrooper Squad		60	2	1		S		Each of your Trains gets Riposte 1.		REB
-Viper Droids	SOLO	SOLOsub_Viper_Droids	D	Subordinate	Ground/Character - Imperial Arctic Droid Squad		20	3	2		S		Critical Hit 2		REB
+Boosted Speeder	SOLO	SOLOsub_Boosted_Speeder	N	Subordinate	Ground/Character - Thief Speeder		60	1	2	S			Return this unit to your supply -> Protect 2		REB
+Cargo Container Car	SOLO	SOLOsub_Cargo_Container_Car	D	Subordinate	Ground - Imperial Arctic Train Transport		10	1	3	S			Upkeep: Gain 1 build point or add 1 counter to your Resource.		REB
+Cloud-Rider	SOLO	SOLOsub_Cloud_Rider	L	Subordinate	Character - Rodian Rebel Pirate		50	2	1	S			Riposte 1		REB
+Corellian Hounds	SOLO	SOLOsub_Corellian_Hounds	N	Subordinate	Ground/Character - Corellian Creature Squad		60	2	2	S			Fury 3		REB
+Crime Gang Enforcers	SOLO	SOLOsub_Crime_Gang_Enforcers	N	Subordinate	Ground/Character - Crime Gang Squad		50	3	2	S			Critical Hit 1		REB
+Droid Gladiators	SOLO	SOLOsub_Droid_Gladiators	N	Subordinate	Ground/Character - Gladiator Droid Squad		40	1	3	S			Fury 2		REB
+Elite Range Trooper	SOLO	SOLOsub_Elite_Range_Trooper	D	Subordinate	Ground/Character - Imperial Arctic Stormtrooper		50	2	2	S			Switch: +10 speed/+1 power | Armor		REB
+Free Droid	SOLO	SOLOsub_Free_Droid	N	Subordinate	Ground/Character - Independent Droid		30	1	2	S			Lucky 1		REB
+Mimban Imperial Detachment	SOLO	SOLOsub_Mimban_Imperial_Detachment	D	Subordinate	Ground - Imperial Soldier Squad		40	3	2	S					REB
+Mimban Stormtrooper	SOLO	SOLOsub_Mimban_Stormtrooper	D	Subordinate	Ground/Character - Imperial Stormtrooper		50	3	2	S			Fury 1 | Armor`		REB
+Mimbanese Rebel	SOLO	SOLOsub_Mimbanese_Rebel	L	Subordinate	Ground/Character - Mimban Rebel Pirate		40	2	2	S			Avenge 2		REB
+Pyke Mine Guards	SOLO	SOLOsub_Pyke_Mine_Guards	N	Subordinate	Ground - Pyke Crime Gang Squad		40	2	3	S					REB
+Savareen Refinery Worker	SOLO	SOLOsub_Savareen_Refinery_Worker	N	Subordinate	Character - Savareen Merchant		30	1	1	S			Tap -> Add 1 counter to your Resource. Play only during your build step.		REB
+Train Range Troopers	SOLO	SOLOsub_Train_Range_Troopers	D	Subordinate	Ground - Imperial Arctic Stormtrooper Squad		60	2	1	S			Each of your Trains gets Riposte 1.		REB
+Viper Droids	SOLO	SOLOsub_Viper_Droids	D	Subordinate	Ground/Character - Imperial Arctic Droid Squad		20	3	2	S			Critical Hit 2		REB

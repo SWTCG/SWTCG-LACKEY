@@ -129,13 +129,13 @@ The Unifying Force (Promo)	TUF	TUFpromo_The_Unifying_Force	L	Missions		0				P			
 Vergere (B) (Promo)	TUF	TUFpromo_Vergere_B	N	Character	Fosh Independent Force Sensitive	8	40	6	4	P			Upkeep: Put 1 counter of any type on a unit in any arena. | Stealth | Pay 4 Force -> Choose a word. Each Character loses any ability with the chosen word in it until end of turn. Play only when the battle phase starts.		
 Yuuzhan'tar (Promo)	TUF	TUFpromo_Yuuzhan_tar	Y	Location	Ground - Yuuzhan Vong Coruscant City	3				P			When you complete this Location, you may add 1 counters to your Resource. | Each of your Yuuzhan Vong gets +1 health and Resilience 1.		
 Yuuzhan Vong Victory (Promo)	TUF	TUFpromo_Yuuzhan_Vong_Victory	Y	Mission		0				P			When this turn ends, if you have 7 or more unique Yuuzhan Vong in any arena, and 1 or more captivity counters on each of your opponent's units in each arena, you win the game.		
-Clawcraft	TUF	TUFsub_Clawcraft	L	Subordinate	Space - Chiss Galactic Alliance Starfighter 		60	3	2		S		Riposte 1 | Bombard 2		
-Coralskipper Pursuit Fighter	TUF	TUFsub_Coralskipper_Pursuit_Fighter	Y	Subordinate	Space - Yuuzhan Vong Starfighter		60	3	2	R	S		Accuracy 1 |Precision		
-E-wing Starfighter	TUF	TUFsub_E_wing_Starfighter	L	Subordinate	Space - Galactic Alliance Starfighter		60	2	1	R	S		Pay 1 Force -> Intercept		
-Enraged Yuuzhan Vong	TUF	TUFsub_Enraged_Yuuzhan_Vong	Y	Subordinate	Character - Yuuzhan Vong Warrior		60	2	2	R	S		Fury 2		
-Netting Beetles	TUF	TUFsub_Netting_Beetles	Y	Subordinate	Ground/Character - Yuuzhan Vong Character Squad		60	1	1	R	S		Foresight: Put 1 captivity counter on the defending unit.		
-Scarab Assassin Droid	TUF	TUFsub_Scarab_Assassin_Droid	L	Subordinate	Character - Galactic Alliance Assassin Droid		40	2	2	R	S		Stealth | Pay 1 Force -> Ambush 2		
-Sekot Entity	TUF	TUFsub_Sekot_Entity_A	L	Subordinate	Character - Sekotan Force Sensitive		30	0	3	R	S		Inspiration		
-Swarm-Class Starfighter	TUF	TUFsub_Swarm_Class_Starfighter	N	Subordinate	Space - Ssi-Ruuk Droid Starfighter		70	2	1	R	S		Riposte 1		
-Viewspider	TUF	TUFsub_Viewspider	Y	Subordinate	Ground/Character - Yuuzhan Vong Creature		30	2	2	R	S				
-YVH-M Mouse Droid	TUF	TUFsub_YVH_M_Mouse_Droid	L	Subordinate	Ground/Character - Galactic Alliance Droid		30	2	2	R	S				
+Clawcraft	TUF	TUFsub_Clawcraft	L	Subordinate	Space - Chiss Galactic Alliance Starfighter 		60	3	2	S			Riposte 1 | Bombard 2		
+Coralskipper Pursuit Fighter	TUF	TUFsub_Coralskipper_Pursuit_Fighter	Y	Subordinate	Space - Yuuzhan Vong Starfighter		60	3	2	S			Accuracy 1 |Precision		
+E-wing Starfighter	TUF	TUFsub_E_wing_Starfighter	L	Subordinate	Space - Galactic Alliance Starfighter		60	2	1	S			Pay 1 Force -> Intercept		
+Enraged Yuuzhan Vong	TUF	TUFsub_Enraged_Yuuzhan_Vong	Y	Subordinate	Character - Yuuzhan Vong Warrior		60	2	2	S			Fury 2		
+Netting Beetles	TUF	TUFsub_Netting_Beetles	Y	Subordinate	Ground/Character - Yuuzhan Vong Character Squad		60	1	1	S			Foresight: Put 1 captivity counter on the defending unit.		
+Scarab Assassin Droid	TUF	TUFsub_Scarab_Assassin_Droid	L	Subordinate	Character - Galactic Alliance Assassin Droid		40	2	2	S			Stealth | Pay 1 Force -> Ambush 2		
+Sekot Entity	TUF	TUFsub_Sekot_Entity_A	L	Subordinate	Character - Sekotan Force Sensitive		30	0	3	S			Inspiration		
+Swarm-Class Starfighter	TUF	TUFsub_Swarm_Class_Starfighter	N	Subordinate	Space - Ssi-Ruuk Droid Starfighter		70	2	1	S			Riposte 1		
+Viewspider	TUF	TUFsub_Viewspider	Y	Subordinate	Ground/Character - Yuuzhan Vong Creature		30	2	2	S					
+YVH-M Mouse Droid	TUF	TUFsub_YVH_M_Mouse_Droid	L	Subordinate	Ground/Character - Galactic Alliance Droid		30	2	2	S					

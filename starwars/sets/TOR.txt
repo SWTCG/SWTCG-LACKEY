@@ -119,28 +119,28 @@ Vitiate's Imperial Citadel	TOR	TOR117_Vitiate_s_Imperial_Citadel	D	Location	Char
 Voss Mystics	TOR	TOR118_Voss_Mystics	N	Ground	Voss Seer Squad	4	20	2	5	C	118		Tap, Pay 2 Force -> Look at the top 4 cards of any player's deck and put them back on the top of that player's deck in any order. Play only during your build step.		TOR
 Wild Acklay	TOR	TOR119_Wild_Acklay	N	Ground	Independent Creature	3	30	5	3	C	119		Upkeep: Put 1 damage counter on this unit unless it damaged a unit last turn. | Precision		TOR
 XS Light Freighter	TOR	TOR120_XS_Light_Freighter	L	Space	Independent Smuggler Transport	4	50	4	3	C	120		Pay 1 build point -> Search your deck for a Space Equipment card, show it to your opponent, and put it face-down in your build zone with 1 build counter on it. Shuffle your deck. Play only during your build step.		TOR
-Annihilation Droid XRR-3 (A) (Promo)	TOR	TORpromo_Annihilation_Droid_XRR_3_A	N	Ground	Rakatan Droid	12	20	10	10		P		Armor | Stun 2 | Tap, Pay 6 Force -> Annihilation Droid XRR-3 does 10 damage divided as you choose between your opponent's units in the Ground arena. Annihilation Droid XRR-3 doesn't untap during your next untap step. Play only when Annihilation Droid XRR-3 would attack.		TOR
-D-5 Mantis Patrol Craft (Promo)	TOR	TORpromo_D5_Mantis_Patrol_Craft	N	Space	Independent Patrol Ship	7	30	3	5		P		Critical Hit 2 | Bombard 1 | Double Strike		TOR
-Darth Malgus (C) (Promo)	TOR	TORpromo_Darth_Malgus_C	D	Character	Imperial Dark Jedi Master - Sith Lord	8	40	6	6		P		Pay 3 Force -> Rearrange the cards in Malgus's stack. Play only during a chance to prevent damage. | Pay 2 Force -> Disrupt a Character's activated ability. | Pay 3 Force -> Evade 2		TOR
-Force Blast (Promo)	TOR	TORpromo_Force_Blast	N	Battle							P		Pay 4 Force -> Do 3 damage to one of your opponent's Ground units or Characters. | Pay 6 Force -> Meditate (You may play Force Blast from the discard pile without paying the printed cost. When Force Blast would be discarded, remove it from the game instead.)		TOR
-Force Evasion (Promo)	TOR	TORpromo_Force_Evasion	N	Battle							P		Pay X Force-> Prevent X damage to one of your units.		TOR
-Great Galactic War (Promo)	TOR	TORpromo_Great_Galactic_War	L	Resource		5					P		Add 2 counters -> Look at the top card of your opponent's deck. You may put it on the bottom of his or her deck. | Remove 1 counter -> Your opponent loses 1 build point. Play only when the roll for build points is made. | Remove X counters -> Remove X build counters from a face-down card in your opponent's build zone.		TOR
-Kao Cen Darach (A) (Promo)	TOR	TORpromo_Kao_Cen_Darach_A	L	Character	Zabrak Old Republic Jedi Master	8	40	7	5		P		Critical Hit 1 | Armor | Parry 1 | Pay 4 Force -> Deflect 2		TOR
-Satele's Intervention (Promo)	TOR	TORpromo_Satele_s_Intervention	L	Battle							P		Pay 3 Force -> Prevent up to 3 damage to one of your units. | Pay 2 Force, discard a card from your hand -> Meditate (You may play Satele's Intervention from your discard pile without paying the printed cost. When Satele's Intervention would be discarded, remove it from the game instead.) 		TOR
-Shae Vizla (B) (Promo)	TOR	TORpromo_Shae_Vizla_B	D	Character	Mandalorian Bounty Hunter	6	40	6	6		P		Armor | Shae gets Critical Hit 2 and Overkill when attacking a Jedi or Subordinate. | Pay 2 Force -> Shae gets +40 speed until end of turn.		TOR
-Theron Shan (A) (Promo)	TOR	TORpromo_Theron_Shan_A	L	Character	Old Republic Cyborg Spy	6	40	4	5		P		Stealth | Whenever you look at your opponent's hand, you may tap Theron. If you do, discard a card from your opponent's hand.		TOR
-Jedi Knight (subordinate)	TOR	TORsub_Jedi_Knight	L	Subordinate	Ground/Character - Old Republic Jedi Knight		50	2	2				Pay 1 Force -> Evade 1		TOR
-Sith Trooper	TOR	TORsub_Sith_Trooper	D	Subordinate	Character - Imperial Soldier		50	2	1						TOR
-Military Droid	TOR	TORsub_Military_Droid	N	Subordinate	Ground - Military Droid		40	2	1				Accuracy 1		TOR
-Old Republic Starfighter	TOR	TORsub_Old_Republic_Starfighter	L	Subordinate	Space - Old Republic Starfighter		50	2	1				Pay 1 Force -> Retaliate 2		TOR
-Old Republic Soldier	TOR	TORsub_Old_Republic_Soldier	L	Subordinate	Character - Old Republic Soldier		50	2	1				Critical Hit 1		TOR
-Old Republic Soldier Squad	TOR	TORsub_Old_Republic_Soldier_Squad	L	Subordinate	Ground - Old Republic Squad		40	4	4						TOR
-Old Republic Special Forces	TOR	TORsub_Old_Republic_Special_Forces	L	Subordinate	Ground - Old Republic Soldier Squad		70	3	3						TOR
-Sith Squad	TOR	TORsub_Sith_Squad	D	Subordinate	Ground - Imperial Dark Jedi - Sith Warrior Squad		30	2	3						TOR
-Sith Starfighter	TOR	TORsub_Sith_Starfighter	D	Subordinate	Space - Dark Jedi - Sith Starfighter		50	2	2						TOR
-Sith Invader	TOR	TORsub_Sith_Invader	D	Subordinate	Character - Imperial Dark Jedi - Sith Warrior		50	3	2						TOR
-Sith Striker	TOR	TORsub_Sith_Striker	D	Subordinate	Character - Imperial Dark Jedi - Sith Warrior		50	3	2						TOR
-Recruited Soldier	TOR	TORsub_Recruited_Soldier	N	Subordinate	Ground/Character - Soldier		40	2	2						TOR
-Soldier	TOR	TORsub_Soldier	N	Subordinate	Character - Cathar Soldier		60	3	3						TOR
-Starfighter	TOR	TORsub_Starfighter	N	Subordinate	Space - Starfighter		60	3	3						TOR
-Tank	TOR	TORsub_Tank	N	Subordinate	Ground - Tank		60	3	3						TOR
+Annihilation Droid XRR-3 (A) (Promo)	TOR	TORpromo_Annihilation_Droid_XRR_3_A	N	Ground	Rakatan Droid	12	20	10	10	P			Armor | Stun 2 | Tap, Pay 6 Force -> Annihilation Droid XRR-3 does 10 damage divided as you choose between your opponent's units in the Ground arena. Annihilation Droid XRR-3 doesn't untap during your next untap step. Play only when Annihilation Droid XRR-3 would attack.		TOR
+D-5 Mantis Patrol Craft (Promo)	TOR	TORpromo_D5_Mantis_Patrol_Craft	N	Space	Independent Patrol Ship	7	30	3	5	P			Critical Hit 2 | Bombard 1 | Double Strike		TOR
+Darth Malgus (C) (Promo)	TOR	TORpromo_Darth_Malgus_C	D	Character	Imperial Dark Jedi Master - Sith Lord	8	40	6	6	P			Pay 3 Force -> Rearrange the cards in Malgus's stack. Play only during a chance to prevent damage. | Pay 2 Force -> Disrupt a Character's activated ability. | Pay 3 Force -> Evade 2		TOR
+Force Blast (Promo)	TOR	TORpromo_Force_Blast	N	Battle						P			Pay 4 Force -> Do 3 damage to one of your opponent's Ground units or Characters. | Pay 6 Force -> Meditate (You may play Force Blast from the discard pile without paying the printed cost. When Force Blast would be discarded, remove it from the game instead.)		TOR
+Force Evasion (Promo)	TOR	TORpromo_Force_Evasion	N	Battle						P			Pay X Force-> Prevent X damage to one of your units.		TOR
+Great Galactic War (Promo)	TOR	TORpromo_Great_Galactic_War	L	Resource		5				P			Add 2 counters -> Look at the top card of your opponent's deck. You may put it on the bottom of his or her deck. | Remove 1 counter -> Your opponent loses 1 build point. Play only when the roll for build points is made. | Remove X counters -> Remove X build counters from a face-down card in your opponent's build zone.		TOR
+Kao Cen Darach (A) (Promo)	TOR	TORpromo_Kao_Cen_Darach_A	L	Character	Zabrak Old Republic Jedi Master	8	40	7	5	P			Critical Hit 1 | Armor | Parry 1 | Pay 4 Force -> Deflect 2		TOR
+Satele's Intervention (Promo)	TOR	TORpromo_Satele_s_Intervention	L	Battle						P			Pay 3 Force -> Prevent up to 3 damage to one of your units. | Pay 2 Force, discard a card from your hand -> Meditate (You may play Satele's Intervention from your discard pile without paying the printed cost. When Satele's Intervention would be discarded, remove it from the game instead.) 		TOR
+Shae Vizla (B) (Promo)	TOR	TORpromo_Shae_Vizla_B	D	Character	Mandalorian Bounty Hunter	6	40	6	6	P			Armor | Shae gets Critical Hit 2 and Overkill when attacking a Jedi or Subordinate. | Pay 2 Force -> Shae gets +40 speed until end of turn.		TOR
+Theron Shan (A) (Promo)	TOR	TORpromo_Theron_Shan_A	L	Character	Old Republic Cyborg Spy	6	40	4	5	P			Stealth | Whenever you look at your opponent's hand, you may tap Theron. If you do, discard a card from your opponent's hand.		TOR
+Jedi Knight (subordinate)	TOR	TORsub_Jedi_Knight	L	Subordinate	Ground/Character - Old Republic Jedi Knight		50	2	2	S			Pay 1 Force -> Evade 1		TOR
+Sith Trooper	TOR	TORsub_Sith_Trooper	D	Subordinate	Character - Imperial Soldier		50	2	1	S					TOR
+Military Droid	TOR	TORsub_Military_Droid	N	Subordinate	Ground - Military Droid		40	2	1	S			Accuracy 1		TOR
+Old Republic Starfighter	TOR	TORsub_Old_Republic_Starfighter	L	Subordinate	Space - Old Republic Starfighter		50	2	1	S			Pay 1 Force -> Retaliate 2		TOR
+Old Republic Soldier	TOR	TORsub_Old_Republic_Soldier	L	Subordinate	Character - Old Republic Soldier		50	2	1	S			Critical Hit 1		TOR
+Old Republic Soldier Squad	TOR	TORsub_Old_Republic_Soldier_Squad	L	Subordinate	Ground - Old Republic Squad		40	4	4	S					TOR
+Old Republic Special Forces	TOR	TORsub_Old_Republic_Special_Forces	L	Subordinate	Ground - Old Republic Soldier Squad		70	3	3	S					TOR
+Sith Squad	TOR	TORsub_Sith_Squad	D	Subordinate	Ground - Imperial Dark Jedi - Sith Warrior Squad		30	2	3	S					TOR
+Sith Starfighter	TOR	TORsub_Sith_Starfighter	D	Subordinate	Space - Dark Jedi - Sith Starfighter		50	2	2	S					TOR
+Sith Invader	TOR	TORsub_Sith_Invader	D	Subordinate	Character - Imperial Dark Jedi - Sith Warrior		50	3	2	S					TOR
+Sith Striker	TOR	TORsub_Sith_Striker	D	Subordinate	Character - Imperial Dark Jedi - Sith Warrior		50	3	2	S					TOR
+Recruited Soldier	TOR	TORsub_Recruited_Soldier	N	Subordinate	Ground/Character - Soldier		40	2	2	S					TOR
+Soldier	TOR	TORsub_Soldier	N	Subordinate	Character - Cathar Soldier		60	3	3	S					TOR
+Starfighter	TOR	TORsub_Starfighter	N	Subordinate	Space - Starfighter		60	3	3	S					TOR
+Tank	TOR	TORsub_Tank	N	Subordinate	Ground - Tank		60	3	3	S					TOR

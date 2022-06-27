@@ -164,14 +164,14 @@ Resistance Trenches (Promo)	BOC	BOCpromo_Resistance_Trenches	L	Location	Ground -
 Rey (K) (Promo)	BOC	BOCpromo_Rey_K	L	Character	Resistance Jedi Padawan6	6	40	4	6	P			Transport Pilot. The Transport gets:  -Critical Hit 2  - Pay 2 Force -> Evade 2  -As long as this unit is in the Ground arena, it gets "Pay 2 Force -> Protect 2."		RES
 Shuttle Command Center (Promo)	BOC	BOCpromo_Shuttle_Command_Center	D	Location	Character - First Order Facility	2				P			When your build step starts, you may tap one of your First Order Officers in the Character arena. If you do, take 1 50/2/2 First Order TIE Group Subordinate with "Bombard 2" and "Double Strike" and put it into the Space or Ground arena.	<s><l>Spawn First Order TIE Group</l><f>/spawn First Order TIE Group;/s spawns First Order TIE Group Subordinate using Shuttle Command Centre and MUST tap a First Order Officer in the Character arena</f></s> 	RES
 Vulptex (Promo)	BOC	BOCpromo_Vulptex	N	Character	Vulptex Creature	4	40	1	1	P			When you deploy this unit, you may look at your opponent's hand and partially built cards in his or her build zone. | Remove this unit from the game -> Prevent all damage to your Ground units this turn.		RES
-Base Soldier Squad	BOC	BOCsub_Base_Soldier_Squad	L	Subordinate	Ground - Resistance Soldier Squad		30	2	2		S		Pay 1 Force -> Intercept		RES
-Crait Comms Soldier	BOC	BOCsub_Crait_Comms_Soldier	L	Subordinate	Character - Resistance Soldier		20	2	2		S		Resilience 1		RES
-Crait Trench Soldiers	BOC	BOCsub_Crait_Trench_Soldiers	L	Subordinate	Ground - Resistance Soldier Squad		30	2	3		S		Resilience 1		RES
-Elite First Order Snowtrooper	BOC	BOCsub_Elite_First_Order_Snowtrooper	D	Subordinate	Character - First Order Arctic Stormtrooper		50	2	3		S		Ferocity | Resilience 1		RES
-First Order TIE Fighter Swarm	BOC	BOCsub_First_Order_TIE_Fighter_Swarm	D	Subordinate	Space/Ground - First Order Squadron		60	3	3		S		Pay 0 Force -> Intercept		RES
-First Order TIE Group	BOC	BOCsub_First_Order_TIE_Group	D	Subordinate	Space/Ground - First Order Squadron		50	2	2		S		Bombard 2 | Double Strike		RES
-First Order Walker	BOC	BOCsub_First_Order_Walker	D	Subordinate	Ground - First Order Walker		20	3	3		S		Critical Hit 2 | Armor		RES
-Resistance Base Troopers	BOC	BOCsub_Resistance_Base_Troopers	L	Subordinate	Ground/Character - Resistance Soldier Squad		30	2	2		S		Armor		RES
-Resistance Lifeboats	BOC	BOCsub_Resistance_Lifeboats	L	Subordinate	Space - Resistance Transport		40	0	3		S		Return this unit to your supply -> Prevent up to 3 damage to one of your Resistance Ground units.		RES
-V-4X-D Ski Speeder	BOC	BOCsub_V_4X_D_Ski_Speeder	L	Subordinate	Ground - Resistance Speeder		70	2	2		S		Resilience 1		RES
-Reb Squadron (C) (LEGO)	BOC	LEGO059_Reb_Squadron_C	L	Ground	Resistance Speeder Squadron	7	40	6	4	L	L		As long as "Reb" Squadron has Poe Pameron as a Pilot, "Reb" Squadron gets +10 speed and Lucky 1. | Tap -> Take 1 70/2/2 V-4X-D Ski Speeder Subordinate with "Resilience 1" and put it into the Ground arena. Play only during your build step.	<s><l>tap to Spawn V-4X-D Ski Speeder</l><f>/spawn V-4X-D Ski Speeder;/cr90;/s taps “Reb” Squadron ( C) to spawn V-4X-D Ski Speeder Subordinate</f></s>	RES
+Base Soldier Squad	BOC	BOCsub_Base_Soldier_Squad	L	Subordinate	Ground - Resistance Soldier Squad		30	2	2	S			Pay 1 Force -> Intercept		RES
+Crait Comms Soldier	BOC	BOCsub_Crait_Comms_Soldier	L	Subordinate	Character - Resistance Soldier		20	2	2	S			Resilience 1		RES
+Crait Trench Soldiers	BOC	BOCsub_Crait_Trench_Soldiers	L	Subordinate	Ground - Resistance Soldier Squad		30	2	3	S			Resilience 1		RES
+Elite First Order Snowtrooper	BOC	BOCsub_Elite_First_Order_Snowtrooper	D	Subordinate	Character - First Order Arctic Stormtrooper		50	2	3	S			Ferocity | Resilience 1		RES
+First Order TIE Fighter Swarm	BOC	BOCsub_First_Order_TIE_Fighter_Swarm	D	Subordinate	Space/Ground - First Order Squadron		60	3	3	S			Pay 0 Force -> Intercept		RES
+First Order TIE Group	BOC	BOCsub_First_Order_TIE_Group	D	Subordinate	Space/Ground - First Order Squadron		50	2	2	S			Bombard 2 | Double Strike		RES
+First Order Walker	BOC	BOCsub_First_Order_Walker	D	Subordinate	Ground - First Order Walker		20	3	3	S			Critical Hit 2 | Armor		RES
+Resistance Base Troopers	BOC	BOCsub_Resistance_Base_Troopers	L	Subordinate	Ground/Character - Resistance Soldier Squad		30	2	2	S			Armor		RES
+Resistance Lifeboats	BOC	BOCsub_Resistance_Lifeboats	L	Subordinate	Space - Resistance Transport		40	0	3	S			Return this unit to your supply -> Prevent up to 3 damage to one of your Resistance Ground units.		RES
+V-4X-D Ski Speeder	BOC	BOCsub_V_4X_D_Ski_Speeder	L	Subordinate	Ground - Resistance Speeder		70	2	2	S			Resilience 1		RES
+Reb Squadron (C) (LEGO)	BOC	LEGO059_Reb_Squadron_C	L	Ground	Resistance Speeder Squadron	7	40	6	4	L			As long as "Reb" Squadron has Poe Pameron as a Pilot, "Reb" Squadron gets +10 speed and Lucky 1. | Tap -> Take 1 70/2/2 V-4X-D Ski Speeder Subordinate with "Resilience 1" and put it into the Ground arena. Play only during your build step.	<s><l>tap to Spawn V-4X-D Ski Speeder</l><f>/spawn V-4X-D Ski Speeder;/cr90;/s taps “Reb” Squadron ( C) to spawn V-4X-D Ski Speeder Subordinate</f></s>	RES

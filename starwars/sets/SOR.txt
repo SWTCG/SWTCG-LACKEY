@@ -194,18 +194,18 @@ Maul (N) (Promo)	SOR	SORpromo_Maul_N	N	Character	Zabrak Dark Jedi - Nightbrother
 Phantom (A) (Promo)	SOR	SORpromo_Phantom_A	L	Subordinate	Space/Ground - Lothal Rebel Starfighter - Transport		50	3	3	P			Switch: Shields 1, Stun 1/Armor, Lucky 1		REB
 Rebel AT-TE (Promo)	SOR	SORpromo_Rebel_AT_TE	L	Ground/Character	Rebel Clone Walker	5	40	4	4	P			Switch: Damage Control 1/Critical Hit 2 | Armor | Whenever this unit is attacked, you may remove 3 counters from your Resource.  If you do, untap this unit.		REB
 Rise Together (Promo)	SOR	SORpromo_Rise_Together	L	Resource		3				P			When your build step starts, add X counters to this Resource, where X is the number of Lothal Rebels you have in any arena. | Remove 2 counters -> One of your Lothal Rebels gets +2 power until end of turn. | Remove 6 counters -> Choose an activated ability of one of your Lothal Rebels. Each of your Lothal Rebels gets the chosen ability until end of turn.		REB
-Fyrnock Swarm	SOR	SORsub_Fyrnock_Swarm	N	Subordinate	Ground/Character - Fyrnock Creature Squad		30	3	1		S				REB
-ID9 Seeker Droid	SOR	SORsub_ID9_Seeker_Droid	D	Subordinate	Character - Imperial Droid		70	2	1		S		Stun 2 | Tap -> Tap a Character with Stealth.		REB
-IG-RM Droid	SOR	SORsub_IG_RM_Droid	N	Subordinate	Character - Bodyguard Droid		30	2	2		S		Armor | Pay 0 Force -> Intercept		REB
-Imperial Interdictor Technician	SOR	SORsub_Imperial_Interdictor_Technician	D	Subordinate	Character - Imperial Mechanic		20	1	1		S		Tap -> One of your Capital Ships gets +2 power for this attack.		REB
-Imperial Stormtrooper Party	SOR	SORsub_Imperial_Stormtrooper_Party	D	Subordinate	Ground - Imperial Stormtrooper Squad		50	2	2		S		Focus 1		REB
-Imperial TIE Bomber	SOR	SORsub_Imperial_TIE_Bomber	D	Subordinate	Space - Imperial Heavy Starfighter		40	2	3		S		Bombard 3		REB
-Imperial TIE Starfighter	SOR	SORsub_Imperial_TIE_Starfighter	D	Subordinate	Space - Imperial Starfighter		50	2	1		S		Fury 1		REB
-Journeyman Protector	SOR	SORsub_Journeyman_Protector	N	Subordinate	Character - Mandalorian Warrior		40	4	3		S		Armor		REB
-Mining Guild TIE Fighter	SOR	SORsub_Mining_Guild_TIE_Fighter	D	Subordinate	Space - Imperial Mining Guild Starfighter		60	1	1		S		Backfire 1		REB
-Phantom (A)	SOR	SORsub_Phantom_A	L	Subordinate	Space/Ground - Lothal Rebel Starfighter - Transport		50	3	3		S		Switch: Shields 1, Stun 1/Armor, Lucky 1		REB
-Phantom (B)	SOR	SORsub_Phantom_B	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		40	2	3		S		Stealth		REB
-Phantom (C)	SOR	SORsub_Phantom_C	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		40	3	2		S		INSERT: Bombard 2		REB
-Phantom (D)	SOR	SORsub_Phantom_D	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		60	2	2		S		INSERT: Resilience 1		REB
-Phoenix A-Wing	SOR	SORsub_Phoenix_A_wing	L	Subordinate	Space - Rebel Starfighter		70	2	2		S		Accuracy 1		REB
-Phoenix Trooper	SOR	SORsub_Phoenix_Trooper	L	Subordinate	Ground/Character - Rebel Soldier		60	2	2		S		Stun 2		REB
+Fyrnock Swarm	SOR	SORsub_Fyrnock_Swarm	N	Subordinate	Ground/Character - Fyrnock Creature Squad		30	3	1	S					REB
+ID9 Seeker Droid	SOR	SORsub_ID9_Seeker_Droid	D	Subordinate	Character - Imperial Droid		70	2	1	S			Stun 2 | Tap -> Tap a Character with Stealth.		REB
+IG-RM Droid	SOR	SORsub_IG_RM_Droid	N	Subordinate	Character - Bodyguard Droid		30	2	2	S			Armor | Pay 0 Force -> Intercept		REB
+Imperial Interdictor Technician	SOR	SORsub_Imperial_Interdictor_Technician	D	Subordinate	Character - Imperial Mechanic		20	1	1	S			Tap -> One of your Capital Ships gets +2 power for this attack.		REB
+Imperial Stormtrooper Party	SOR	SORsub_Imperial_Stormtrooper_Party	D	Subordinate	Ground - Imperial Stormtrooper Squad		50	2	2	S			Focus 1		REB
+Imperial TIE Bomber	SOR	SORsub_Imperial_TIE_Bomber	D	Subordinate	Space - Imperial Heavy Starfighter		40	2	3	S			Bombard 3		REB
+Imperial TIE Starfighter	SOR	SORsub_Imperial_TIE_Starfighter	D	Subordinate	Space - Imperial Starfighter		50	2	1	S			Fury 1		REB
+Journeyman Protector	SOR	SORsub_Journeyman_Protector	N	Subordinate	Character - Mandalorian Warrior		40	4	3	S			Armor		REB
+Mining Guild TIE Fighter	SOR	SORsub_Mining_Guild_TIE_Fighter	D	Subordinate	Space - Imperial Mining Guild Starfighter		60	1	1	S			Backfire 1		REB
+Phantom (A)	SOR	SORsub_Phantom_A	L	Subordinate	Space/Ground - Lothal Rebel Starfighter - Transport		50	3	3	S			Switch: Shields 1, Stun 1/Armor, Lucky 1		REB
+Phantom (B)	SOR	SORsub_Phantom_B	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		40	2	3	S			Stealth		REB
+Phantom (C)	SOR	SORsub_Phantom_C	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		40	3	2	S			INSERT: Bombard 2		REB
+Phantom (D)	SOR	SORsub_Phantom_D	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		60	2	2	S			INSERT: Resilience 1		REB
+Phoenix A-Wing	SOR	SORsub_Phoenix_A_wing	L	Subordinate	Space - Rebel Starfighter		70	2	2	S			Accuracy 1		REB
+Phoenix Trooper	SOR	SORsub_Phoenix_Trooper	L	Subordinate	Ground/Character - Rebel Soldier		60	2	2	S			Stun 2		REB
