@@ -7865,6 +7865,7 @@ TM/TM238_Urchins_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TM238
 TM/TM239_Xi_an_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TM239_Xi_an_A.jpg
 TM/TM240_Zabrak_Gladiator.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TM240_Zabrak_Gladiator.jpg
 TM/TMpromo_Bad_Idea.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Bad_Idea.jpg
+TM/TMpromo_Bounty_Hunter_Gang_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Bounty_Hunter_Gang_D.jpg
 TM/TMpromo_Cara_Dune_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Cara_Dune_A.jpg
 TM/TMpromo_Come_to_Mama.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Come_to_Mama.jpg
 TM/TMpromo_Din_Djarin_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TM/TMpromo_Din_Djarin_B.jpg
