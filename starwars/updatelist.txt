@@ -638,8 +638,8 @@ AGD/AGD267_Vulture_s_Claw_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages
 AGD/AGD268_Wat_Tambor_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGD268_Wat_Tambor_B.jpg
 AGD/AGD269_Weequay_Mothership.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGD269_Weequay_Mothership.jpg
 AGD/AGD270_Your_Spies_Serve_You_Well.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGD270_Your_Spies_Serve_You_Well.jpg
-AGD/AGDpromo_Ahsoka_Tano_A	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Ahsoka_Tano_A
-AGD/AGDpromo_Anakin_Skywalker_V	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Anakin_Skywalker_V
+AGD/AGDpromo_Ahsoka_Tano_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Ahsoka_Tano_A.jpg
+AGD/AGDpromo_Anakin_Skywalker_V.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Anakin_Skywalker_V,jpg
 AGD/AGDpromo_Asajj_Ventress_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Asajj_Ventress_D.jpg
 AGD/AGDpromo_Asajj_s_Speeder_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Asajj_s_Speeder_A.jpg
 AGD/AGDpromo_Captain_Rex_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AGD/AGDpromo_Captain_Rex_A.jpg
