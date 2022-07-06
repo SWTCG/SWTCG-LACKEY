@@ -7161,7 +7161,7 @@ TEN/10thCADpromo_Droid_Swarm_v2.jpg	https://lackey.swtcg.com/starwars/sets/setim
 TEN/10thEEpromo_Kuat_Drive_Yards_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thEEpromo_Kuat_Drive_Yards_v2.jpg
 TEN/10thEEpromo_Republic_Observer_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thEEpromo_Republic_Observer_v2.jpg
 TEN/10thERpromo_A_wing_Slash_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thERpromo_A_wing_Slash_v2.jpg
-TEN/10thERpromo_Honoghr_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thERpromo_Honoghr_v2.jpg
+TEN/10thERpromo_Honoghr_Landscape_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thERpromo_Honoghr_Landscape_v2.jpg
 TEN/10thFOTRpromo_Sith_Legend_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thFOTRpromo_Sith_Legend_v2.jpg
 TEN/10thFOTRpromo_Subtleties_of_the_Force_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thFOTRpromo_Subtleties_of_the_Force_v2.jpg
 TEN/10thIONpromo_Augie_s_Great_Municipal_Band_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/TEN/10thIONpromo_Augie_s_Great_Municipal_Band_A_v2.jpg
