@@ -1541,7 +1541,9 @@ BL/BLsub_Wolfpack_Detachment.jpg	https://lackey.swtcg.com/starwars/sets/setimage
 BL/BLsub_Z_95_Headhunter_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BL/BLsub_Z_95_Headhunter_Squadron.jpg
 BL/BLsub_Zardossan_Stone_Guardian.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BL/BLsub_Zardossan_Stone_Guardian.jpg
 BL/BLsub_Zygerrian_Slaver.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BL/BLsub_Zygerrian_Slaver.jpg
+BOBF/BOBFpromo_Boba_Fett_A2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOBF/BOBFpromo_Boba_Fett_A2.jpg
 BOBF/BOBFpromo_Claiming_the_Throne.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg
+BOBF/BOBFpromo_Midnight_Ambush.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOBF/BOBFpromo_Midnight_Ambush.jpg
 BOC/BOC001_Battle_of_Crait.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOC/BOC001_Battle_of_Crait.jpg
 BOC/BOC002_BB_8_s_Analysis_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOC/BOC002_BB_8_s_Analysis_A.jpg
 BOC/BOC003_But_Not_to_Me.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOC/BOC003_But_Not_to_Me.jpg
