@@ -179,3 +179,4 @@ Techno Union Starship	AOTC	Techno_Union_Starship	D	Space	Techno Union Capital Sh
 Trade Federation War Freighter	AOTC	Trade_Federation_War_Freighter	D	Space	Trade Federation Capital Ship	7	30	5	7	C	178		Bombard 3		WOTC, REP, CW
 Walking Droid Fighter	AOTC	Walking_Droid_Fighter	D	Ground	Trade Federation Droid	4	20	6	2	C	179		Shields 1		WOTC, REP, CW
 Zam Wesell (B)	AOTC	Zam_Wesell_B	D	Character	Clawdite Bounty Hunter	3	40	3	3	C	180				WOTC, REP
+Anakin Skywalker (C) (Promo)	AOTC	AOTCpromo_Anakin_Skywalker_C	L	Character	Jedi Padawan	5	60	5	4	P			Pay 2 Force -> Evade 2		WOTC, REP, CW
