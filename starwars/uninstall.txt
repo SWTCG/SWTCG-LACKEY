@@ -2,6 +2,8 @@
 
 <dateYYMMDD>220504</dateYYMMDD>
 
+<removepath>sets/setimages/FOTR/Utapau_Landing_Platform.jpg</removepath>
+
 <removepath>sets/setimages/TMW/TMW207_Trask.jpg</removepath>
 <removepath>sets/setimages/TMW/TMW096_Hunting_Electrobinoculars.jpg</removepath>
 <removepath>sets/setimages/TM/TMpromo_Klatooinian_AT_ST_Raider_A.jpg</removepath>
