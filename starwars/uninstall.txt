@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>220504</dateYYMMDD>
+<dateYYMMDD>220814</dateYYMMDD>
 
 <removepath>sets/setimages/FOTR/Utapau_Landing_Platform.jpg</removepath>
 
