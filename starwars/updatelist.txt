@@ -638,7 +638,7 @@ AGD/AGD268_Wat_Tambor_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY
 AGD/AGD269_Weequay_Mothership.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGD269_Weequay_Mothership.jpg
 AGD/AGD270_Your_Spies_Serve_You_Well.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGD270_Your_Spies_Serve_You_Well.jpg
 AGD/AGDpromo_Ahsoka_Tano_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGDpromo_Ahsoka_Tano_A.jpg
-AGD/AGDpromo_Anakin_Skywalker_V.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGDpromo_Anakin_Skywalker_V,jpg
+AGD/AGDpromo_Anakin_Skywalker_V.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGDpromo_Anakin_Skywalker_V.jpg
 AGD/AGDpromo_Asajj_Ventress_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGDpromo_Asajj_Ventress_D.jpg
 AGD/AGDpromo_Asajj_s_Speeder_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGDpromo_Asajj_s_Speeder_A.jpg
 AGD/AGDpromo_Captain_Rex_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/AGD/AGDpromo_Captain_Rex_A.jpg
