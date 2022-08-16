@@ -1,0 +1,30 @@
+name: validate-commit
+on: [push]
+env:
+  DISCORD_NAME: coder
+  FILE_SIZE: 0
+jobs:
+  validate-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Report branch info
+        run: |
+          echo "Detected push to ${{ github.ref }} by $GITHUB_ACTOR"
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Validate the plugin
+        run: |
+          python3 missingCardFinder.py > output.txt && cat output.txt
+      - name: Check for output
+        run: |
+          export FILESIZE=$(wc -c output.txt | awk '{print $1}') && echo "FILE_SIZE=$FILESIZE" >> $GITHUB_ENV
+      - name: Find Discord user
+        run: |
+          export USERCODE=$(cat .github/workflows/usernames.json | jq -r .$GITHUB_ACTOR) && echo "DISCORD_NAME=$USERCODE" >> $GITHUB_ENV
+      - name: Send discord message
+        uses: tsickert/discord-webhook@v4.0.0
+        if: ${{env.FILE_SIZE != '0'}}
+        with:
+          webhook-url: https://discord.com/api/webhooks/1008442169486487552/2JLShozMsl_jZnMdPlxCdNkZhypbGEkcQIigRqAMaO5Zq_-Q0LdkaDeMkzyoADZfhpDX
+          filename: output.txt
+          content: Hey ${{ env.DISCORD_NAME }}, it looks like there was an error with your last plugin commit.
