@@ -31,7 +31,6 @@
 <filetoinclude>KAE.txt</filetoinclude>
 <filetoinclude>MAND.txt</filetoinclude>
 <filetoinclude>PM.txt</filetoinclude>
-<filetoinclude>PROMO.txt</filetoinclude>
 <filetoinclude>RAS.txt</filetoinclude>
 <filetoinclude>RAW.txt</filetoinclude>
 <filetoinclude>RO.txt</filetoinclude>
