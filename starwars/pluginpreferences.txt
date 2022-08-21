@@ -90,7 +90,7 @@
 <bindingcanned8>CTRL+9</bindingcanned8>
 <bindingcanned9>CTRL+0</bindingcanned9>
 <libraryignoredoubles>1</libraryignoredoubles>
-<recentformat>3</recentformat>
+<recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>

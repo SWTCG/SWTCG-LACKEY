@@ -12,6 +12,7 @@
 <set>TMW</set>
 <set>BOBF</set>
 <set>IA</set>
+<set>EAW</set>
 </format>
 
 <format>
