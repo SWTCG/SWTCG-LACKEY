@@ -45,8 +45,8 @@
 
 
 <format>
-<label>The Mandalorian Way</label>
-<set>TMW</set>
+<label>Book of Boba Fett</label>
+<set>BOBF</set>
 </format>
 
 <format>

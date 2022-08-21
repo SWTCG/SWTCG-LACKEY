@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>211209</lastversionupdate>
+<lastversionupdate>220820</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -27,12 +27,16 @@
 <canned>/draw11</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind0pos2>Roboto-Light_0.ttf</fontkind0pos2>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
 <fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind1pos2>Roboto-Light_0.ttf</fontkind1pos2>
 <fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
 <fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind2pos2>Roboto-Light_0.ttf</fontkind2pos2>
 <fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
 <fontkind3pos1>times.ttf</fontkind3pos1>
+<fontkind3pos2>Roboto-Light_0.ttf</fontkind3pos2>
 <fontsize0>12</fontsize0>
 <fontsize1>11</fontsize1>
 <fontsize2>11</fontsize2>
@@ -86,9 +90,10 @@
 <bindingcanned8>CTRL+9</bindingcanned8>
 <bindingcanned9>CTRL+0</bindingcanned9>
 <libraryignoredoubles>1</libraryignoredoubles>
+<recentformat>3</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.240000</scalefactor>
+<scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <isdownloadallmissing>1</isdownloadallmissing>
