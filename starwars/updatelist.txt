@@ -9153,7 +9153,7 @@ VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimag
 15TH/15thpromo_Rebuilding_the_Order.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Rebuilding_the_Order.jpg	
 15TH/15thpromo_Sacrificial_Rituals.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Sacrificial_Rituals.jpg	
 15TH/15thpromo_Warlords.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Warlords.jpg	
-"15TH/15thpromo_10,000_Death_Stars_A.jpg"	"https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_10,000_Death_Stars_A.jpg"	
+15TH/15thpromo_10,000_Death_Stars_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_10,000_Death_Stars_A.jpg	
 15TH/15thpromo_All_the_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_All_the_Jedi.jpg	
 15TH/15thpromo_Codebreaking.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Codebreaking.jpg	
 15TH/15thpromo_Emperor_Palpatine_V.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Emperor_Palpatine_V.jpg	
