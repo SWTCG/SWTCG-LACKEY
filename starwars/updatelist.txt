@@ -1683,7 +1683,7 @@ BOBF/BOBF136_Rodian_Family.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 BOBF/BOBF137_Runaway_Rickshaw.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF137_Runaway_Rickshaw.jpg	
 BOBF/BOBF138_Slave_I_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF138_Slave_I_R.jpg	
 BOBF/BOBF139_Spaceport_Traffic.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF139_Spaceport_Traffic.jpg	
-BOBF/BOBF140_T_65B_X_wing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF140_T_65B_X_wing.jpg	
+BOBF/BOBF140_T_65B_X_Wing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF140_T_65B_X_Wing.jpg	
 BOBF/BOBF141_Taanti_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF141_Taanti_A.jpg	
 BOBF/BOBF142_The_Majordomo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF142_The_Majordomo_A.jpg	
 BOBF/BOBF143_Tosche_Station.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/BOBF/BOBF143_Tosche_Station.jpg	
