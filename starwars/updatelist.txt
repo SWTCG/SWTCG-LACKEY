@@ -2444,7 +2444,7 @@ CAD/CAD097_Giving_Orders.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CA
 CAD/CAD098_Going_Up_In_Flames.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD098_Going_Up_In_Flames.jpg
 CAD/CAD099_Grievous_s_Starfighter_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD099_Grievous_s_Starfighter_C.jpg
 CAD/CAD100_Grievous_s_Wheelbike_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD100_Grievous_s_Wheelbike_C.jpg
-CAD/CAD101_HAVw_A6_Platoon.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD101_HAVw_A6_Platoon.jpg
+CAD/CAD101_HAVw_A6_Platoon_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD101_HAVw_A6_Platoon_v2.jpg
 CAD/CAD102_Infantry_Clone_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD102_Infantry_Clone_Trooper.jpg
 CAD/CAD103_Invisible_Hand_Bridge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD103_Invisible_Hand_Bridge.jpg
 CAD/CAD104_Jedi_s_Clone_Detachment_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD104_Jedi_s_Clone_Detachment_D.jpg

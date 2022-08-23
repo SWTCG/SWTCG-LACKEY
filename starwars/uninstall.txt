@@ -2,6 +2,8 @@
 
 <dateYYMMDD>220816</dateYYMMDD>
 
+<removepath>sets/setimages/CAD/CAD101_HAVw_A6_Platoon.jpg</removepath>
+
 <removepath>sets/PROMO.txt</removepath>
 
 <removepath>sets/setimages/FOTR/Utapau_Landing_Platform.jpg</removepath>
