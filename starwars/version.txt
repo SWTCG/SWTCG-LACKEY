@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220816</lastupdateYYMMDD>
+<lastupdateYYMMDD>220823</lastupdateYYMMDD>
 
-<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
-<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Summer bug fixes</message>
+<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/updatelist.txt</updateurl>
+<message>BOBF and EAW playtest</message>
 
 </version>
