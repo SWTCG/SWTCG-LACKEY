@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>220821</dateYYMMDD>
+<dateYYMMDD>220822</dateYYMMDD>
 
 <removepath>sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg</removepath>
 

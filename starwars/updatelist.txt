@@ -1,4 +1,4 @@
-starwars	8/23/2022	
+starwars	8/23/2022
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -22,11 +22,11 @@ images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://lackey.swtcg.co
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
 plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691138
 plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	352705
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	2724906
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	2724907
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	221794
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	163775
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	22874
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	28485
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -106,7 +106,7 @@ plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2
 plugins/starwars/sets/BF.txt	https://lackey.swtcg.com/starwars/sets/BF.txt	3035986
 plugins/starwars/sets/BH.txt	https://lackey.swtcg.com/starwars/sets/BH.txt	2253138
 plugins/starwars/sets/BL.txt	https://lackey.swtcg.com/starwars/sets/BL.txt	8823671
-plugins/starwars/sets/BOBF.txt	https://lackey.swtcg.com/starwars/sets/BOBF.txt	5262276
+plugins/starwars/sets/BOBF.txt	https://lackey.swtcg.com/starwars/sets/BOBF.txt	5262244
 plugins/starwars/sets/BOC.txt	https://lackey.swtcg.com/starwars/sets/BOC.txt	4204416
 plugins/starwars/sets/BOE.txt	https://lackey.swtcg.com/starwars/sets/BOE.txt	3824889
 plugins/starwars/sets/BOH.txt	https://lackey.swtcg.com/starwars/sets/BOH.txt	1641899
