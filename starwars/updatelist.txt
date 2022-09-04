@@ -3543,7 +3543,7 @@ HELP/HELP008_Subordinates.jpg	https://lackey.swtcg.com/starwars/sets/setimages/H
 IA/IA01_Imperial_Assault.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA01_Imperial_Assault.jpg
 IA/IA02_Davith_Elso_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA02_Davith_Elso_A.jpg
 IA/IA03_Diala_Passil_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA03_Diala_Passil_A.jpg
-IA/IA04_Drokkatta_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA04_Drokkatta_A.jpg
+IA/IA04_Drokkatta_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA04_Drokkatta_A_v2.jpg
 IA/IA05_Gaarkhan_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA05_Gaarkhan_A.jpg
 IA/IA06_Gideon_Argus_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA06_Gideon_Argus_A.jpg
 IA/IA07_Jyn_Odan_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA07_Jyn_Odan_A.jpg
