@@ -177,7 +177,7 @@ Kuat Lancer-Class Frigate	ESB	Kuat_Lancer_Class_Frigate	D	Space	Imperial Cruiser
 Kuat Nebulon-B Frigate	ESB	Kuat_Nebulon_B_Frigate	L	Space	Rebel Capital Ship	7	20	4	5	C	176		Armor | Shields 1		WOTC, REB, EP456
 Lando Calrissian (B)	ESB	Lando_Calrissian_B	N	Character	Bespin Smuggler Diplomat	6	40	5	4	C	177		When you deploy Lando, search your deck. You may take a neutral Location card from your deck, show it to your opponent, and put it face down in your build zone with 3 build counters on it. Then shuffle your deck.		WOTC, REB, EP456
 Lando's Repairs	ESB	Landos_Repairs	N	Mission		1				C	178		Remove all but 1 damage counter from one of your Starfighters or Transports.		WOTC, REB, EP456
-Leap into the Chasm	ESB	Leap_into_the_Chasm	L	Mission		2				C	179		Each player discards his or her unit with the lowest build cost in any arena.		WOTC, REB, EP456
+Leap into the Chasm	ESB	Leap_into_the_Chasm	L	Mission		2				C	179	If multiple units tie for lowest build cost then the player who is discarding must choose which one to discard. 	Each player discards his or her unit with the lowest build cost in any arena.		WOTC, REB, EP456
 Luke Skywalker (H)	ESB	Luke_Skywalker_H	L	Character	Rebel Officer Jedi Padawan	4	50	3	3	C	180		Critical Hit 2 | Pay 3 Force -> Evade 2		WOTC, REB, EP456
 Meditation Chamber	ESB	Meditation_Chamber	D	Location	Character	1				C	181		When the turn ends, you gain 1 Force and your opponent loses 1 Force.		WOTC, REB, EP456
 Navy Trooper	ESB	Navy_Trooper	D	Character	Imperial Soldier	3	50	2	2	C	182		As long as Darth Vader is in the Character arena, this unit gets +2 power.		WOTC, REB, EP456
