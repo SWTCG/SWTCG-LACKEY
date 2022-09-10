@@ -15,6 +15,9 @@
 <removepath>sets/setimages/BOBF/BOBFpromo_Tribes_of_Tatooine.jpg</removepath>
 
 
+<removepath>sets/setimages/EAW\EAW07_General_Rom_Mohc_B.jpg</removepath>
+
+
 <removepath>sets/PROMO.txt</removepath>
 
 <removepath>sets/setimages/FOTR/Utapau_Landing_Platform.jpg</removepath>
