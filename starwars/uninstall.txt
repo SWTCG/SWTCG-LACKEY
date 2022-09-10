@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>220816</dateYYMMDD>
+<dateYYMMDD>220909</dateYYMMDD>
 
 <removepath>sets/setimages/IA/IA04_Drokkatta_A.jpg</removepath>
 <removepath>sets/setimages/CAD/CAD101_HAVw_A6_Platoon.jpg</removepath>
