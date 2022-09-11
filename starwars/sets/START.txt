@@ -15,7 +15,7 @@ Foray-Class Blockade Runner (Starter)	START	Oldrepstarter_Foray_Class_Blockade_R
 Force Evasion (Promo) (Starter)	START	Oldrepstarterpromo_Force_Evasion	N	Battle						P			Pay X Force-> Prevent X damage to one of your units.		
 Force Evasion (Starter)	START	Oldrepstarter_Force_Evasion	N	Battle						C	87		Pay X Force-> Prevent X damage to one of your units.		
 Githany (A) (Starter)	START	Oldrepstarter_Githany_A	D	Character	Dark Jedi - Sith Lord	4	60	4	3	C	70		Pay 1 Force -> Githany gets Critical Hit 2 for this attack. | Put 1 damage counter on one of your other Sith in the Character arena -> Evade 2		
-Gloom Walkers (A) (Starter)	START	Oldrepstarter_Gloom_Walkers_A	D	Ground	Sith Soldier Squad	6	40	5	5	R	12		Treat this unit as Force Sensitive. | Accuracy 1 | Armor | Pay 1 Force -> Evade 1		
+Gloom Walkers (A) (Starter)	START	Oldrepstarter_Gloom_Walkers_A	D	Ground	Sith Soldier Squad	6	40	5	5	R	12		Treat this unit as a Force Sensitive. | Accuracy 1 | Armor | Pay 1 Force -> Evade 1		
 Hammerhead IV-Class Cruiser Starter	START	Oldrepstarter_Hammerhead_IV_Class_Cruiser	L	Space	Old Republic Capital Ship - Cruiser	6	40	5	6	C	71		Shields 2		
 Jedi Airhooks (Starter)	START	Oldrepstarter_Jedi_Airhooks	L	Ground	Old Republic Jedi Speeder Squad	4	60	2	2	U	47		Accuracy 2 | Pay 1 Force -> Evade 2		
 Jedi Battle Veterans (Starter)	START	Oldrepstarter_Jedi_Battle_Veterans	L	Ground	Old Republic Jedi Squad	5	40	4	4	U	48		Armor | Pay 1 Force -> Evade 1 | Pay 1 Force -> Retaliate 2		

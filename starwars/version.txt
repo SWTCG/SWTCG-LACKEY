@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220816</lastupdateYYMMDD>
+<lastupdateYYMMDD>220910</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Summer bug fixes and classification updates</message>
+<message>September fixes, usage notes, and timing updates.</message>
 
 </version>
