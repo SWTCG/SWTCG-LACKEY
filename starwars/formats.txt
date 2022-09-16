@@ -58,11 +58,6 @@
 </format>
 
 <format>
-<label>Promotional Cards</label>
-<set>PROMO</set>
-</format>
-
-<format>
 <label>TOR - The Old Republic</label>
 <set>DAN</set>
 <set>TAL</set>
