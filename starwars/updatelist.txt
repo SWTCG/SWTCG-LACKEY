@@ -116,7 +116,6 @@ plugins/starwars/sets/BOY.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/CAD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/CAD.txt	3413302
 plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/CWSO.txt	2541957
 plugins/starwars/sets/DAN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/DAN.txt	4653690
-plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/EAW.txt	442650
 plugins/starwars/sets/EE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/EE.txt	2603038
 plugins/starwars/sets/ER.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/ER.txt	2882260
 plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/ESB.txt	4652048
@@ -2930,24 +2929,6 @@ DAN/DANsub_Republic_Militia_Recruits.jpg	https://raw.githubusercontent.com/SWTCG
 DAN/DANsub_S_250_Chela_Class_Starfighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/DAN/DANsub_S_250_Chela_Class_Starfighter.jpg	
 DAN/DANsub_Skyreaper_Drone.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/DAN/DANsub_Skyreaper_Drone.jpg	
 DAN/DANsub_Taris_Police_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/DAN/DANsub_Taris_Police_Squad.jpg	
-EAW/EAW01_Arc_Hammer_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW01_Arc_Hammer_B.jpg	
-EAW/EAW02_Eclipse_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW02_Eclipse_B.jpg	
-EAW/EAW03_Empire_At_War.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW03_Empire_At_War.jpg	
-EAW/EAW04_Tyber_Zann_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW04_Tyber_Zann_A.jpg	
-EAW/EAW05_Defiler.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW05_Defiler.jpg	
-EAW/EAW06_Forces_of_Corruption.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW06_Forces_of_Corruption.jpg	
-EAW/EAW07_General_Rom_Mohc_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW07_General_Rom_Mohc_B.jpg	
-EAW/EAW08_Silri_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW08_Silri_A.jpg	
-EAW/EAW09_Sundered_Heart_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW09_Sundered_Heart_A.jpg	
-EAW/EAW10_Urai_Fen_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW10_Urai_Fen_A.jpg	
-EAW/EAW11_Expanding_Our_Empire.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW11_Expanding_Our_Empire.jpg	
-EAW/EAW12_Exploitation.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW12_Exploitation.jpg	
-EAW/EAW13_Lancet_Aerial_Artillery.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW13_Lancet_Aerial_Artillery.jpg	
-EAW/EAW14_Sabotage_Their_Resources.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW14_Sabotage_Their_Resources.jpg	
-EAW/EAW15_StarViper_Assault_Fighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW15_StarViper_Assault_Fighter.jpg	
-EAW/EAW16_T4_B_Heavy_Tank.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW16_T4_B_Heavy_Tank.jpg	
-EAW/EAW17_TIE_Mauler.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAW17_TIE_Mauler.jpg	
-EAW/EAWsub_Phase_1_Dark_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EAW/EAWsub_Phase_1_Dark_Trooper.jpg	
 EE/EE001_Bodo_Baas_s_Holocron_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EE/EE001_Bodo_Baas_s_Holocron_A.jpg	
 EE/EE002_Byss_Citadel.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EE/EE002_Byss_Citadel.jpg	
 EE/EE003_Byss_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BOBF/starwars/sets/setimages/EE/EE003_Byss_System.jpg	
