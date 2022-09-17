@@ -1,22 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>220822</dateYYMMDD>
+<dateYYMMDD>220917</dateYYMMDD>
 
 <removepath>sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF016_Din_s_N_1_Starfighter_A.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF048_Tusken_Champion_A.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF078_Luke_s_X_Wing_J.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF080_Mayor_Mok_Shaiz_A.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF082_Mod_Biker_Gang.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF091_Tatooine_Art_Scene.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF100_Twi_lek_Servers.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF146_Tribes_of_Tatooine.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBF150_What_I_m_Short_on_is_Muscle.jpg</removepath>
-<removepath>sets/setimages/BOBF/BOBFpromo_Tribes_of_Tatooine.jpg</removepath>
-
-
-<removepath>sets/setimages/EAW\EAW07_General_Rom_Mohc_B.jpg</removepath>
-
 
 <removepath>sets/PROMO.txt</removepath>
 
