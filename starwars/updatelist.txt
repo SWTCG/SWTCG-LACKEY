@@ -2624,7 +2624,7 @@ CAD/CAD097_Giving_Orders.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 CAD/CAD098_Going_Up_In_Flames.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD098_Going_Up_In_Flames.jpg	
 CAD/CAD099_Grievous_s_Starfighter_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD099_Grievous_s_Starfighter_C.jpg	
 CAD/CAD100_Grievous_s_Wheelbike_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD100_Grievous_s_Wheelbike_C.jpg	
-CAD/CAD101_HAVw_A6_Platoon.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD101_HAVw_A6_Platoon.jpg	
+CAD/CAD101_HAVw_A6_Platoon_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD101_HAVw_A6_Platoon_v2.jpg	
 CAD/CAD102_Infantry_Clone_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD102_Infantry_Clone_Trooper.jpg	
 CAD/CAD103_Invisible_Hand_Bridge.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD103_Invisible_Hand_Bridge.jpg	
 CAD/CAD104_Jedi_s_Clone_Detachment_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/CAD104_Jedi_s_Clone_Detachment_D.jpg	
@@ -3723,7 +3723,7 @@ HELP/HELP008_Subordinates.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 IA/IA01_Imperial_Assault.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA01_Imperial_Assault.jpg	
 IA/IA02_Davith_Elso_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA02_Davith_Elso_A.jpg	
 IA/IA03_Diala_Passil_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA03_Diala_Passil_A.jpg	
-IA/IA04_Drokkatta_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA04_Drokkatta_A.jpg	
+IA/IA04_Drokkatta_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/IA/IA04_Drokkatta_A_v2.jpg	
 IA/IA05_Gaarkhan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA05_Gaarkhan_A.jpg	
 IA/IA06_Gideon_Argus_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA06_Gideon_Argus_A.jpg	
 IA/IA07_Jyn_Odan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/IA/IA07_Jyn_Odan_A.jpg	
