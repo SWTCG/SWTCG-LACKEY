@@ -12,6 +12,7 @@
 <set>TMW</set>
 <set>BOBF</set>
 <set>IA</set>
+<set>EAW</set>
 </format>
 
 <format>
@@ -45,8 +46,8 @@
 
 
 <format>
-<label>The Mandalorian Way</label>
-<set>TMW</set>
+<label>Book of Boba Fett</label>
+<set>BOBF</set>
 </format>
 
 <format>
@@ -54,11 +55,6 @@
 <set>TM</set>
 <set>TMW</set>
 <set>BOBF</set>
-</format>
-
-<format>
-<label>Promotional Cards</label>
-<set>PROMO</set>
 </format>
 
 <format>
