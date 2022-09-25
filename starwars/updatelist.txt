@@ -1694,6 +1694,7 @@ BOBF/BOBF148_Tusken_Brain_Lizard.jpg	https://raw.githubusercontent.com/SWTCG/SWT
 BOBF/BOBF149_Tusken_Youngling.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBF149_Tusken_Youngling.jpg	
 BOBF/BOBF150_What_I_m_Short_on_is_Muscle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBF150_What_I_m_Short_on_is_Muscle.jpg	
 BOBF/BOBFpromo_Boba_Fett_A2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBFpromo_Boba_Fett_A2.jpg	
+BOBF/BOBFpromo_Boba_s_Palace.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBFpromo_Boba_s_Palace.jpg	
 BOBF/BOBFpromo_Boba_s_Rancor_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBFpromo_Boba_s_Rancor_A.jpg	
 BOBF/BOBFpromo_Book_of_Boba_Fett.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBFpromo_Book_of_Boba_Fett.jpg	
 BOBF/BOBFpromo_Cad_Bane_H.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/BOBF/BOBFpromo_Cad_Bane_H.jpg	
