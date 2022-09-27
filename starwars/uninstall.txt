@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>220909</dateYYMMDD>
+<dateYYMMDD>220924</dateYYMMDD>
+
+<removepath>sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg</removepath>
 
 <removepath>sets/setimages/IA/IA04_Drokkatta_A.jpg</removepath>
 <removepath>sets/setimages/CAD/CAD101_HAVw_A6_Platoon.jpg</removepath>
