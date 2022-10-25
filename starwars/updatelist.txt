@@ -2936,7 +2936,7 @@ EAW/EAW02_Eclipse_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW
 EAW/EAW03_Empire_At_War.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW03_Empire_At_War.jpg	
 EAW/EAW04_Sundered_Heart_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW04_Sundered_Heart_A.jpg	
 EAW/EAW05_Tyber_Zann_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW05_Tyber_Zann_A.jpg	
-EAW/EAW06_Aggressor_class_Star_Destroyer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW06_Aggressor_class_Star_Destroyer.jpg	
+EAW/EAW06_Aggressor_Class_Star_Destroyer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW06_Aggressor_class_Star_Destroyer.jpg	
 EAW/EAW07_Alliance_Infiltrator.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW07_Alliance_Infiltrator.jpg	
 EAW/EAW08_B_wing_Flight.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW08_B_wing_Flight.jpg	
 EAW/EAW09_Defiler.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW09_Defiler.jpg	
