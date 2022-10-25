@@ -1,4 +1,4 @@
-starwars	10-25-2022	
+starwars	10/25/2022	
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -116,7 +116,7 @@ plugins/starwars/sets/BOY.txt	https://lackey.swtcg.com/starwars/sets/BOY.txt	228
 plugins/starwars/sets/CAD.txt	https://lackey.swtcg.com/starwars/sets/CAD.txt	3413344
 plugins/starwars/sets/CWSO.txt	https://lackey.swtcg.com/starwars/sets/CWSO.txt	2548055
 plugins/starwars/sets/DAN.txt	https://lackey.swtcg.com/starwars/sets/DAN.txt	4653690
-plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/EAW.txt
+plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/EAW.txt	
 plugins/starwars/sets/EE.txt	https://lackey.swtcg.com/starwars/sets/EE.txt	2603038
 plugins/starwars/sets/ER.txt	https://lackey.swtcg.com/starwars/sets/ER.txt	2882260
 plugins/starwars/sets/ESB.txt	https://lackey.swtcg.com/starwars/sets/ESB.txt	4662551
@@ -2931,41 +2931,41 @@ DAN/DANsub_Republic_Militia_Recruits.jpg	https://lackey.swtcg.com/starwars/sets/
 DAN/DANsub_S_250_Chela_Class_Starfighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/DAN/DANsub_S_250_Chela_Class_Starfighter.jpg	
 DAN/DANsub_Skyreaper_Drone.jpg	https://lackey.swtcg.com/starwars/sets/setimages/DAN/DANsub_Skyreaper_Drone.jpg	
 DAN/DANsub_Taris_Police_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/DAN/DANsub_Taris_Police_Squad.jpg	
-EAW/EAW01_Arc_Hammer_B	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW01_Arc_Hammer_B	
-EAW/EAW02_Eclipse_B	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW02_Eclipse_B	
-EAW/EAW03_Empire_At_War	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW03_Empire_At_War	
-EAW/EAW04_Sundered_Heart_A	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW04_Sundered_Heart_A	
-EAW/EAW05_Tyber_Zann_A	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW05_Tyber_Zann_A	
-EAW/EAW06_Aggressor_class_Star_Destroyer	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW06_Aggressor_class_Star_Destroyer	
-EAW/EAW07_Alliance_Infiltrator	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW07_Alliance_Infiltrator	
-EAW/EAW08_B_wing_Flight	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW08_B_wing_Flight	
-EAW/EAW09_Defiler	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW09_Defiler	
-EAW/EAW10_Forces_of_Corruption	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW10_Forces_of_Corruption	
-EAW/EAW11_General_Rom_Mohc_B	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW11_General_Rom_Mohc_B	
-EAW/EAW12_MC80_Liberty_class_Star_Cruiser	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW12_MC80_Liberty_class_Star_Cruiser	
-EAW/EAW13_Silri_A	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW13_Silri_A	
-EAW/EAW14_TIE_Defender_Flight	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW14_TIE_Defender_Flight	
-EAW/EAW15_Urai_Fen_A	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW15_Urai_Fen_A	
-EAW/EAW16_Consortium_Space_Station	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW16_Consortium_Space_Station	
-EAW/EAW17_Expanding_Our_Empire	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW17_Expanding_Our_Empire	
-EAW/EAW18_Exploitation	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW18_Exploitation	
-EAW/EAW19_Imperial_Space_Station	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW19_Imperial_Space_Station	
-EAW/EAW20_Lancet_Aerial_Artillery	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW20_Lancet_Aerial_Artillery	
-EAW/EAW21_Plex_Missile_Trooper_Company	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW21_Plex_Missile_Trooper_Company	
-EAW/EAW22_Rebel_Space_Station	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW22_Rebel_Space_Station	
-EAW/EAW23_Recruit_Native_Reinforcements	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW23_Recruit_Native_Reinforcements	
-EAW/EAW24_Sabotage_Their_Resources	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW24_Sabotage_Their_Resources	
-EAW/EAW25_StarViper_Assault_Fighter	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW25_StarViper_Assault_Fighter	
-EAW/EAW26_T4_B_Heavy_Tank	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW26_T4_B_Heavy_Tank	
-EAW/EAW27_TIE_Mauler	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW27_TIE_Mauler	
-EAW/EAW28_Tamed_Rancor	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW28_Tamed_Rancor	
-EAW/EAW29_Tartan_class_Patrol_Cruiser	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW29_Tartan_class_Patrol_Cruiser	
-EAW/EAW30_Underworld_Dealings	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW30_Underworld_Dealings	
-EAW/EAWsub_Consortium_Reinforcements	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Consortium_Reinforcements	
-EAW/EAWsub_Imperial_Reinforcements	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Imperial_Reinforcements	
-EAW/EAWsub_Native_Reinforcements	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Native_Reinforcements	
-EAW/EAWsub_Phase_1_Dark_Trooper	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Phase_1_Dark_Trooper	
-EAW/EAWsub_Rebel_Reinforcements	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Rebel_Reinforcements	
+EAW/EAW01_Arc_Hammer_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW01_Arc_Hammer_B.jpg	
+EAW/EAW02_Eclipse_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW02_Eclipse_B.jpg	
+EAW/EAW03_Empire_At_War.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW03_Empire_At_War.jpg	
+EAW/EAW04_Sundered_Heart_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW04_Sundered_Heart_A.jpg	
+EAW/EAW05_Tyber_Zann_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW05_Tyber_Zann_A.jpg	
+EAW/EAW06_Aggressor_class_Star_Destroyer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW06_Aggressor_class_Star_Destroyer.jpg	
+EAW/EAW07_Alliance_Infiltrator.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW07_Alliance_Infiltrator.jpg	
+EAW/EAW08_B_wing_Flight.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW08_B_wing_Flight.jpg	
+EAW/EAW09_Defiler.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW09_Defiler.jpg	
+EAW/EAW10_Forces_of_Corruption.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW10_Forces_of_Corruption.jpg	
+EAW/EAW11_General_Rom_Mohc_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW11_General_Rom_Mohc_B.jpg	
+EAW/EAW12_MC80_Liberty_class_Star_Cruiser.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW12_MC80_Liberty_class_Star_Cruiser.jpg	
+EAW/EAW13_Silri_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW13_Silri_A.jpg	
+EAW/EAW14_TIE_Defender_Flight.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW14_TIE_Defender_Flight.jpg	
+EAW/EAW15_Urai_Fen_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW15_Urai_Fen_A.jpg	
+EAW/EAW16_Consortium_Space_Station.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW16_Consortium_Space_Station.jpg	
+EAW/EAW17_Expanding_Our_Empire.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW17_Expanding_Our_Empire.jpg	
+EAW/EAW18_Exploitation.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW18_Exploitation.jpg	
+EAW/EAW19_Imperial_Space_Station.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW19_Imperial_Space_Station.jpg	
+EAW/EAW20_Lancet_Aerial_Artillery.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW20_Lancet_Aerial_Artillery.jpg	
+EAW/EAW21_Plex_Missile_Trooper_Company.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW21_Plex_Missile_Trooper_Company.jpg	
+EAW/EAW22_Rebel_Space_Station.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW22_Rebel_Space_Station.jpg	
+EAW/EAW23_Recruit_Native_Reinforcements.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW23_Recruit_Native_Reinforcements.jpg	
+EAW/EAW24_Sabotage_Their_Resources.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW24_Sabotage_Their_Resources.jpg	
+EAW/EAW25_StarViper_Assault_Fighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW25_StarViper_Assault_Fighter.jpg	
+EAW/EAW26_T4_B_Heavy_Tank.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW26_T4_B_Heavy_Tank.jpg	
+EAW/EAW27_TIE_Mauler.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW27_TIE_Mauler.jpg	
+EAW/EAW28_Tamed_Rancor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW28_Tamed_Rancor.jpg	
+EAW/EAW29_Tartan_class_Patrol_Cruiser.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW29_Tartan_class_Patrol_Cruiser.jpg	
+EAW/EAW30_Underworld_Dealings.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAW30_Underworld_Dealings.jpg	
+EAW/EAWsub_Consortium_Reinforcements.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Consortium_Reinforcements.jpg	
+EAW/EAWsub_Imperial_Reinforcements.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Imperial_Reinforcements.jpg	
+EAW/EAWsub_Native_Reinforcements.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Native_Reinforcements.jpg	
+EAW/EAWsub_Phase_1_Dark_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Phase_1_Dark_Trooper.jpg	
+EAW/EAWsub_Rebel_Reinforcements.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/setimages/EAW/EAWsub_Rebel_Reinforcements.jpg	
 EE/EE001_Bodo_Baas_s_Holocron_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/EE/EE001_Bodo_Baas_s_Holocron_A.jpg	
 EE/EE002_Byss_Citadel.jpg	https://lackey.swtcg.com/starwars/sets/setimages/EE/EE002_Byss_Citadel.jpg	
 EE/EE003_Byss_System.jpg	https://lackey.swtcg.com/starwars/sets/setimages/EE/EE003_Byss_System.jpg	
