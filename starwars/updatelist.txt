@@ -22,7 +22,7 @@ images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubuserc
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
 plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/plugininfo.txt	691135
 plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/pluginpreferences.txt	348370
-plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/uninstall.txt	2737247
+plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/uninstall.txt	2745089
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/ListOfCardDataFiles.txt	221794
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/formats.txt	157822
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/defaultchat.txt	14016
@@ -111,12 +111,12 @@ plugins/starwars/sets/BOC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/BOE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/BOE.txt	3824889
 plugins/starwars/sets/BOH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/BOH.txt	1641899
 plugins/starwars/sets/BOSB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/BOSB.txt	3126783
-plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/BOTS.txt	4379958
+plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/BOTS.txt	4481153
 plugins/starwars/sets/BOY.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/BOY.txt	2288504
 plugins/starwars/sets/CAD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/CAD.txt	3413344
 plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/CWSO.txt	2548055
 plugins/starwars/sets/DAN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/DAN.txt	4653690
-plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/EAW.txt	868161
+plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/EAW.txt	1164966
 plugins/starwars/sets/EE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/EE.txt	2603038
 plugins/starwars/sets/ER.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/ER.txt	2882260
 plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/ESB.txt	4662551
@@ -149,8 +149,8 @@ plugins/starwars/sets/TDT.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/TEN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TEN.txt	1075400
 plugins/starwars/sets/TFA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TFA.txt	4650951
 plugins/starwars/sets/TLJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TLJ.txt	6232085
-plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TM.txt	7700610
-plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TMW.txt	6612740
+plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TM.txt	7737994
+plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TMW.txt	6636547
 plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TOR.txt	3423686
 plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TROS.txt	6114702
 plugins/starwars/sets/TUF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/sets/TUF.txt	3653836
