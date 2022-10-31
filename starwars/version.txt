@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220925</lastupdateYYMMDD>
+<lastupdateYYMMDD>221029</lastupdateYYMMDD>
 
-<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/updatelist.txt</updateurl>
-<message>Book of Boba Fett</message>
+<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/EAW/starwars/updatelist.txt</updateurl>
+<message>EAW playtest</message>
 
 </version>
