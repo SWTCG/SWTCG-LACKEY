@@ -17,6 +17,7 @@
 <filetoinclude>CAD.txt</filetoinclude>
 <filetoinclude>CWSO.txt</filetoinclude>
 <filetoinclude>DAN.txt</filetoinclude>
+<filetoinclude>EAW.txt</filetoinclude>
 <filetoinclude>EE.txt</filetoinclude>
 <filetoinclude>ER.txt</filetoinclude>
 <filetoinclude>ESB.txt</filetoinclude>

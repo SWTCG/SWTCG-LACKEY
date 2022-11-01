@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>220925</lastupdateYYMMDD>
+<lastupdateYYMMDD>221031</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Book of Boba Fett</message>
+<message>Empire At War Release</message>
 
 </version>

@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>220924</dateYYMMDD>
+<dateYYMMDD>221030</dateYYMMDD>
+
+<removepath>sets/setimages/TMW/TMW205_The_Way_the_Cookie_Crumbles.jpg</removepath>
 
 <removepath>sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg</removepath>
 
