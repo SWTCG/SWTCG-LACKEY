@@ -2,8 +2,8 @@
 
 <lastupdateYYMMDD>221031</lastupdateYYMMDD>
 
-<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/updatelist.txt</updateurl>
-<message>EAW playtest</message>
+<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
+<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
+<message>Empire At War Release</message>
 
 </version>
