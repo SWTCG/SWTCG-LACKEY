@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221031</lastupdateYYMMDD>
+<lastupdateYYMMDD>221101</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Empire At War Release</message>
+<message>Empire At War Release Pt. 2</message>
 
 </version>

@@ -1,8 +1,13 @@
 <uninstall>
 
-<dateYYMMDD>221030</dateYYMMDD>
+<dateYYMMDD>221031</dateYYMMDD>
 
+<removepath>sets/setimages/EAW/EAW01_Arc_Hammer_B.jpg</removepath>
+<removepath>sets/setimages/EAW/EAW02_Eclipse_B.jpg</removepath>
+<removepath>sets/setimages/EAW/EAW03_Empire_At_War.jpg</removepath>
 <removepath>sets/setimages/TMW/TMW205_The_Way_the_Cookie_Crumbles.jpg</removepath>
+<removepath>sets/setimages/BOBF/BOBFpromo_Midnight_Ambush.jpg</removepath>
+<removepath>sets/setimages/BOBF/BOBFpromo_Boba_Fett_A2.jpg</removepath>
 
 <removepath>sets/setimages/BOBF/BOBFpromo_Claiming_the_Throne.jpg</removepath>
 
