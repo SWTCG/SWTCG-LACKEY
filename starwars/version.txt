@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>221101</lastupdateYYMMDD>
+<lastupdateYYMMDD>221103</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
