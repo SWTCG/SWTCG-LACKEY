@@ -278,13 +278,13 @@ Beta Trawler	TM	TMsub_Beta_Trawler	N	Subordinate	Character - Crime Gang Merchant
 Blue Krill	TM	TMsub_Blue_Krill	N	Subordinate	Ground - Krill Sorgan Aquatic Creature Squad		30	0	2	S					NEW, MV
 Compound Mercenaries	TM	TMsub_Compound_Mercenaries	N	Subordinate	Ground - Nikto Desert Crime Gang Squad		40	3	2	S			Area Damage 2		NEW, MV
 Death Trooper Attack Squad	TM	TMsub_Death_Trooper_Attack_Squad	D	Subordinate	Ground/Character - Imperial Remnant Stormtrooper Squad		50	3	3	S			Double Strike		NEW, MV
-EV-series Bartender Droid	TM	TMsub_EV_series_Bartender_Droid	N	Subordinate	Tatooine Merchant Droid		40	0	3	S			Pay 1 build point -> Draw 2 cards. Play only during your build step.		NEW, MV
+EV-series Bartender Droid	TM	TMsub_EV_series_Bartender_Droid	N	Subordinate	Tatooine Merchant Droid		40	0	3	S			Pay 1 build point -> Draw 2 cards. Play only during your build step.	<s><l>Pay 1BP to draw 2 cards</l><f>/draw 2;/player stat2 -1;/s pays 1BP to draw 2 cards using EV-series Bartender Droid</f></s>	NEW, MV
 Guild Members	TM	TMsub_Guild_Members	N	Subordinate	Ground - Nevarro Bounty Hunter Squad		50	3	1	S			Bounty: Gain 1 Force		NEW, MV
 Klatooinian Pillagers	TM	TMsub_Klatooinian_Pillagers	N	Subordinate	Ground/Character - Klatooinian Pirate Squad		40	2	2	S					NEW, MV
 Kyuzo Bounty Hunter	TM	TMsub_Kyuzo_Bounty_Hunter	N	Subordinate	Character - Kyuzo Bounty Hunter		40	3	1	S			Bounty: Draw a card.		NEW, MV
 Nevarro Citizen	TM	TMsub_Nevarro_Citizen	N	Subordinate	Character - Nevarro Merchant		30	2	2	S			Damage Control 1		NEW, MV
 Nevarro Gambler	TM	TMsub_Nevarro_Gambler	N	Subordinate	Character - Nevarro Bounty Hunter - Gambler		50	2	2	S			Bounty: Draw a card. | Lucky 1		NEW, MV
-Nevarro Merchants	TM	TMsub_Nevarro_Merchants	N	Subordinate	Ground - Nevarro Merchant Squad		30	0	3	S			Tap -> Draw a card. Play only during your build step.		NEW, MV
+Nevarro Merchants	TM	TMsub_Nevarro_Merchants	N	Subordinate	Ground - Nevarro Merchant Squad		30	0	3	S			Tap -> Draw a card. Play only during your build step.	<s><l>Tap to draw a card</l><f>/draw 1;/cr90;/s taps Nevarro Merchants to draw a card</f></s>	NEW, MV
 Nikto Bounty Hunter	TM	TMsub_Nikto_Bounty_Hunter	N	Subordinate	Character - Nikto Bounty Hunter		40	2	2	S			Fury 1		NEW, MV
 Nikto Mercenary	TM	TMsub_Nikto_Merenary	N	Subordinate	Character - Nikto Desert Crime Gang Warrior		40	3	2	S			Riposte 2		NEW, MV
 Quarren Trawler	TM	TMsub_Quarren_Trawler	N	Subordinate	Character - Quarren Crime Gang Merchant		30	2	2	S			Backfire 1 | Resilience 1		NEW, MV
