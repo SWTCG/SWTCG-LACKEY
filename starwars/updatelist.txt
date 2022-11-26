@@ -103,7 +103,7 @@ plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/AGD.txt	7460103
 plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/ANH.txt	3199880
 plugins/starwars/sets/AOTC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/AOTC.txt	2597258
-plugins/starwars/sets/BEP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/BEP.txt	861176
+plugins/starwars/sets/BEP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/BEP.txt	876432
 plugins/starwars/sets/BF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/BF.txt	3035986
 plugins/starwars/sets/BH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/BH.txt	2253902
 plugins/starwars/sets/BL.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/BL.txt	8823671
