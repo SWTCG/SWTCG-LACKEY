@@ -82,35 +82,13 @@ def processUpdateList():
 			processULCard(imageLink, currentSet, cards)
 
 def validateOtherDates():
-	with io.open(basePluginPath + "uninstall.txt", "r", encoding='cp1252') as uninstall:
+	with io.open("starwars/uninstall.txt", "r", encoding='cp1252') as uninstall:
 		line = uninstall.readline()
 		while not line.startswith("<dateYYMMDD>"):
 			line = uninstall.readline()
 		date = line[12:-14]
 		if len(date) != 6 or not date.isdigit():
 			print("Illegal uninstall.txt date format: " + date)
-
-	with io.open(basePluginPath + "version.txt", "r", encoding='cp1252') as version:
-		line = version.readline()
-		while not line.startswith("<lastupdateYYMMDD>"):
-			line = version.readline()
-		date = line[18:-20]
-		if len(date) != 6 or not date.isdigit():
-			print("Illegal version.txt date format: " + date)
-
-	with io.open(basePluginPath + "plugininfo.txt", "r", encoding='cp1252') as plugininfo:
-		line = plugininfo.readline()
-		while not line.startswith("<pluginversion>"):
-			line = plugininfo.readline()
-		date = line[15:-17]
-		if len(date) != 10:
-			print("Illegal date format for plugininfo.txt - wrong number of characters: " + date)
-		segments = date.split('.')
-		if len(segments) != 3:
-			print("Illegal separator used in plugininfo.txt: " + date)
-		for segment in segments:
-			if not segment.isdigit():
-				print("Illegal characters used in plugininfo.txt date: " + date)
 
 def main():
 
