@@ -49,6 +49,19 @@ def processUpdateList():
 
 		# Skip down to the actual cards
 		for line in updateList:
+			if counter == 0:
+				date = line.split('\t')[1]
+				if date.endswith('\n'):
+					date = date[:-1]
+				if len(date) != 8:
+					print("Updatelist date format is the wrong number of digits: " + date)
+				segments = date.split('-')
+				if len(segments) != 3:
+					print("Updatelist date has wrong separators: " + date)
+				for segment in segments:
+					if not segment.isdigit():
+						print("Illegal characters in date: " + segment)
+			counter += 1
 			if not line.startswith("CardImageURLs:"):
 				continue
 			break
