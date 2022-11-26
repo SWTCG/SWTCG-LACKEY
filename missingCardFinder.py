@@ -80,9 +80,19 @@ def processUpdateList():
 				cards = processSetFile(currentSet)
 			processULCard(imageLink, currentSet, cards)
 
+def validateOtherDates():
+	with io.open("starwars/uninstall.txt", "r", encoding='cp1252') as uninstall:
+		line = uninstall.readline()
+		while not line.startswith("<dateYYMMDD>"):
+			line = uninstall.readline()
+		date = line[12:-14]
+		if len(date) != 6 or not date.isdigit():
+			print("Illegal uninstall.txt date format: " + date)
+
 def main():
 
   processUpdateList()
+  validateOtherDates()
   for key in missingCards:
   	print(missingCards[key])
 
