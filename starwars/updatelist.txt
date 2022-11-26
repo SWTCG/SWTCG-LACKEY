@@ -21,10 +21,10 @@ images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.github
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
 plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/plugininfo.txt	691128
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/pluginpreferences.txt	348367
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/pluginpreferences.txt	351333
 plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/uninstall.txt	2777169
-plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/ListOfCardDataFiles.txt	225464
-plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/formats.txt	158992
+plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/ListOfCardDataFiles.txt	229137
+plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/formats.txt	160165
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/defaultchat.txt	14016
 plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/version.txt	28317
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/bot.jpg	4977
@@ -123,6 +123,7 @@ plugins/starwars/sets/ER.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/ESB.txt	4662551
 plugins/starwars/sets/FOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/FOR.txt	5744925
 plugins/starwars/sets/FOTR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/FOTR.txt	2395121
+plugins/starwars/sets/GPC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/GPC.txt	933137
 plugins/starwars/sets/IA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/IA.txt	768603
 plugins/starwars/sets/ION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/ION.txt	4838885
 plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/JEDI.txt	1795702
@@ -3785,6 +3786,41 @@ FOTR/Wookiee_Shield.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP
 FOTR/Wookiee_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/FOTR/Wookiee_Squad.jpg	
 FOTR/Wookiee_Tactics.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/FOTR/Wookiee_Tactics.jpg	
 FOTR/Wookiee_Warrior.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/FOTR/Wookiee_Warrior.jpg	
+GPC/GPC001_Begin_the_Race.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC001_Begin_the_Race.jpg	
+GPC/GPC002_Championship_Podracer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC002_Championship_Podracer.jpg	
+GPC/GPC003_Clegg_Holdfast_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC003_Clegg_Holdfast_A.jpg	
+GPC/GPC004_Dud_Bolt_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC004_Dud_Bolt_A.jpg	
+GPC/GPC005_Ebe_E_Endocott_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC005_Ebe_E_Endocott_A.jpg	
+GPC/GPC006_Galactic_Podracing_Circuit.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC006_Galactic_Podracing_Circuit.jpg	
+GPC/GPC007_Galactic_Podracing_Trials.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC007_Galactic_Podracing_Trials.jpg	
+GPC/GPC008_Malastare_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC008_Malastare_Racetrack.jpg	
+GPC/GPC009_Mon_Gazza_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC009_Mon_Gazza_Racetrack.jpg	
+GPC/GPC010_Podracer_Piloting.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC010_Podracer_Piloting.jpg	
+GPC/GPC011_Aldar_Beedo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC011_Aldar_Beedo_A.jpg	
+GPC/GPC012_Ando_Prime_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC012_Ando_Prime_Racetrack.jpg	
+GPC/GPC013_Aquilaris_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC013_Aquilaris_Racetrack.jpg	
+GPC/GPC014_Bangu_Du_Bangu.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC014_Bangu_Du_Bangu.jpg	
+GPC/GPC015_Mars_Guo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC015_Mars_Guo_A.jpg	
+GPC/GPC016_Modified_Podracer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC016_Modified_Podracer.jpg	
+GPC/GPC017_Oovo_IV_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC017_Oovo_IV_Racetrack.jpg	
+GPC/GPC018_Podracer_Upgrade.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC018_Podracer_Upgrade.jpg	
+GPC/GPC019_Racer_Revenge.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC019_Racer_Revenge.jpg	
+GPC/GPC020_Teemto_Pagalies_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC020_Teemto_Pagalies_A.jpg	
+GPC/GPC021_Ark_Bumpy_Roose_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC021_Ark_Bumpy_Roose_A.jpg	
+GPC/GPC022_Baroonda_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC022_Baroonda_Racetrack.jpg	
+GPC/GPC023_Elan_Mak_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC023_Elan_Mak_A.jpg	
+GPC/GPC024_Need_for_Speed.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC024_Need_for_Speed.jpg	
+GPC/GPC025_Ord_Ibanna_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC025_Ord_Ibanna_Racetrack.jpg	
+GPC/GPC026_Podracer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC026_Podracer.jpg	
+GPC/GPC027_Podracer_Family.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC027_Podracer_Family.jpg	
+GPC/GPC028_Podracing_Open.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC028_Podracing_Open.jpg	
+GPC/GPC029_Ratts_Tyerell_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC029_Ratts_Tyerell_A.jpg	
+GPC/GPC030_Tatooine_Racetrack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPC030_Tatooine_Racetrack.jpg	
+GPC/GPCsub_Champion_Racer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPCsub_Champion_Racer.jpg	
+GPC/GPCsub_Crafty_Racer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPCsub_Crafty_Racer.jpg	
+GPC/GPCsub_Eager_Racer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPCsub_Eager_Racer.jpg	
+GPC/GPCsub_Podracer_Salvage_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPCsub_Podracer_Salvage_Droid.jpg	
+GPC/GPCsub_Racing_Cam_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/GPC/GPCsub_Racing_Cam_Droid.jpg	
 HELP/HELP001_Prep_Setup_Phase.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/HELP/HELP001_Prep_Setup_Phase.jpg	
 HELP/HELP002_Ready_Phase.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/HELP/HELP002_Ready_Phase.jpg	
 HELP/HELP003_Command_Phase.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/sets/setimages/HELP/HELP003_Command_Phase.jpg	

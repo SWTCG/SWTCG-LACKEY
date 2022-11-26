@@ -24,6 +24,7 @@
 <filetoinclude>ESB.txt</filetoinclude>
 <filetoinclude>FOR.txt</filetoinclude>
 <filetoinclude>FOTR.txt</filetoinclude>
+<filetoinclude>GPC.txt</filetoinclude>
 <filetoinclude>HELP.txt</filetoinclude>
 <filetoinclude>IA.txt</filetoinclude>
 <filetoinclude>ION.txt</filetoinclude>
