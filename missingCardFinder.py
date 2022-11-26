@@ -90,6 +90,28 @@ def validateOtherDates():
 		if len(date) != 6 or not date.isdigit():
 			print("Illegal uninstall.txt date format: " + date)
 
+	with io.open("starwars/version.txt", "r", encoding='cp1252') as version:
+		line = version.readline()
+		while not line.startswith("<lastupdateYYMMDD>"):
+			line = version.readline()
+		date = line[18:-20]
+		if len(date) != 6 or not date.isdigit():
+			print("Illegal version.txt date format: " + date)
+
+	with io.open("starwars/plugininfo.txt", "r", encoding='cp1252') as plugininfo:
+		line = plugininfo.readline()
+		while not line.startswith("<pluginversion>"):
+			line = plugininfo.readline()
+		date = line[15:-17]
+		if len(date) != 10:
+			print("Illegal date format for plugininfo.txt - wrong number of characters: " + date)
+		segments = date.split('.')
+		if len(segments) != 3:
+			print("Illegal separator used in plugininfo.txt: " + date)
+		for segment in segments:
+			if not segment.isdigit():
+				print("Illegal characters used in plugininfo.txt date: " + date)
+
 def main():
 
   processUpdateList()
