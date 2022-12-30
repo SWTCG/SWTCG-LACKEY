@@ -1,8 +1,9 @@
 <formatdefinitions>
 
 <format>
-<label>Battle At Exegol</label>
-<set>BAE</set>
+<label>BEP and GPC</label>
+<set>BEP</set>
+<set>GPC</set>
 </format>
 
 <format>
