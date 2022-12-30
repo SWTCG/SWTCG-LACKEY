@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221103</lastupdateYYMMDD>
+<lastupdateYYMMDD>221227</lastupdateYYMMDD>
 
-<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
-<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Empire At War Release Pt. 2</message>
+<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/BEP_GPC/starwars/updatelist.txt</updateurl>
+<message>BEP and GPC update</message>
 
 </version>
