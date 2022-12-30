@@ -27,4 +27,4 @@ jobs:
         with:
           webhook-url: https://discord.com/api/webhooks/1008442169486487552/2JLShozMsl_jZnMdPlxCdNkZhypbGEkcQIigRqAMaO5Zq_-Q0LdkaDeMkzyoADZfhpDX
           filename: output.txt
-          content: Hey ${{ env.DISCORD_NAME }}, it looks like there was an error with your last plugin commit.
+          content: Hey ${{ env.DISCORD_NAME }}, it looks like there was an error with your last plugin commit on branch ${{ github.ref }}.
