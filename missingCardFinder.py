@@ -82,7 +82,7 @@ def processUpdateList():
 			processULCard(imageLink, currentSet, cards)
 
 def validateOtherDates():
-	with io.open("starwars/uninstall.txt", "r", encoding='cp1252') as uninstall:
+	with io.open(basePluginPath + "uninstall.txt", "r", encoding='cp1252') as uninstall:
 		line = uninstall.readline()
 		while not line.startswith("<dateYYMMDD>"):
 			line = uninstall.readline()
@@ -90,7 +90,7 @@ def validateOtherDates():
 		if len(date) != 6 or not date.isdigit():
 			print("Illegal uninstall.txt date format: " + date)
 
-	with io.open("starwars/version.txt", "r", encoding='cp1252') as version:
+	with io.open(basePluginPath + "version.txt", "r", encoding='cp1252') as version:
 		line = version.readline()
 		while not line.startswith("<lastupdateYYMMDD>"):
 			line = version.readline()
@@ -98,7 +98,7 @@ def validateOtherDates():
 		if len(date) != 6 or not date.isdigit():
 			print("Illegal version.txt date format: " + date)
 
-	with io.open("starwars/plugininfo.txt", "r", encoding='cp1252') as plugininfo:
+	with io.open(basePluginPath + "plugininfo.txt", "r", encoding='cp1252') as plugininfo:
 		line = plugininfo.readline()
 		while not line.startswith("<pluginversion>"):
 			line = plugininfo.readline()
