@@ -4,6 +4,7 @@
 <filetoinclude>AGD.txt</filetoinclude>
 <filetoinclude>ANH.txt</filetoinclude>
 <filetoinclude>AOTC.txt</filetoinclude>
+<filetoinclude>BEP.txt</filetoinclude>
 <filetoinclude>BF.txt</filetoinclude>
 <filetoinclude>BH.txt</filetoinclude>
 <filetoinclude>BL.txt</filetoinclude>
@@ -23,6 +24,7 @@
 <filetoinclude>ESB.txt</filetoinclude>
 <filetoinclude>FOR.txt</filetoinclude>
 <filetoinclude>FOTR.txt</filetoinclude>
+<filetoinclude>GPC.txt</filetoinclude>
 <filetoinclude>HELP.txt</filetoinclude>
 <filetoinclude>IA.txt</filetoinclude>
 <filetoinclude>ION.txt</filetoinclude>

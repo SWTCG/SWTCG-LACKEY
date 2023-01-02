@@ -1,7 +1,8 @@
 import os
 import io
 
-baseSetPath = "starwars/sets/"
+basePluginPath = "starwars/"
+baseSetPath = basePluginPath + "sets/"
 
 missingCards = {}
 allCards = {}
@@ -26,7 +27,7 @@ def processULCard(imageFrag, currentSet, cards):
 
 def processSetFile(setCode):
 	cards = {}
-	with io.open(baseSetPath + setCode + ".txt", "r", encoding='cp1252') as setFile:
+	with io.open(constructSetFilePath(setCode), "r", encoding='cp1252') as setFile:
 		firstLine = True
 		for line in setFile:
 			if firstLine:
@@ -44,11 +45,24 @@ def processSetFile(setCode):
 
 
 def processUpdateList():
-	with io.open("starwars/updatelist.txt", "r", encoding='cp1252') as updateList:
+	with io.open(basePluginPath + "updatelist.txt", "r", encoding='cp1252') as updateList:
 		counter = 0
 
 		# Skip down to the actual cards
 		for line in updateList:
+			if counter == 0:
+				date = line.split('\t')[1]
+				if date.endswith('\n'):
+					date = date[:-1]
+				if len(date) != 8:
+					print("Updatelist date format is the wrong number of digits: " + date)
+				segments = date.split('-')
+				if len(segments) != 3:
+					print("Updatelist date has wrong separators: " + date)
+				for segment in segments:
+					if not segment.isdigit():
+						print("Illegal characters in date: " + segment)
+			counter += 1
 			if not line.startswith("CardImageURLs:"):
 				continue
 			break
@@ -67,9 +81,41 @@ def processUpdateList():
 				cards = processSetFile(currentSet)
 			processULCard(imageLink, currentSet, cards)
 
+def validateOtherDates():
+	with io.open(basePluginPath + "uninstall.txt", "r", encoding='cp1252') as uninstall:
+		line = uninstall.readline()
+		while not line.startswith("<dateYYMMDD>"):
+			line = uninstall.readline()
+		date = line[12:-14]
+		if len(date) != 6 or not date.isdigit():
+			print("Illegal uninstall.txt date format: " + date)
+
+	with io.open(basePluginPath + "version.txt", "r", encoding='cp1252') as version:
+		line = version.readline()
+		while not line.startswith("<lastupdateYYMMDD>"):
+			line = version.readline()
+		date = line[18:-20]
+		if len(date) != 6 or not date.isdigit():
+			print("Illegal version.txt date format: " + date)
+
+	with io.open(basePluginPath + "plugininfo.txt", "r", encoding='cp1252') as plugininfo:
+		line = plugininfo.readline()
+		while not line.startswith("<pluginversion>"):
+			line = plugininfo.readline()
+		date = line[15:-17]
+		if len(date) != 10:
+			print("Illegal date format for plugininfo.txt - wrong number of characters: " + date)
+		segments = date.split('.')
+		if len(segments) != 3:
+			print("Illegal separator used in plugininfo.txt: " + date)
+		for segment in segments:
+			if not segment.isdigit():
+				print("Illegal characters used in plugininfo.txt date: " + date)
+
 def main():
 
   processUpdateList()
+  validateOtherDates()
   for key in missingCards:
   	print(missingCards[key])
 

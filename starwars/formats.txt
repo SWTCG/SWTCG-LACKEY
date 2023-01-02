@@ -1,6 +1,12 @@
 <formatdefinitions>
 
 <format>
+<label>BEP and GPC</label>
+<set>BEP</set>
+<set>GPC</set>
+</format>
+
+<format>
 <label>Standard</label>
 <set>KAE</set>
 <set>TM</set>
@@ -13,6 +19,9 @@
 <set>BOBF</set>
 <set>IA</set>
 <set>EAW</set>
+<set>BEP</set>
+<set>GPC</set>
+<set>BAE</set>
 </format>
 
 <format>
