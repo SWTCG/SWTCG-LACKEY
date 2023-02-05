@@ -146,7 +146,7 @@ Antivehicle Laser Cannon	ESB	Antivehicle_Laser_Cannon	L	Ground	Rebel Fortificati
 Armor Plating	ESB	Armor_Plating	D	Battle						C	145		Pay 2 Force -> One of your units gets Armor until end of turn.		WOTC, REB, EP456
 Space Slug	ESB	Space_Slug	N	Space	Creature	7	10	5	4	C	146	This unit card is considered independent from theSpace Slug unit card from RAS. You can have 4 of each in your tournament decks. 	When this unit damages another unit and the other unit is discarded, remove a number of damage counters from this unit equal to the other unit's build cost. | Armor		WOTC, REB, EP456
 Blizzard Force AT-AT	ESB	Blizzard_Force_AT_AT	D	Ground	Imperial Assault Walker	5	20	4	4	C	147		Accuracy 1 | Armor		WOTC, REB, EP456
-Precise Attack	ESB	Precise_Attack	L	Battle						C	148		Pay 3 Force -> One of your units in any arena gets Accuracy 1. | Enhance: Pay 2 more Force -> Each of your units in that arena gets Accuracy 1 instead.		WOTC, REB, EP456
+Precise Attack	ESB	Precise_Attack	L	Battle						C	148	This effect lasts until end of turn. 	Pay 3 Force -> One of your units in any arena gets Accuracy 1. | Enhance: Pay 2 more Force -> Each of your units in that arena gets Accuracy 1 instead.		WOTC, REB, EP456
 Belly of the Beast	ESB	Belly_of_the_Beast	N	Location	Character	1				C	149		When the Character battle step starts, choose an untapped unit in the Character arena at random. Tap that unit.		WOTC, REB, EP456
 Cloud City Battleground	ESB	Cloud_City_Battleground	N	Location	Ground	1				C	150	This affects the total Force cost, not the printed Force cost.	Each of your Battle cards costs 2 less Force to play.		WOTC, REB, EP456
 Cloud City Dining Hall	ESB	Cloud_City_Dining_Hall	N	Location	Character	1				C	151		Characters can't retreat.		WOTC, REB, EP456
@@ -154,7 +154,7 @@ Cloud City Landing Platform	ESB	Cloud_City_Landing_Platform	N	Location	Ground	1	
 Bespin System	ESB	Bespin_System	N	Location	Space	1				C	153		Each player draws 1 extra card during his or her draw step..		WOTC, REB, EP456
 Blizzard	ESB	Blizzard	N	Battle						C	154		Pay 2 Force -> Do 3 dice of Damage to each unit in the Ground arena.		WOTC, REB, EP456
 Bogwing	ESB	Bogwing	N	Ground	Dagobah Creature	2	60	1	1	C	155		[tap] -> Choose a player. That player discards the top 2 cards of his or her deck. Play only during your build step or when this unit would attack.		WOTC, REB, EP456
-Close the Shield Doors	ESB	Close_the_Shield_Doors	L	Battle						C	156		Pay 3 Force -> One of your units in any arena gets Armor until end of turn. | Enhance: Pay 1 more Force -> Each of your units in that arena gets Armor, instead.		WOTC, REB, EP456
+Close the Shield Doors	ESB	Close_the_Shield_Doors	L	Battle						C	156	The Enhance effect lasts until end of turn. 	Pay 3 Force -> One of your units in any arena gets Armor until end of turn. | Enhance: Pay 1 more Force -> Each of your units in that arena gets Armor, instead.		WOTC, REB, EP456
 Darth Vader (J)	ESB	Darth_Vader_J	D	Character	Imperial Dark Jedi Knight - Sith Lord	6	40	4	5	C	157		Armor | Pay 3 Force -> Evade 2 | Pay 3 Force -> Deflect 1		WOTC, REB, EP456
 Vader's Vengeance	ESB	Vaders_Vengeance	D	Battle						C	158	Text erratum	Pay X Force -> One of your units in any arena gets +X power for this attack.		WOTC, REB, EP456
 Dagobah System	ESB	Dagobah_System	L	Location	Space	1				C	159		When your build step starts, you gain 2 Force.		WOTC, REB, EP456
