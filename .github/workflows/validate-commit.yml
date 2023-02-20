@@ -25,6 +25,6 @@ jobs:
         uses: tsickert/discord-webhook@v4.0.0
         if: ${{env.FILE_SIZE != '0'}}
         with:
-          webhook-url: ${{ secrets.validationWebhook }}
+          webhook-url: ${{ secrets.discordWebhook }}
           filename: output.txt
           content: Hey ${{ env.DISCORD_NAME }}, it looks like there was an error with your last plugin commit on branch ${{ github.ref }}.
