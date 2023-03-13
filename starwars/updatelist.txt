@@ -863,6 +863,8 @@ ANH/Y_wing_Gold_One.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Y_w
 ANH/Y_wing_Gold_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Y_wing_Gold_Squadron.jpg	
 ANH/Yavin_4_Hangar_Base.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Yavin_4_Hangar_Base.jpg	
 ANH/Z_95_Headhunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/Z_95_Headhunter.jpg	
+ANH/ANHpromo_Darth_Vader_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/ANHpromo_Darth_Vader_C.jpg	
+ANH/ANHpromo_Luke_Skywalker_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/ANHpromo_Luke_Skywalker_C.jpg	
 ANH/ANHpromo_Obi_Wan_Kenobi_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ANH/ANHpromo_Obi_Wan_Kenobi_F.jpg	
 AOTC/AT_TE_Walker_23X.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AT_TE_Walker_23X.jpg	
 AOTC/AT_TE_Walker_71E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AT_TE_Walker_71E.jpg	
@@ -1045,6 +1047,9 @@ AOTC/Zam_Wesell_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Zam_
 AOTC/Zam_Wesell_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Zam_Wesell_B.jpg	
 AOTC/Zams_Airspeeder_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/Zams_Airspeeder_A.jpg	
 AOTC/AOTCpromo_Anakin_Skywalker_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AOTCpromo_Anakin_Skywalker_C.jpg	
+AOTC/AOTCpromo_Clone_Warrior_4_163.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AOTCpromo_Clone_Warrior_4_163.jpg	
+AOTC/AOTCpromo_Jango_Fett_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AOTCpromo_Jango_Fett_D.jpg	
+AOTC/AOTCpromo_Zam_Wesell_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/AOTC/AOTCpromo_Zam_Wesell_B.jpg	
 BEP/BEP001_Anakin_Skywalker_A2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BEP/BEP001_Anakin_Skywalker_A2.jpg	
 BEP/BEP002_Anakin_s_Podracer_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BEP/BEP002_Anakin_s_Podracer_B.jpg	
 BEP/BEP003_Boonta_Eve_Classic.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BEP/BEP003_Boonta_Eve_Classic.jpg	

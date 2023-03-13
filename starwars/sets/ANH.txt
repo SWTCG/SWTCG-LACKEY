@@ -179,4 +179,6 @@ Y-Wing Gold Squadron	ANH	Y_wing_Gold_Squadron	L	Space	Rebel Squadron	5	40	4	4	C	
 YT-1300 Transport	ANH	ANH178_YT_1300_Transport_HD	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB, EP456
 YV-664 Light Freighter	ANH	YV_664_Light_Freighter	N	Space	Independent Transport	4	30	3	3	C	179		Shields 1 | Discard this unit from the Space arena -> You get +2 build point this turn. Play only during your build step.		WOTC, REB, EP456
 Z-95 Headhunter	ANH	Z_95_Headhunter	N	Space	Independent Starfighter	3	40	2	2	C	180				WOTC, REB, EP456
+Darth Vader (C) (Promo)	ANH	ANHpromo_Darth_Vader_C	D	Character	Dark Jedi Knight - Sith Lord	5	40	5	5	P			Pay 2 Force -> Evade 2 | Pay 1 Force -> Intercept		WOTC, REB, EP456
+Luke Skywalker (C) (Promo)	ANH	ANHpromo_Luke_Skywalker_C	L	Character	Jedi Padawan	3	40	2	3	P			As long as you have another Jedi in the Character arena, Luke gets +2 power and "Pay 3 Force -> Evade 1".		WOTC, REB, EP456
 Obi-Wan Kenobi (F) (Promo)	ANH	ANHpromo_Obi_Wan_Kenobi_F	L	Character	Jedi Knight	6	40	5	5	P			Pay 2 Force -> Evade 2 | Pay 1 Force -> Intercept | When Obi-Wan is discarded from the Character arena, you gain +4 Force.		WOTC, REB, EP456
