@@ -1,4 +1,4 @@
-starwars	16-03-2023	
+starwars	03-16-23	
 images/avatars/exp_cj.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/images/avatars/twinsuns.jpg	9666
