@@ -1260,7 +1260,7 @@ BAE/BAEpromo_Resistance_Y_wing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 BAE/BAEpromo_Rey_Q.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAEpromo_Rey_Q.jpg	
 BAE/BAEpromo_Sith_Eternal.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAEpromo_Sith_Eternal.jpg	
 BAE/BAEpromo_Steadfast_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAEpromo_Steadfast_D.jpg	
-BAE/BAEpromo_TIE_Dagger.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAEpromo_TIE_Dagger.jpg	BAE/https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAEpromo_TIE_Dagger
+BAE/BAEpromo_TIE_Dagger.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAEpromo_TIE_Dagger.jpg
 BEP/BEP001_Anakin_Skywalker_A2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BEP/BEP001_Anakin_Skywalker_A2.jpg	
 BEP/BEP002_Anakin_s_Podracer_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BEP/BEP002_Anakin_s_Podracer_B.jpg	
 BEP/BEP003_Boonta_Eve_Classic.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BEP/BEP003_Boonta_Eve_Classic.jpg	
