@@ -1,7 +1,7 @@
 <formatdefinitions>
 
 <format>
-<label>Battle Of Exegol</label>
+<label>Battle At Exegol</label>
 <set>BAE</set>
 </format>
 
