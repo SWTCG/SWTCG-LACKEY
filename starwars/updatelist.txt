@@ -1103,7 +1103,7 @@ BAE/BAE050_Sith_Eternal.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playt
 BAE/BAE051_Sith_Eternal_Troop_Transport.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE051_Sith_Eternal_Troop_Transport.jpg	
 BAE/BAE052_Steadfast_C.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE052_Steadfast_C.jpg	
 BAE/BAE053_Steadfast_Navigation_Tower_A.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE053_Steadfast_Navigation_Tower_A.jpg	
-BAE/BAE054_Tantive_IV_E.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE054_Tantive_IV_E.jpg	
+BAE/BAE054_Tantive_IV_F.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE054_Tantive_IV_F.jpg	
 BAE/BAE055_Their_Fleet_is_Stuck.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE055_Their_Fleet_is_Stuck.jpg	
 BAE/BAE056_Throne_of_the_Sith_B.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE056_Throne_of_the_Sith_B.jpg	
 BAE/BAE057_TIE_Dagger.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE057_TIE_Dagger.jpg	
@@ -1163,7 +1163,7 @@ BAE/BAE110_Sith_Fleet_Detachment.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/
 BAE/BAE111_Sith_Lord_s_Confidence.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE111_Sith_Lord_s_Confidence.jpg	
 BAE/BAE112_Steadfast_D.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE112_Steadfast_D.jpg	
 BAE/BAE113_System_Failure.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE113_System_Failure.jpg	
-BAE/BAE114_Tantive_IV_F.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE114_Tantive_IV_F.jpg	
+BAE/BAE114_Tantive_IV_G.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE114_Tantive_IV_G.jpg	
 BAE/BAE115_Temmin_s_Starfighter_A.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE115_Temmin_s_Starfighter_A.jpg	
 BAE/BAE116_Trudgen_A.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE116_Trudgen_A.jpg	
 BAE/BAE117_Ushar_A.jpg	https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/sets/setimages/BAE/BAE117_Ushar_A.jpg	
