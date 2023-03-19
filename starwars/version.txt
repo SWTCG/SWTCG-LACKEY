@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230316</lastupdateYYMMDD>
+<lastupdateYYMMDD>230318</lastupdateYYMMDD>
 
 <versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/version.txt</versionurl>
 <updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/updatelist.txt</updateurl>
-<message>BAE playtest</message>
+<message>BAE playtest update</message>
 
 </version>
