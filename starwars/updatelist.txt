@@ -4981,7 +4981,7 @@ RAS/RAS052_Kessel_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lacke
 RAS/RAS053_Lando_Calrissian_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS053_Lando_Calrissian_E.jpg	
 RAS/RAS054_Lando_s_Trickery.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS054_Lando_s_Trickery.jpg	
 RAS/RAS055_Luke_Skywalker_L.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS055_Luke_Skywalker_L.jpg	
-RAS/RAS056_Luke_s_X_Wing_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS056_Luke_s_X_Wing_D.jpg	
+RAS/RAS056_Luke_s_X_wing_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS056_Luke_s_X_wing_D.jpg	
 RAS/RAS057_Millennium_Falcon_H.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS057_Millennium_Falcon_H.jpg	
 RAS/RAS058_Ponda_Baba_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS058_Ponda_Baba_A.jpg	
 RAS/RAS059_Punishing_One_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS059_Punishing_One_A.jpg	
@@ -5030,7 +5030,7 @@ RAS/RAS101_Tatooine_Desert.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lac
 RAS/RAS102_TIE_Fighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS102_TIE_Fighter.jpg	
 RAS/RAS103_Tusken_Warrior.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS103_Tusken_Warrior.jpg	
 RAS/RAS104_Unmodified_Snowspeeder.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS104_Unmodified_Snowspeeder.jpg	
-RAS/RAS105_X_Wing_Escort.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS105_X_Wing_Escort.jpg	
+RAS/RAS105_X_wing_Escort.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAS/RAS105_X_wing_Escort.jpg	
 RAW/ARC_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAW/ARC_Trooper.jpg	
 RAW/ARC_Trooper_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAW/ARC_Trooper_Squad.jpg	
 RAW/A_Gift.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/RAW/A_Gift.jpg	
