@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230322</lastupdateYYMMDD>
+<lastupdateYYMMDD>130422</lastupdateYYMMDD>
 
 <versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/version.txt</versionurl>
 <updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/updatelist.txt</updateurl>
-<message>BAE playtest card updates</message>
+<message>Ferus big changes</message>
 
 </version>
