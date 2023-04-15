@@ -4,6 +4,7 @@
 <filetoinclude>AGD.txt</filetoinclude>
 <filetoinclude>ANH.txt</filetoinclude>
 <filetoinclude>AOTC.txt</filetoinclude>
+<filetoinclude>BAE.txt</filetoinclude>
 <filetoinclude>BEP.txt</filetoinclude>
 <filetoinclude>BF.txt</filetoinclude>
 <filetoinclude>BH.txt</filetoinclude>
