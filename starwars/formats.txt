@@ -1,18 +1,12 @@
 <formatdefinitions>
 
 <format>
-<label>BEP and GPC</label>
-<set>BEP</set>
-<set>GPC</set>
+<label>Battle At Exegol</label>
+<set>BAE</set>
 </format>
 
 <format>
 <label>Standard</label>
-<set>KAE</set>
-<set>TM</set>
-<set>TROS</set>
-<set>15TH</set>
-<set>AAA</set>
 <set>FOR</set>
 <set>BOTS</set>
 <set>TMW</set>
@@ -118,6 +112,7 @@
 <set>TLJ</set>
 <set>BOC</set>
 <set>TROS</set>
+<set>BAE</set>
 </format>
 
 <format>
