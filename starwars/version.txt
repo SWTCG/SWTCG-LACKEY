@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230101</lastupdateYYMMDD>
+<lastupdateYYMMDD>230415</lastupdateYYMMDD>
 
-<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
-<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>BEP and GPC release</message>
+<versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/version.txt</versionurl>
+<updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/updatelist.txt</updateurl>
+<message>BAE Release</message>
 
 </version>
