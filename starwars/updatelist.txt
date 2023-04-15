@@ -1059,7 +1059,7 @@ BAE/BAE004_Comeuppance_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lacke
 BAE/BAE005_Derriphan_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE005_Derriphan_B.jpg	
 BAE/BAE006_Elite_Sith_Jet_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE006_Elite_Sith_Jet_Trooper.jpg	
 BAE/BAE007_Emperor_Palpatine_Y.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE007_Emperor_Palpatine_Y.jpg	
-BAE/BAE008_Emperor_Palpatine_s_Force_Lighting_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE008_Emperor_Palpatine_s_Force_Lighting_A.jpg	
+BAE/BAE008_Emperor_Palpatine_s_Force_Lightning_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE008_Emperor_Palpatine_s_Force_Lightning_A.jpg	
 BAE/BAE009_Exegol_Citadel_Throne_Room.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE009_Exegol_Citadel_Throne_Room.jpg	
 BAE/BAE010_Exegol_Navigation_Tower_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE010_Exegol_Navigation_Tower_A.jpg	
 BAE/BAE011_Exegol_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-Lackey/BAE_Playtest/starwars/sets/setimages/BAE/BAE011_Exegol_System.jpg	
