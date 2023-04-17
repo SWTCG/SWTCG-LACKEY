@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>230414</dateYYMMDD>
+<dateYYMMDD>230416</dateYYMMDD>
+
+<removepath>sets/setimages/ROTJ/ROTJ097_Jabba_s_Guards.jpg</removepath>
 
 <removepath>sets/setimages/EAW/EAW01_Arc_Hammer_B.jpg</removepath>
 <removepath>sets/setimages/EAW/EAW02_Eclipse_B.jpg</removepath>
