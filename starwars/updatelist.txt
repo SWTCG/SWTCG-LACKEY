@@ -1,4 +1,4 @@
-starwars	04-15-23
+starwars	04-17-23
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -20,13 +20,13 @@ images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://lackey.s
 images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691134
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	691136
 plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	351334
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	2777175
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	2783827
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	232792
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	162069
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	27117
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	28597
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -138,7 +138,7 @@ plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	252
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2816352
 plugins/starwars/sets/RO.txt	https://lackey.swtcg.com/starwars/sets/RO.txt	5606034
 plugins/starwars/sets/RO2.txt	https://lackey.swtcg.com/starwars/sets/RO2.txt	1905101
-plugins/starwars/sets/ROTJ.txt	https://lackey.swtcg.com/starwars/sets/ROTJ.txt	2281735
+plugins/starwars/sets/ROTJ.txt	https://lackey.swtcg.com/starwars/sets/ROTJ.txt	2281998
 plugins/starwars/sets/ROTS.txt	https://lackey.swtcg.com/starwars/sets/ROTS.txt	2304685
 plugins/starwars/sets/RS.txt	https://lackey.swtcg.com/starwars/sets/RS.txt	4590489
 plugins/starwars/sets/SAV.txt	https://lackey.swtcg.com/starwars/sets/SAV.txt	1741114
@@ -5551,7 +5551,7 @@ ROTJ/ROTJ093_Gray_Squadron_Y_Wing.jpg	https://lackey.swtcg.com/starwars/sets/set
 ROTJ/ROTJ094_High_Speed_Dodge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ094_High_Speed_Dodge.jpg	
 ROTJ/ROTJ095_Imperial_Speeder_Bike.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ095_Imperial_Speeder_Bike.jpg	
 ROTJ/ROTJ096_Imperial_Class_Star_Destroyer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ096_Imperial_Class_Star_Destroyer.jpg	
-ROTJ/ROTJ097_Jabba_s_Guards.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ097_Jabba_s_Guards.jpg	
+ROTJ/ROTJ097_Jabba_s_Guards_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ097_Jabba_s_Guards_v2.jpg	
 ROTJ/ROTJ098_Lightsaber_Throw.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ098_Lightsaber_Throw.jpg	
 ROTJ/ROTJ099_Log_Trap.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ099_Log_Trap.jpg	
 ROTJ/ROTJ100_Luke_Skywalker_M.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTJ/ROTJ100_Luke_Skywalker_M.jpg	

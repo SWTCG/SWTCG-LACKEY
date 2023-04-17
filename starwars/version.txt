@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230415</lastupdateYYMMDD>
+<lastupdateYYMMDD>230417</lastupdateYYMMDD>
 
 <versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/version.txt</versionurl>
 <updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/BAE_Playtest/starwars/updatelist.txt</updateurl>
-<message>BAE Release</message>
+<message>BAE patch for Jabba's Guards</message>
 
 </version>
