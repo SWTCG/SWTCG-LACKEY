@@ -1,4 +1,4 @@
-starwars	04-17-23
+starwars	05-09-23
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -159,6 +159,7 @@ plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	342
 plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6114702
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3653836
 plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	5341301
+plugins/starwars/sets/WAE.txt	https://lackey.swtcg.com/starwars/sets/WAE.txt	111222
 plugins/starwars/sets/START.txt	https://lackey.swtcg.com/starwars/sets/START.txt	4454986
 plugins/starwars/sets/HELP.txt	https://lackey.swtcg.com/starwars/sets/HELP.txt	86108
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://lackey.swtcg.com/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
@@ -9403,6 +9404,36 @@ VP/VPsub_Thrall_Swarm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VP/VP
 VP/VPsub_X_ceptor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VP/VPsub_X_ceptor.jpg	
 VP/VPsub_Yuuzhan_Vong_Subaltern.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VP/VPsub_Yuuzhan_Vong_Subaltern.jpg	
 VP/VPsub_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VP/VPsub_Yuuzhan_Vong_Warrior.jpg	
+WAE/WAE001_Aphra_s_Team_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE001_Aphra_s_Team_B.jpg	
+WAE/WAE002_Bombinax_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE002_Bombinax_A.jpg	
+WAE/WAE003_Doctor_Aphra_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE003_Doctor_Aphra_A.jpg	
+WAE/WAE004_Extraction_Team_Misericorde_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE004_Extraction_Team_Misericorde_A.jpg	
+WAE/WAE005_Hivebase_1_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE005_Hivebase_1_A.jpg	
+WAE/WAE006_Immortal_Rur_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE006_Immortal_Rur_A.jpg	
+WAE/WAE007_Korin_Aphra_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE007_Korin_Aphra_A.jpg	
+WAE/WAE008_Krrsantan_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE008_Krrsantan_C.jpg	
+WAE/WAE009_Magna_Tolvan_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE009_Magna_Tolvan_A.jpg	
+WAE/WAE010_Queen_of_Ktath_atn_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE010_Queen_of_Ktath_atn_A.jpg	
+WAE/WAE011_Tam_Posla_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE011_Tam_Posla_A.jpg	
+WAE/WAE012_The_Farkiller_of_Oo_ob_The_Apostate_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE012_The_Farkiller_of_Oo_ob_The_Apostate_A.jpg	
+WAE/WAE013_Yonak_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE013_Yonak_A.jpg	
+WAE/WAE014_0_0_0_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE014_0_0_0_A.jpg	
+WAE/WAE015_Abersyn_Symbiote.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE015_Abersyn_Symbiote.jpg	
+WAE/WAE016_Ark_Angel_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE016_Ark_Angel_A.jpg	
+WAE/WAE017_Assault_Raiders.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE017_Assault_Raiders.jpg	
+WAE/WAE018_Bt_1_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE018_Bt_1_A.jpg	
+WAE/WAE019_Doctor_Aphra_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE019_Doctor_Aphra_B.jpg	
+WAE/WAE020_Gurtyl_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE020_Gurtyl_A.jpg	
+WAE/WAE021_Heist_of_Anthan_Prime.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE021_Heist_of_Anthan_Prime.jpg	
+WAE/WAE022_Irresistable_Force.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE022_Irresistable_Force.jpg	
+WAE/WAE023_Krrsantan_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE023_Krrsantan_D.jpg	
+WAE/WAE024_Pluripleq.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE024_Pluripleq.jpg	
+WAE/WAE025_Rexa_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE025_Rexa_A.jpg	
+WAE/WAE026_Worst_Among_Equals.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE026_Worst_Among_Equals.jpg	
+WAE/WAE027_Accresker_Penal_Legionaries.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE027_Accresker_Penal_Legionaries.jpg	
+WAE/WAE028_Exploding_Asteroid.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE028_Exploding_Asteroid.jpg	
+WAE/WAE029_Harvest_on_Ktath_atn.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE029_Harvest_on_Ktath_atn.jpg	
+WAE/WAE030_Trandoshan_Slavers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/WAE/WAE030_Trandoshan_Slavers.jpg	
 15TH/15thpromo_Canderous_Ordo_s_Grit_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Canderous_Ordo_s_Grit_A.jpg	
 15TH/15thpromo_Confronting_the_Progenitor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Confronting_the_Progenitor.jpg	
 15TH/15thpromo_Czerka_Corporation.jpg	https://lackey.swtcg.com/starwars/sets/setimages/15TH/15thpromo_Czerka_Corporation.jpg	
