@@ -6183,6 +6183,7 @@ SITH/Unity_of_the_Sith.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/
 SITH/Vaders_TIE_Fighter_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SITH/Vaders_TIE_Fighter_D.jpg	
 SITH/Valley_of_the_Dark_Lords.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SITH/Valley_of_the_Dark_Lords.jpg	
 SITH/Vestara_Khai_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SITH/Vestara_Khai_A.jpg	
+SITH/SITHpromo_Sith_Assassin.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SITH/SITHpromo_Sith_Assassin.jpg	
 SMUG/LEGO022_Falcon_Bridge_Crew_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SMUG/LEGO022_Falcon_Bridge_Crew_A.jpg	
 SMUG/LEGO043_Lando_Calrissian_L.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SMUG/LEGO043_Lando_Calrissian_L.jpg	
 SMUG/SMUG001_Atton_Rand_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/SMUG/SMUG001_Atton_Rand_A.jpg	
