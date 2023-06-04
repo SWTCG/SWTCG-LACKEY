@@ -6,6 +6,11 @@
 </format>
 
 <format>
+<label>A Long Time Ago</label>
+<set>ALTA</set>
+</format>
+
+<format>
 <label>Standard</label>
 <set>FOR</set>
 <set>BOTS</set>
@@ -17,6 +22,7 @@
 <set>GPC</set>
 <set>BAE</set>
 <set>WAE</set>
+<set>ALTA</set>
 </format>
 
 <format>
