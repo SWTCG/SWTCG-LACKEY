@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>230416</dateYYMMDD>
+<dateYYMMDD>230604</dateYYMMDD>
 
 <removepath>sets/setimages/ROTJ/ROTJ097_Jabba_s_Guards.jpg</removepath>
 
