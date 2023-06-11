@@ -9467,7 +9467,7 @@ WAE/WAE018_Bt_1_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/s
 WAE/WAE019_Doctor_Aphra_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE019_Doctor_Aphra_B.jpg	
 WAE/WAE020_Gurtyl_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE020_Gurtyl_A.jpg	
 WAE/WAE021_Heist_of_Anthan_Prime.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE021_Heist_of_Anthan_Prime.jpg	
-WAE/WAE022_Irresistable_Force.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE022_Irresistable_Force.jpg	
+WAE/WAE022_Irresistible_Force.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE022_Irresistible_Force.jpg	
 WAE/WAE023_Krrsantan_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE023_Krrsantan_D.jpg	
 WAE/WAE024_Pluripleq.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE024_Pluripleq.jpg	
 WAE/WAE025_Rexa_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/WAE/WAE025_Rexa_A.jpg	
