@@ -99,6 +99,7 @@ plugins/starwars/packs/TORMisc.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 plugins/starwars/packs/TROS.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/packs/TROS.jpg	1998770
 plugins/starwars/packs/tuf.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/packs/tuf.jpg	564541
 plugins/starwars/packs/VP.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/packs/VP.jpg	529453
+plugins/starwars/packs/WAE.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/packs/WAE.jpg	529453
 plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/15TH.txt	2699937
 plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/AAA.txt	4604152
 plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/AGD.txt	7460105
