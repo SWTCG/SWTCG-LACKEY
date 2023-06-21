@@ -2,6 +2,8 @@
 
 <dateYYMMDD>230604</dateYYMMDD>
 
+<removepath>sets/setimages/RAS/RAS056_Luke_s_X_wing_D.jpg</removepath>
+
 <removepath>sets/setimages/ROTJ/ROTJ097_Jabba_s_Guards.jpg</removepath>
 
 <removepath>sets/setimages/EAW/EAW01_Arc_Hammer_B.jpg</removepath>
