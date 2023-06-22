@@ -5025,7 +5025,7 @@ RAS/RAS052_Kessel_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 RAS/RAS053_Lando_Calrissian_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS053_Lando_Calrissian_E.jpg	
 RAS/RAS054_Lando_s_Trickery.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS054_Lando_s_Trickery.jpg	
 RAS/RAS055_Luke_Skywalker_L.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS055_Luke_Skywalker_L.jpg	
-RAS/RAS056_Luke_s_X_wing_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS056_Luke_s_X_wing_D_v2.jpg	
+RAS/RAS056_Luke_s_X_wing_D_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS056_Luke_s_X_wing_D_v2.jpg	
 RAS/RAS057_Millennium_Falcon_H.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS057_Millennium_Falcon_H.jpg	
 RAS/RAS058_Ponda_Baba_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS058_Ponda_Baba_A.jpg	
 RAS/RAS059_Punishing_One_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/RAS/RAS059_Punishing_One_A.jpg	
