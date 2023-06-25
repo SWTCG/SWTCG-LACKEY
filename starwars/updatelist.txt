@@ -689,7 +689,6 @@ AGD/AGDsub_Weequay_Biker_Gang.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 AGD/AGDsub_Wookiee_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/AGD/AGDsub_Wookiee_Team.jpg	
 AGD/LEGO010_Darth_Tyranus_N.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/AGD/LEGO010_Darth_Tyranus_N.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_0.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_0.jpg	
-ALTA/ALTApromo_A_Long_Time_Ago_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_1.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_2.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_3.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_4.jpg	
@@ -706,7 +705,6 @@ ALTA/ALTApromo_Darth_Tyranus_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTApromo_Death_Star_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Death_Star_G.jpg	
 ALTA/ALTApromo_May_the_Force_Be_With_You_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_May_the_Force_Be_With_You_1.jpg	
 ALTA/ALTApromo_May_the_Force_Be_With_You_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_May_the_Force_Be_With_You_2.jpg	
-ALTA/ALTApromo_May_the_Force_Be_With_You_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_May_the_Force_Be_With_You_3.jpg	
 ALTA/ALTApromo_May_the_Force_Be_With_You_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_May_the_Force_Be_With_You_4.jpg	
 ALTA/ALTApromo_May_the_Force_Be_With_You_5.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_May_the_Force_Be_With_You_5.jpg	
 ALTA/ALTApromo_May_the_Force_Be_With_You_6.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_May_the_Force_Be_With_You_6.jpg	
@@ -722,7 +720,6 @@ ALTA/ALTApromo_Star_Wars_0.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 ALTA/ALTApromo_Star_Wars_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_1.jpg	
 ALTA/ALTApromo_Star_Wars_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_2.jpg	
 ALTA/ALTApromo_Star_Wars_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_3.jpg	
-ALTA/ALTApromo_Star_Wars_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_4.jpg	
 ALTA/ALTApromo_Star_Wars_5.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_5.jpg	
 ALTA/ALTApromo_Star_Wars_6.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_6.jpg	
 ALTA/ALTApromo_Star_Wars_7.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/WAE/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_7.jpg	
