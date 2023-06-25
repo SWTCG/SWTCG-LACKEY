@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>230604</lastupdateYYMMDD>
+<lastupdateYYMMDD>230624</lastupdateYYMMDD>
 
 <versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/WAE/starwars/version.txt</versionurl>
 <updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/WAE/starwars/updatelist.txt</updateurl>
