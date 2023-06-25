@@ -1,8 +1,13 @@
 <formatdefinitions>
 
 <format>
-<label>Battle At Exegol</label>
-<set>BAE</set>
+<label>Worst Among Equals</label>
+<set>WAE</set>
+</format>
+
+<format>
+<label>A Long Time Ago</label>
+<set>ALTA</set>
 </format>
 
 <format>
@@ -16,6 +21,8 @@
 <set>BEP</set>
 <set>GPC</set>
 <set>BAE</set>
+<set>WAE</set>
+<set>ALTA</set>
 </format>
 
 <format>
@@ -48,10 +55,6 @@
 </format>
 
 
-<format>
-<label>Book of Boba Fett</label>
-<set>BOBF</set>
-</format>
 
 <format>
 <label>Mandoverse</label>

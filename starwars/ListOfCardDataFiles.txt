@@ -2,6 +2,7 @@
 <filetoinclude>15TH.txt</filetoinclude>
 <filetoinclude>AAA.txt</filetoinclude>
 <filetoinclude>AGD.txt</filetoinclude>
+<filetoinclude>ALTA.txt</filetoinclude>
 <filetoinclude>ANH.txt</filetoinclude>
 <filetoinclude>AOTC.txt</filetoinclude>
 <filetoinclude>BAE.txt</filetoinclude>
@@ -61,4 +62,5 @@
 <filetoinclude>TROS.txt</filetoinclude>
 <filetoinclude>TUF.txt</filetoinclude>
 <filetoinclude>VP.txt</filetoinclude>
+<filetoinclude>WAE.txt</filetoinclude>
 </listofcarddatafiles>

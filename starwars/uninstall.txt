@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>230416</dateYYMMDD>
+<dateYYMMDD>230623</dateYYMMDD>
+
+<removepath>sets/setimages/RAS/RAS056_Luke_s_X_wing_D.jpg</removepath>
 
 <removepath>sets/setimages/ROTJ/ROTJ097_Jabba_s_Guards.jpg</removepath>
 
