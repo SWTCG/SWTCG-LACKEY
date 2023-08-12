@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>230623</dateYYMMDD>
+<dateYYMMDD>230811</dateYYMMDD>
 
 <removepath>sets/setimages/RAS/RAS056_Luke_s_X_wing_D.jpg</removepath>
 
