@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230624</lastupdateYYMMDD>
+<lastupdateYYMMDD>230812</lastupdateYYMMDD>
 
-<versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/WAE/starwars/version.txt</versionurl>
-<updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/WAE/starwars/updatelist.txt</updateurl>
-<message>WAE - Doctor Aphra - Worst Among Equals</message>
+<versionurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/master/starwars/version.txt</versionurl>
+<updateurl>https://github.com/SWTCG/SWTCG-LACKEY/blob/master/starwars/updatelist.txt</updateurl>
+<message>August2023 - BOY and JG remasters</message>
 
 </version>
