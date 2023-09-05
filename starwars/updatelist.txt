@@ -915,7 +915,7 @@ ALTA/ALTA182_Dianoga_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA
 ALTA/ALTA183_Divine_Influence.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA183_Divine_Influence.jpg
 ALTA/ALTA184_Don_t_Look_Back.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA184_Don_t_Look_Back.jpg
 ALTA/ALTA185_Droid_Counterparts_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA185_Droid_Counterparts_C.jpg
-ALTA/ALTA186_Emperor_Palpatine_C2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA186_Emperor_Palpatine_C2.jpg
+ALTA/ALTA186_Emperor_Palpatine_D2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA186_Emperor_Palpatine_D2.jpg
 ALTA/ALTA187_Endor_Imperial_Legion.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA187_Endor_Imperial_Legion.jpg
 ALTA/ALTA188_Enraged_Rathtar.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA188_Enraged_Rathtar.jpg
 ALTA/ALTA189_Falcon_Bridge_Crew_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA189_Falcon_Bridge_Crew_E.jpg
@@ -978,7 +978,7 @@ ALTA/ALTA245_Night_Buzzard_C.jpg	https://lackey.swtcg.com/starwars/sets/setimage
 ALTA/ALTA246_No_Such_Thing_As_Luck.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA246_No_Such_Thing_As_Luck.jpg
 ALTA/ALTA247_Nute_Gunray_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA247_Nute_Gunray_G.jpg
 ALTA/ALTA248_Obi_Wan_Kenobi_B2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA248_Obi_Wan_Kenobi_B2.jpg
-ALTA/ALTA249_Obi_Wan_s_Starfighter_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA249_Obi_Wan_s_Starfighter_D.jpg
+ALTA/ALTA249_Obi_Wan_s_Starfighter_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA249_Obi_Wan_s_Starfighter_E.jpg
 ALTA/ALTA250_Only_Now_At_The_End.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA250_Only_Now_At_The_End.jpg
 ALTA/ALTA251_OOM_9_s_AAT_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA251_OOM_9_s_AAT_B.jpg
 ALTA/ALTA252_Order_66_Clone_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA252_Order_66_Clone_Squad.jpg
@@ -1012,7 +1012,7 @@ ALTA/ALTA279_Skywalker_Family_C.jpg	https://lackey.swtcg.com/starwars/sets/setim
 ALTA/ALTA280_Slave_I_S.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA280_Slave_I_S.jpg
 ALTA/ALTA281_Solo_Family_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA281_Solo_Family_D.jpg
 ALTA/ALTA282_Stormtrooper_Sentry_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA282_Stormtrooper_Sentry_Squad.jpg
-ALTA/ALTA283_Tantive_IV_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA283_Tantive_IV_F.jpg
+ALTA/ALTA283_Tantive_IV_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA283_Tantive_IV_H.jpg
 ALTA/ALTA284_The_Saga_Continues.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA284_The_Saga_Continues.jpg
 ALTA/ALTA285_Too_Much_of_His_Father_in_Him.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA285_Too_Much_of_His_Father_in_Him.jpg
 ALTA/ALTA286_Trade_Federation_Landing_Zone.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA286_Trade_Federation_Landing_Zone.jpg
