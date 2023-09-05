@@ -1,13 +1,13 @@
 <formatdefinitions>
 
 <format>
-<label>Worst Among Equals</label>
-<set>WAE</set>
+<label>A Long Time Ago</label>
+<set>ALTA</set>
 </format>
 
 <format>
-<label>A Long Time Ago</label>
-<set>ALTA</set>
+<label>Worst Among Equals</label>
+<set>WAE</set>
 </format>
 
 <format>
@@ -16,7 +16,6 @@
 <set>BOTS</set>
 <set>TMW</set>
 <set>BOBF</set>
-<set>IA</set>
 <set>EAW</set>
 <set>BEP</set>
 <set>GPC</set>
