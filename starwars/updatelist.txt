@@ -751,7 +751,7 @@ ALTA/ALTA018_Bigger_Fish.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 ALTA/ALTA019_Bravo_Squadron_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA019_Bravo_Squadron_B.jpg
 ALTA/ALTA020_Celebration_Grounds.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA020_Celebration_Grounds.jpg
 ALTA/ALTA021_Chancellor_Palpatine_B2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA021_Chancellor_Palpatine_B2.jpg
-ALTA/ALTA022_Chewbacca_H2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA022_Chewbacca_H2.jpg
+ALTA/ALTA022_Chewbacca_I2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA022_Chewbacca_I2.jpg
 ALTA/ALTA023_Darth_Maul_U.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA023_Darth_Maul_U.jpg
 ALTA/ALTA024_Darth_Sidious_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA024_Darth_Sidious_R.jpg
 ALTA/ALTA025_Darth_Tyranus_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA025_Darth_Tyranus_R.jpg
