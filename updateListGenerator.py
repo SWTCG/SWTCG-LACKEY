@@ -33,7 +33,7 @@ def processUpdateList():
 						number = "sub"
 					elif rarity == "P":
 						number = "promo"
-				newLine = setCode + "/" + imageFrag + "	" + "https://lackey.swtcg.com/starwars/sets/setimages/" + setCode + "/" + imageFrag + ".jpg\n"
+				newLine = setCode + "/" + imageFrag + ".jpg" + "	" + "https://lackey.swtcg.com/starwars/sets/setimages/" + setCode + "/" + imageFrag + ".jpg\n"
 				updateList.write(newLine)
 			setFile.close()
 			updateList.close()
