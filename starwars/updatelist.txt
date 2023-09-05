@@ -973,7 +973,7 @@ ALTA/ALTA240_Millennium_Falcon_L2.jpg	https://lackey.swtcg.com/starwars/sets/set
 ALTA/ALTA241_Millennium_Falcon_M2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA241_Millennium_Falcon_M2.jpg
 ALTA/ALTA242_Modal_Nodes_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA242_Modal_Nodes_B.jpg
 ALTA/ALTA243_Naboo_Royal_Handmaidens.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA243_Naboo_Royal_Handmaidens.jpg
-ALTA/ALTA244_Naiveté.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA244_Naiveté.jpg
+ALTA/ALTA244_Naivete.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA244_Naivete.jpg
 ALTA/ALTA245_Night_Buzzard_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA245_Night_Buzzard_C.jpg
 ALTA/ALTA246_No_Such_Thing_As_Luck.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA246_No_Such_Thing_As_Luck.jpg
 ALTA/ALTA247_Nute_Gunray_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA247_Nute_Gunray_G.jpg
@@ -983,8 +983,8 @@ ALTA/ALTA250_Only_Now_At_The_End.jpg	https://lackey.swtcg.com/starwars/sets/seti
 ALTA/ALTA251_OOM_9_s_AAT_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA251_OOM_9_s_AAT_B.jpg
 ALTA/ALTA252_Order_66_Clone_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA252_Order_66_Clone_Squad.jpg
 ALTA/ALTA253_Organa_Family_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA253_Organa_Family_A.jpg
-ALTA/ALTA254_Padmé_Amidala_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA254_Padmé_Amidala_P.jpg
-ALTA/ALTA255_Padmé_s_Yacht_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA255_Padmé_s_Yacht_D.jpg
+ALTA/ALTA254_Padme_Amidala_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA254_Padme_Amidala_P.jpg
+ALTA/ALTA255_Padme_s_Yacht_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA255_Padme_s_Yacht_D.jpg
 ALTA/ALTA256_Pain_Suffering_Death.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA256_Pain_Suffering_Death.jpg
 ALTA/ALTA257_Petranaki_Arena.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA257_Petranaki_Arena.jpg
 ALTA/ALTA258_Planned_Sacrifice.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA258_Planned_Sacrifice.jpg
@@ -1063,7 +1063,7 @@ ALTA/ALTA330_Darth_Sidious_S.jpg	https://lackey.swtcg.com/starwars/sets/setimage
 ALTA/ALTA331_Darth_Vader_I2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA331_Darth_Vader_I2.jpg
 ALTA/ALTA332_Death_Star_Gunners.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA332_Death_Star_Gunners.jpg
 ALTA/ALTA333_Decoy_Cruiser.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA333_Decoy_Cruiser.jpg
-ALTA/ALTA334_Dormé_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA334_Dormé_A.jpg
+ALTA/ALTA334_Dorme_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA334_Dorme_A.jpg
 ALTA/ALTA335_Droid_Attack_Wing.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA335_Droid_Attack_Wing.jpg
 ALTA/ALTA336_Droid_Factory_Conveyor_Belt.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA336_Droid_Factory_Conveyor_Belt.jpg
 ALTA/ALTA337_Droid_Reinforcements.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA337_Droid_Reinforcements.jpg
