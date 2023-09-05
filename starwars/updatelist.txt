@@ -745,7 +745,7 @@ ALTA/ALTA012_Battle_for_Supremacy.jpg	https://lackey.swtcg.com/starwars/sets/set
 ALTA/ALTA013_Battle_of_Endor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA013_Battle_of_Endor.jpg
 ALTA/ALTA014_Battle_of_Geonosis.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA014_Battle_of_Geonosis.jpg
 ALTA/ALTA015_Battle_of_Hoth.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA015_Battle_of_Hoth.jpg
-ALTA/ALTA016_Battle_Of_Yavin.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA016_Battle_Of_Yavin.jpg
+ALTA/ALTA016_Battle_of_Yavin.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA016_Battle_of_Yavin.jpg
 ALTA/ALTA017_Ben_Solo_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA017_Ben_Solo_F.jpg
 ALTA/ALTA018_Bigger_Fish.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA018_Bigger_Fish.jpg
 ALTA/ALTA019_Bravo_Squadron_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA019_Bravo_Squadron_B.jpg
