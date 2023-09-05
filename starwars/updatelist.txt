@@ -983,7 +983,7 @@ ALTA/ALTA250_Only_Now_At_The_End.jpg	https://lackey.swtcg.com/starwars/sets/seti
 ALTA/ALTA251_OOM_9_s_AAT_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA251_OOM_9_s_AAT_B.jpg
 ALTA/ALTA252_Order_66_Clone_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA252_Order_66_Clone_Squad.jpg
 ALTA/ALTA253_Organa_Family_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA253_Organa_Family_A.jpg
-ALTA/ALTA254_Padme_Amidala_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA254_Padme_Amidala_P.jpg
+ALTA/ALTA254_Padmé_Amidala_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA254_Padmé_Amidala_P.jpg
 ALTA/ALTA255_Padmé_s_Yacht_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA255_Padmé_s_Yacht_D.jpg
 ALTA/ALTA256_Pain_Suffering_Death.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA256_Pain_Suffering_Death.jpg
 ALTA/ALTA257_Petranaki_Arena.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA257_Petranaki_Arena.jpg
