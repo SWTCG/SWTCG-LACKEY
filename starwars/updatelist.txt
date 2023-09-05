@@ -926,7 +926,7 @@ ALTA/ALTA193_First_Order_Supreme_Council_C.jpg	https://lackey.swtcg.com/starwars
 ALTA/ALTA194_First_Order_Villains_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA194_First_Order_Villains_A.jpg
 ALTA/ALTA195_Forbidden_Love.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA195_Forbidden_Love.jpg
 ALTA/ALTA196_Force_Stasis.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA196_Force_Stasis.jpg
-ALTA/ALTA197_Friend_of_Wookiees.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA197_Friend_of_Wookiees.jpg
+ALTA/ALTA197_Friend_of_the_Wookiees.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA197_Friend_of_the_Wookiees.jpg
 ALTA/ALTA198_Galaxies_Opera_House_Private_Box.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA198_Galaxies_Opera_House_Private_Box.jpg
 ALTA/ALTA199_General_Armitage_Hux_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA199_General_Armitage_Hux_K.jpg
 ALTA/ALTA200_General_Grievous_O.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA200_General_Grievous_O.jpg
