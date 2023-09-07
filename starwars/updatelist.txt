@@ -1815,7 +1815,7 @@ BAE/BAEpromo_Resistance_Reborn.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 BAE/BAEpromo_Resistance_Y_wing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BAE/BAEpromo_Resistance_Y_wing.jpg	
 BAE/BAEpromo_Rey_Q.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BAE/BAEpromo_Rey_Q.jpg	
 BAE/BAEpromo_Sith_Eternal.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BAE/BAEpromo_Sith_Eternal.jpg	
-BAE/BAEpromo_Steadfast_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BAE/BAEpromo_Steadfast_D.jpg	
+BAE/BAEpromo_Steadfast_D_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BAE/BAEpromo_Steadfast_D_v2.jpg	
 BAE/BAEpromo_TIE_Dagger.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BAE/BAEpromo_TIE_Dagger.jpg
 BEP/BEP001_Anakin_Skywalker_A2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BEP/BEP001_Anakin_Skywalker_A2.jpg	
 BEP/BEP002_Anakin_s_Podracer_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BEP/BEP002_Anakin_s_Podracer_B.jpg	
@@ -3061,7 +3061,7 @@ BOSB/BOSB096_Starkiller_Base_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 BOSB/BOSB097_Starkiller_Base_Artillery_Cannon.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB097_Starkiller_Base_Artillery_Cannon.jpg	
 BOSB/BOSB098_Starkiller_Base_Detachment.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB098_Starkiller_Base_Detachment.jpg	
 BOSB/BOSB099_Starkiller_Base_Operations_Room.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB099_Starkiller_Base_Operations_Room.jpg	
-BOSB/BOSB100_Starkiller_Base_Shield_Control_Room.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB100_Starkiller_Base_Shield_Control_Room.jpg	
+BOSB/BOSB100_Starkiller_Base_Shield_Control_Room_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB100_Starkiller_Base_Shield_Control_Room_v2.jpg	
 BOSB/BOSB101_Starkiller_Base_TIE_Squadron.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB101_Starkiller_Base_TIE_Squadron.jpg	
 BOSB/BOSB102_Stationary_Tactics.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB102_Stationary_Tactics.jpg	
 BOSB/BOSB103_There_s_Still_Light_in_Him.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOSB/BOSB103_There_s_Still_Light_in_Him.jpg	
@@ -7920,7 +7920,7 @@ TDT/TDT074_Operation_Twilight.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 TDT/TDT075_Palpatine_s_Lesson.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT075_Palpatine_s_Lesson.jpg	
 TDT/TDT076_Princess_Leia_S.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT076_Princess_Leia_S.jpg	
 TDT/TDT077_Prine_Mount.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT077_Prine_Mount.jpg	
-TDT/TDT078_Prism_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT078_Prism_A.jpg	
+TDT/TDT078_Prism_A_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT078_Prism_A_v2.jpg	
 TDT/TDT079_Rebel_One_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT079_Rebel_One_A.jpg	
 TDT/TDT080_Rianna_Saren_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT080_Rianna_Saren_A.jpg	
 TDT/TDT081_Rogue_Shadow_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TDT/TDT081_Rogue_Shadow_A.jpg	
@@ -8443,7 +8443,7 @@ TFA/TFA176_TIE_Space_Superiority_Fighter.jpg	https://raw.githubusercontent.com/S
 TFA/TFA177_Ventral_Cannons.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFA177_Ventral_Cannons.jpg	
 TFA/TFA178_Who_Talks_First.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFA178_Who_Talks_First.jpg	
 TFA/TFA179_Wounded.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFA179_Wounded.jpg	
-TFA/TFA180_Z6_Riot_Control_Baton.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFA180_Z6_Riot_Control_Baton.jpg	
+TFA/TFA180_Z6_Riot_Control_Baton_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFA180_Z6_Riot_Control_Baton_v2.jpg	
 TFA/TFAsub_Assault_Trooper_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFAsub_Assault_Trooper_Squad.jpg	
 TFA/TFAsub_Elite_Trooper_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFAsub_Elite_Trooper_Squad.jpg	
 TFA/TFAsub_Guavian_Death_Gang_Enforcers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/TFA/TFAsub_Guavian_Death_Gang_Enforcers.jpg	

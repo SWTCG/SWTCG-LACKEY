@@ -2,6 +2,7 @@
 
 <dateYYMMDD>230811</dateYYMMDD>
 
+<removepath>sets/setimages/TDT/TDT078_Prism_A.jpg</removepath>
 <removepath>sets/setimages/TFA/TFA180_Z6_Riot_Control_Baton.jpg</removepath>
 <removepath>sets/setimages/BAE/BAEpromo_Steadfast_D.jpg</removepath>
 <removepath>sets/setimages/BOSB/BOSB100_Starkiller_Base_Shield_Control_Room.jpg</removepath>
