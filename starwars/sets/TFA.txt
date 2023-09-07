@@ -178,7 +178,7 @@ TIE Space Superiority Fighter	TFA	TFA176_TIE_Space_Superiority_Fighter	D	Space/G
 Ventral Cannons	TFA	TFA177_Ventral_Cannons	N	Equipment	Space - Weapon Modification	1				C	177		Pay 2 build points -> Equip | Equipped Capital Ship or Fleet gets Critical Hit 2 and "Discard another Equipment attached to this unit -> This unit gets Accuracy 1 and Precision for this attack."		RES
 Who Talks First	TFA	TFA178_Who_Talks_First	N	Battle						C	178		Pay 4 Force -> Choose one: Each of your units in the Character arena gets +30 speed until end of turn. Or: Each of your opponent's units in the Ground arena gets -30 speed until end of turn.		RES
 Wounded	TFA	TFA179_Wounded	D	Mission		2				C	179		Each of your Characters gets +2 power when attacking a damaged Character until end of turn.		RES
-Z6 Riot Control Baton	TFA	TFA180_Z6_Riot_Control_Baton	D	Equipment	Ground/Character - Melee Weapon	2				C	180		Pay 1 build point -> Equip | Equipped First Order Stormtrooper gets Stun 2. | Equipped FN-2199 also gets +2 power.		RES
+Z6 Riot Control Baton	TFA	TFA180_Z6_Riot_Control_Baton_v2	D	Equipment	Ground/Character - Melee Weapon	2				C	180		Pay 1 build point -> Equip | Equipped First Order Stormtrooper gets Stun 2. | Equipped FN-2199 also gets +2 power.		RES
 Assault Trooper Squad	TFA	TFAsub_Assault_Trooper_Squad	D	Subordinate	Ground - First Order Stormtrooper Squad		50	4	2	S			Accuracy 1		RES
 Elite Trooper Squad	TFA	TFAsub_Elite_Trooper_Squad	D	Subordinate	Ground - First Order Stormtrooper Squad		50	4	3	S			Accuracy 1		RES
 Guavian Death Gang Enforcers	TFA	TFAsub_Guavian_Death_Gang_Enforcers	N	Subordinate	Ground/Character - Crime Gang Squad		50	3	3	S			Bala-Tik can't be attacked.		RES
