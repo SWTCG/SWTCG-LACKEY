@@ -688,7 +688,6 @@ AGD/AGDsub_Trandoshan_Hunter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-L
 AGD/AGDsub_Weequay_Biker_Gang.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/AGD/AGDsub_Weequay_Biker_Gang.jpg	
 AGD/AGDsub_Wookiee_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/AGD/AGDsub_Wookiee_Team.jpg	
 AGD/LEGO010_Darth_Tyranus_N.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/AGD/LEGO010_Darth_Tyranus_N.jpg	
-ALTA/ALTApromo_A_Long_Time_Ago_0.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_0.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_2.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_3.jpg	
 ALTA/ALTApromo_A_Long_Time_Ago_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_4.jpg	
@@ -716,7 +715,6 @@ ALTA/ALTApromo_Queen_Amidala_N.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTApromo_Qui_Gon_Jinn_I.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Qui_Gon_Jinn_I.jpg	
 ALTA/ALTApromo_Return_of_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Return_of_the_Jedi.jpg	
 ALTA/ALTApromo_Revenge_of_the_Sith.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Revenge_of_the_Sith.jpg	
-ALTA/ALTApromo_Star_Wars_0.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_0.jpg	
 ALTA/ALTApromo_Star_Wars_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_1.jpg	
 ALTA/ALTApromo_Star_Wars_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_2.jpg	
 ALTA/ALTApromo_Star_Wars_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_3.jpg	
