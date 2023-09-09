@@ -1178,6 +1178,7 @@ ALTA/ALTA447_Trooper_1138.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 ALTA/ALTA448_Victory_Celebrants.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA448_Victory_Celebrants.jpg
 ALTA/ALTA449_Victory_Celebration.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA449_Victory_Celebration.jpg
 ALTA/ALTA450_Victory_Flight.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA450_Victory_Flight.jpg
+ALTA/ALTApromo_A_Long_Time_Ago_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_1.jpg
 ALTA/ALTAsub_Anti_Fighter_Guns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Anti_Fighter_Guns.jpg
 ALTA/ALTAsub_Arctic_Assault_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Arctic_Assault_Team.jpg
 ALTA/ALTAsub_Battle_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Battle_Droid.jpg
