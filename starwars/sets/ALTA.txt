@@ -494,7 +494,7 @@ Anti-Fighter Guns	ALTA	ALTAsub_Anti_Fighter_Guns	D	Subordinate	Space - Trade Fed
 Arctic Assault Team	ALTA	ALTAsub_Arctic_Assault_Team	D	Subordinate	Character - Imperial Arctic Stormtrooper Squad		40	3	3	S			Accuracy 1		
 Battle Droid	ALTA	ALTAsub_Battle_Droid	D	Subordinate	Character - Trade Federation Droid		40	1	1	S					
 Clone Trooper	ALTA	ALTAsub_Clone_Trooper	L	Subordinate	Character - Republic Clone Soldier		50	2	2	S			Critical Hit 1		
-Cloud Cars (Subordinate)	ALTA	ALTAsub_Cloud_Cars	N	Subordinate	Ground - Bespin Speeder		60	2	2	S			Accuracy 1		
+Cloud Car	ALTA	ALTAsub_Cloud_Car	N	Subordinate	Ground - Bespin Speeder		60	2	2	S			Accuracy 1		
 Concussion Missle	ALTA	ALTAsub_Concussion_Missle	D	Subordinate	Space - Munition		60	1	1	S			Return this unit to your supply -> Do 3 damage to a Space unit.		
 Crait First Order Vanguard	ALTA	ALTAsub_Crait_First_Order_Vanguard	D	Subordinate	Character - First Order Arctic Stormtrooper		50	2	2	S			Armor		
 Crait Resistance Soldier	ALTA	ALTAsub_Crait_Resistance_Soldier	L	Subordinate	Character - Resistance Soldier		50	2	2	S			Lucky 1		
