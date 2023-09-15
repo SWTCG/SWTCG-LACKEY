@@ -2,6 +2,12 @@
 
 <dateYYMMDD>230811</dateYYMMDD>
 
+<removepath>sets/setimages/WAE/WAE014_0_0_0_A.jpg</removepath>
+<removepath>sets/setimages/WAE/WAE017_Assault_Raiders.jpg</removepath>
+<removepath>sets/setimages/WAE/WAE019_Doctor_Aphra_B.jpg</removepath>
+<removepath>sets/setimages/WAE/WAE022_Irresistible_Force.jpg</removepath>
+<removepath>sets/setimages/WAE/WAE029_Harvest_on_Ktath_atn.jpg</removepath>
+
 <removepath>sets/setimages/TDT/TDT078_Prism_A.jpg</removepath>
 <removepath>sets/setimages/TFA/TFA180_Z6_Riot_Control_Baton.jpg</removepath>
 <removepath>sets/setimages/BAE/BAEpromo_Steadfast_D.jpg</removepath>
