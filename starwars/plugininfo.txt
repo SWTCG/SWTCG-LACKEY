@@ -17,6 +17,16 @@
 	<zonetoloadto>4</zonetoloadto>
 </deckzone>
 
+<deckzone>
+	<label>Sideboard</label>
+	<gamezonetoloadto>Sideboard</gamezonetoloadto>	
+</deckzone>
+
+<deckzone>
+	<label>Outside the game</label>
+	<gamezonetoloadto>Outside the game</gamezonetoloadto>
+</deckzone>
+
 <gamezone>
 	<label>Hand</label>
 	<visibletoowner>yes</visibletoowner>
@@ -39,6 +49,16 @@
 </gamezone>
 <gamezone>
 	<label>Supply</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Sideboard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Outside the game</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>no</visibletoothers>
 </gamezone>
