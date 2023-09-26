@@ -871,7 +871,7 @@ ALTA/ALTA140_Trapped.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/AL
 ALTA/ALTA141_Tydirium_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA141_Tydirium_B.jpg
 ALTA/ALTA142_Vader_s_TIE_Fighter_H.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA142_Vader_s_TIE_Fighter_H.jpg
 ALTA/ALTA143_Vigilance_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA143_Vigilance_B.jpg
-ALTA/ALTA144_Vuutan_Paala_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA144_Vuutan_Paala_A.jpg
+ALTA/ALTA144_Vuutan_Palaa_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA144_Vuutan_Palaa_A.jpg
 ALTA/ALTA145_Watch_the_Language.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA145_Watch_the_Language.jpg
 ALTA/ALTA146_We_Shall_Have_Peace.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA146_We_Shall_Have_Peace.jpg
 ALTA/ALTA147_Who_Are_You.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA147_Who_Are_You.jpg
@@ -886,7 +886,7 @@ ALTA/ALTA155_Anakin_Skywalker_C2.jpg	https://raw.githubusercontent.com/SWTCG/SWT
 ALTA/ALTA156_Anakin_Skywalker_s_Cyborg_Arm_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA156_Anakin_Skywalker_s_Cyborg_Arm_A.jpg
 ALTA/ALTA157_Anakin_s_Nightmare.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA157_Anakin_s_Nightmare.jpg
 ALTA/ALTA158_Anakin_s_Starfighter_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA158_Anakin_s_Starfighter_D.jpg
-ALTA/ALTA159_I_Have_a_Bad_Feeling_About_This.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA159_I_Have_a_Bad_Feeling_About_This.jpg
+ALTA/ALTA159_Bad_Feeling_About_This.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA159_Bad_Feeling_About_This.jpg
 ALTA/ALTA160_BB_8_I.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA160_BB_8_I.jpg
 ALTA/ALTA161_Blizzard_One_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA161_Blizzard_One_B.jpg
 ALTA/ALTA162_Blue_Squadron_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA162_Blue_Squadron_D.jpg
@@ -928,7 +928,7 @@ ALTA/ALTA197_Friend_of_the_Wookiees.jpg	https://raw.githubusercontent.com/SWTCG/
 ALTA/ALTA198_Galaxies_Opera_House_Private_Box.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA198_Galaxies_Opera_House_Private_Box.jpg
 ALTA/ALTA199_General_Armitage_Hux_K.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA199_General_Armitage_Hux_K.jpg
 ALTA/ALTA200_General_Grievous_O.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA200_General_Grievous_O.jpg
-ALTA/ALTA201_General_Maximillian_Veers_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA201_General_Maximillian_Veers_D.jpg
+ALTA/ALTA201_General_Maximilian_Veers_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA201_General_Maximilian_Veers_D.jpg
 ALTA/ALTA202_Gold_Squadron_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA202_Gold_Squadron_D.jpg
 ALTA/ALTA203_Grievous_s_Wheelbike_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA203_Grievous_s_Wheelbike_D.jpg
 ALTA/ALTA204_Guardians_of_Peace_and_Justice.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA204_Guardians_of_Peace_and_Justice.jpg
@@ -1094,7 +1094,7 @@ ALTA/ALTA363_Han_s_Offer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 ALTA/ALTA364_Hero_s_Piloting.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA364_Hero_s_Piloting.jpg
 ALTA/ALTA365_Hologram.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA365_Hologram.jpg
 ALTA/ALTA366_Hoth_AT_AT.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA366_Hoth_AT_AT.jpg
-ALTA/ALTA367_Hoth_Rebel_Defence_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA367_Hoth_Rebel_Defence_Squad.jpg
+ALTA/ALTA367_Hoth_Rebel_Defense_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA367_Hoth_Rebel_Defense_Squad.jpg
 ALTA/ALTA368_Hunt_the_Rebels.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA368_Hunt_the_Rebels.jpg
 ALTA/ALTA369_Imperial_TIE_Swarm.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA369_Imperial_TIE_Swarm.jpg
 ALTA/ALTA370_It_s_All_True.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA370_It_s_All_True.jpg
