@@ -1181,6 +1181,13 @@ ALTA/ALTA450_Victory_Flight.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 ALTA/ALTApromo_A_Long_Time_Ago_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_1.jpg
 ALTA/ALTApromo_Acquiring_Transport_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Acquiring_Transport_1.jpg
 ALTA/ALTApromo_Acquiring_Transport_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Acquiring_Transport_2.jpg
+ALTA/ALTApromo_Across_the Stars_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Across_the_Stars_1.jpg
+ALTA/ALTApromo_Across_the Stars_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Across_the Stars_2.jpg
+ALTA/ALTApromo_Alliance_General_A_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Alliance_General_1.jpg
+ALTA/ALTApromo_Alliance_General_A_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Alliance_General_2.jpg
+ALTA/ALTApromo_Anakin_Skywalker_B2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_B2.jpg
+ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_1.jpg
+ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_2.jpg
 ALTA/ALTAsub_Anti_Fighter_Guns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Anti_Fighter_Guns.jpg
 ALTA/ALTAsub_Arctic_Assault_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Arctic_Assault_Team.jpg
 ALTA/ALTAsub_Battle_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Battle_Droid.jpg
