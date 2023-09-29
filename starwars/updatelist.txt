@@ -1191,7 +1191,7 @@ ALTA/ALTAsub_Arctic_Assault_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWT
 ALTA/ALTAsub_Battle_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Battle_Droid.jpg
 ALTA/ALTAsub_Clone_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Clone_Trooper.jpg
 ALTA/ALTAsub_Cloud_Car.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Cloud_Car.jpg
-ALTA/ALTAsub_Concussion_Missle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Concussion_Missle.jpg
+ALTA/ALTAsub_Concussion_Missile.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Concussion_Missile.jpg
 ALTA/ALTAsub_Crait_First_Order_Vanguard.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Crait_First_Order_Vanguard.jpg
 ALTA/ALTAsub_Crait_Resistance_Soldier.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Crait_Resistance_Soldier.jpg
 ALTA/ALTAsub_Curious_Porg.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Curious_Porg.jpg
