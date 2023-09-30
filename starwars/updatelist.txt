@@ -40,7 +40,7 @@ plugins/starwars/decks/Rep_DS_Starter.dek	https://raw.githubusercontent.com/SWTC
 plugins/starwars/decks/Rep_LS_Starter.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/decks/Rep_LS_Starter.dek	572435
 plugins/starwars/decks/Res_DS_Starter.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/decks/Res_DS_Starter.dek	565795
 plugins/starwars/decks/Res_LS_Starter.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/decks/Res_LS_Starter.dek	558308
-plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/packdefinitions.xml	3112455
+plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/packdefinitions.xml	3112602
 plugins/starwars/packs/15TH.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/AGD.jpg	532512
