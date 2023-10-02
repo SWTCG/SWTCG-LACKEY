@@ -1429,6 +1429,8 @@ ANH/ANH180_Z_95_Headhunter.jpg	http://raw.githubusercontent.com/swtcg/swtcg-lack
 ANH/ANHpromo_Darth_Vader_C.jpg	https://raw.githubusercontent.com/swtcg/swtcg-lackey/alta/starwars/sets/setimages/anh/ANHpromo_Darth_Vader_C.jpg	
 ANH/ANHpromo_Luke_Skywalker_C.jpg	https://raw.githubusercontent.com/swtcg/swtcg-lackey/alta/starwars/sets/setimages/anh/ANHpromo_Luke_Skywalker_C.jpg	
 ANH/ANHpromo_Obi_Wan_Kenobi_F.jpg	https://raw.githubusercontent.com/swtcg/swtcg-lackey/alta/starwars/sets/setimages/anh/ANHpromo_Obi_Wan_Kenobi_F.jpg	
+AOTC/AT_TE_Walker_23X.jpg	https://raw.githubusercontent.com/swtcg/swtcg-lackey/alta/starwars/sets/setimages/AOTC/AT_TE_Walker_23X.jpg	
+AOTC/AT_TE_Walker_71E.jpg	https://raw.githubusercontent.com/swtcg/swtcg-lackey/alta/starwars/sets/setimages/AOTC/AT_TE_Walker_71E.jpg	
 AOTC/A_Moments_Rest.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/AOTC/A_Moments_Rest.jpg	
 AOTC/Acklay.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/AOTC/Acklay.jpg	
 AOTC/Anakin_Skywalker_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/AOTC/Anakin_Skywalker_A.jpg	
