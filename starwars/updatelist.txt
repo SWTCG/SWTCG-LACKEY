@@ -44,7 +44,7 @@ plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWT
 plugins/starwars/packs/15TH.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/AGD.jpg	532512
-plugins/starwars/packs/anh.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/anh.jpg	509666
+plugins/starwars/packs/anh.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/anh.jpg	509491
 plugins/starwars/packs/aotc.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/aotc.jpg	542338
 plugins/starwars/packs/BAE.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/BAE.jpg	2856322
 plugins/starwars/packs/bf.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/bf.jpg	1303905
@@ -104,7 +104,7 @@ plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AAA.txt	4604266
 plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AGD.txt	7460011
 plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ALTA.txt	14399405
-plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ANH.txt	3230014
+plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ANH.txt	3236666
 plugins/starwars/sets/AOTC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AOTC.txt	2623120
 plugins/starwars/sets/BAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BAE.txt	4882671
 plugins/starwars/sets/BEP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BEP.txt	977903
