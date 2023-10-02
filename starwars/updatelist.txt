@@ -1186,6 +1186,16 @@ ALTA/ALTApromo_Alliance_General_A_2.jpg	https://raw.githubusercontent.com/SWTCG/
 ALTA/ALTApromo_Anakin_Skywalker_B2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_B2.jpg
 ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_1.jpg
 ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_2.jpg
+ALTA/ALTApromo_Asteroid_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Asteroid_1.jpg
+ALTA/ALTApromo_Asteroid_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Asteroid_2.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_1.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_2.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_3.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_4.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_5.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_5.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_6.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_6.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_7.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_7.jpg
+ALTA/ALTApromo_Bad_Feeling_About_This_8.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Bad_Feeling_About_This_8.jpg
 ALTA/ALTAsub_Anti_Fighter_Guns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Anti_Fighter_Guns.jpg
 ALTA/ALTAsub_Arctic_Assault_Team.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Arctic_Assault_Team.jpg
 ALTA/ALTAsub_Battle_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Battle_Droid.jpg
