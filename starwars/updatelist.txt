@@ -804,7 +804,7 @@ ALTA/ALTA075_Luke_Skywalker_s_Lightsaber_D.jpg	https://raw.githubusercontent.com
 ALTA/ALTA076_Luke_s_X_wing_L.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA076_Luke_s_X_wing_L.jpg
 ALTA/ALTA077_Mace_Windu_K.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA077_Mace_Windu_K.jpg
 ALTA/ALTA078_Mace_s_Strike_Team_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA078_Mace_s_Strike_Team_A.jpg
-ALTA/ALTA079_May_the_Force_Be_With_You_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA079_May_the_Force_Be_With_You_3.jpg
+ALTA/ALTA079_May_the_Force_Be_With_You.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA079_May_the_Force_Be_With_You.jpg
 ALTA/ALTA080_Maz_Kanata_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA080_Maz_Kanata_G.jpg
 ALTA/ALTA081_Millennium_Falcon_J2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA081_Millennium_Falcon_J2.jpg
 ALTA/ALTA082_Millennium_Falcon_K2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA082_Millennium_Falcon_K2.jpg
