@@ -1253,6 +1253,7 @@ ALTA/ALTApromo_Japor_Snippet_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTApromo_Jedi_Ace_Squadron_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jedi_Ace_Squadron_B.jpg
 ALTA/ALTApromo_Jedi_Master_and_Apprentice_O_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jedi_Master_and_Apprentice_O_1.jpg
 ALTA/ALTApromo_Jedi_Master_and_Apprentice_O_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jedi_Master_and_Apprentice_O_2.jpg
+ALTA/ALTApromo_Kylo_Ren_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Kylo_Ren_R.jpg
 ALTA/ALTApromo_Lightsaber_Training_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Lightsaber_Training_1.jpg
 ALTA/ALTApromo_Lightsaber_Training_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Lightsaber_Training_2.jpg
 ALTA/ALTApromo_Luke_s_Illusion_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Luke_s_Illusion_B.jpg
@@ -3212,7 +3213,7 @@ BOTS/BOTS015_Han_Solo_E2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 BOTS/BOTS016_I_Can_t_See.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS016_I_Can_t_See.jpg	
 BOTS/BOTS017_I_Know_That_Laugh.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS017_I_Know_That_Laugh.jpg	
 BOTS/BOTS018_I_Owe_You_One.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS018_I_Owe_You_One.jpg	
-BOTS/BOTS019_Jabba_the_Hutt_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS019_Jabba_the_Hutt_G.jpg	
+BOTS/BOTS019_Jabba_The_Hutt_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS019_Jabba_The_Hutt_G.jpg	
 BOTS/BOTS020_Jabba_s_Entertainers_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS020_Jabba_s_Entertainers_A.jpg	
 BOTS/BOTS021_Jabba_s_Entourage_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS021_Jabba_s_Entourage_A.jpg	
 BOTS/BOTS022_Jabba_s_Sail_Barge_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/BOTS/BOTS022_Jabba_s_Sail_Barge_C.jpg	
