@@ -1248,7 +1248,7 @@ ALTA/ALTApromo_In_A_Galaxy_Far_Far_Away_6.jpg	https://raw.githubusercontent.com/
 ALTA/ALTApromo_In_A_Galaxy_Far_Far_Away_7.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_In_A_Galaxy_Far_Far_Away_7.jpg
 ALTA/ALTApromo_In_A_Galaxy_Far_Far_Away_8.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_In_A_Galaxy_Far_Far_Away_8.jpg
 ALTA/ALTApromo_Jabba_s_Escort.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jabba_s_Escort.jpg
-ALTA/ALTApromo_Jabba_the_Hutt_J.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jabba_the_Hutt_J.jpg
+ALTA/ALTApromo_Jabba_The_Hutt_J.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jabba_The_Hutt_J.jpg
 ALTA/ALTApromo_Japor_Snippet_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Japor_Snippet_A.jpg
 ALTA/ALTApromo_Jedi_Ace_Squadron_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jedi_Ace_Squadron_B.jpg
 ALTA/ALTApromo_Jedi_Master_and_Apprentice_O_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Jedi_Master_and_Apprentice_O_1.jpg
