@@ -715,7 +715,8 @@ ALTA/ALTApromo_Return_of_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SW
 ALTA/ALTApromo_Revenge_of_the_Sith.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Revenge_of_the_Sith.jpg	
 ALTA/ALTApromo_Star_Wars_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_1.jpg	
 ALTA/ALTApromo_Star_Wars_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_2.jpg	
-ALTA/ALTApromo_Star_Wars_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_3.jpg	
+ALTA/ALTApromo_Star_Wars_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_3.jpg
+ALTA/ALTApromo_Star_Wars_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_4.jpg
 ALTA/ALTApromo_Star_Wars_5.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_5.jpg	
 ALTA/ALTApromo_Star_Wars_6.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_6.jpg	
 ALTA/ALTApromo_Star_Wars_7.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_7.jpg	
