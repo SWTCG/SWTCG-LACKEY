@@ -1,4 +1,4 @@
-starwars	10-04-23
+starwars	10-05-23
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/twinsuns.jpg	9666
@@ -103,7 +103,7 @@ plugins/starwars/packs/WAE.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/15TH.txt	2699937
 plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AAA.txt	4604266
 plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AGD.txt	7460011
-plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ALTA.txt	19872079
+plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ALTA.txt	19769841
 plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ANH.txt	3313862
 plugins/starwars/sets/AOTC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AOTC.txt	2623120
 plugins/starwars/sets/BAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BAE.txt	4882671
