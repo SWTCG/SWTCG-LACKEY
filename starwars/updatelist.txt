@@ -1111,7 +1111,7 @@ ALTA/ALTA381_Luke_Skywalker_P2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTA382_Luke_s_Promise.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA382_Luke_s_Promise.jpg	
 ALTA/ALTA383_Luke_s_Shuttle_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA383_Luke_s_Shuttle_A.jpg	
 ALTA/ALTA384_Magnaguard_Escort.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA384_Magnaguard_Escort.jpg	
-ALTA/ALTA385_Maz_s_Cantina_Band.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA385_Maz_s_Cantina_Band.jpg	
+ALTA/ALTA385_Maz_s_Cantina_Band_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA385_Maz_s_Cantina_Band_A.jpg	
 ALTA/ALTA386_Medal_of_Bravery.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA386_Medal_of_Bravery.jpg	
 ALTA/ALTA387_Millennium_Falcon_N2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA387_Millennium_Falcon_N2.jpg	
 ALTA/ALTA388_Millennium_Falcon_O2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTA388_Millennium_Falcon_O2.jpg	
