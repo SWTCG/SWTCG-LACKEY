@@ -1302,6 +1302,7 @@ ALTA/ALTApromo_Tatooine_Suns_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTApromo_The_Dark_Side_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Dark_Side_1.jpg	
 ALTA/ALTApromo_The_Dark_Side_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Dark_Side_2.jpg	
 ALTA/ALTApromo_The_Empire_Strikes_Back.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Empire_Strikes_Back.jpg	
+ALTA/ALTApromo_The_Final_Battle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Final_Battle.jpg
 ALTA/ALTApromo_The_Force_Awakens.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Force_Awakens.jpg	
 ALTA/ALTApromo_The_Last_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Last_Jedi.jpg	
 ALTA/ALTApromo_The_Light_Side_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Light_Side_1.jpg	
@@ -1315,7 +1316,7 @@ ALTA/ALTApromo_The_Story_Lives_Forever_2.jpg	https://raw.githubusercontent.com/S
 ALTA/ALTApromo_Trapped_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trapped_1.jpg	
 ALTA/ALTApromo_Trapped_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trapped_2.jpg	
 ALTA/ALTApromo_Trooper_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trooper_1.jpg	
-ALTA/ALTApromo_Trooper_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trooper_1.jpg	
+ALTA/ALTApromo_Trooper_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trooper_2.jpg	
 ALTA/ALTApromo_Trooper_1138_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trooper_1138_1.jpg	
 ALTA/ALTApromo_Trooper_1138_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Trooper_1138_2.jpg	
 ALTA/ALTApromo_Victory_Celebration_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Victory_Celebration_1.jpg	
