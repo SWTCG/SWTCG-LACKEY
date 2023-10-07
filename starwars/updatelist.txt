@@ -1,4 +1,4 @@
-starwars	10-05-23
+starwars	10-07-23
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/twinsuns.jpg	9666
@@ -21,7 +21,7 @@ images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.github
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
 plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/plugininfo.txt	734221
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/pluginpreferences.txt	325896
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/pluginpreferences.txt	316825
 plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/uninstall.txt	2851244
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/ListOfCardDataFiles.txt	240213
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/formats.txt	163450
@@ -103,7 +103,7 @@ plugins/starwars/packs/WAE.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/15TH.txt	2699937
 plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AAA.txt	4604266
 plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AGD.txt	7460011
-plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ALTA.txt	19769841
+plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ALTA.txt	19834172
 plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ANH.txt	3313862
 plugins/starwars/sets/AOTC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/AOTC.txt	2623120
 plugins/starwars/sets/BAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BAE.txt	4882671
@@ -111,7 +111,7 @@ plugins/starwars/sets/BEP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/BF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BF.txt	3035986
 plugins/starwars/sets/BH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BH.txt	2253979
 plugins/starwars/sets/BL.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BL.txt	8823671
-plugins/starwars/sets/BOBF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOBF.txt	5512328
+plugins/starwars/sets/BOBF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOBF.txt	5510721
 plugins/starwars/sets/BOC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOC.txt	4204416
 plugins/starwars/sets/BOE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOE.txt	3824889
 plugins/starwars/sets/BOH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOH.txt	1641899
@@ -119,7 +119,7 @@ plugins/starwars/sets/BOSB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOTS.txt	4481151
 plugins/starwars/sets/BOY.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/BOY.txt	2344311
 plugins/starwars/sets/CAD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/CAD.txt	3413344
-plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/CWSO.txt	2548055
+plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/CWSO.txt	2548136
 plugins/starwars/sets/DAN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/DAN.txt	4653888
 plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/EAW.txt	1164966
 plugins/starwars/sets/EE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/EE.txt	2603038
@@ -139,7 +139,7 @@ plugins/starwars/sets/PM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 plugins/starwars/sets/RAS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RAS.txt	2527144
 plugins/starwars/sets/RAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RAW.txt	2816352
 plugins/starwars/sets/RO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RO.txt	5606034
-plugins/starwars/sets/RO2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RO2.txt	1905101
+plugins/starwars/sets/RO2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RO2.txt	1905797
 plugins/starwars/sets/ROTJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ROTJ.txt	2281998
 plugins/starwars/sets/ROTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/ROTS.txt	2304685
 plugins/starwars/sets/RS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RS.txt	4590489
