@@ -1,4 +1,4 @@
-starwars	10-07-23
+starwars	10-07-23	
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/images/avatars/twinsuns.jpg	9666
@@ -134,6 +134,7 @@ plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/sets/JG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/JG.txt	2849674
 plugins/starwars/sets/JK.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/JK.txt	2859631
 plugins/starwars/sets/KAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/KAE.txt	5829805
+plugins/starwars/sets/MAM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/MAM.txt	0
 plugins/starwars/sets/MAND.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/MAND.txt	2097840
 plugins/starwars/sets/PM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/PM.txt	1958942
 plugins/starwars/sets/RAS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/RAS.txt	2527144
@@ -715,8 +716,8 @@ ALTA/ALTApromo_Return_of_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SW
 ALTA/ALTApromo_Revenge_of_the_Sith.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Revenge_of_the_Sith.jpg	
 ALTA/ALTApromo_Star_Wars_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_1.jpg	
 ALTA/ALTApromo_Star_Wars_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_2.jpg	
-ALTA/ALTApromo_Star_Wars_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_3.jpg
-ALTA/ALTApromo_Star_Wars_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_4.jpg
+ALTA/ALTApromo_Star_Wars_3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_3.jpg	
+ALTA/ALTApromo_Star_Wars_4.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_4.jpg	
 ALTA/ALTApromo_Star_Wars_5.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_5.jpg	
 ALTA/ALTApromo_Star_Wars_6.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_6.jpg	
 ALTA/ALTApromo_Star_Wars_7.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_Star_Wars_7.jpg	
@@ -1302,7 +1303,7 @@ ALTA/ALTApromo_Tatooine_Suns_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTApromo_The_Dark_Side_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Dark_Side_1.jpg	
 ALTA/ALTApromo_The_Dark_Side_2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Dark_Side_2.jpg	
 ALTA/ALTApromo_The_Empire_Strikes_Back.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Empire_Strikes_Back.jpg	
-ALTA/ALTApromo_The_Final_Battle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Final_Battle.jpg
+ALTA/ALTApromo_The_Final_Battle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Final_Battle.jpg	
 ALTA/ALTApromo_The_Force_Awakens.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Force_Awakens.jpg	
 ALTA/ALTApromo_The_Last_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Last_Jedi.jpg	
 ALTA/ALTApromo_The_Light_Side_1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTApromo_The_Light_Side_1.jpg	
@@ -5461,6 +5462,15 @@ KAE/KAEsub_Selkath_Guard_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 KAE/KAEsub_Sith_Guard_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/KAE/KAEsub_Sith_Guard_Squad.jpg	
 KAE/KAEsub_Star_Forge_Assault_Droid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/KAE/KAEsub_Star_Forge_Assault_Droid.jpg	
 KAE/KAEsub_Star_Forge_Starfighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/KAE/KAEsub_Star_Forge_Starfighter.jpg	
+MAM/MAMsub_Abde_Akaan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Abde_Akaan_A.jpg	
+MAM/MAMsub_Acht_Ahhn_Siseneg_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Acht_Ahhn_Siseneg_A.jpg	
+MAM/MAMsub_Augosadam_Vok_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Augosadam_Vok_A.jpg	
+MAM/MAMsub_Dara_Talmav_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Dara_Talmav_A.jpg	
+MAM/MAMsub_Mitra_Kryze_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Mitra_Kryze_A.jpg	
+MAM/MAMsub_No_ah_Irelan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_No_ah_Irelan_A.jpg	
+MAM/MAMsub_Powered_Bounty_Guard_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Powered_Bounty_Guard_A.jpg	
+MAM/MAMsub_Tectus_taurus_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Tectus_taurus_A.jpg	
+MAM/MAMsub_Thoradin_Valaac_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Thoradin_Valaac_A.jpg	
 MAND/Alliance_with_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAND/Alliance_with_the_Jedi.jpg	
 MAND/Alliance_with_the_Sith.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAND/Alliance_with_the_Sith.jpg	
 MAND/Bardan_Jusik_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAND/Bardan_Jusik_A.jpg	
@@ -10193,7 +10203,7 @@ WAE/WAE030_Trandoshan_Slavers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 15TH/15thpromo_Rebuilding_the_Order.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_Rebuilding_the_Order.jpg	
 15TH/15thpromo_Sacrificial_Rituals.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_Sacrificial_Rituals.jpg	
 15TH/15thpromo_Warlords.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_Warlords.jpg	
-15TH/15thpromo_10,000_Death_Stars_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_10,000_Death_Stars_A.jpg	
+"15TH/15thpromo_10,000_Death_Stars_A.jpg"	"https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_10,000_Death_Stars_A.jpg"	
 15TH/15thpromo_All_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_All_the_Jedi.jpg	
 15TH/15thpromo_Codebreaking.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_Codebreaking.jpg	
 15TH/15thpromo_Emperor_Palpatine_V.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/15TH/15thpromo_Emperor_Palpatine_V.jpg	

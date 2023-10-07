@@ -22,6 +22,7 @@
 <set>BAE</set>
 <set>WAE</set>
 <set>ALTA</set>
+<set>MAM</set>
 </format>
 
 <format>
