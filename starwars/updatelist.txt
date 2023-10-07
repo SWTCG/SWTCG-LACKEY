@@ -1383,7 +1383,7 @@ ALTA/ALTAsub_Transport_Pod.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 ALTA/ALTAsub_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Trooper.jpg	
 ALTA/ALTAsub_Tusken_Raider.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Tusken_Raider.jpg	
 ALTA/ALTAsub_Vader_s_TIE_Escort.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Vader_s_TIE_Escort.jpg	
-ALTA/Ignore_message_this_is_a_test.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/Ignore_message_this_is_a_test.jpg	
+ALTA/ALTAsub_Victory_Celebrant.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/ALTA/ALTAsub_Victory_Celebrant.jpg	
 ANH/ANH001_Admiral_Motti_A.jpg	http://raw.githubusercontent.com/swtcg/swtcg-lackey/ALTA/starwars/sets/setimages/ANH/ANH001_Admiral_Motti_A.jpg	
 ANH/ANH002_Beru_Lars_A.jpg	http://raw.githubusercontent.com/swtcg/swtcg-lackey/ALTA/starwars/sets/setimages/ANH/ANH002_Beru_Lars_A.jpg	
 ANH/ANH003_Blaster_Barrage.jpg	http://raw.githubusercontent.com/swtcg/swtcg-lackey/ALTA/starwars/sets/setimages/ANH/ANH003_Blaster_Barrage.jpg	
