@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>230811</dateYYMMDD>
+<dateYYMMDD>231006</dateYYMMDD>
 
 <removepath>sets/setimages/WAE/WAE014_0_0_0_A.jpg</removepath>
 <removepath>sets/setimages/WAE/WAE017_Assault_Raiders.jpg</removepath>
