@@ -5464,9 +5464,11 @@ KAE/KAEsub_Star_Forge_Assault_Droid.jpg	https://raw.githubusercontent.com/SWTCG/
 KAE/KAEsub_Star_Forge_Starfighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/KAE/KAEsub_Star_Forge_Starfighter.jpg	
 MAM/MAMsub_Abde_Akaan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Abde_Akaan_A.jpg	
 MAM/MAMsub_Acht_Ahhn_Siseneg_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Acht_Ahhn_Siseneg_A.jpg	
-MAM/MAMsub_Augisadam_Vok_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Augisadam_Vok_A.jpg	
+MAM/MAMsub_Augisadan_Vok_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Augisadan_Vok_A.jpg	
 MAM/MAMsub_Dara_Talmav_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Dara_Talmav_A.jpg	
 MAM/MAMsub_Mitra_Kryze_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Mitra_Kryze_A.jpg	
+MAM/MAMsub_Mercenary_Team_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Mercenary_Team_A.jpg	
+MAM/MAMsub_Mercenary_Starfighter_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Mercenary_Starfighter_A.jpg	
 MAM/MAMsub_No_ah_Irelan_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_No_ah_Irelan_A.jpg	
 MAM/MAMsub_Powered_Bounty_Guard_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Powered_Bounty_Guard_A.jpg	
 MAM/MAMsub_Tectus_taurus_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/sets/setimages/MAM/MAMsub_Tectus_taurus_A.jpg	
