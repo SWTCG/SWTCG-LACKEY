@@ -892,4 +892,14 @@
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
 </pack>
+<pack>
+	<packtitle>Make A Mando</packtitle>
+	<packimage>MAM</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>MAM</data></packcommoncrit>
+	<chance>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+	</chance>
+</pack>
 </packdefinitions>

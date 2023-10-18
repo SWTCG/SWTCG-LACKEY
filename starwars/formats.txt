@@ -11,6 +11,11 @@
 </format>
 
 <format>
+<label>Make A Mando</label>
+<set>MAM</set>
+</format>
+
+<format>
 <label>Standard</label>
 <set>FOR</set>
 <set>BOTS</set>
