@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>231006</dateYYMMDD>
+<dateYYMMDD>231018</dateYYMMDD>
 
 <removepath>sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_0.jpg</removepath>
 <removepath>sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_2.jpg</removepath>

@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>231004</lastupdateYYMMDD>
+<lastupdateYYMMDD>231019</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/updatelist.txt</updateurl>
-<message>ALTA Playtest</message>
+<message>ALTA and MAM release</message>
 
 </version>
