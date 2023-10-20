@@ -44,6 +44,7 @@ plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWT
 plugins/starwars/packs/15TH.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/AGD.jpg	532512
+plugins/starwars/packs/ALTA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/ALTA.jpg	532512
 plugins/starwars/packs/anh.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/anh.jpg	509491
 plugins/starwars/packs/aotc.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/aotc.jpg	542338
 plugins/starwars/packs/BAE.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/ALTA/starwars/packs/BAE.jpg	2856322
