@@ -27,7 +27,7 @@ def processULCard(imageFrag, currentSet, cards):
 
 def processSetFile(setCode):
 	cards = {}
-	with io.open(constructSetFilePath(setCode), "r", encoding='cp1252') as setFile:
+	with io.open(constructSetFilePath(setCode), "r", encoding='ISO-8859-1') as setFile:
 		firstLine = True
 		for line in setFile:
 			if firstLine:
@@ -45,7 +45,7 @@ def processSetFile(setCode):
 
 
 def processUpdateList():
-	with io.open(basePluginPath + "updatelist.txt", "r", encoding='cp1252') as updateList:
+	with io.open(basePluginPath + "updatelist.txt", "r", encoding='ISO-8859-1') as updateList:
 		counter = 0
 
 		# Skip down to the actual cards

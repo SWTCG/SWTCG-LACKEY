@@ -1,0 +1,12 @@
+Name	Set	ImageFile	Side	Type	Subtype	Cost	Speed	Power	Health	Rarity	Number	Usage	Text	Script	Classification
+Abde Akaan (A)	MAM	MAMsub_Abde_Akaan_A	N	Subordinate	Character - Mandalorian Mercenary		30	3	3	S			Avenge 3 | [Tap] -> Disrupt an activated or triggered ability		
+Acht'Ahhn Siseneg (A)	MAM	MAMsub_Acht_Ahhn_Siseneg_A	N	Subordinate	Character - Mandalorian Mercenary		50	3	3	S			Avenge 3 | Armor		
+Augisadan Vok (A)	MAM	MAMsub_Augisadan_Vok_A	N	Subordinate	Character - Mandalorian Mercenary		50	3	3	S			Accuracy 1 | Critical Hit 2		
+Dara Talmav (A)	MAM	MAMsub_Dara_Talmav_A	N	Subordinate	Character - Mandalorian Mercenary		30	2	4	S			Area Damage 2 | Avenge 2		
+Mitra Kryze (A)	MAM	MAMsub_Mitra_Kryze_A	N	Subordinate	Character - Mandalorian Mercenary		30	3	3	S			Accuracy 1 | Fury 3		
+Mercenary Team (A)	MAM	MAMsub_Mercenary_Team_A	N	Subordinate	Ground - Mandalorian Mercenary Squad		50	3	3	S			Accuracy 1 | Avenge 3		
+Mercenary Starfighter	MAM	MAMsub_Mercenary_Starfighter_A	N	Subordinate	Space - Mandalorian Mercenary Starfighter		50	3	3	S			Velocity 20 | Bombard 2		
+No'ah Irelan (A)	MAM	MAMsub_No_ah_Irelan_A	N	Subordinate	Character - Mandalorian Mercenary		50	3	3	S			Fury 3 | Armor		
+Powered Bounty Guard (A)	MAM	MAMsub_Powered_Bounty_Guard_A	N	Subordinate	Character - Mandalorian Mercenary		60	2	3	S			Stun 3 | [Tap] -> Draw a card.		
+Tectus'taurus (A)	MAM	MAMsub_Tectus_taurus_A	N	Subordinate	Character - Mandalorian Mercenary		40	3	3	S			Critical Hit 2 | Armor		
+Thoradin Valaac (A)	MAM	MAMsub_Thoradin_Valaac_A	N	Subordinate	Character - Mandalorian Mercenary		50	3	3	S			Accuracy 1 | Armor		
