@@ -4,6 +4,6 @@
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>ALTA and MAM release</message>
+<message>ALTA and MAM hotfix</message>
 
 </version>
