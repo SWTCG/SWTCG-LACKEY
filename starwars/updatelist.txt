@@ -1184,8 +1184,8 @@ ALTA/ALTApromo_Acquiring_Transport_1.jpg	https://lackey.swtcg.com/starwars/sets/
 ALTA/ALTApromo_Acquiring_Transport_2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Acquiring_Transport_2.jpg	
 ALTA/ALTApromo_Across_the_Stars_1.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Across_the_Stars_1.jpg	
 ALTA/ALTApromo_Across_the_Stars_2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Across_the_Stars_2.jpg	
-ALTA/ALTApromo_Alliance_General_A_1.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Alliance_General_1.jpg	
-ALTA/ALTApromo_Alliance_General_A_2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Alliance_General_2.jpg	
+ALTA/ALTApromo_Alliance_General_A_1.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Alliance_General_A_1.jpg	
+ALTA/ALTApromo_Alliance_General_A_2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Alliance_General_A_2.jpg	
 ALTA/ALTApromo_Anakin_Skywalker_B2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_B2.jpg	
 ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_1.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_1.jpg	
 ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTApromo_Anakin_Skywalker_s_Lightsaber_F_2.jpg	
