@@ -1,13 +1,18 @@
 <formatdefinitions>
 
 <format>
+<label>A Long Time Ago</label>
+<set>ALTA</set>
+</format>
+
+<format>
 <label>Worst Among Equals</label>
 <set>WAE</set>
 </format>
 
 <format>
-<label>A Long Time Ago</label>
-<set>ALTA</set>
+<label>Make A Mando</label>
+<set>MAM</set>
 </format>
 
 <format>
@@ -16,13 +21,13 @@
 <set>BOTS</set>
 <set>TMW</set>
 <set>BOBF</set>
-<set>IA</set>
 <set>EAW</set>
 <set>BEP</set>
 <set>GPC</set>
 <set>BAE</set>
 <set>WAE</set>
 <set>ALTA</set>
+<set>MAM</set>
 </format>
 
 <format>
