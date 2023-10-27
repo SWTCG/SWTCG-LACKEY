@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>231021</lastupdateYYMMDD>
+<lastupdateYYMMDD>231027</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>ALTA and MAM hotfix</message>
+<message>ALTA fixes</message>
 
 </version>
