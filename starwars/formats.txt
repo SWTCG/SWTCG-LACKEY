@@ -1,13 +1,23 @@
 <formatdefinitions>
 
+
 <format>
 <label>A Long Time Ago</label>
 <set>ALTA</set>
 </format>
 
 <format>
-<label>Worst Among Equals</label>
-<set>WAE</set>
+<label>ALTA and Movies</label>
+<set>ALTA</set>
+<set>PM</set>
+<set>AOTC</set>
+<set>ROTS</set>
+<set>ANH</set>
+<set>ESB</set>
+<set>ROTJ</set>
+<set>TFA</set>
+<set>TLJ</set>
+<set>TROS</set>
 </format>
 
 <format>
@@ -49,16 +59,6 @@
 <set>ION</set>
 <set>BOH</set>
 </format>
-
-<format>
-<label>World Championship 2022</label>
-<set>ANH</set>
-<set>BOY</set>
-<set>ESB</set>
-<set>RAS</set>
-<set>ROTJ</set>
-</format>
-
 
 
 <format>

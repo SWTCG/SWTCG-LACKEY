@@ -1,6 +1,15 @@
 <uninstall>
 
-<dateYYMMDD>231020</dateYYMMDD>
+<dateYYMMDD>231026</dateYYMMDD>
+
+<removepath>sets/setimages/BOBF/BOBF113_Din_s_N_1_Starfighter_C.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA411_Resistance_Control_Team.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA406_Rebel_Control_Team.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA339_Elite_Wookiee_Drop_Squad.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA304_Alliance_General_A.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA252_Order_66_Clone_Squad.jpg</removepath>
+<removepath>sets/setimages/CWSO/SO001_Anakin_Skywalker_T.jpg</removepath>
+<removepath>sets/setimages/CWSO/SO004_Darth_Sidious_M.jpg</removepath>
 
 <removepath>sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_0.jpg</removepath>
 <removepath>sets/setimages/ALTA/ALTApromo_A_Long_Time_Ago_2.jpg</removepath>
