@@ -673,7 +673,7 @@ Separatist Droid Escort	ALTA	ALTAsub_Separatist_Droid_Escort	D	Subordinate	Space
 Separatist Squadron	ALTA	ALTAsub_Separatist_Squadron	D	Subordinate	Space/Ground - Separatist Trade Federation Droid Squadron		50	3	3	S			When the battle phase ends, return this unit to your supply.		EP123, REP, CW
 Sith Detachment	ALTA	ALTAsub_Sith_Detachment	D	Subordinate	Space/Ground - Final Order Sith Eternal Squadron		40	4	4	S			Pay 1 Force -> Intercept		EP789, RES
 Soldiers	ALTA	ALTAsub_Soldiers	N	Subordinate	Character - Soldier Squad		60	2	2	S					EP789, RES
-Space Debris	ALTA	ALTAsub_Space_Debris	D	Subordinate	Space - Garbage		10	0	1	S			Return this unit to your supply -> Gain 1 build point. Play only during your build step.		EP789, RES
+Space Debris	ALTA	ALTAsub_Space_Debris	D	Subordinate	Space - Garbage		0	1	1	S			Return this unit to your supply -> Gain 1 build point. Play only during your build step.		EP789, RES
 Space Garbage	ALTA	ALTAsub_Space_Garbage	N	Subordinate	Space - Garbage		10	0	2	S					EP456, REB
 Space Stormtrooper	ALTA	ALTAsub_Space_Stormtrooper	D	Subordinate	Space/Character - Imperial Stormtrooper		30	2	2	S			None/+20 speed, Critical Hit 1		EP456, REB
 Spare Parts Canister	ALTA	ALTAsub_Spare_Parts_Canister	L	Subordinate	Space - Device		10	0	1	S			Return this unit to your supply -> Draw a card		EP123, REP
