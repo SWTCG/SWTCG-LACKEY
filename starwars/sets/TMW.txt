@@ -219,7 +219,7 @@ Magistrate's Guard	TMW	TMWsub_Magistrate_s_Guard	D	Subordinate	Ground/Character 
 Mining Collective Enforcer	TMW	TMWsub_Mining_Collective_Enforcer	N	Subordinate	Ground/Character - Mining Collective Crime Gang		50	3	2	S			[tap] -> Tap one of your opponent's Villagers or Subordinates in this arena.		NEW, MV
 Mos Pelgo Villager	TMW	TMWsub_Mos_Pelgo_Villager	N	Subordinate	Ground/Character - Tatooine Villager		40	2	1	S			Backfire 1 | Surge 1		NEW, MV
 Outland TIE Fighter	TMW	TMWsub_Outland_TIE_Fighter	D	Subordinate	Space/Ground - Imperial Remnant Starfighter		60	2	2	S			Switch: Surge 1 / Armor		NEW, MV
-Remnant Escort Trooper	TMW	TMWsub_Remnant_Escort_Trooper	D	Subordinate	Imperial Remnant Stormtrooper		30	2	1	S			Your opponent's units can use Ambush without paying the activation cost and can roll an extra die for Avenge.		NEW, MV
+Remnant Escort Trooper	TMW	TMWsub_Remnant_Escort_Trooper	D	Subordinate	Character - Imperial Remnant Stormtrooper		30	2	1	S			Your opponent's units can use Ambush without paying the activation cost and can roll an extra die for Avenge.		NEW, MV
 Remnant TIE Interdictor	TMW	TMWsub_Remnant_TIE_Interdictor	D	Subordinate	Space - Imperial Remnant Starfighter		50	2	2	S			Pay 0 Force -> Intercept		NEW, MV
 Seismic Charge	TMW	TMWsub_Seismic_Charge	N	Subordinate	Space/Ground - Munition		50	0	1	S			Return this unit to your supply -> Put 1 damage counter each on up to 2 units in this arena. Play only when this unit would attack.		NEW, MV
 Stormtrooper Attack Squad	TMW	TMWsub_Stormtrooper_Attack_Squad	D	Subordinate	Ground - Imperial Remnant Stormtrooper Squad		50	2	2	S					NEW, MV

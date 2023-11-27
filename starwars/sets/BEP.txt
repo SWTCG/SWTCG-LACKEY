@@ -29,8 +29,8 @@ Poodoo!	BEP	BEP027_Poodoo	D	Mission - Trap		2				C	27		When you deploy, move, or
 Quadra Podracer	BEP	BEP028_Quadra_Podracer	N	Ground	Tatooine Podracer Entertainer Speeder	3	70	4	1	C	28		Velocity 20 | Area Damage 4 | Pay 0 Force -> This unit gets Ion Cannon 4 until end of turn ends. Discard this unit when the turn ends.		REP
 Tatooine Podracer	BEP	BEP029_Tatooine_Podracer	N	Ground	Tatooine Podracer Entertainer Speeder	3	70	2	3	C	29		Velocity 5 times X, where X is the number of Podracers in this arena. | Bounty: Gain 1 build point | Resilience 1		REP
 That's Gotta Hurt!	BEP	BEP030_That_s_Gotta_Hurt	N	Battle						C	30		Pay 1 Force -> Do 4 dice of damage to one of your opponent's units in any arena. Play only after that arena's battle step starts. | Enhance: Pay 4 more Force -> Do X dice of damage to that unit, where X is that unit's total speed divided by 10 instead.		REP
-Flag Bearers	BEP	BEPsub_Flag_Bearers	N	Subordinate	Tatooine Entertainer Squad		30	1	3	S			Return this unit to your supply -> Each Podracer costs 1 less build counter to deploy until end of turn.		REP
-Pit Droid	BEP	BEPsub_Pit_Droid	N	Subordinate	Tatooine Mechanic Droid		30	1	1	S			INSERT: Damage Control 1		REP
-Podracing Fans	BEP	BEPsub_Podracing_Fans	N	Subordinate	Anx Tatooine Squad		30	3	3	S			[Tap] -> Draw a card. Play only when a Podracer taps.	<s><l>Tap to draw a card</l><f>/cr90;/d1;/s taps Podracing Fans to draw a card from their deck because a Podracer has tapped</f></s>	REP
-Tatooine Food Vendor	BEP	BEPsub_Tatooine_Food_Vendor	N	Subordinate	Xexto Tatooine Merchant		20	1	2	S			[Tap] -> Add 1 counter to your Resource		REP
+Flag Bearers	BEP	BEPsub_Flag_Bearers	N	Subordinate	Ground - Tatooine Entertainer Squad		30	1	3	S			Return this unit to your supply -> Each Podracer costs 1 less build counter to deploy until end of turn.		REP
+Pit Droid	BEP	BEPsub_Pit_Droid	N	Subordinate	Character - Tatooine Mechanic Droid		30	1	1	S			INSERT: Damage Control 1		REP
+Podracing Fans	BEP	BEPsub_Podracing_Fans	N	Subordinate	Ground/Character - Anx Tatooine Squad		30	3	3	S			[Tap] -> Draw a card. Play only when a Podracer taps.	<s><l>Tap to draw a card</l><f>/cr90;/d1;/s taps Podracing Fans to draw a card from their deck because a Podracer has tapped</f></s>	REP
+Tatooine Food Vendor	BEP	BEPsub_Tatooine_Food_Vendor	N	Subordinate	Ground - Xexto Tatooine Merchant		20	1	2	S			[Tap] -> Add 1 counter to your Resource		REP
 Tusken Camper	BEP	BEPsub_Tusken_Camper	N	Subordinate	Ground/Character - Tatooine Tusken Warrior		40	2	2	S			Switch: Stealth/Bombard 2		REP
