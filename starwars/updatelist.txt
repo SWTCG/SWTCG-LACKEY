@@ -10251,7 +10251,7 @@ VV1/VV111_Lop_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/sta
 VV1/VV112_Ocho_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV112_Ocho_A.jpg
 VV1/VV113_Restored_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV113_Restored_Jedi.jpg
 VV1/VV114_Sith_Hunters.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV114_Sith_Hunters.jpg
-VV1/VV115_Sith_Master_and_Apprentice_O.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV115_Sith Master_and_Apprentice_O.jpg
+VV1/VV115_Sith_Master_and_Apprentice_O.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV115_Sith_Master_and_Apprentice_O.jpg
 VV1/VV116_Akakiri.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV116_Akakiri.jpg
 VV1/VV117_F_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV117_F_A.jpg
 VV1/VV118_Hy_Izlan_Temple.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV1/starwars/sets/setimages/VV1/VV118_Hy_Izlan_Temple.jpg
