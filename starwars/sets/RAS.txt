@@ -104,3 +104,4 @@ TIE Fighter	RAS	RAS102_TIE_Fighter	D	Space	Imperial Starfighter	2	40	2	1	C	102		
 Tusken Warrior	RAS	RAS103_Tusken_Warrior	N	Character	Tusken	5	30	4	5	C	103		Damage from this unit's attack can't be prevented.		WOTC, REB, EP456
 Unmodified Snowspeeder	RAS	RAS104_Unmodified_Snowspeeder	L	Ground	Rebel Speeder	3	60	4	5	C	104		Upkeep: Put 1 damage counter on this unit.		WOTC, REB, EP456
 X-Wing Escort	RAS	RAS105_X_wing_Escort	L	Space	Rebel Starfighter	3	50	2	2	C	105		Accuracy 1 | Shields 1 | This unit gets +2 power as long as you have another Starfighter in the Space arena.		WOTC, REB, EP456
+Boba Fett (C) (PRE)	RAS	PRE004_Boba_Fett_C	N	Character	Bounty Hunter	6	60	6	4	P			Bounty: 2 build points.		WOTC, REB, EP456

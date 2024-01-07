@@ -109,3 +109,4 @@ Unity of the Jedi	ROTS	ROTS107_Unity_of_the_Jedi_HD	L	Battle						C	107	Text err
 Utapau Sinkhole	ROTS	ROTS108_Utapau_Sinkhole_HD	N	Location	Ground Aquatic	1				C	108		Each Ground unit loses 1 power and 10 speed unless it's a Creature or Aquatic.		WOTC, REP, CW
 Vulture Droid Starfighter	ROTS	ROTS109_Vulture_Droid_Starfighter_HD	D	Space	Trade Federation Droid Starfighter	3	40	3	2	C	109		Critical Hit 1		WOTC, REP, CW
 V-wing Clone Starfighter	ROTS	ROTS110_V-wing_Clone_Starfighter_HD	L	Space	Republic Starfighter	3	50	3	2	C	110		When this unit is discarded from the Space arena, draw a card.		WOTC, REP, CW
+Anakin's Starfighter (A) (PRE)	ROTS	PRE005_Anakin_s_Starfighter_A	L	Space	Jedi Starfighter	4	60	3	3	P			Pay 1 Force -> Evade 1 | Critical Hit 1 | Equipment costs 1 less Force and 1 less build point to attach to this unit.		WOTC, REP, CW

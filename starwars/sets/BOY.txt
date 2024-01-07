@@ -104,3 +104,4 @@ Visit to Mos Eisley	BOY	BOY102_Visit_to_Mos_Eisley	N	Mission		4				C	102		Remove
 X-wing Red Squadron	BOY	BOY103_X_wing_Red_Squadron	L	Space	Rebel Squadron	6	50	5	4	C	103		Accuracy 1		WOTC, REB, EP456
 X-wing Red Ten	BOY	BOY104_X_wing_Red_Ten	L	Space	Rebel Starfighter	3	60	3	2	C	104				WOTC, REB, EP456
 Y-wing Gold Two	BOY	BOY105_Y_wing_Gold_Two	L	Space	Rebel Starfighter	3	50	2	1	C	105		Critical Hit 1 | Pay 1 Force -> Retaliate 2		WOTC, REB, EP456
+Han Solo (A) (PRE)	BOY	PRE001_Han_Solo_A	N	Character	Independent Smuggler	6	50	4	5	P			As long as Han is in the Character arena, draw 1 extra card during your draw step. | Accuracy 1		WOTC, REB, EP456
