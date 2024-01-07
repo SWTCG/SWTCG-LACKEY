@@ -3481,7 +3481,7 @@ BOY/BOY102_Visit_to_Mos_Eisley.jpg	https://lackey.swtcg.com/starwars/sets/setima
 BOY/BOY103_X_wing_Red_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOY103_X_wing_Red_Squadron.jpg	
 BOY/BOY104_X_wing_Red_Ten.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOY104_X_wing_Red_Ten.jpg	
 BOY/BOY105_Y_wing_Gold_Two.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOY105_Y_wing_Gold_Two.jpg	
-BOY/PRE001_Han_Solo_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/PRE001_Han_Solo_A.jpg	
+BOY/BOYpreview_Han_Solo_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOYpreview_Han_Solo_A.jpg	
 CAD/CAD001_41st_Elite_Corps_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD001_41st_Elite_Corps_A.jpg	
 CAD/CAD002_41st_Elite_Corps_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD002_41st_Elite_Corps_B.jpg	
 CAD/CAD003_212th_Attack_Battalion_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/CAD/CAD003_212th_Attack_Battalion_A.jpg	
@@ -4367,8 +4367,8 @@ ESB/ESB207_Visions_of_the_Future.jpg	https://lackey.swtcg.com/starwars/sets/seti
 ESB/ESB208_Well_Earned_Meal.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESB208_Well_Earned_Meal.jpg	
 ESB/ESB209_X_Wing_Rogue_Seven.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESB209_X_Wing_Rogue_Seven.jpg	
 ESB/ESB210_Y_Wing_Gold_Six.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESB210_Y_Wing_Gold_Six.jpg	
-ESB/PRE002_Darth_Vader_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/PRE002_Darth_Vader_G.jpg	
-ESB/PRE003_Yoda_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/PRE003_Yoda_F.jpg	
+ESB/ESBpreview_Darth_Vader_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESBpreview_Darth_Vader_G.jpg	
+ESB/ESBpreview_Yoda_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESBpreview_Yoda_F.jpg	
 FOR/FOR001_A_Simple_Story.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR001_A_Simple_Story.jpg	
 FOR/FOR002_Ahsoka_Tano_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR002_Ahsoka_Tano_K.jpg	
 FOR/FOR003_Ahsoka_Tano_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR003_Ahsoka_Tano_L.jpg	
@@ -5747,7 +5747,7 @@ RAS/RAS102_TIE_Fighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/
 RAS/RAS103_Tusken_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RAS103_Tusken_Warrior.jpg	
 RAS/RAS104_Unmodified_Snowspeeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RAS104_Unmodified_Snowspeeder.jpg	
 RAS/RAS105_X_wing_Escort.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RAS105_X_wing_Escort.jpg	
-RAS/PRE004_Boba_Fett_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/PRE004_Boba_Fett_C.jpg	
+RAS/RASpreview_Boba_Fett_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RASpreview_Boba_Fett_C.jpg	
 RAW/ARC_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAW/ARC_Trooper.jpg	
 RAW/ARC_Trooper_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAW/ARC_Trooper_Squad.jpg	
 RAW/A_Gift.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAW/A_Gift.jpg	
@@ -6391,7 +6391,7 @@ ROTS/ROTS107_Unity_of_the_Jedi_HD.jpg	https://lackey.swtcg.com/starwars/sets/set
 ROTS/ROTS108_Utapau_Sinkhole_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS108_Utapau_Sinkhole_HD.jpg	
 ROTS/ROTS109_Vulture_Droid_Starfighter_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS109_Vulture_Droid_Starfighter_HD.jpg	
 ROTS/ROTS110_V-wing_Clone_Starfighter_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS110_V-wing_Clone_Starfighter_HD.jpg	
-ROTS/PRE005_Anakin_s_Starfighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/PRE005_Anakin_s_Starfighter_A.jpg	
+ROTS/ROTSpreview_Anakin_s_Starfighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTSpreview_Anakin_s_Starfighter_A.jpg	
 RS/RS001_Attack_Position.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS001_Attack_Position.jpg	
 RS/RS002_Baron_Soontir_Fel_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS002_Baron_Soontir_Fel_B.jpg	
 RS/RS003_Black_Asp_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RS/RS003_Black_Asp_A.jpg	
