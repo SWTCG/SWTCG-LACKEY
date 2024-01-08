@@ -89,3 +89,6 @@ Shoot Her or Something	SR	SR087_Shoot_Her_or_Something	N	Battle						C	87		Pay 2
 Super Battle Droid Squad	SR	SR088_Super_Battle_Droid_Squad	D	Ground	Droid Squad	5	30	5	6	C	88				WOTC, REP, CW
 Suppressing Fire	SR	SR089_Suppressing_Fire	N	Battle						C	89	Suppressing Fire is only played during the attack POP.	Pay 2 Force -> One of your units using Bombard to attack a Ground unit gets +4 power for this attack.		WOTC, REP, CW
 Trade Federation Warship	SR	SR090_Trade_Federation_Warship	D	Space	Trade Federation Capital Ship	8	20	8	8	C	90				WOTC, REP, CW
+Darth Maul (B) (Promo)	SR	SRpromo_Darth_Maul_B	D	Character	Dark Jedi - Sith Apprentice	7	60	6	4	P			Pay 2 force -> Evade 2		WOTC, REP
+Mace Windu (B) (Promo)	SR	SRpromo_Mace_Windu_B	L	Character	Jedi Master	7	60	6	5	P			Pay 2 Force -> Evade 2 | Pay 1 Force -> Mace gets +2 power for this attack.		WOTC, REP, CW
+Padme Amidala (E) (Promo)	SR	SRpromo_Padme_Amidala_E	L	Character	Naboo Diplomat	5	40	4	4	P		Text erratum	As long as Padme is in the Character arena, each Light Side Character costs 1 fewer build counters to deploy.		WOTC, REP, CW

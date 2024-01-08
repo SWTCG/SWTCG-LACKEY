@@ -209,5 +209,8 @@ Visions of the Future	ESB	ESB207_Visions_of_the_Future	L	Battle						C	207		Pay 
 Well-Earned Meal	ESB	ESB208_Well_Earned_Meal	N	Mission		2				C	208		This turn, whenever any of your opponent's units is discarded from any arena or his or her build zone, you gain Force equal to that unit's build cost.		WOTC, REB, EP456
 X-wing Rogue Seven	ESB	ESB209_X_Wing_Rogue_Seven	L	Space	Rebel Starfighter	3	50	3	2	C	209		Critical Hit 1		WOTC, REB
 Y-Wing Gold Six	ESB	ESB210_Y_Wing_Gold_Six	L	Space	Rebel Starfighter	3	40	3	2	C	210		Armor		WOTC, REB
-Darth Vader (G) (PRE)	ESB	ESBpreview_Darth_Vader_G	D	Character	Imperial Dark Jedi Knight - Sith Lord	7	50	5	5	P			Pay 3 Force -> Evade 3 | [tap] -> Disrupt a Battle card, unless its controller pays 2 Force.		WOTC, REB, EP456
-Yoda (F) (PRE)	ESB	ESBpreview_Yoda_F	L	Character	Jedi Master	5	30	4	4	P			[tap] -> A Battle card disrupt, unless 2 Force your opponent pays. | 3 Force Pay -> Evade 3		WOTC, REB, EP456
+Darth Vader (G) (Preview)	ESB	ESBpreview_Darth_Vader_G	D	Character	Imperial Dark Jedi Knight - Sith Lord	7	50	5	5	P			Pay 3 Force -> Evade 3 | [tap] -> Disrupt a Battle card, unless its controller pays 2 Force.		WOTC, REB, EP456
+Yoda (F) (Preview)	ESB	ESBpreview_Yoda_F	L	Character	Jedi Master	5	30	4	4	P			[tap] -> A Battle card disrupt, unless 2 Force your opponent pays. | 3 Force Pay -> Evade 3		WOTC, REB, EP456
+Blizzard Force AT-AT (Promo)	ESB	ESBpromo_Blizzard_Force_AT_AT	D	Ground	Imperial Assault Walker	5	20	4	4	P			Accuracy 1 | Armor		WOTC, REB, EP456
+Darth Vader (J) (Promo)	ESB	ESBpromo_Darth_Vader_J	D	Character	Imperial Dark Jedi Knight - Sith Lord	6	40	4	5	P			Armor | Pay 3 Force -> Evade 2 | Pay 3 Force -> Deflect 1		WOTC, REB, EP456
+Lando Calrissian (C) (Promo)	ESB	ESBpromo_Lando_Calrissian_C	N	Character	Bespin Smuggler Diplomat	7	50	4	4	P		A unit must actually be discarded to the discard pile in order to prevent damage to this unit.	Discard one of your other units from any arena or your build zone -> Prevent all damage to Lando. You gain 2 build points next turn.		WOTC, REB, EP456

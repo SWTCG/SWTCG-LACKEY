@@ -181,5 +181,10 @@ Walking Droid Fighter	AOTC	Walking_Droid_Fighter	D	Ground	Trade Federation Droid
 Zam Wesell (B)	AOTC	Zam_Wesell_B	D	Character	Clawdite Bounty Hunter	3	40	3	3	C	180				WOTC, REP
 Anakin Skywalker (C) (Promo)	AOTC	AOTCpromo_Anakin_Skywalker_C	L	Character	Jedi Padawan	5	60	5	4	P			Pay 2 Force -> Evade 2		WOTC, REP, CW
 Clone Warrior 4/163 (Promo)	AOTC	AOTCpromo_Clone_Warrior_4_163	L	Character	Clone Soldier	4	40	4	4	P					WOTC, REP, CW
-Jango Fett (D) (Promo)	AOTC	AOTCpromo_Jango_Fett_D	D	Character	Bounty Hunter	4	50	4	3	P			Critical Hit 1		WOTC, REP
+C-3PO (A) (Promo)	AOTC	AOTCpromo_C_3PO_A	L	Character	Protocol Droid	3	10	1	3	P			[tap], Discard 2 cards from your hand -> Draw 2 cards. Play only during your build step.		WOTC, REP, CW
+Darth Tyranus (B) (Promo)	AOTC	AOTCpromo_Darth_Tyranus_B	D	Character	Dark Jedi Master	7	50	6	4	P			Pay 2 Force -> Tyranus gets Critical Hit 2 for this attack. | Pay 3 Force -> Evade 3		WOTC, REP, CW
+Jango Fett (D) (Promo 1)	AOTC	AOTCpromo_Jango_Fett_D_1	D	Character	Bounty Hunter	4	50	4	3	P			Critical Hit 1		WOTC, REP
+Jango Fett (D) (Promo 2)	AOTC	AOTCpromo_Jango_Fett_D_2	D	Character	Bounty Hunter	4	50	4	3	P			Critical Hit 1		WOTC, REP
+Obi-Wan Kenobi (B) (Promo alt)	AOTC	AOTCpromo_Obi_Wan_Kenobi_B_alternate	L	Character	Jedi Knight	5	40	5	5	P			Pay 2 Force -> Obi-Wan gets Critical Hit 2 for this attack. | Pay 2 Force -> Evade 2 | Pay 1 Force -> Prevent 1 damage to Anakin Skywalker.		WOTC, REP, CW
+Padme Amidala (C) (Promo)	AOTC	AOTCpromo_Padme_Amidala_C	L	Character	Naboo Diplomat	4	50	3	3	P			Put 1 damage counter on Padme and retreat her -> Prevent all damage to Padme.		WOTC, REP
 Zam Wesell (B) (Promo)	AOTC	AOTCpromo_Zam_Wesell_B	D	Character	Clawdite Bounty Hunter	3	40	3	3	P					WOTC, REP
