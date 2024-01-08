@@ -107,4 +107,5 @@ X-Wing Escort	RAS	RAS105_X_wing_Escort	L	Space	Rebel Starfighter	3	50	2	2	C	105	
 Boba Fett (C) (Preview)	RAS	RASpreview_Boba_Fett_C	N	Character	Bounty Hunter	6	60	6	4	P			Bounty: 2 build points.		WOTC, REB, EP456
 Boba Fett (D) (Promo)	RAS	RASpromo_Boba_Fett_D	N	Character	Bounty Hunter	5	50	5	5	P			Upkeep: Pay 1 build point, discard 1 card from your hand, or tap this unit. | Armor | Bounty: Tap one of your opponent's untapped Characters.		WOTC, REB, EP456
 Han Solo (H) (Promo)	RAS	RASpromo_Han_Solo_H	N	Character	Independent Smuggler	4	40	5	5	P		Han third ability works best with power reduction effects.	Upkeep: Pay 1 build point or tap this unit. | Accuracy 1 | When Han is attacked, predict the number of damage that will be done to Han after damage prevention. If you're correct, gain 3 Force.		WOTC, REB, EP456
+Lando's Trickery (Promo)	RAS	RASpromo_Lando_s_Trickery	N	Battle						P			Tap one of your untapped neutral units -> Disrupt a Battle card.		WOTC, REB, EP456
 Slave I (D) (Promo)	RAS	RASpromo_Slave_I_D	N	Space	Patrol Ship	5	40	4	4	P			Slave I can attack Space units in your opponent's build zone.		WOTC, REB, EP456

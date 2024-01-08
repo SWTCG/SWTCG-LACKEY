@@ -181,9 +181,9 @@ Leap into the Chasm	ESB	ESB179_Leap_into_the_Chasm	L	Mission		2				C	179	If mult
 Luke Skywalker (H)	ESB	ESB180_Luke_Skywalker_H	L	Character	Rebel Officer Jedi Padawan	4	50	3	3	C	180		Critical Hit 2 | Pay 3 Force -> Evade 2		WOTC, REB, EP456
 Meditation Chamber	ESB	ESB181_Meditation_Chamber	D	Location	Character	1				C	181		When the turn ends, you gain 1 Force and your opponent loses 1 Force.		WOTC, REB, EP456
 Navy Trooper	ESB	ESB182_Navy_Trooper	D	Character	Imperial Soldier	3	50	2	2	C	182		As long as Darth Vader is in the Character arena, this unit gets +2 power.		WOTC, REB, EP456
+Princess Leia (F)	ESB	ESB183_Princess_Leia_F	L	Character	Rebel Diplomat	5	40	4	4	C	183		Whenever one of your opponent's Characters would damage Leia, prevent that damage unless your opponent pays 2 Force.		WOTC, REB, EP456
 Probe the Galaxy	ESB	ESB184_Probe_the_Galaxy	D	Mission		1				C	184		Search your deck. You may take a Location card from your deck, show it to your opponent, and put it into your hand. Then shuffle your deck.		WOTC, REB, EP456
 Rebel Command Center	ESB	ESB185_Rebel_Command_Center	L	Location	Character	1				C	185		When you finish building Rebel Command Center, draw a card. All your units win ties for speed.		WOTC, REB, EP456
-Princess Leia (F)	ESB	ESB183_Princess_Leia_F	L	Character	Rebel Diplomat	5	40	4	4	C	183		Whenever one of your opponent's Characters would damage Leia, prevent that damage unless your opponent pays 2 Force.		WOTC, REB, EP456
 Rebel Escape Squad	ESB	ESB186_Rebel_Escape_Squad	L	Space	Rebel Squad	7	30	5	6	C	186	If no roll for build points is made, this unit's first ability has no effect.	When the roll for build points is made, if this unit is in the Space arena, you gain 1 build point this turn. | Shields 1		WOTC, REB, EP456
 Rebel Hangar	ESB	ESB187_Rebel_Hangar	L	Location	Character	1				C	187		When the Ground battle step starts, remove up to 2 damage counters from one of your Space or Ground units.		WOTC, REB, EP456
 Rebel Trench Defenders	ESB	ESB188_Rebel_Trench_Defenders	L	Ground	Rebel Squad	6	30	6	6	C	188				WOTC, REB, EP456
@@ -214,3 +214,4 @@ Yoda (F) (Preview)	ESB	ESBpreview_Yoda_F	L	Character	Jedi Master	5	30	4	4	P			[t
 Blizzard Force AT-AT (Promo)	ESB	ESBpromo_Blizzard_Force_AT_AT	D	Ground	Imperial Assault Walker	5	20	4	4	P			Accuracy 1 | Armor		WOTC, REB, EP456
 Darth Vader (J) (Promo)	ESB	ESBpromo_Darth_Vader_J	D	Character	Imperial Dark Jedi Knight - Sith Lord	6	40	4	5	P			Armor | Pay 3 Force -> Evade 2 | Pay 3 Force -> Deflect 1		WOTC, REB, EP456
 Lando Calrissian (C) (Promo)	ESB	ESBpromo_Lando_Calrissian_C	N	Character	Bespin Smuggler Diplomat	7	50	4	4	P		A unit must actually be discarded to the discard pile in order to prevent damage to this unit.	Discard one of your other units from any arena or your build zone -> Prevent all damage to Lando. You gain 2 build points next turn.		WOTC, REB, EP456
+Rebel Command Center (Promo)	ESB	ESBpromo_Rebel_Command_Center	L	Location	Character	1				P			When you finish building Rebel Command Center, draw a card. All your units win ties for speed.		WOTC, REB, EP456

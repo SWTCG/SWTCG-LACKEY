@@ -3490,6 +3490,7 @@ BOY/BOY103_X_wing_Red_Squadron.jpg	https://lackey.swtcg.com/starwars/sets/setima
 BOY/BOY104_X_wing_Red_Ten.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOY104_X_wing_Red_Ten.jpg	
 BOY/BOY105_Y_wing_Gold_Two.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOY105_Y_wing_Gold_Two.jpg	
 BOY/BOYpreview_Han_Solo_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOYpreview_Han_Solo_A.jpg	
+BOY/BOYpromo_Alien_Rage.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOYpromo_Alien_Rage.jpg	
 BOY/BOYpromo_Chewbacca_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOYpromo_Chewbacca_A.jpg	
 BOY/BOYpromo_Death_Star_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOYpromo_Death_Star_B.jpg	
 BOY/BOYpromo_Luke_s_Speeder_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/BOY/BOYpromo_Luke_s_Speeder_B.jpg	
@@ -4383,6 +4384,7 @@ ESB/ESBpreview_Yoda_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/E
 ESB/ESBpromo_Blizzard_Force_AT_AT.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESBpromo_Blizzard_Force_AT_AT.jpg	
 ESB/ESBpromo_Darth_Vader_J.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESBpromo_Darth_Vader_J.jpg	
 ESB/ESBpromo_Lando_Calrissian_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESBpromo_Lando_Calrissian_C.jpg	
+ESB/ESBpromo_Rebel_Command_Center.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ESB/ESBpromo_Rebel_Command_Center.jpg	
 FOR/FOR001_A_Simple_Story.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR001_A_Simple_Story.jpg	
 FOR/FOR002_Ahsoka_Tano_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR002_Ahsoka_Tano_K.jpg	
 FOR/FOR003_Ahsoka_Tano_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/FOR/FOR003_Ahsoka_Tano_L.jpg	
@@ -5171,6 +5173,7 @@ JG/JG103_Separatist_Battle_Droid.jpg	https://lackey.swtcg.com/starwars/sets/seti
 JG/JG104_Shaak.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JG/JG104_Shaak.jpg	
 JG/JG105_Synchronized_Systems.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JG/JG105_Synchronized_Systems.jpg	
 JG/JGpromo_Battle_Droid_Division.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JG/JGpromo_Battle_Droid_Division.jpg	
+JG/JGpromo_Homing_Missile.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JG/JGpromo_Homing_Missile.jpg	
 JG/JGpromo_Qui_Gon_Jinn_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JG/JGpromo_Qui_Gon_Jinn_B.jpg	
 JG/JGpromo_Zam_Wesell_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JG/JGpromo_Zam_Wesell_C.jpg	
 JK/JK001_Dark_Jedi_Alliance.jpg	https://lackey.swtcg.com/starwars/sets/setimages/JK/JK001_Dark_Jedi_Alliance.jpg	
@@ -5767,6 +5770,7 @@ RAS/RAS105_X_wing_Escort.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RA
 RAS/RASpreview_Boba_Fett_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RASpreview_Boba_Fett_C.jpg	
 RAS/RASpromo_Boba_Fett_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RASpromo_Boba_Fett_D.jpg	
 RAS/RASpromo_Han_Solo_H.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RASpromo_Han_Solo_H.jpg	
+RAS/RASpromo_Lando_s_Trickery.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RASpromo_Lando_s_Trickery.jpg	
 RAS/RASpromo_Slave_I_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAS/RASpromo_Slave_I_D.jpg	
 RAW/ARC_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAW/ARC_Trooper.jpg	
 RAW/ARC_Trooper_Squad.jpg	https://lackey.swtcg.com/starwars/sets/setimages/RAW/ARC_Trooper_Squad.jpg	
