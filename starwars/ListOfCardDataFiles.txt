@@ -63,5 +63,6 @@
 <filetoinclude>TROS.txt</filetoinclude>
 <filetoinclude>TUF.txt</filetoinclude>
 <filetoinclude>VP.txt</filetoinclude>
+<filetoinclude>VV1.txt</filetoinclude>
 <filetoinclude>WAE.txt</filetoinclude>
 </listofcarddatafiles>

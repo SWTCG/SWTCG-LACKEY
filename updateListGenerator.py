@@ -2,7 +2,7 @@ import os
 import io
 
 
-setCode = "ALTA"
+setCode = "VV1"
 
 
 basePluginPath = "starwars/"

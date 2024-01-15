@@ -21,8 +21,8 @@
 </format>
 
 <format>
-<label>Make A Mando</label>
-<set>MAM</set>
+<label>Visions Volume 1</label>
+<set>VV1</set>
 </format>
 
 <format>
@@ -38,6 +38,7 @@
 <set>WAE</set>
 <set>ALTA</set>
 <set>MAM</set>
+<set>VV1</set>
 </format>
 
 <format>
