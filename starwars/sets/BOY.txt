@@ -104,3 +104,8 @@ Visit to Mos Eisley	BOY	BOY102_Visit_to_Mos_Eisley	N	Mission		4				C	102		Remove
 X-wing Red Squadron	BOY	BOY103_X_wing_Red_Squadron	L	Space	Rebel Squadron	6	50	5	4	C	103		Accuracy 1		WOTC, REB, EP456
 X-wing Red Ten	BOY	BOY104_X_wing_Red_Ten	L	Space	Rebel Starfighter	3	60	3	2	C	104				WOTC, REB, EP456
 Y-wing Gold Two	BOY	BOY105_Y_wing_Gold_Two	L	Space	Rebel Starfighter	3	50	2	1	C	105		Critical Hit 1 | Pay 1 Force -> Retaliate 2		WOTC, REB, EP456
+Han Solo (A) (Preview)	BOY	BOYpreview_Han_Solo_A	N	Character	Independent Smuggler	6	50	4	5	P			As long as Han is in the Character arena, draw 1 extra card during your draw step. | Accuracy 1		WOTC, REB, EP456
+Alien Rage (Promo)	BOY	BOYpromo_Alien_Rage	N	Battle						P			Pay 5 Force -> One of your units gets +20 speed, +2 power, and Critical Hit 2 until end of turn.		WOTC, REB, EP456
+Chewbacca (A) (Promo)	BOY	BOYpromo_Chewbacca_A	L	Character	Independent Wookiee	8	40	6	8	P			Pay 1 Force -> Intercept | Pay 3 Force -> Retaliate 6		WOTC, REB, EP456
+Death Star (B) (Promo)	BOY	BOYpromo_Death_Star_B	D	Space	Imperial Battle Station	12	10	12	12	P			Each Starfighter gets Critical Hit 3 as long as it's attacking the Death Star. | Pay 1 build point -> Search your deck. You may take an Imperial Starfighter card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during your build step.		WOTC, REB, EP456
+Luke's Speeder (B) (Promo)	BOY	BOYpromo_Luke_s_Speeder_B	L	Ground	Tatooine Speeder	3	50	2	2	P			[tap] -> Show a face-down Character card in your build zone to your opponent. Put a build counter on that card. Play only during your build step.		WOTC, REB, EP456

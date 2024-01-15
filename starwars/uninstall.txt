@@ -1,6 +1,18 @@
 <uninstall>
 
-<dateYYMMDD>231026</dateYYMMDD>
+<dateYYMMDD>240114</dateYYMMDD>
+
+<removepath>sets/setimages/CWSO/SO001_Anakin_Skywalker_T_v2.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA339_Elite_Wookiee_Drop_Squad_v2.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTAsub_Space_Garbage.jpg</removepath>
+
+<removepath>sets/setimages/AOTC/AOTCpromo_Anakin_Skywalker_C.jpg</removepath>
+<removepath>sets/setimages/AOTC/AOTCpromo_Clone_Warrior_4_163.jpg</removepath>
+<removepath>sets/setimages/AOTC/AOTCpromo_Jango_Fett_D.jpg</removepath>
+<removepath>sets/setimages/AOTC/AOTCpromo_Zam_Wesell_B.jpg</removepath>
+<removepath>sets/setimages/ANH/ANHpromo_Luke_Skywalker_C.jpg</removepath>
+<removepath>sets/setimages/ANH/ANHpromo_Darth_Vader_C.jpg</removepath>
+<removepath>sets/setimages/ANH/ANHpromo_Obi_Wan_Kenobi_F.jpg</removepath>
 
 <removepath>sets/setimages/BOBF/BOBF113_Din_s_N_1_Starfighter_C.jpg</removepath>
 <removepath>sets/setimages/ALTA/ALTA411_Resistance_Control_Team.jpg</removepath>

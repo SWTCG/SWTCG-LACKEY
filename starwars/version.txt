@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>231027</lastupdateYYMMDD>
+<lastupdateYYMMDD>240115</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>ALTA fixes</message>
+<message>Visions Mini-set release</message>
 
 </version>
