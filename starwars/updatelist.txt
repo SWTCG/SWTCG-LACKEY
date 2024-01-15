@@ -10192,7 +10192,8 @@ VV1/VV1sub_K_344_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/mast
 VV1/VV1sub_Lan_Ar_Shoo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/VV1/VV1sub_Lan_Ar_Shoo_A.jpg
 VV1/VV1sub_Sith_Pirate.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/VV1/VV1sub_Sith_Pirate.jpg
 VV1/VV1sub_TD_4_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/VV1/VV1sub_TD_4_A.jpg
-VV1/VV1sub_V_5_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/VV1/VV1sub_V_5_A.jpg	
+VV1/VV1sub_V_5_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/VV1/VV1sub_V_5_A.jpg
+VV1/VV1sub_Village_Bride.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/VV1/VV1sub_Village_Bride.jpg	
 WAE/WAE001_Aphra_s_Team_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/WAE/WAE001_Aphra_s_Team_B.jpg	
 WAE/WAE002_Bombinax_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/WAE/WAE002_Bombinax_A.jpg	
 WAE/WAE003_Doctor_Aphra_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/WAE/WAE003_Doctor_Aphra_A.jpg	
