@@ -1068,7 +1068,7 @@ ALTA/ALTA335_Droid_Attack_Wing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG
 ALTA/ALTA336_Droid_Factory_Conveyor_Belt.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA336_Droid_Factory_Conveyor_Belt.jpg	
 ALTA/ALTA337_Droid_Reinforcements.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA337_Droid_Reinforcements.jpg	
 ALTA/ALTA338_Droid_Starfighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA338_Droid_Starfighter.jpg	
-ALTA/ALTA339_Elite_Wookiee_Drop_Squad_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA339_Elite_Wookiee_Drop_Squad_v2.jpg	
+ALTA/ALTA339_Elite_Wookiee_Drop_Squad_v3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA339_Elite_Wookiee_Drop_Squad_v3.jpg	
 ALTA/ALTA340_Emperor_s_Shuttle_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA340_Emperor_s_Shuttle_B.jpg	
 ALTA/ALTA341_Endor_Scout_Speeders.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA341_Endor_Scout_Speeders.jpg	
 ALTA/ALTA342_Endor_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTA342_Endor_System.jpg	
@@ -1372,7 +1372,7 @@ ALTA/ALTAsub_Separatist_Squadron.jpg	https://raw.githubusercontent.com/SWTCG/SWT
 ALTA/ALTAsub_Sith_Detachment.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Sith_Detachment.jpg	
 ALTA/ALTAsub_Soldiers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Soldiers.jpg	
 ALTA/ALTAsub_Space_Debris.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Space_Debris.jpg	
-ALTA/ALTAsub_Space_Garbage.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Space_Garbage.jpg	
+ALTA/ALTAsub_Space_Garbage_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Space_Garbage_v2.jpg	
 ALTA/ALTAsub_Space_Stormtrooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Space_Stormtrooper.jpg	
 ALTA/ALTAsub_Spare_Parts_Canister.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Spare_Parts_Canister.jpg	
 ALTA/ALTAsub_Speeder.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/ALTA/ALTAsub_Speeder.jpg	
@@ -3625,7 +3625,7 @@ CAD/LEGO037_Jango_Fett_J.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 CAD/LEGO046_Mace_Windu_I.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/LEGO046_Mace_Windu_I.jpg	
 CAD/LEGO063_Separatist_Droid_Army_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/LEGO063_Separatist_Droid_Army_B.jpg	
 CAD/LEGO069_This_Party_s_Over.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CAD/LEGO069_This_Party_s_Over.jpg	
-CWSO/SO001_Anakin_Skywalker_T_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CWSO/SO001_Anakin_Skywalker_T_v2.jpg	
+CWSO/SO001_Anakin_Skywalker_T_v3.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CWSO/SO001_Anakin_Skywalker_T_v3.jpg	
 CWSO/SO002_ARC_LAATi_Gunship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CWSO/SO002_ARC_LAATi_Gunship.jpg	
 CWSO/SO003_Containment.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CWSO/SO003_Containment.jpg	
 CWSO/SO004_Darth_Sidious_M_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/master/starwars/sets/setimages/CWSO/SO004_Darth_Sidious_M_v2.jpg	
