@@ -222,5 +222,5 @@ Lumpawaroo (A)	UNION	UNIONsub_Lumpawaroo_A	L	Subordinate	Character - Wookiee Chi
 Phantom II (C)	UNION	UNIONsub_Phantom_II_C	L	Subordinate	Space - Lothal Rebel Starfighter - Transport		70	2	2	S			INSERT: Barrage 2		
 R2-KT (A)	UNION	UNIONsub_R2_KT_A	N	Subordinate	Character - Independent Astromech Droid		40	1	3	S			Tap -> Remove up to 2 damage counters from a  Space unit. Play only during your build step.		
 R2-RN8W (A)	UNION	UNIONsub_R2_RN8W_A	N	Subordinate	Character - Independent Astromech Droid		40	1	3	S			Tap  -> Gain 1 build point. Play only during your build  step.		
-Twi'lek Companion	UNION	UNIONsub_Twi_lek_Companion	N	Subordinate	Character - Twi’Lek Entertainer		60	2	2	S			 INSERT: Precision		
+Twi'lek Companion (Subordinate)	UNION	UNIONsub_Twi_lek_Companion	N	Subordinate	Character - Twi’Lek Entertainer		60	2	2	S			 INSERT: Precision		
 Unified Hearts	UNION	UNIONsub_Unified_Hearts	N	Subordinate	Space/Ground/Character - Force		10	1	1	S			 INSERT: Lucky 1		
