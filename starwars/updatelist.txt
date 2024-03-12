@@ -10452,9 +10452,11 @@ VV2/VV228_Sith_Master.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/V
 VV2/VV229_Spacetug.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV229_Spacetug.jpg
 VV2/VV230_Spy_Dancer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV230_Spy_Dancer.jpg
 VV2/VV2promo_Ara_and_Toul_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2promo_Ara_and_Toul_A.jpg
+VV2/VV2promo_Ghost_of_Screecher_s_Reach.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2promo_Ghost_of_Screecher_s_Reach.jpg
 VV2/VV2promo_Koten_s_Family_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2promo_Koten_s_Family_A.jpg
 VV2/VV2promo_Lola_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2promo_Lola_A.jpg
 VV2/VV2promo_Rugal_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2promo_Rugal_A.jpg
+VV2/VV2promo_Screecher_s_Reach.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2promo_Screecher_s_Reach.jpg
 VV2/VV2sub_E2_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2sub_E2_A.jpg
 VV2/VV2sub_Factory_Sentry_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2sub_Factory_Sentry_Squad.jpg
 VV2/VV2sub_Ghost_of_Screecher_s_Reach.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/VV2/VV2sub_Ghost_of_Screecher_s_Reach.jpg
