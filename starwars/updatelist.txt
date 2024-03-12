@@ -9981,7 +9981,7 @@ UNION/UNION032_Millennium_Falcon_P2.jpg	https://raw.githubusercontent.com/SWTCG/
 UNION/UNION033_Mind_Games.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION033_Mind_Games.jpg
 UNION/UNION034_Myrkr_Strike_Team_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION034_Myrkr_Strike_Team_D.jpg
 UNION/UNION035_Olin_and_Lands_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION035_Olin_and_Lands_A.jpg
-UNION/UNION036_Padm?Amidala_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION036_Padm?Amidala_R.jpg
+UNION/UNION036_Padme_Amidala_R.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION036_Padme_Amidala_R.jpg
 UNION/UNION037_Rainboh_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION037_Rainboh_System.jpg
 UNION/UNION038_Rebel_Heroes_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION038_Rebel_Heroes_B.jpg
 UNION/UNION039_Resistance_Heroes_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION039_Resistance_Heroes_G.jpg
@@ -10048,7 +10048,7 @@ UNION/UNION099_Neeku_Vozo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 UNION/UNION100_Only_You.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION100_Only_You.jpg
 UNION/UNION101_Out_the_Blue.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION101_Out_the_Blue.jpg
 UNION/UNION102_Quinlan_Vos_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION102_Quinlan_Vos_C.jpg
-UNION/UNION103_Sach?A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION103_Sach?A.jpg
+UNION/UNION103_Sache.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION103_Sache.jpg
 UNION/UNION104_Sana_Starros_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION104_Sana_Starros_A.jpg
 UNION/UNION105_Solo_Family_F.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION105_Solo_Family_F.jpg
 UNION/UNION106_Something_to_Give_Each_Other.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION106_Something_to_Give_Each_Other.jpg
@@ -10061,7 +10061,7 @@ UNION/UNION112_Volt_Cobra_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 UNION/UNION113_Vos_Family_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION113_Vos_Family_A.jpg
 UNION/UNION114_Wedding_of_Harmony.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION114_Wedding_of_Harmony.jpg
 UNION/UNION115_Wini_and_Zygg_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION115_Wini_and_Zygg_A.jpg
-UNION/UNION116_Yan?A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION116_Yan?A.jpg
+UNION/UNION116_Yane.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION116_Yane.jpg
 UNION/UNION117_Yuuzhan_Vong_Companion.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION117_Yuuzhan_Vong_Companion.jpg
 UNION/UNION118_Yuuzhan_Vong_Lovers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION118_Yuuzhan_Vong_Lovers.jpg
 UNION/UNION119_Zabrak_Companions.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION119_Zabrak_Companions.jpg
@@ -10075,7 +10075,7 @@ UNION/UNION126_Bounty_Hunter_Gang_J.jpg	https://raw.githubusercontent.com/SWTCG/
 UNION/UNION127_Bounty_Hunter_Lovers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION127_Bounty_Hunter_Lovers.jpg
 UNION/UNION128_Breath_of_Life.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION128_Breath_of_Life.jpg
 UNION/UNION129_Celebrate_the_Love.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION129_Celebrate_the_Love.jpg
-UNION/UNION130_Chewbacca_I2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION130_Chewbacca_I2.jpg
+UNION/UNION130_Chewbacca_J2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION130_Chewbacca_J2.jpg
 UNION/UNION131_Chewbacca_s_Family_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION131_Chewbacca_s_Family_A.jpg
 UNION/UNION132_Clan_Vevut_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION132_Clan_Vevut_A.jpg
 UNION/UNION133_Creature_Companions.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/setimages/UNION/UNION133_Creature_Companions.jpg

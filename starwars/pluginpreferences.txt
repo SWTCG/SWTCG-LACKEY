@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>231127</lastversionupdate>
+<lastversionupdate>240312</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -89,8 +89,7 @@
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
 <bindingcanned9>CTRL+0</bindingcanned9>
-<libraryignoredoubles>1</libraryignoredoubles>
-<recentformat>-1</recentformat>
+<recentformat>1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
