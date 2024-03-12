@@ -2,7 +2,7 @@ import os
 import io
 
 
-setCode = "VV1"
+setCode = "VV2"
 
 
 basePluginPath = "starwars/"
