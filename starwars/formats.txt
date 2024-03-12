@@ -1,5 +1,9 @@
 <formatdefinitions>
 
+<format>
+<label>Visions Volume 2</label>
+<set>VV2</set>
+</format>
 
 <format>
 <label>A Long Time Ago</label>
@@ -18,11 +22,6 @@
 <set>TFA</set>
 <set>TLJ</set>
 <set>TROS</set>
-</format>
-
-<format>
-<label>Visions Volume 1</label>
-<set>VV1</set>
 </format>
 
 <format>
