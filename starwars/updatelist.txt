@@ -755,6 +755,7 @@ ALTA/ALTA022_Chewbacca_I2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/A
 ALTA/ALTA023_Darth_Maul_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA023_Darth_Maul_U.jpg	
 ALTA/ALTA024_Darth_Sidious_R.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA024_Darth_Sidious_R.jpg	
 ALTA/ALTA025_Darth_Tyranus_R.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA025_Darth_Tyranus_R.jpg	
+ALTA/ALTA025_Darth_Tyranus_R_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA025_Darth_Tyranus_R_AFD.jpg	
 ALTA/ALTA026_Darth_Vader_F2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA026_Darth_Vader_F2.jpg	
 ALTA/ALTA027_Darth_Vader_s_Helmet_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA027_Darth_Vader_s_Helmet_C.jpg	
 ALTA/ALTA028_Death_Squadron_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA028_Death_Squadron_A.jpg	
@@ -789,7 +790,9 @@ ALTA/ALTA056_Geonosian_Execution_Beasts.jpg	https://lackey.swtcg.com/starwars/se
 ALTA/ALTA057_Good_Luck.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA057_Good_Luck.jpg	
 ALTA/ALTA058_Grand_Army_Of_The_Republic_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA058_Grand_Army_Of_The_Republic_D.jpg	
 ALTA/ALTA059_Grand_Moff_Tarkin_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA059_Grand_Moff_Tarkin_L.jpg	
+ALTA/ALTA059_Grand_Moff_Tarkin_L_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA059_Grand_Moff_Tarkin_L_AFD.jpg	
 ALTA/ALTA060_Han_Solo_J2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA060_Han_Solo_J2.jpg	
+ALTA/ALTA060_Han_Solo_J2_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA060_Han_Solo_J2_AFD.jpg	
 ALTA/ALTA061_Home_One_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA061_Home_One_C.jpg	
 ALTA/ALTA062_Imperial_Navy_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA062_Imperial_Navy_B.jpg	
 ALTA/ALTA063_Invasion_of_Kashyyyk.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA063_Invasion_of_Kashyyyk.jpg	
@@ -799,6 +802,7 @@ ALTA/ALTA066_Jedi_Ace_Squadron_B.jpg	https://lackey.swtcg.com/starwars/sets/seti
 ALTA/ALTA067_Jedi_Master_and_Apprentice_O.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA067_Jedi_Master_and_Apprentice_O.jpg	
 ALTA/ALTA068_Jedi_Spirits_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA068_Jedi_Spirits_C.jpg	
 ALTA/ALTA069_Kylo_Ren_Q.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA069_Kylo_Ren_Q.jpg	
+ALTA/ALTA069_Kylo_Ren_Q_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA069_Kylo_Ren_Q_AFD.jpg	
 ALTA/ALTA070_Kylo_s_Shuttle_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA070_Kylo_s_Shuttle_E.jpg	
 ALTA/ALTA071_Lando_Calrissian_Z.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA071_Lando_Calrissian_Z.jpg	
 ALTA/ALTA072_Life_and_Death.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA072_Life_and_Death.jpg	
@@ -807,6 +811,7 @@ ALTA/ALTA074_Luke_Skywalker_M2.jpg	https://lackey.swtcg.com/starwars/sets/setima
 ALTA/ALTA075_Luke_Skywalker_s_Lightsaber_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA075_Luke_Skywalker_s_Lightsaber_D.jpg	
 ALTA/ALTA076_Luke_s_X_wing_L.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA076_Luke_s_X_wing_L.jpg	
 ALTA/ALTA077_Mace_Windu_K.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA077_Mace_Windu_K.jpg	
+ALTA/ALTA077_Mace_Windu_K_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA077_Mace_Windu_K_AFD.jpg	
 ALTA/ALTA078_Mace_s_Strike_Team_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA078_Mace_s_Strike_Team_A.jpg	
 ALTA/ALTA079_May_the_Force_Be_With_You.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA079_May_the_Force_Be_With_You.jpg	
 ALTA/ALTA080_Maz_Kanata_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA080_Maz_Kanata_G.jpg	
@@ -814,6 +819,7 @@ ALTA/ALTA081_Millennium_Falcon_J2.jpg	https://lackey.swtcg.com/starwars/sets/set
 ALTA/ALTA082_Millennium_Falcon_K2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA082_Millennium_Falcon_K2.jpg	
 ALTA/ALTA083_Naming_Ceremony.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA083_Naming_Ceremony.jpg	
 ALTA/ALTA084_Obi_Wan_Kenobi_A2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA084_Obi_Wan_Kenobi_A2.jpg	
+ALTA/ALTA084_Obi_Wan_Kenobi_A2_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA084_Obi_Wan_Kenobi_A2_AFD.jpg	
 ALTA/ALTA085_Obi_Wan_s_Starfighter_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA085_Obi_Wan_s_Starfighter_D.jpg	
 ALTA/ALTA086_Oma_Tres_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA086_Oma_Tres_A.jpg	
 ALTA/ALTA087_One_of_Ours.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA087_One_of_Ours.jpg	
@@ -824,6 +830,7 @@ ALTA/ALTA091_Poe_Dameron_Q.jpg	https://lackey.swtcg.com/starwars/sets/setimages/
 ALTA/ALTA092_Poe_s_Starfighter_I.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA092_Poe_s_Starfighter_I.jpg	
 ALTA/ALTA093_Princess_Leia_O2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA093_Princess_Leia_O2.jpg	
 ALTA/ALTA094_Princess_Leia_P2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA094_Princess_Leia_P2.jpg	
+ALTA/ALTA094_Princess_Leia_P2_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA094_Princess_Leia_P2_AFD.jpg	
 ALTA/ALTA095_Princess_Leia_s_Wardrobe_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA095_Princess_Leia_s_Wardrobe_A.jpg	
 ALTA/ALTA096_Queen_Amidala_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA096_Queen_Amidala_N.jpg	
 ALTA/ALTA097_Queen_Amidala_s_Wardrobe_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA097_Queen_Amidala_s_Wardrobe_A.jpg	
@@ -882,6 +889,7 @@ ALTA/ALTA149_Yoda_U.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/AL
 ALTA/ALTA150_You_Will_Die.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA150_You_Will_Die.jpg	
 ALTA/ALTA151_Admiral_Ackbar_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA151_Admiral_Ackbar_G.jpg	
 ALTA/ALTA152_Allegiant_General_Enric_Pryde_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA152_Allegiant_General_Enric_Pryde_F.jpg	
+ALTA/ALTA152_Allegiant_General_Enric_Pryde_F_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA152_Allegiant_General_Enric_Pryde_F_AFD.jpg	
 ALTA/ALTA153_Alliance_High_Command_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA153_Alliance_High_Command_C.jpg	
 ALTA/ALTA154_Alone_Never_Have_You_Been.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA154_Alone_Never_Have_You_Been.jpg	
 ALTA/ALTA155_Anakin_Skywalker_C2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA155_Anakin_Skywalker_C2.jpg	
@@ -952,6 +960,7 @@ ALTA/ALTA219_Jedi_Council_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages
 ALTA/ALTA220_Kachirho_Beach.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA220_Kachirho_Beach.jpg	
 ALTA/ALTA221_Knights_of_Ren_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA221_Knights_of_Ren_E.jpg	
 ALTA/ALTA222_Kylo_Ren_R.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA222_Kylo_Ren_R.jpg	
+ALTA/ALTA222_Kylo_Ren_R_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA222_Kylo_Ren_R_AFD.jpg	
 ALTA/ALTA223_Kylo_Ren_s_Lightsaber_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA223_Kylo_Ren_s_Lightsaber_D.jpg	
 ALTA/ALTA224_Kylo_Ren_s_Mask_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA224_Kylo_Ren_s_Mask_D.jpg	
 ALTA/ALTA225_Kylo_s_TIE_Silencer_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA225_Kylo_s_TIE_Silencer_B.jpg	
@@ -1127,6 +1136,7 @@ ALTA/ALTA394_Naboo_Resistance_Squad.jpg	https://lackey.swtcg.com/starwars/sets/s
 ALTA/ALTA395_Naboo_Starfighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA395_Naboo_Starfighter.jpg	
 ALTA/ALTA396_Obi_Wan_Kenobi_C2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA396_Obi_Wan_Kenobi_C2.jpg	
 ALTA/ALTA397_Obi_Wan_Kenobi_D2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA397_Obi_Wan_Kenobi_D2.jpg	
+ALTA/ALTA397_Obi_Wan_Kenobi_D2_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA397_Obi_Wan_Kenobi_D2_AFD.jpg	
 ALTA/ALTA398_Oh_I_Don_t_Think_So.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA398_Oh_I_Don_t_Think_So.jpg	
 ALTA/ALTA399_Outlander_Club_Patrons.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA399_Outlander_Club_Patrons.jpg	
 ALTA/ALTA400_Padme_Amidala_Q.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ALTA/ALTA400_Padme_Amidala_Q.jpg	
@@ -6326,6 +6336,7 @@ ROTS/ROTS017_It_Just_Might_Work_HD.jpg	https://lackey.swtcg.com/starwars/sets/se
 ROTS/ROTS018_Jar_Jar_Binks_C_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS018_Jar_Jar_Binks_C_HD.jpg	
 ROTS/ROTS019_Lightsaber_Quick_Draw_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS019_Lightsaber_Quick_Draw_HD.jpg	
 ROTS/ROTS020_Mace_Windu_F_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS020_Mace_Windu_F_HD.jpg	
+ROTS/ROTS020_Mace_Windu_F_AFD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS020_Mace_Windu_F_AFD.jpg	
 ROTS/ROTS021_Mas_Amedda_A_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS021_Mas_Amedda_A_HD.jpg	
 ROTS/ROTS022_Mustafar_Battle_Grounds_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS022_Mustafar_Battle_Grounds_HD.jpg	
 ROTS/ROTS023_Mustafar_System_HD.jpg	https://lackey.swtcg.com/starwars/sets/setimages/ROTS/ROTS023_Mustafar_System_HD.jpg	
