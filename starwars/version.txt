@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>240115</lastupdateYYMMDD>
+<lastupdateYYMMDD>240331</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Visions Mini-set release</message>
+<message>April Fools day 2024</message>
 
 </version>
