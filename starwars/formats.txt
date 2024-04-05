@@ -6,11 +6,6 @@
 </format>
 
 <format>
-<label>Union</label>
-<set>UNION</set>
-</format>
-
-<format>
 <label>A Long Time Ago</label>
 <set>ALTA</set>
 </format>
@@ -44,7 +39,6 @@
 <set>MAM</set>
 <set>VV1</set>
 <set>VV2</set>
-<set>UNION</set>
 </format>
 
 <format>
