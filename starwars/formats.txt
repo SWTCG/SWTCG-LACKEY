@@ -1,5 +1,14 @@
 <formatdefinitions>
 
+<format>
+<label>Visions Volume 2</label>
+<set>VV2</set>
+</format>
+
+<format>
+<label>Union</label>
+<set>UNION</set>
+</format>
 
 <format>
 <label>A Long Time Ago</label>
@@ -7,7 +16,7 @@
 </format>
 
 <format>
-<label>ALTA and Movies</label>
+<label>World Championship 2024</label>
 <set>ALTA</set>
 <set>PM</set>
 <set>AOTC</set>
@@ -18,11 +27,6 @@
 <set>TFA</set>
 <set>TLJ</set>
 <set>TROS</set>
-</format>
-
-<format>
-<label>Visions Volume 1</label>
-<set>VV1</set>
 </format>
 
 <format>
@@ -39,6 +43,8 @@
 <set>ALTA</set>
 <set>MAM</set>
 <set>VV1</set>
+<set>VV2</set>
+<set>UNION</set>
 </format>
 
 <format>

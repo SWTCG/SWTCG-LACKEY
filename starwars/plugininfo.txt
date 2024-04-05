@@ -1,5 +1,9 @@
 <plugin>
+<<<<<<< HEAD
 <pluginversion>2024.03.31</pluginversion>
+=======
+<pluginversion>2024.03.14</pluginversion>
+>>>>>>> VV2
 
 <pluginname>starwars</pluginname>
 
