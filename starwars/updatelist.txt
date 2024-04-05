@@ -162,7 +162,6 @@ plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/TOR.txt	3442525
 plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/TROS.txt	6114614
 plugins/starwars/sets/TUF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/TUF.txt	3653606
-plugins/starwars/sets/UNION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/UNION.txt	5840046
 plugins/starwars/sets/VP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/VP.txt	5366521
 plugins/starwars/sets/VV1.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/VV1.txt	978660
 plugins/starwars/sets/VV2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/VV2/starwars/sets/VV2.txt	981863
