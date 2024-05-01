@@ -902,4 +902,16 @@
 		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
 	</chance>
 </pack>
+<pack>
+	<packtitle>Union</packtitle>
+	<packimage>UNION</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>UNION</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
 </packdefinitions>
