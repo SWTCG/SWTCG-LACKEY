@@ -1,8 +1,8 @@
 <formatdefinitions>
 
 <format>
-<label>Visions Volume 2</label>
-<set>VV2</set>
+<label>Union</label>
+<set>UNION</set>
 </format>
 
 <format>
@@ -39,6 +39,7 @@
 <set>MAM</set>
 <set>VV1</set>
 <set>VV2</set>
+<set>UNION</set>
 </format>
 
 <format>
