@@ -914,4 +914,40 @@
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
 </pack>
+<pack>
+    <packtitle>ALTA PT</packtitle>
+    <packimage>ALTAPT</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>ALTA</data></packcommoncrit><packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>EP123</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
+<pack>
+    <packtitle>ALTA OT</packtitle>
+    <packimage>ALTAOT</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>ALTA</data></packcommoncrit><packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>EP456</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
+<pack>
+    <packtitle>ALTA ST</packtitle>
+    <packimage>ALTAST</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>ALTA</data></packcommoncrit><packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>EP789</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
 </packdefinitions>
