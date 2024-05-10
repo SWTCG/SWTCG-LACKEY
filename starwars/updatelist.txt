@@ -1,4 +1,4 @@
-starwars	05-04-24
+starwars	05-09-24
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -9973,7 +9973,7 @@ UNION/UNION024_I_Love_You.jpg	https://lackey.swtcg.com/starwars/sets/setimages/U
 UNION/UNION025_Jade_Shadow_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION025_Jade_Shadow_C.jpg
 UNION/UNION026_Lana_Beniko_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION026_Lana_Beniko_A.jpg
 UNION/UNION027_Leia_Organa_Solo_R2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION027_Leia_Organa_Solo_R2.jpg
-UNION/UNION028_Lost_Stars.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION028_Lost_Stars.jpg
+UNION/UNION028_Lost_Stars_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION028_Lost_Stars_v2.jpg
 UNION/UNION029_Luke_Skywalker_Q2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION029_Luke_Skywalker_Q2.jpg
 UNION/UNION030_Lula_Talisola_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION030_Lula_Talisola_A.jpg
 UNION/UNION031_Mara_Jade_Skywalker_N.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION031_Mara_Jade_Skywalker_N.jpg

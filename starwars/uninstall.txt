@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>240503</dateYYMMDD>
+<dateYYMMDD>240508</dateYYMMDD>
+
+<removepath>sets/setimages/UNION/UNION028_Lost_Stars.jpg</removepath>
 
 <removepath>sets/setimages/CWSO/SO001_Anakin_Skywalker_T_v2.jpg</removepath>
 <removepath>sets/setimages/ALTA/ALTA339_Elite_Wookiee_Drop_Squad_v2.jpg</removepath>
