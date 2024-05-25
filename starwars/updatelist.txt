@@ -10388,7 +10388,7 @@ VV1/VV109_Kouru_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV109
 VV1/VV110_Living_in_Harmony.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV110_Living_in_Harmony.jpg
 VV1/VV111_Lop_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV111_Lop_A.jpg
 VV1/VV112_Ocho_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV112_Ocho_A.jpg
-VV1/VV113_Restored_Jedi.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV113_Restored_Jedi.jpg
+VV1/VV113_Restored_Jedi_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV113_Restored_Jedi_v2.jpg
 VV1/VV114_Sith_Hunters.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV114_Sith_Hunters.jpg
 VV1/VV115_Sith_Master_and_Apprentice_O.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV115_Sith_Master_and_Apprentice_O.jpg
 VV1/VV116_Akakiri.jpg	https://lackey.swtcg.com/starwars/sets/setimages/VV1/VV116_Akakiri.jpg

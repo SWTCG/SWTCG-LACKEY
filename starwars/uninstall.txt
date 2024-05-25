@@ -2,6 +2,7 @@
 
 <dateYYMMDD>240508</dateYYMMDD>
 
+<removepath>sets/setimages/VV1/VV113_Restored_Jedi.jpg</removepath>
 <removepath>sets/setimages/UNION/UNION028_Lost_Stars.jpg</removepath>
 
 <removepath>sets/setimages/CWSO/SO001_Anakin_Skywalker_T_v2.jpg</removepath>
