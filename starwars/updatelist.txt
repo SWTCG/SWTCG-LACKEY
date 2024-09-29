@@ -21,7 +21,7 @@ images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://lackey.swt
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
 plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	734231
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	351292
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	325913
 plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	3263231
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	258853
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	174772
@@ -140,7 +140,8 @@ plugins/starwars/sets/JG.txt	https://lackey.swtcg.com/starwars/sets/JG.txt	29894
 plugins/starwars/sets/JK.txt	https://lackey.swtcg.com/starwars/sets/JK.txt	2859631
 plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5829805
 plugins/starwars/sets/MAM.txt	https://lackey.swtcg.com/starwars/sets/MAM.txt	130535
-plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2097777
+plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2097840
+plugins/starwars/sets/OBWN.txt	https://lackey.swtcg.com/starwars/sets/OBWN.txt	3042965
 plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1958942
 plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	2612852
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2816352
