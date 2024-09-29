@@ -2,7 +2,7 @@ import os
 import io
 
 
-setCode = "UNION"
+setCode = "OBWN"
 
 
 basePluginPath = "starwars/"
