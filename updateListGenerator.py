@@ -2,7 +2,7 @@ import os
 import io
 
 
-setCode = "OBWN"
+setCode = "VDR"
 
 
 basePluginPath = "starwars/"
