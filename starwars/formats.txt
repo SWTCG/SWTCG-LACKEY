@@ -26,6 +26,7 @@
 
 <format>
 <label>Standard</label>
+<set>VDR</set>
 <set>OBWN</set>
 <set>FOR</set>
 <set>BOTS</set>

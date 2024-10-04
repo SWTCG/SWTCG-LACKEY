@@ -1,4 +1,4 @@
-starwars	09-29-24
+starwars	10-04-24
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/images/avatars/twinsuns.jpg	9666
@@ -20,13 +20,13 @@ images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://raw.gith
 images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
-plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/plugininfo.txt	734231
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/pluginpreferences.txt	325913
+plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/plugininfo.txt	734270
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/pluginpreferences.txt	325898
 plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/uninstall.txt	3263231
-plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/ListOfCardDataFiles.txt	258853
-plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/formats.txt	174772
+plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/ListOfCardDataFiles.txt	262544
+plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/formats.txt	175963
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/version.txt	30960
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/version.txt	31814
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/spawned.jpg	-36423
@@ -10282,7 +10282,37 @@ UNION/UNIONsub_Phantom_II_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 UNION/UNIONsub_R2_KT_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_R2_KT_A.jpg
 UNION/UNIONsub_R2_RN8W_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_R2_RN8W_A.jpg
 UNION/UNIONsub_Twi_lek_Companion.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_Twi_lek_Companion.jpg
-UNION/UNIONsub_Unified_Hearts.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_Unified_Hearts.jpg	
+UNION/UNIONsub_Unified_Hearts.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_Unified_Hearts.jpg
+VDR/VDR001_Astarte_Twins_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR001_Astarte_Twins_A.jpg
+VDR/VDR002_Commander Karbin_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR002_Commander Karbin_A.jpg
+VDR/VDR003_Darth_Sidious_T.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR003_Darth_Sidious_T.jpg
+VDR/VDR004_Darth_Vader_J2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR004_Darth_Vader_J2.jpg
+VDR/VDR005_Darth_Vader_K2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR005_Darth_Vader_K2.jpg
+VDR/VDR006_Darth_Vader_s_Kill_Switch_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR006_Darth_Vader_s_Kill_Switch_A.jpg
+VDR/VDR007_Executor_F.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR007_Executor_F.jpg
+VDR/VDR008_Tulon_Voidgazer_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR008_Tulon_Voidgazer_A.jpg
+VDR/VDR009_Vader_s_Victory.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR009_Vader_s_Victory.jpg
+VDR/VDR010_Voidgazer_s_Cyberanimate_Rancor_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR010_Voidgazer_s_Cyberanimate_Rancor_A.jpg
+VDR/VDR011_Anthan_Prime_Dockyard.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR011_Anthan_Prime_Dockyard.jpg
+VDR/VDR012_Battle_Of_Vrogas_Vas.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR012_Battle_Of_Vrogas_Vas.jpg
+VDR/VDR013_Bounty_Hunter_Gang_J.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR013_Bounty_Hunter_Gang_J.jpg
+VDR/VDR014_Commodex_Tahn_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR014_Commodex_Tahn_A.jpg
+VDR/VDR015_Cylo_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR015_Cylo_A.jpg
+VDR/VDR016_Devastator_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR016_Devastator_E.jpg
+VDR/VDR017_Doctor_Aphra_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR017_Doctor_Aphra_D.jpg
+VDR/VDR018_Inspector_Thanoth_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR018_Inspector_Thanoth_A.jpg
+VDR/VDR019_Meditation_By_Force.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR019_Meditation_By_Force.jpg
+VDR/VDR020_Vader_s_TIE_Fighter_I.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR020_Vader_s_TIE_Fighter_I.jpg
+VDR/VDR021_Arquitens_Class_Cruiser.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR021_Arquitens_Class_Cruiser.jpg
+VDR/VDR022_Change_Of_Management.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR022_Change_Of_Management.jpg
+VDR/VDR023_Double_Jeopardy.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR023_Double_Jeopardy.jpg
+VDR/VDR024_Emperor_s_Gambit.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR024_Emperor_s_Gambit.jpg
+VDR/VDR025_Rebel_Infantry.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR025_Rebel_Infantry.jpg
+VDR/VDR026_Revenge_Of_The_Dead.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR026_Revenge_Of_The_Dead.jpg
+VDR/VDR027_Tarkin_Initiative_Blastomech_Upgrade.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR027_Tarkin_Initiative_Blastomech_Upgrade.jpg
+VDR/VDR028_Vader_s_Versatility.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR028_Vader_s_Versatility.jpg
+VDR/VDR029_Vrogas_Vas_Secret_Base_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR029_Vrogas_Vas_Secret_Base_A.jpg
+VDR/VDR030_Yellow_Squadron_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR030_Yellow_Squadron_A.jpg	
 VP/VP001_Amphistaff_Attack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VP/VP001_Amphistaff_Attack.jpg	
 VP/VP002_Anakin_Solo_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VP/VP002_Anakin_Solo_B.jpg	
 VP/VP003_Caled_Galfridian_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VP/VP003_Caled_Galfridian_A.jpg	
