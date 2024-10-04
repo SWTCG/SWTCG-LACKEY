@@ -1,9 +1,5 @@
 <plugin>
-<<<<<<< HEAD
-<pluginversion>2024.10.19</pluginversion>
-=======
 <pluginversion>2024.010.04</pluginversion>
->>>>>>> Vader playtesting stuff
 
 <pluginname>starwars</pluginname>
 
