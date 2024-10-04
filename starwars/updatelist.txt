@@ -10285,7 +10285,7 @@ UNION/UNIONsub_R2_RN8W_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 UNION/UNIONsub_Twi_lek_Companion.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_Twi_lek_Companion.jpg
 UNION/UNIONsub_Unified_Hearts.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/UNION/UNIONsub_Unified_Hearts.jpg
 VDR/VDR001_Astarte_Twins_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR001_Astarte_Twins_A.jpg
-VDR/VDR002_Commander Karbin_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR002_Commander Karbin_A.jpg
+VDR/VDR002_Commander_Karbin_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR002_Commander_Karbin_A.jpg
 VDR/VDR003_Darth_Sidious_T.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR003_Darth_Sidious_T.jpg
 VDR/VDR004_Darth_Vader_J2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR004_Darth_Vader_J2.jpg
 VDR/VDR005_Darth_Vader_K2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/VDR/VDR005_Darth_Vader_K2.jpg
