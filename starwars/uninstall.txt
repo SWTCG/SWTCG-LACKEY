@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>240508</dateYYMMDD>
+<dateYYMMDD>241018</dateYYMMDD>
 
 <removepath>sets/setimages/VV1/VV113_Restored_Jedi.jpg</removepath>
 <removepath>sets/setimages/UNION/UNION028_Lost_Stars.jpg</removepath>

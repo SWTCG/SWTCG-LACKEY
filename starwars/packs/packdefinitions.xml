@@ -16,30 +16,9 @@
       <data>PROMO</data>
     </packcommoncrit>
     <chance>
-      <kind>
-        <qty>1</qty>
-        <crit>
-          <field>Rarity</field>
-          <eval>IS</eval>
-          <data>R</data>
-        </crit>
-      </kind>
-      <kind>
-        <qty>3</qty>
-        <crit>
-          <field>Rarity</field>
-          <eval>IS</eval>
-          <data>U</data>
-        </crit>
-      </kind>
-      <kind>
-        <qty>7</qty>
-        <crit>
-          <field>Rarity</field>
-          <eval>IS</eval>
-          <data>C</data>
-        </crit>
-      </kind>
+      <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+      <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+      <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
     </chance>
   </pack>
   
@@ -915,6 +894,19 @@
 	</chance>
 </pack>
 <pack>
+    <packtitle>Yuuzhan Vong War</packtitle>
+    <packimage>tuf</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>NJO</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
+</packdefinitions>
+<pack>
     <packtitle>ALTA PT</packtitle>
     <packimage>ALTAPT</packimage>
     <packkind>Pack</packkind>
@@ -944,6 +936,45 @@
     <packkind>Pack</packkind>
     <packformat>Sealed</packformat>
     <packcommoncrit><field>Set</field><eval>IS</eval><data>ALTA</data></packcommoncrit><packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>EP789</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
+</packdefinitions>
+<pack>
+    <packtitle>Clone Wars Combined</packtitle>
+    <packimage>ALTAPT</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>CW</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
+</packdefinitions>
+<pack>
+    <packtitle>Rebellion Combined</packtitle>
+    <packimage>ALTAOT</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>REB</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
+</packdefinitions>
+<pack>
+    <packtitle>Resistance Combined</packtitle>
+    <packimage>ALTAST</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>RES</data></packcommoncrit>
     <chance>
         <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
         <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>

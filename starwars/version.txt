@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>240509</lastupdateYYMMDD>
+<lastupdateYYMMDD>241019</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Union Patch and World Championship Packs</message>
+<message>Combined Era Draft Packs</message>
 
 </version>
