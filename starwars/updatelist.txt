@@ -5682,6 +5682,16 @@ OBWN/OBWN102_What_the_Empire_is_Capable_of.jpg	https://raw.githubusercontent.com
 OBWN/OBWN103_Where_We_Found_You.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWN103_Where_We_Found_You.jpg
 OBWN/OBWN104_You_Are_Our_Child.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWN104_You_Are_Our_Child.jpg
 OBWN/OBWN105_You_Trust_Me_I_Trust_Her.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWN105_You_Trust_Me_I_Trust_Her.jpg
+OBWN/OBWNpromo_Darth_Vader_L2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Darth_Vader_L2.jpg
+OBWN/OBWNpromo_Grand_Inquisitor_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Grand_Inquisitor_E.jpg
+OBWN/OBWNpromo_Luke_Skywalker_R2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Luke_Skywalker_R2.jpg
+OBWN/OBWNpromo_Obi_Wan_Kenobi_F2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Obi_Wan_Kenobi_F2.jpg
+OBWN/OBWNpromo_Obi_Wan_Kenobi_G2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Obi_Wan_Kenobi_G2.jpg
+OBWN/OBWNpromo_Obi_Wan_s_Mastery.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Obi_Wan_s_Mastery.jpg
+OBWN/OBWNpromo_Phase_II_Purge_Trooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Phase_II_Purge_Trooper.jpg
+OBWN/OBWNpromo_Rebel_s_Resistance.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Rebel_s_Resistance.jpg
+OBWN/OBWNpromo_Roken_s_Path_Freighter_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Roken_s_Path_Freighter_A.jpg
+OBWN/OBWNpromo_Tri_Wing_S_91x_Pegasus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNpromo_Tri_Wing_S_91x_Pegasus.jpg
 OBWN/OBWNsub_1st_Legion_Assault_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNsub_1st_Legion_Assault_Squad.jpg
 OBWN/OBWNsub_Alderaan_Sentry.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNsub_Alderaan_Sentry.jpg
 OBWN/OBWNsub_Hunting_Probe.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/sets/setimages/OBWN/OBWNsub_Hunting_Probe.jpg
