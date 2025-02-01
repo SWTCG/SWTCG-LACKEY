@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>241117</lastupdateYYMMDD>
+<lastupdateYYMMDD>250201</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/updatelist.txt</updateurl>
-<message>Obi-wan and Vader Playtesting</message>
+<message>Obi-wan Set Release</message>
 
 </version>
