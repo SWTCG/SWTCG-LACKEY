@@ -5,7 +5,7 @@ import io
 setCode = "VDR"
 
 
-basePluginPath = "starwars/"
+basePluginPath = "../starwars"
 baseSetPath = basePluginPath + "sets/"
 
 
