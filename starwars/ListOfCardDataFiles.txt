@@ -36,6 +36,7 @@
 <filetoinclude>KAE.txt</filetoinclude>
 <filetoinclude>MAM.txt</filetoinclude>
 <filetoinclude>MAND.txt</filetoinclude>
+<filetoinclude>OBWN.txt</filetoinclude>
 <filetoinclude>PM.txt</filetoinclude>
 <filetoinclude>RAS.txt</filetoinclude>
 <filetoinclude>RAW.txt</filetoinclude>
@@ -63,6 +64,7 @@
 <filetoinclude>TROS.txt</filetoinclude>
 <filetoinclude>TUF.txt</filetoinclude>
 <filetoinclude>UNION.txt</filetoinclude>
+<filetoinclude>VDR.txt</filetoinclude>
 <filetoinclude>VP.txt</filetoinclude>
 <filetoinclude>VV1.txt</filetoinclude>
 <filetoinclude>VV2.txt</filetoinclude>

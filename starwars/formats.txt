@@ -1,8 +1,8 @@
 <formatdefinitions>
 
 <format>
-<label>Union</label>
-<set>UNION</set>
+<label>Obi-wan</label>
+<set>OBWN</set>
 </format>
 
 <format>
@@ -26,6 +26,8 @@
 
 <format>
 <label>Standard</label>
+<set>VDR</set>
+<set>OBWN</set>
 <set>FOR</set>
 <set>BOTS</set>
 <set>TMW</set>

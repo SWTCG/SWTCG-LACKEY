@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>241019</lastupdateYYMMDD>
+<lastupdateYYMMDD>250201</lastupdateYYMMDD>
 
-<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
-<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Combined Era Draft Packs</message>
+<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/obwn/starwars/updatelist.txt</updateurl>
+<message>Obi-wan Set Release</message>
 
 </version>
