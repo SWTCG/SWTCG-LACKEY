@@ -5602,7 +5602,7 @@ OBWN/OBWN023_Public_Relations_Disaster.jpg	https://lackey.swtcg.com/starwars/set
 OBWN/OBWN024_Reva_Sevander_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN024_Reva_Sevander_A.jpg
 OBWN/OBWN025_Roken_s_Path_Freighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN025_Roken_s_Path_Freighter_A.jpg
 OBWN/OBWN026_Scythe_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN026_Scythe_A.jpg
-OBWN/OBWN027_Shadow_of_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN027_Shadow_of_Empire.jpg
+OBWN/OBWN027_Shadow_Of_The_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN027_Shadow_Of_The_Empire.jpg
 OBWN/OBWN028_T_16_Skyhopper_Toy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN028_T_16_Skyhopper_Toy.jpg
 OBWN/OBWN029_Tala_Durith_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN029_Tala_Durith_A.jpg
 OBWN/OBWN030_Tibidon_Whaling_Station.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN030_Tibidon_Whaling_Station.jpg
