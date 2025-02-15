@@ -1,4 +1,4 @@
-starwars	02-01-25
+starwars	02-15-25
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -20,13 +20,13 @@ images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://lackey.s
 images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	734221
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	325896
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	3263228
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	734226
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	325901
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	3351474
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	258853
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	175963
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23029
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	22839
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -137,7 +137,7 @@ plugins/starwars/sets/JK.txt	https://lackey.swtcg.com/starwars/sets/JK.txt	28596
 plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5829805
 plugins/starwars/sets/MAM.txt	https://lackey.swtcg.com/starwars/sets/MAM.txt	130535
 plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2097777
-plugins/starwars/sets/OBWN.txt	https://lackey.swtcg.com/starwars/sets/OBWN.txt	3481988
+plugins/starwars/sets/OBWN.txt	https://lackey.swtcg.com/starwars/sets/OBWN.txt	3485766
 plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1958942
 plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	2612852
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2816352
@@ -5590,7 +5590,7 @@ OBWN/OBWN011_Grand_Inquisitor_E.jpg	https://lackey.swtcg.com/starwars/sets/setim
 OBWN/OBWN012_I_Will_Face_Him_Alone.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN012_I_Will_Face_Him_Alone.jpg
 OBWN/OBWN013_Inquisitor_Strike_Team_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN013_Inquisitor_Strike_Team_C.jpg
 OBWN/OBWN014_Jedi_Master_and_Apprentice_Q.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN014_Jedi_Master_and_Apprentice_Q.jpg
-OBWN/OBWN015_No_Longer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN015_No_Longer.jpg
+OBWN/OBWN015_No_Longer_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN015_No_Longer_v2.jpg
 OBWN/OBWN016_Obi_Wan_Kenobi_E2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN016_Obi_Wan_Kenobi_E2.jpg
 OBWN/OBWN017_Obi_Wan_s_Hood_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN017_Obi_Wan_s_Hood_A.jpg
 OBWN/OBWN018_Obi_Wan_s_Mastery.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN018_Obi_Wan_s_Mastery.jpg
@@ -5602,31 +5602,31 @@ OBWN/OBWN023_Public_Relations_Disaster.jpg	https://lackey.swtcg.com/starwars/set
 OBWN/OBWN024_Reva_Sevander_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN024_Reva_Sevander_A.jpg
 OBWN/OBWN025_Roken_s_Path_Freighter_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN025_Roken_s_Path_Freighter_A.jpg
 OBWN/OBWN026_Scythe_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN026_Scythe_A.jpg
-OBWN/OBWN027_Shadow_of_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN027_Shadow_of_Empire.jpg
+OBWN/OBWN027_Shadow_Of_The_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN027_Shadow_Of_The_Empire.jpg
 OBWN/OBWN028_T_16_Skyhopper_Toy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN028_T_16_Skyhopper_Toy.jpg
 OBWN/OBWN029_Tala_Durith_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN029_Tala_Durith_A.jpg
 OBWN/OBWN030_Tibidon_Whaling_Station.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN030_Tibidon_Whaling_Station.jpg
 OBWN/OBWN031_Tytan_Latimer_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN031_Tytan_Latimer_A.jpg
 OBWN/OBWN032_Vader_s_Imperial_Shuttle_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN032_Vader_s_Imperial_Shuttle_E.jpg
 OBWN/OBWN033_Wade_s_T47_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN033_Wade_s_T47_A.jpg
-OBWN/OBWN034_We_ve_Done_Worse.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN034_We_ve_Done_Worse.jpg
+OBWN/OBWN034_We_ve_Done_Worse_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN034_We_ve_Done_Worse_v2.jpg
 OBWN/OBWN035_You_Are_The_Future.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN035_You_Are_The_Future.jpg
 OBWN/OBWN036_Aldera_City.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN036_Aldera_City.jpg
 OBWN/OBWN037_Alderaan_Royal_Speeder.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN037_Alderaan_Royal_Speeder.jpg
-OBWN/OBWN038_Bail_Organa_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN038_Bail_Organa_G.jpg
+OBWN/OBWN038_Bail_Organa_G_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN038_Bail_Organa_G_v2.jpg
 OBWN/OBWN039_Beru_Lars_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN039_Beru_Lars_B.jpg
 OBWN/OBWN040_Breha_Organa_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN040_Breha_Organa_A.jpg
 OBWN/OBWN041_Daiyu_Cargo_Port.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN041_Daiyu_Cargo_Port.jpg
 OBWN/OBWN042_Darth_Vader_N2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN042_Darth_Vader_N2.jpg
 OBWN/OBWN043_Darth_Vader_s_Cyborg_Arm_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN043_Darth_Vader_s_Cyborg_Arm_A.jpg
 OBWN/OBWN044_Devastator_Command_Bridge_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN044_Devastator_Command_Bridge_A.jpg
-OBWN/OBWN045_Jedi_Hunt_Themselves.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN045_Jedi_Hunt_Themselves.jpg
+OBWN/OBWN045_Jedi_Hunt_Themselves_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN045_Jedi_Hunt_Themselves_v2.jpg
 OBWN/OBWN046_Lightsaber_Collection_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN046_Lightsaber_Collection_G.jpg
 OBWN/OBWN047_Luke_Skywalker_R2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN047_Luke_Skywalker_R2.jpg
 OBWN/OBWN048_Nur_Mamacore.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN048_Nur_Mamacore.jpg
 OBWN/OBWN049_Obi_Wan_Kenobi_F2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN049_Obi_Wan_Kenobi_F2.jpg
 OBWN/OBWN050_Obi_Wan_s_Eopie_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN050_Obi_Wan_s_Eopie_A.jpg
-OBWN/OBWN051_Obi_Wan_s_Strategy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN051_Obi_Wan_s_Strategy.jpg
+OBWN/OBWN051_Obi_Wan_s_Strategy_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN051_Obi_Wan_s_Strategy_v2.jpg
 OBWN/OBWN052_Organa_Family_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN052_Organa_Family_B.jpg
 OBWN/OBWN053_Path_Dropship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN053_Path_Dropship.jpg
 OBWN/OBWN054_Phase_II_Purge_Trooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN054_Phase_II_Purge_Trooper.jpg
@@ -5638,28 +5638,28 @@ OBWN/OBWN059_Reva_Sevander_B.jpg	https://lackey.swtcg.com/starwars/sets/setimage
 OBWN/OBWN060_Reva_s_Rage.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN060_Reva_s_Rage.jpg
 OBWN/OBWN061_Some_Call_It_the_Path.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN061_Some_Call_It_the_Path.jpg
 OBWN/OBWN062_Soresu.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN062_Soresu.jpg
-OBWN/OBWN063_Sully_s_T47_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN063_Sully_s_T47_A.jpg
+OBWN/OBWN063_Sully_s_T47_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN063_Sully_s_T47_A_v2.jpg
 OBWN/OBWN064_Tala_Durith_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN064_Tala_Durith_B.jpg
 OBWN/OBWN065_Tala_s_Shuttle_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN065_Tala_s_Shuttle_A.jpg
 OBWN/OBWN066_There_Are_Other_Ways_to_Fight.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN066_There_Are_Other_Ways_to_Fight.jpg
 OBWN/OBWN067_Tri_Wing_S_91x_Pegasus.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN067_Tri_Wing_S_91x_Pegasus.jpg
 OBWN/OBWN068_Underworld_Opportunists.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN068_Underworld_Opportunists.jpg
 OBWN/OBWN069_Who_s_in_the_Gutter_Now.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN069_Who_s_in_the_Gutter_Now.jpg
-OBWN/OBWN070_Younglings.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN070_Younglings.jpg
+OBWN/OBWN070_Younglings_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN070_Younglings_v2.jpg
 OBWN/OBWN071_1st_Legion_Assault_Force.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN071_1st_Legion_Assault_Force.jpg
 OBWN/OBWN072_Alderaan_Royal_Guard.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN072_Alderaan_Royal_Guard.jpg
 OBWN/OBWN073_Anakin_s_Endurance_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN073_Anakin_s_Endurance_A.jpg
 OBWN/OBWN074_Automated_Freighter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN074_Automated_Freighter.jpg
 OBWN/OBWN075_Clone_Veteran.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN075_Clone_Veteran.jpg
 OBWN/OBWN076_Daiyu_City.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN076_Daiyu_City.jpg
-OBWN/OBWN077_Dueling_Prowess.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN077_Dueling_Prowess.jpg
+OBWN/OBWN077_Dueling_Prowess_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN077_Dueling_Prowess_v2.jpg
 OBWN/OBWN078_Emperor_Palpatine_E2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN078_Emperor_Palpatine_E2.jpg
 OBWN/OBWN079_Freck_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN079_Freck_A.jpg
 OBWN/OBWN080_GR_75.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN080_GR_75.jpg
 OBWN/OBWN081_Haja_Estree_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN081_Haja_Estree_A.jpg
 OBWN/OBWN082_Hate_Leads_to_Suffering.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN082_Hate_Leads_to_Suffering.jpg
-OBWN/OBWN083_Hello_There.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN083_Hello_There.jpg
-OBWN/OBWN084_Imperial_Assault_Lander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN084_Imperial_Assault_Lander.jpg
+OBWN/OBWN083_Hello_There_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN083_Hello_There_v2.jpg
+OBWN/OBWN084_Imperial_Assault_Lander_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN084_Imperial_Assault_Lander_v2.jpg
 OBWN/OBWN085_Kawlan_Roken_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN085_Kawlan_Roken_A.jpg
 OBWN/OBWN086_Mapuzo_Repulsor_Truck.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN086_Mapuzo_Repulsor_Truck.jpg
 OBWN/OBWN087_Mark_of_the_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN087_Mark_of_the_Empire.jpg
@@ -5675,12 +5675,12 @@ OBWN/OBWN096_Rebel_s_Resistance.jpg	https://lackey.swtcg.com/starwars/sets/setim
 OBWN/OBWN097_Teeka_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN097_Teeka_A.jpg
 OBWN/OBWN098_Tibidon_Worker_Shuttle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN098_Tibidon_Worker_Shuttle.jpg
 OBWN/OBWN099_Trying_To_Make_Amends.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN099_Trying_To_Make_Amends.jpg
-OBWN/OBWN100_Vect_Nokru_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN100_Vect_Nokru_A.jpg
+OBWN/OBWN100_Vect_Nokru_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN100_Vect_Nokru_A_v2.jpg
 OBWN/OBWN101_Weakness.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN101_Weakness.jpg
 OBWN/OBWN102_What_the_Empire_is_Capable_of.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN102_What_the_Empire_is_Capable_of.jpg
 OBWN/OBWN103_Where_We_Found_You.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN103_Where_We_Found_You.jpg
 OBWN/OBWN104_You_Are_Our_Child.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN104_You_Are_Our_Child.jpg
-OBWN/OBWN105_You_Trust_Me_I_Trust_Her.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN105_You_Trust_Me_I_Trust_Her.jpg
+OBWN/OBWN105_You_Trust_Me_I_Trust_Her_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWN105_You_Trust_Me_I_Trust_Her_v2.jpg
 OBWN/OBWNpromo_Darth_Vader_L2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWNpromo_Darth_Vader_L2.jpg
 OBWN/OBWNpromo_Grand_Inquisitor_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWNpromo_Grand_Inquisitor_E.jpg
 OBWN/OBWNpromo_Luke_Skywalker_R2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/OBWN/OBWNpromo_Luke_Skywalker_R2.jpg

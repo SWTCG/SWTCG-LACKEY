@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>250201</lastupdateYYMMDD>
+<lastupdateYYMMDD>250215</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Obi-wan Set Release</message>
+<message>Obi-wan Hotfixes</message>
 
 </version>

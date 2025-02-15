@@ -1,6 +1,20 @@
 <uninstall>
 
-<dateYYMMDD>241018</dateYYMMDD>
+<dateYYMMDD>250213</dateYYMMDD>
+
+<removepath>sets/setimages/OBWN/OBWN015_No_Longer.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN027_Shadow_of_Empire.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN034_We_ve_Done_Worse.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN038_Bail_Organa_G.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN045_Jedi_Hunt_Themselves.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN051_Obi_Wan_s_Strategy.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN063_Sully_s_T47_A.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN070_Younglings.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN077_Dueling_Prowess.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN083_Hello_There.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN084_Imperial_Assault_Lander.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN100_Vect_Nokru_A.jpg</removepath>
+<removepath>sets/setimages/OBWN/OBWN105_You_Trust_Me_I_Trust_Her.jpg</removepath>
 
 <removepath>sets/setimages/VV1/VV113_Restored_Jedi.jpg</removepath>
 <removepath>sets/setimages/UNION/UNION028_Lost_Stars.jpg</removepath>
