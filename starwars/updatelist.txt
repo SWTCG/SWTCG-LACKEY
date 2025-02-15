@@ -1,4 +1,4 @@
-starwars	02-01-25
+starwars	02-15-25
 images/avatars/exp_cj.jpg	https://lackey.swtcg.com/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://lackey.swtcg.com/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://lackey.swtcg.com/images/avatars/twinsuns.jpg	9666
@@ -20,13 +20,13 @@ images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://lackey.s
 images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://lackey.swtcg.com/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://lackey.swtcg.com/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
-plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	734221
-plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	325896
-plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	3263228
+plugins/starwars/plugininfo.txt	https://lackey.swtcg.com/starwars/plugininfo.txt	734226
+plugins/starwars/pluginpreferences.txt	https://lackey.swtcg.com/starwars/pluginpreferences.txt	325901
+plugins/starwars/uninstall.txt	https://lackey.swtcg.com/starwars/uninstall.txt	3351474
 plugins/starwars/ListOfCardDataFiles.txt	https://lackey.swtcg.com/starwars/ListOfCardDataFiles.txt	258853
 plugins/starwars/formats.txt	https://lackey.swtcg.com/starwars/formats.txt	175963
 plugins/starwars/defaultchat.txt	https://lackey.swtcg.com/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	23029
+plugins/starwars/version.txt	https://lackey.swtcg.com/starwars/version.txt	22839
 plugins/starwars/bot.jpg	https://lackey.swtcg.com/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://lackey.swtcg.com/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://lackey.swtcg.com/starwars/spawned.jpg	-36423
@@ -137,7 +137,7 @@ plugins/starwars/sets/JK.txt	https://lackey.swtcg.com/starwars/sets/JK.txt	28596
 plugins/starwars/sets/KAE.txt	https://lackey.swtcg.com/starwars/sets/KAE.txt	5829805
 plugins/starwars/sets/MAM.txt	https://lackey.swtcg.com/starwars/sets/MAM.txt	130535
 plugins/starwars/sets/MAND.txt	https://lackey.swtcg.com/starwars/sets/MAND.txt	2097777
-plugins/starwars/sets/OBWN.txt	https://lackey.swtcg.com/starwars/sets/OBWN.txt	3481988
+plugins/starwars/sets/OBWN.txt	https://lackey.swtcg.com/starwars/sets/OBWN.txt	3485766
 plugins/starwars/sets/PM.txt	https://lackey.swtcg.com/starwars/sets/PM.txt	1958942
 plugins/starwars/sets/RAS.txt	https://lackey.swtcg.com/starwars/sets/RAS.txt	2612852
 plugins/starwars/sets/RAW.txt	https://lackey.swtcg.com/starwars/sets/RAW.txt	2816352
