@@ -1,8 +1,8 @@
 <formatdefinitions>
 
 <format>
-<label>Obi-wan</label>
-<set>OBWN</set>
+<label>Vader</label>
+<set>VDR</set>
 </format>
 
 <format>
