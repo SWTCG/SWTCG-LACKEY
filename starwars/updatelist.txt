@@ -72,6 +72,7 @@ plugins/starwars/packs/jg.jpg	https://lackey.swtcg.com/starwars/packs/jg.jpg	512
 plugins/starwars/packs/jk.jpg	https://lackey.swtcg.com/starwars/packs/jk.jpg	591920
 plugins/starwars/packs/kae.jpg	https://lackey.swtcg.com/starwars/packs/kae.jpg	1462702
 plugins/starwars/packs/mand.jpg	https://lackey.swtcg.com/starwars/packs/mand.jpg	-51488
+plugins/starwars/packs/OBWN.jpg	https://lackey.swtcg.com/starwars/packs/OBWN.jpg	77777
 plugins/starwars/packs/pm.jpg	https://lackey.swtcg.com/starwars/packs/pm.jpg	500955
 plugins/starwars/packs/promo.jpg	https://lackey.swtcg.com/starwars/packs/promo.jpg	509491
 plugins/starwars/packs/ras.jpg	https://lackey.swtcg.com/starwars/packs/ras.jpg	501938
@@ -99,6 +100,8 @@ plugins/starwars/packs/tor.jpg	https://lackey.swtcg.com/starwars/packs/tor.jpg	6
 plugins/starwars/packs/TORMisc.jpg	https://lackey.swtcg.com/starwars/packs/TORMisc.jpg	-239716
 plugins/starwars/packs/TROS.jpg	https://lackey.swtcg.com/starwars/packs/TROS.jpg	1998770
 plugins/starwars/packs/tuf.jpg	https://lackey.swtcg.com/starwars/packs/tuf.jpg	564541
+plugins/starwars/packs/union.jpg	https://lackey.swtcg.com/starwars/packs/union.jpg	888888
+plugins/starwars/packs/VDR1.jpg	https://lackey.swtcg.com/starwars/packs/VDR1.jpg	999999
 plugins/starwars/packs/VP.jpg	https://lackey.swtcg.com/starwars/packs/VP.jpg	529453
 plugins/starwars/packs/WAE.jpg	https://lackey.swtcg.com/starwars/packs/WAE.jpg	-207097
 plugins/starwars/sets/15TH.txt	https://lackey.swtcg.com/starwars/sets/15TH.txt	2699937
