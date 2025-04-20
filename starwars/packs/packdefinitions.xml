@@ -929,7 +929,6 @@
         <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
     </chance>
 </pack>
-</packdefinitions>
 <pack>
     <packtitle>ALTA PT</packtitle>
     <packimage>ALTAPT</packimage>
@@ -966,7 +965,6 @@
         <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
     </chance>
 </pack>
-</packdefinitions>
 <pack>
     <packtitle>Clone Wars Combined</packtitle>
     <packimage>ALTAPT</packimage>
@@ -991,7 +989,6 @@
         <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
     </chance>
 </pack>
-</packdefinitions>
 <pack>
     <packtitle>Resistance Combined</packtitle>
     <packimage>ALTAST</packimage>
