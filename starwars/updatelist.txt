@@ -167,6 +167,7 @@ plugins/starwars/sets/TOR.txt	https://lackey.swtcg.com/starwars/sets/TOR.txt	344
 plugins/starwars/sets/TROS.txt	https://lackey.swtcg.com/starwars/sets/TROS.txt	6115632
 plugins/starwars/sets/TUF.txt	https://lackey.swtcg.com/starwars/sets/TUF.txt	3696586
 plugins/starwars/sets/UNION.txt	https://lackey.swtcg.com/starwars/sets/UNION.txt	5910415
+plugins/starwars/sets/VDR.txt	https://lackey.swtcg.com/starwars/sets/VDR.txt	1012345
 plugins/starwars/sets/VP.txt	https://lackey.swtcg.com/starwars/sets/VP.txt	5429456
 plugins/starwars/sets/VV1.txt	https://lackey.swtcg.com/starwars/sets/VV1.txt	1044899
 plugins/starwars/sets/VV2.txt	https://lackey.swtcg.com/starwars/sets/VV2.txt	981863
