@@ -64,6 +64,7 @@
 <filetoinclude>TROS.txt</filetoinclude>
 <filetoinclude>TUF.txt</filetoinclude>
 <filetoinclude>UNION.txt</filetoinclude>
+<filetoinclude>VDR.txt</filetoinclude>
 <filetoinclude>VP.txt</filetoinclude>
 <filetoinclude>VV1.txt</filetoinclude>
 <filetoinclude>VV2.txt</filetoinclude>

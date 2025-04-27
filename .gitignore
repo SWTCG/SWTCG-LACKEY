@@ -64,4 +64,5 @@ v16/*
 /starwars/saved/AutoSave*.*
 /starwars/updatelistPREP.txt
 /starwars/pluginpreferences.txt
+starwars/pluginpreferences.txt
 *.~lock.*
