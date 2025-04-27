@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>250215</lastupdateYYMMDD>
+<lastupdateYYMMDD>250426</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Obi-wan Hotfixes</message>
+<message>Vader Mini-set Release</message>
 
 </version>
