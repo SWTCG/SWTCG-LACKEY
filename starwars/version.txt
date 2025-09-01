@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>250426</lastupdateYYMMDD>
+<lastupdateYYMMDD>250901</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Vader Mini-set Release</message>
+<message>Legacy playtesting</message>
 
 </version>
