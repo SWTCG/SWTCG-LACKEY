@@ -1,13 +1,8 @@
 <formatdefinitions>
 
 <format>
-<label>Vader</label>
-<set>VDR</set>
-</format>
-
-<format>
-<label>A Long Time Ago</label>
-<set>ALTA</set>
+<label>Legacy</label>
+<set>LEG</set>
 </format>
 
 <format>
@@ -26,6 +21,7 @@
 
 <format>
 <label>Standard</label>
+<set>LEG</set>
 <set>VDR</set>
 <set>OBWN</set>
 <set>FOR</set>
