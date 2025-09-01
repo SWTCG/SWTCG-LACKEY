@@ -10830,7 +10830,7 @@ LEG/LEG090_The_Wheel_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/
 LEG/LEG091_Third_Jedi_Purge.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG091_Third_Jedi_Purge.jpg
 LEG/LEG092_Tili_Qua_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG092_Tili_Qua_A.jpg
 LEG/LEG093_Treis_Sinde_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG093_Treis_Sinde_A.jpg
-LEG/LEG094_Twin_Suns_Squadron	_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG094_Twin_Suns_Squadron	_D.jpg
+LEG/LEG094_Twin_Suns_Squadron_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG094_Twin_Suns_Squadron_D.jpg
 LEG/LEG095_Unfriendly_Welcome.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG095_Unfriendly_Welcome.jpg
 LEG/LEG096_Utapau_Hideout.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG096_Utapau_Hideout.jpg
 LEG/LEG097_Vul_Isen_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LEG/LEG097_Vul_Isen_A.jpg
