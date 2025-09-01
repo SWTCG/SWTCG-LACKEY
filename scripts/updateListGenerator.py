@@ -2,11 +2,11 @@ import os
 import io
 
 
-setCode = "VDR"
+setCode = "LEG"
 
 
 basePluginPath = "../starwars"
-baseSetPath = basePluginPath + "sets/"
+baseSetPath = basePluginPath + "/sets/"
 
 
 def constructSetFilePath(setCode):
