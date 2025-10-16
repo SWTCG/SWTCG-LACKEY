@@ -1,26 +1,18 @@
 <formatdefinitions>
 
 <format>
+<label>Halloween</label>
+<set>HWN</set>
+</format>
+
+<format>
 <label>Legacy</label>
 <set>LEG</set>
 </format>
 
 <format>
-<label>World Championship 2024</label>
-<set>ALTA</set>
-<set>PM</set>
-<set>AOTC</set>
-<set>ROTS</set>
-<set>ANH</set>
-<set>ESB</set>
-<set>ROTJ</set>
-<set>TFA</set>
-<set>TLJ</set>
-<set>TROS</set>
-</format>
-
-<format>
 <label>Standard</label>
+<set>HWN</set>
 <set>LEG</set>
 <set>VDR</set>
 <set>OBWN</set>

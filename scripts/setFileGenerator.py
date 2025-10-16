@@ -7,7 +7,7 @@ validBuildCosts = ['Multi-arena build', 'Space build', 'Ground build', 'Characte
 currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification'])
 currentSet.head()            
 
-cardSet = "LEG"
+cardSet = "HWN"
 
 cwd = os.getcwd()
 

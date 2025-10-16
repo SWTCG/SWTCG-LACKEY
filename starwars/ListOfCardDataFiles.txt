@@ -28,6 +28,7 @@
 <filetoinclude>FOTR.txt</filetoinclude>
 <filetoinclude>GPC.txt</filetoinclude>
 <filetoinclude>HELP.txt</filetoinclude>
+<filetoinclude>HWN.txt</filetoinclude>
 <filetoinclude>IA.txt</filetoinclude>
 <filetoinclude>ION.txt</filetoinclude>
 <filetoinclude>JEDI.txt</filetoinclude>
