@@ -1,4 +1,4 @@
-starwars	10-15-25
+starwars	10-21-25
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/images/avatars/twinsuns.jpg	9666
@@ -20,13 +20,13 @@ images/backgrounds/SWTCG_WC2022_Australian_Regional_Playmat.png	https://raw.gith
 images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	-184345
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
-plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/plugininfo.txt	734225
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/pluginpreferences.txt	428963
+plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/plugininfo.txt	734222
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/pluginpreferences.txt	428917
 plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/uninstall.txt	3351479
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/ListOfCardDataFiles.txt	269907
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/formats.txt	160719
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/version.txt	24442
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/version.txt	24439
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/spawned.jpg	-36423
@@ -132,7 +132,7 @@ plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/FOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/FOR.txt	5742177
 plugins/starwars/sets/FOTR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/FOTR.txt	2435246
 plugins/starwars/sets/GPC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/GPC.txt	1025624
-plugins/starwars/sets/HWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/HWN.txt	979618
+plugins/starwars/sets/HWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/HWN.txt	988097
 plugins/starwars/sets/IA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/IA.txt	768921
 plugins/starwars/sets/ION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/ION.txt	4913785
 plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/JEDI.txt	1804843
@@ -11048,44 +11048,44 @@ LEG/LEGpromo_Twin_Suns_Squadron_D.jpg	https://raw.githubusercontent.com/SWTCG/SW
 LEG/LEGsub_Enslaved_Rakghoul.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGsub_Enslaved_Rakghoul.jpg
 LEG/LEGsub_New_Imperial_Bodyguard.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGsub_New_Imperial_Bodyguard.jpg
 LEG/LEGsub_Shark_Wing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGsub_Shark_Wing.jpg	
-HWN/HWN01_Abeloth_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN01_Abeloth_B.jpg
-HWN/HWN02_Astromech_Reanimation_Initiative.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN02_Astromech_Reanimation_Initiative.jpg
-HWN/HWN03_Brendok_Coven_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN03_Brendok_Coven_A.jpg
-HWN/HWN04_Blood_Loss.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN04_Blood_Loss.jpg
-HWN/HWN05_Bloodstained_Helmet.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN05_Bloodstained_Helmet.jpg
-HWN/HWN06_Burned_Alive.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN06_Burned_Alive.jpg
-HWN/HWN07_Dark_Crucible.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN07_Dark_Crucible.jpg
-HWN/HWN08_Darth_Nihilus_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN08_Darth_Nihilus_D.jpg
-HWN/HWN09_Darth_Sion_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN09_Darth_Sion_D.jpg
-HWN/HWN10_Deathtrooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN10_Deathtrooper.jpg
-HWN/HWN11_Fortress_Vader.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN11_Fortress_Vader.jpg
-HWN/HWN12_General_Grievous_P.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN12_General_Grievous_P.jpg
-HWN/HWN13_Gethzerion_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN13_Gethzerion_A.jpg
-HWN/HWN14_Ghostling.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN14_Ghostling.jpg
-HWN/HWN15_Grand_Inquisitor_F.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN15_Grand_Inquisitor_F.jpg
-HWN/HWN16_Great_Mothers_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN16_Great_Mothers_A.jpg
-HWN/HWN17_Hallowe_en.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN17_Hallowe_en.jpg
-HWN/HWN18_Hragscythe.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN18_Hragscythe.jpg
-HWN/HWN19_Lupal_System.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN19_Lupal_System.jpg
-HWN/HWN20_Malachor_V.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN20_Malachor_V.jpg
-HWN/HWN21_Nihilus_s_Ravager_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN21_Nihilus_s_Ravager_C.jpg
-HWN/HWN22_Queen_of_Ktath_atn_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN22_Queen_of_Ktath_atn_B.jpg
-HWN/HWN23_Red_Harvest.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN23_Red_Harvest.jpg
-HWN/HWN24_Shrii_Ka_Rai.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN24_Shrii_Ka_Rai.jpg
-HWN/HWN25_Starweird.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN25_Starweird.jpg
-HWN/HWN26_Terror_from_Beyond.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN26_Terror_from_Beyond.jpg
-HWN/HWN27_Undead_Rancor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN27_Undead_Rancor.jpg
-HWN/HWN28_Varroa_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN28_Varroa_A.jpg
-HWN/HWN29_Vector_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN29_Vector_A.jpg
-HWN/HWN30_Vespinax_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN30_Vespinax_A.jpg
-HWN/HWN31_Yuuzhan_Vong_Slayer_Assassin.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN31_Yuuzhan_Vong_Slayer_Assassin.jpg
-HWN/HWNsub_Zombie.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNsub_Zombie.jpg
-HWN/HWsub_Brendok_Witch.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_Brendok_Witch.jpg
-HWN/HWsub_C1_MNST4_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_C1_MNST4_A.jpg
-HWN/HWsub_Lotek_k_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_Lotek_k_A.jpg
-HWN/HWsub_R2_B00_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_R2_B00_A.jpg
-HWN/HWsub_R3_RN8W_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_R3_RN8W_A.jpg
-HWN/HWsub_R4_GUTS_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_R4_GUTS_A.jpg
-HWN/HWsub_R5_Z0MB_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_R5_Z0MB_A.jpg
-HWN/HWsub_R6_W1CH_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_R6_W1CH_A.jpg
-HWN/HWsub_R7_FNG_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWsub_R7_FNG_A.jpg
+HWN/HWN01_Abeloth_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN01_Abeloth_B.jpg
+HWN/HWN02_Astromech_Reanimation_Initiative.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN02_Astromech_Reanimation_Initiative.jpg
+HWN/HWN03_Brendok_Coven_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN03_Brendok_Coven_A.jpg
+HWN/HWN04_Blood_Loss.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN04_Blood_Loss.jpg
+HWN/HWN05_Bloodstained_Helmet.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN05_Bloodstained_Helmet.jpg
+HWN/HWN06_Burned_Alive.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN06_Burned_Alive.jpg
+HWN/HWN07_Dark_Crucible.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN07_Dark_Crucible.jpg
+HWN/HWN08_Darth_Nihilus_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN08_Darth_Nihilus_D.jpg
+HWN/HWN09_Darth_Sion_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN09_Darth_Sion_D.jpg
+HWN/HWN10_Deathtrooper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN10_Deathtrooper.jpg
+HWN/HWN11_Fortress_Vader.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN11_Fortress_Vader.jpg
+HWN/HWN12_General_Grievous_P.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN12_General_Grievous_P.jpg
+HWN/HWN13_Gethzerion_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN13_Gethzerion_A.jpg
+HWN/HWN14_Ghostling.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN14_Ghostling.jpg
+HWN/HWN15_Grand_Inquisitor_F.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN15_Grand_Inquisitor_F.jpg
+HWN/HWN16_Great_Mothers_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN16_Great_Mothers_A.jpg
+HWN/HWN17_Hallowe_en.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN17_Hallowe_en.jpg
+HWN/HWN18_Hragscythe.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN18_Hragscythe.jpg
+HWN/HWN19_Lupal_System.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN19_Lupal_System.jpg
+HWN/HWN20_Malachor_V.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN20_Malachor_V.jpg
+HWN/HWN21_Nihilus_s_Ravager_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN21_Nihilus_s_Ravager_C.jpg
+HWN/HWN22_Queen_of_Ktath_atn_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN22_Queen_of_Ktath_atn_B.jpg
+HWN/HWN23_Red_Harvest.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN23_Red_Harvest.jpg
+HWN/HWN24_Shrii_Ka_Rai.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN24_Shrii_Ka_Rai.jpg
+HWN/HWN25_Starweird.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN25_Starweird.jpg
+HWN/HWN26_Terror_from_Beyond.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN26_Terror_from_Beyond.jpg
+HWN/HWN27_Undead_Rancor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN27_Undead_Rancor.jpg
+HWN/HWN28_Varroa_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN28_Varroa_A.jpg
+HWN/HWN29_Vector_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN29_Vector_A.jpg
+HWN/HWN30_Vespinax_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN30_Vespinax_A.jpg
+HWN/HWN31_Yuuzhan_Vong_Slayer_Assassin.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWN31_Yuuzhan_Vong_Slayer_Assassin.jpg
+HWN/HWNsub_Brendok_Witch.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_Brendok_Witch.jpg
+HWN/HWNsub_C1_MNST4_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_C1_MNST4_A.jpg
+HWN/HWNsub_Lotek_k_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_Lotek_k_A.jpg
+HWN/HWNsub_R2_B00_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_R2_B00_A.jpg
+HWN/HWNsub_R3_RN8W_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_R3_RN8W_A.jpg
+HWN/HWNsub_R4_GUTS_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_R4_GUTS_A.jpg
+HWN/HWNsub_R5_Z0MB_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_R5_Z0MB_A.jpg
+HWN/HWNsub_R6_W1CH_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_R6_W1CH_A.jpg
+HWN/HWNsub_R7_FNG_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_R7_FNG_A.jpg
+HWN/HWNsub_Zombie.jpg	https://lackey.swtcg.com/starwars/sets/setimages/HWN/HWNsub_Zombie.jpg
