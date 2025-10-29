@@ -11079,6 +11079,10 @@ HWN/HWN28_Varroa_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs
 HWN/HWN29_Vector_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN29_Vector_A.jpg
 HWN/HWN30_Vespinax_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN30_Vespinax_A.jpg
 HWN/HWN31_Yuuzhan_Vong_Slayer_Assassin.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWN31_Yuuzhan_Vong_Slayer_Assassin.jpg
+HWN/HWNpromo_Abeloth_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNpromo_Abeloth_B.jpg
+HWN/HWNpromo_Bloodstained_Helmet.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNpromo_Bloodstained_Helmet.jpg
+HWN/HWNpromo_Deathtrooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNpromo_Deathtrooper.jpg
+HWN/HWNpromo_Hallowe_en.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNpromo_Hallowe_en.jpg
 HWN/HWNsub_Brendok_Witch.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNsub_Brendok_Witch.jpg
 HWN/HWNsub_C1_MNST4_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNsub_C1_MNST4_A.jpg
 HWN/HWNsub_Lotek_k_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/HWN/HWNsub_Lotek_k_A.jpg
