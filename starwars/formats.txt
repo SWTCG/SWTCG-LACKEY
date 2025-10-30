@@ -6,14 +6,8 @@
 </format>
 
 <format>
-<label>Legacy</label>
-<set>LEG</set>
-</format>
-
-<format>
 <label>Standard</label>
 <set>HWN</set>
-<set>LEG</set>
 <set>VDR</set>
 <set>OBWN</set>
 <set>FOR</set>

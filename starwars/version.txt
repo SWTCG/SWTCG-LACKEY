@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>251021</lastupdateYYMMDD>
+<lastupdateYYMMDD>251030</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Halloween and Legacy playtesting</message>
+<message>Halloween Mini-set Release</message>
 
 </version>

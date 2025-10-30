@@ -35,7 +35,6 @@
 <filetoinclude>JG.txt</filetoinclude>
 <filetoinclude>JK.txt</filetoinclude>
 <filetoinclude>KAE.txt</filetoinclude>
-<filetoinclude>LEG.txt</filetoinclude>
 <filetoinclude>MAM.txt</filetoinclude>
 <filetoinclude>MAND.txt</filetoinclude>
 <filetoinclude>OBWN.txt</filetoinclude>
