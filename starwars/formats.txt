@@ -1,31 +1,13 @@
 <formatdefinitions>
 
 <format>
-<label>Vader</label>
-<set>VDR</set>
-</format>
-
-<format>
-<label>A Long Time Ago</label>
-<set>ALTA</set>
-</format>
-
-<format>
-<label>World Championship 2024</label>
-<set>ALTA</set>
-<set>PM</set>
-<set>AOTC</set>
-<set>ROTS</set>
-<set>ANH</set>
-<set>ESB</set>
-<set>ROTJ</set>
-<set>TFA</set>
-<set>TLJ</set>
-<set>TROS</set>
+<label>Halloween</label>
+<set>HWN</set>
 </format>
 
 <format>
 <label>Standard</label>
+<set>HWN</set>
 <set>VDR</set>
 <set>OBWN</set>
 <set>FOR</set>
