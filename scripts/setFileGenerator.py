@@ -7,7 +7,7 @@ validBuildCosts = ['Multi-arena build', 'Space build', 'Ground build', 'Characte
 currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification'])
 currentSet.head()            
 
-cardSet = "HWN"
+cardSet = "LEG"
 
 cwd = os.getcwd()
 
@@ -24,6 +24,7 @@ class Card:
   rarity = "[rarity]"
   uniqueLetter = ""
   isUnit = False
+  isPromo = False
   sideCount = 0
   rarityCount = 0
 
@@ -81,6 +82,9 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
 
     if fileNameNumber != "promo" and fileNameNumber != "sub":
       card.cardNumber = fileNameNumber
+
+    if fileNameNumber == "promo":
+      card.isPromo = True
 
     print("Processing " + fileNameNumber)
 
@@ -230,6 +234,8 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
       card.cardName = card.cardName.rstrip('\r')
       card.cardName = card.cardName.rstrip('\r\n')
       card.cardName = card.cardName + " (" + card.uniqueLetter + ")"
+      if card.isPromo:
+        card.cardName = card.cardName + " (Promo)"
       if card.uniqueLetter != imageFrag[-len(card.uniqueLetter):]:
         logIssue(imageFrag, "uniqueLetter", " unique letter in card (" + card.uniqueLetter + ") doesn't match unique letter in file name (" + imageFrag[-len(card.uniqueLetter):] + ")")
         print(imageFrag)
@@ -254,7 +260,7 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
     card.cardName = card.cardName.rstrip()
     new_row = {'Name':card.cardName,'Set':cardSet,'ImageFile':imageFrag,'Side':card.side,'Type':cardType,'Subtype':subtype,
            'Cost':card.buildCost,'Speed':card.speed,'Power':card.power,'Health':card.health,'Rarity':card.rarity,'Number':card.cardNumber,
-           'Usage':'','Text':card.cardText,'Script':'','Classification':''}
+           'Usage':'','Text':card.cardText,'Script':'','Classification':'LEG'}
     new_row_insert = pd.DataFrame(new_row, index=[0])
     currentSet = pd.concat([new_row_insert,currentSet.loc[:]]).reset_index(drop=True)
     return currentSet
