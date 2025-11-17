@@ -43,7 +43,7 @@ Hondo Karr (A)	LEG	LEG041_Hondo_Karr_A	N	Character	Mandalorian Warrior	8	40	8	6	
 Imperious (A)	LEG	LEG042_Imperious_A	N	Space	New Imperial - Galactic Alliance Remnant Capital Ship	9	20	8	8	R	42		Shields 1 Bombard 8 INSERT: Overkill		LEG
 Indomitable (A)	LEG	LEG043_Indomitable_A	L	Space	Galactic Alliance Remnant Capital Ship - Flagship	8	40	6	5	R	43		Shields 2 Last Stand: Do 6 dice of damage to a unit in this arena. Overload 4 		LEG
 Iron Sun (A)	LEG	LEG044_Iron_Sun_A	N	Space	Independent Rakghoul Capital Ship	7	30	6	7	R	44		Shields 1 Pay 2 Force -> One of your other Rakghouls gets Overload 2 until end of turn, and put 1 corruption counter on one of your opponent's units in the Ground or Character arena. Pay 2 Force -> Take 1 40/2/2 Stormtrooper Rakghoul Subordinate with "Fury 1" and put it into its arena. Play only during your build step. 		LEG
-Jagged Fel (A)	LEG	LEG045_Jagged_Fel_A	N	Space	Fel Imperial Capital Ship - Flagship	7	20	6	6	R	45		Shields 1 Each of your Fel units gets +1 power, Stun 1, and Velocity 20.		LEG
+Jagged Fel (A) (Ship)	LEG	LEG045_Jagged_Fel_A	N	Space	Fel Imperial Capital Ship - Flagship	7	20	6	6	R	45		Shields 1 Each of your Fel units gets +1 power, Stun 1, and Velocity 20.		LEG
 Jaius Yorub (A)	LEG	LEG046_Jaius_Yorub_A	L	Character	Sullustan Galactic Alliance Remnant Officer	2	20	1	2	R	46		 Capital Ship and Cruiser Pilot. The Capital Ship or Cruiser gets: > Fury 2 > When this unit would be discarded, retreat each   other pilot on it first.		LEG
 Jariah Syn (A)	LEG	LEG047_Jariah_Syn_A	N	Character	Bounty Hunter - Pirate - Smuggler	6	50	5	6	R	47		Bounty: Gain 2 build points and draw 2 cards. Accuracy 1 Jariah gets +X power and Critical Hit X, where X is the number of Weapons attached to him.		LEG
 Jedi Council (F)	LEG	LEG048_Jedi_Council_F	L	Ground	Jedi Master Squad - Council Member	7	40	5	6	R	48		Stack: Any Council Member. When the battle phase starts, if you have a Location in play, reveal cards from the top of your deck until you reveal a Jedi unit card. Put that card into your hand and shuffle the rest into your deck. Pay 2 Force -> Evade 3		LEG
@@ -316,6 +316,6 @@ Wolf Sazen (A) (Promo)	LEG	LEGpromo_Wolf_Sazen_A	L	Character	Independent Zabrak 
 Enslaved Rakghoul	LEG	LEGsub_Enslaved_Rakghoul	N	Subordinate	Character - One Sith Rakghoul		50	3	2	S			Double Damage		LEG
 New Imperial Bodyguard	LEG	LEGsub_New_Imperial_Bodyguard	D	Subordinate	Character - New Imperial Bodyguard Stormtrooper		50	2	2	S			Pay 1 Force -> Intercept		LEG
 Shark Wing	LEG	LEGsub_Shark_Wing	D	Subordinate	Ground - New Imperial Aquatic Squadron		60	3	3	S			"Lieutenant, deploy the sharks." —Darth Azard		LEG
-Sith Clawcraft	LEG	LEGsub_Sith_Clawcraft	D	Subordinate	Space - New Imperial One Sith Starfighter		60	2	2	S			Critical Hit 1		LEG
+Sith Clawcraft (Sub)	LEG	LEGsub_Sith_Clawcraft	D	Subordinate	Space - New Imperial One Sith Starfighter		60	2	2	S			Critical Hit 1		LEG
 Stormtrooper Rakghoul	LEG	LEGsub_Stormtrooper_Rakghoul	N	Subordinate	Ground/Character - Stormtrooper Rakghoul Creature		40	2	2	S			Fury 1 "Rakghouls! Attack, my children!" —Celeste Morne		LEG
 Vanx	LEG	LEGsub_Vanx	N	Subordinate	Character - Vendaxa Creature		50	3	2	S			"Sith's driving them on, telling ‘em we're tasty." —Cade Skywalker		LEG
