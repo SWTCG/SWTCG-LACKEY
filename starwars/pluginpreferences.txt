@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>250131</lastversionupdate>
+<lastversionupdate>251214</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -27,12 +27,40 @@
 <canned>/draw11</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind0pos2>Roboto-Light_0.ttf</fontkind0pos2>
+<fontkind0pos3>Tahoma Bold.ttf</fontkind0pos3>
+<fontkind0pos4>Tahoma.ttf</fontkind0pos4>
+<fontkind0pos5>Trebuchet MS Bold.ttf</fontkind0pos5>
+<fontkind0pos6>Trebuchet MS.ttf</fontkind0pos6>
+<fontkind0pos7>Verdana Bold.ttf</fontkind0pos7>
+<fontkind0pos8>Verdana.ttf</fontkind0pos8>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
 <fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind1pos2>Roboto-Light_0.ttf</fontkind1pos2>
+<fontkind1pos3>Tahoma Bold.ttf</fontkind1pos3>
+<fontkind1pos4>Tahoma.ttf</fontkind1pos4>
+<fontkind1pos5>Trebuchet MS Bold.ttf</fontkind1pos5>
+<fontkind1pos6>Trebuchet MS.ttf</fontkind1pos6>
+<fontkind1pos7>Verdana Bold.ttf</fontkind1pos7>
+<fontkind1pos8>Verdana.ttf</fontkind1pos8>
 <fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
 <fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind2pos2>Roboto-Light_0.ttf</fontkind2pos2>
+<fontkind2pos3>Tahoma Bold.ttf</fontkind2pos3>
+<fontkind2pos4>Tahoma.ttf</fontkind2pos4>
+<fontkind2pos5>Trebuchet MS Bold.ttf</fontkind2pos5>
+<fontkind2pos6>Trebuchet MS.ttf</fontkind2pos6>
+<fontkind2pos7>Verdana Bold.ttf</fontkind2pos7>
+<fontkind2pos8>Verdana.ttf</fontkind2pos8>
 <fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
 <fontkind3pos1>times.ttf</fontkind3pos1>
+<fontkind3pos2>Roboto-Light_0.ttf</fontkind3pos2>
+<fontkind3pos3>Tahoma Bold.ttf</fontkind3pos3>
+<fontkind3pos4>Tahoma.ttf</fontkind3pos4>
+<fontkind3pos5>Trebuchet MS Bold.ttf</fontkind3pos5>
+<fontkind3pos6>Trebuchet MS.ttf</fontkind3pos6>
+<fontkind3pos7>Verdana Bold.ttf</fontkind3pos7>
+<fontkind3pos8>Verdana.ttf</fontkind3pos8>
 <fontsize0>12</fontsize0>
 <fontsize1>11</fontsize1>
 <fontsize2>11</fontsize2>
