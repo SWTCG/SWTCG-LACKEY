@@ -50,6 +50,7 @@
 		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
 		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
 		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
 		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
 		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
 		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
@@ -58,10 +59,9 @@
 		<card><name id="LEG155_Jedi_s_Lightsaber">Jedi&apos;s Lightsaber</name><set>LEG</set></card>
 		<card><name id="LEG155_Jedi_s_Lightsaber">Jedi&apos;s Lightsaber</name><set>LEG</set></card>
 		<card><name id="LEG175_Ossus_Meditation_Garden">Ossus Meditation Garden</name><set>LEG</set></card>
-		<card><name id="LEG175_Ossus_Meditation_Garden">Ossus Meditation Garden</name><set>LEG</set></card>
 		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
 		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
-		<card><name id="LEG040_Hidden_Temple_Enclave">Hidden Temple Enclave</name><set>LEG</set></card>
+		<card><name id="LEG039_Heroic_Leap">Heroic Leap</name><set>LEG</set></card>
 		<card><name id="LEG039_Heroic_Leap">Heroic Leap</name><set>LEG</set></card>
 	</superzone>
 	<superzone name="Supply">

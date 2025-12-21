@@ -31,8 +31,8 @@ plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/re
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/spawned.jpg	-36423
 plugins/starwars/decks/Starter_Leg_DS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_Leg_DS.dek	519358
-plugins/starwars/decks/Starter_Leg_LS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_Leg_LS.dek	474938
-plugins/starwars/decks/Starter_Leg_N.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_Leg_N.dek	446187
+plugins/starwars/decks/Starter_Leg_LS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_Leg_LS.dek	473061
+plugins/starwars/decks/Starter_Leg_N.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_Leg_N.dek	452938
 plugins/starwars/decks/Starter_New_Rep_DS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_New_Rep_DS.dek	587201
 plugins/starwars/decks/Starter_New_Rep_LS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_New_Rep_LS.dek	589688
 plugins/starwars/decks/Starter_Old_Rep_DS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/decks/Starter_Old_Rep_DS.dek	586400
