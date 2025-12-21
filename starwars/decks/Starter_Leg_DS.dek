@@ -1,0 +1,73 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LEG125_Darth_Krayt_F">Darth Krayt (F)</name><set>LEG</set></card>
+		<card><name id="LEG125_Darth_Krayt_F">Darth Krayt (F)</name><set>LEG</set></card>
+		<card><name id="LEG125_Darth_Krayt_F">Darth Krayt (F)</name><set>LEG</set></card>
+		<card><name id="LEG125_Darth_Krayt_F">Darth Krayt (F)</name><set>LEG</set></card>
+		<card><name id="LEG282_Sith_Clawcraft">Sith Clawcraft</name><set>LEG</set></card>
+		<card><name id="LEG282_Sith_Clawcraft">Sith Clawcraft</name><set>LEG</set></card>
+		<card><name id="LEG282_Sith_Clawcraft">Sith Clawcraft</name><set>LEG</set></card>
+		<card><name id="LEG282_Sith_Clawcraft">Sith Clawcraft</name><set>LEG</set></card>
+		<card><name id="LEG227_Fury_Class_Starfighter">Fury-Class Starfighter</name><set>LEG</set></card>
+		<card><name id="LEG227_Fury_Class_Starfighter">Fury-Class Starfighter</name><set>LEG</set></card>
+		<card><name id="LEG227_Fury_Class_Starfighter">Fury-Class Starfighter</name><set>LEG</set></card>
+		<card><name id="LEG227_Fury_Class_Starfighter">Fury-Class Starfighter</name><set>LEG</set></card>
+		<card><name id="LEG254_Neutralizer_class_Bomber">Neutralizer-class Bomber</name><set>LEG</set></card>
+		<card><name id="LEG254_Neutralizer_class_Bomber">Neutralizer-class Bomber</name><set>LEG</set></card>
+		<card><name id="LEG173_Nune_class_Shuttle">Nune-class Shuttle</name><set>LEG</set></card>
+		<card><name id="LEG173_Nune_class_Shuttle">Nune-class Shuttle</name><set>LEG</set></card>
+		<card><name id="LEG255_New_Imperial_TIE_Predator">New Imperial TIE Predator</name><set>LEG</set></card>
+		<card><name id="LEG255_New_Imperial_TIE_Predator">New Imperial TIE Predator</name><set>LEG</set></card>
+		<card><name id="LEG255_New_Imperial_TIE_Predator">New Imperial TIE Predator</name><set>LEG</set></card>
+		<card><name id="LEG255_New_Imperial_TIE_Predator">New Imperial TIE Predator</name><set>LEG</set></card>
+		<card><name id="LEG176_Pellaeon_class_Star_Destroyer">Pellaeon-class Star Destroyer</name><set>LEG</set></card>
+		<card><name id="LEG073_Outer_Rim_Third_Fleet">Outer Rim Third Fleet</name><set>LEG</set></card>
+		<card><name id="LEG202_Alien_Stormtrooper_Squad">Alien Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG202_Alien_Stormtrooper_Squad">Alien Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG202_Alien_Stormtrooper_Squad">Alien Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG202_Alien_Stormtrooper_Squad">Alien Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG258_New_Imperial_Stormtrooper_Squad">New Imperial Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG258_New_Imperial_Stormtrooper_Squad">New Imperial Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG258_New_Imperial_Stormtrooper_Squad">New Imperial Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG258_New_Imperial_Stormtrooper_Squad">New Imperial Stormtrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG162_Moff_Council_A">Moff Council (A)</name><set>LEG</set></card>
+		<card><name id="LEG162_Moff_Council_A">Moff Council (A)</name><set>LEG</set></card>
+		<card><name id="LEG162_Moff_Council_A">Moff Council (A)</name><set>LEG</set></card>
+		<card><name id="LEG272_Seatrooper_Squad">Seatrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG272_Seatrooper_Squad">Seatrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG272_Seatrooper_Squad">Seatrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG272_Seatrooper_Squad">Seatrooper Squad</name><set>LEG</set></card>
+		<card><name id="LEG257_New_Imperial_Stormtrooper">New Imperial Stormtrooper</name><set>LEG</set></card>
+		<card><name id="LEG257_New_Imperial_Stormtrooper">New Imperial Stormtrooper</name><set>LEG</set></card>
+		<card><name id="LEG257_New_Imperial_Stormtrooper">New Imperial Stormtrooper</name><set>LEG</set></card>
+		<card><name id="LEG257_New_Imperial_Stormtrooper">New Imperial Stormtrooper</name><set>LEG</set></card>
+		<card><name id="LEG260_One_Sith_Lord">One Sith Lord</name><set>LEG</set></card>
+		<card><name id="LEG260_One_Sith_Lord">One Sith Lord</name><set>LEG</set></card>
+		<card><name id="LEG260_One_Sith_Lord">One Sith Lord</name><set>LEG</set></card>
+		<card><name id="LEG260_One_Sith_Lord">One Sith Lord</name><set>LEG</set></card>
+		<card><name id="LEG287_Sith_Trooper_Pilot">Sith Trooper Pilot</name><set>LEG</set></card>
+		<card><name id="LEG287_Sith_Trooper_Pilot">Sith Trooper Pilot</name><set>LEG</set></card>
+		<card><name id="LEG287_Sith_Trooper_Pilot">Sith Trooper Pilot</name><set>LEG</set></card>
+		<card><name id="LEG287_Sith_Trooper_Pilot">Sith Trooper Pilot</name><set>LEG</set></card>
+		<card><name id="LEG105_All_Terrain_Armored_Heavy_Transport">All Terrain Armored Heavy Transport</name><set>LEG</set></card>
+		<card><name id="LEG069_New_Imperial_Army">New Imperial Army</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG084_Sith_Annihilator_Factory">Sith Annihilator Factory</name><set>LEG</set></card>
+		<card><name id="LEG084_Sith_Annihilator_Factory">Sith Annihilator Factory</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG134_Devastation_of_Da_Soocha">Devastation of Da Soocha</name><set>LEG</set></card>
+		<card><name id="LEG270_Scramble_the_Garrison">Scramble the Garrison</name><set>LEG</set></card>
+	</superzone>
+	<superzone name="Supply">
+	</superzone>
+	<superzone name="Sideboard">
+	</superzone>
+	<superzone name="Outside the game">
+	</superzone>
+</deck>
