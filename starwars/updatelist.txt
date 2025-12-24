@@ -5676,7 +5676,7 @@ LEG/LEG128_Darth_Nihl_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY
 LEG/LEG129_Darth_Rauder_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG129_Darth_Rauder_A.jpg
 LEG/LEG130_Darth_Stryfe_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG130_Darth_Stryfe_B.jpg
 LEG/LEG131_Darth_Talon_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG131_Darth_Talon_C.jpg
-LEG/LEG132_Darth_Wyyrlock_III_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG132_Darth_Wyyrlock_III_B.jpg
+LEG/LEG132_Darth_Wyyrlok_III_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG132_Darth_Wyyrlok_III_B.jpg
 LEG/LEG133_Deliah_Blue_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG133_Deliah_Blue_C.jpg
 LEG/LEG134_Devastation_of_Da_Soocha.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG134_Devastation_of_Da_Soocha.jpg
 LEG/LEG135_Dragon_class_Battlecruiser.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG135_Dragon_class_Battlecruiser.jpg
@@ -5854,7 +5854,7 @@ LEG/LEGpromo_Darth_Maladi_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 LEG/LEGpromo_Darth_Nihl_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Darth_Nihl_B.jpg
 LEG/LEGpromo_Darth_Stryfe_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Darth_Stryfe_A.jpg
 LEG/LEGpromo_Darth_Talon_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Darth_Talon_B.jpg
-LEG/LEGpromo_Darth_Wyyrlock_III_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Darth_Wyyrlock_III_B.jpg
+LEG/LEGpromo_Darth_Wyyrlok_III_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Darth_Wyyrlok_III_B.jpg
 LEG/LEGpromo_Deliah_Blue_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Deliah_Blue_D.jpg
 LEG/LEGpromo_Emperor_Roan_Fel_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Emperor_Roan_Fel_B.jpg
 LEG/LEGpromo_Jariah_Syn_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEGpromo_Jariah_Syn_B.jpg
@@ -11115,4 +11115,5 @@ WAE/WAE030_Trandoshan_Slavers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 15TH/15thpromo_Slaughter_on_Ossus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_Slaughter_on_Ossus.jpg	
 15TH/15thpromo_Sword_of_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_Sword_of_the_Jedi.jpg	
 15TH/15thpromo_TIE_Predator.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_TIE_Predator.jpg	
+
 15TH/15thpromo_You_re_a_Skywalker.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_You_re_a_Skywalker.jpg
