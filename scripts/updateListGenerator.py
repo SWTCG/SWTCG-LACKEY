@@ -2,7 +2,7 @@ import os
 import io
 
 
-setCode = "HWN"
+setCode = "LEG"
 
 
 basePluginPath = "../starwars"

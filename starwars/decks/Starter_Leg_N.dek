@@ -1,0 +1,73 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LEG219_Deliah_Blue_D">Deliah Blue (D)</name><set>LEG</set></card>
+		<card><name id="LEG219_Deliah_Blue_D">Deliah Blue (D)</name><set>LEG</set></card>
+		<card><name id="LEG219_Deliah_Blue_D">Deliah Blue (D)</name><set>LEG</set></card>
+		<card><name id="LEG031_Deliah_Blue_B">Deliah Blue (B)</name><set>LEG</set></card>
+		<card><name id="LEG133_Deliah_Blue_C">Deliah Blue (C)</name><set>LEG</set></card>
+		<card><name id="LEG236_Jariah_Syn_C">Jariah Syn (C)</name><set>LEG</set></card>
+		<card><name id="LEG236_Jariah_Syn_C">Jariah Syn (C)</name><set>LEG</set></card>
+		<card><name id="LEG236_Jariah_Syn_C">Jariah Syn (C)</name><set>LEG</set></card>
+		<card><name id="LEG047_Jariah_Syn_A">Jariah Syn (A)</name><set>LEG</set></card>
+		<card><name id="LEG151_Jariah_Syn_B">Jariah Syn (B)</name><set>LEG</set></card>
+		<card><name id="LEG010_Cade_Skywalker_D">Cade Skywalker (D)</name><set>LEG</set></card>
+		<card><name id="LEG010_Cade_Skywalker_D">Cade Skywalker (D)</name><set>LEG</set></card>
+		<card><name id="LEG010_Cade_Skywalker_D">Cade Skywalker (D)</name><set>LEG</set></card>
+		<card><name id="LEG116_Cade_Skywalker_E">Cade Skywalker (E)</name><set>LEG</set></card>
+		<card><name id="LEG212_Cade_Skywalker_F">Cade Skywalker (F)</name><set>LEG</set></card>
+		<card><name id="LEG211_Bounty_Hunter_Gang_O">Bounty Hunter Gang (O)</name><set>LEG</set></card>
+		<card><name id="LEG211_Bounty_Hunter_Gang_O">Bounty Hunter Gang (O)</name><set>LEG</set></card>
+		<card><name id="LEG114_Bounty_Hunter_Gang_M">Bounty Hunter Gang (M)</name><set>LEG</set></card>
+		<card><name id="LEG114_Bounty_Hunter_Gang_M">Bounty Hunter Gang (M)</name><set>LEG</set></card>
+		<card><name id="LEG008_Bounty_Hunter_Gang_L">Bounty Hunter Gang (L)</name><set>LEG</set></card>
+		<card><name id="LEG008_Bounty_Hunter_Gang_L">Bounty Hunter Gang (L)</name><set>LEG</set></card>
+		<card><name id="LEG066_Mynock_C">Mynock (C)</name><set>LEG</set></card>
+		<card><name id="LEG066_Mynock_C">Mynock (C)</name><set>LEG</set></card>
+		<card><name id="LEG067_Mynock_D">Mynock (D)</name><set>LEG</set></card>
+		<card><name id="LEG067_Mynock_D">Mynock (D)</name><set>LEG</set></card>
+		<card><name id="LEG168_Mynock_E">Mynock (E)</name><set>LEG</set></card>
+		<card><name id="LEG168_Mynock_E">Mynock (E)</name><set>LEG</set></card>
+		<card><name id="LEG253_Mynock_F">Mynock (F)</name><set>LEG</set></card>
+		<card><name id="LEG253_Mynock_F">Mynock (F)</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG213_Cantina_Mob">Cantina Mob</name><set>LEG</set></card>
+		<card><name id="LEG213_Cantina_Mob">Cantina Mob</name><set>LEG</set></card>
+		<card><name id="LEG213_Cantina_Mob">Cantina Mob</name><set>LEG</set></card>
+		<card><name id="LEG213_Cantina_Mob">Cantina Mob</name><set>LEG</set></card>
+		<card><name id="LEG115_Bounty_Hunter_Gang_N">Bounty Hunter Gang (N)</name><set>LEG</set></card>
+		<card><name id="LEG115_Bounty_Hunter_Gang_N">Bounty Hunter Gang (N)</name><set>LEG</set></card>
+		<card><name id="LEG095_Unfriendly_Welcome">Unfriendly Welcome</name><set>LEG</set></card>
+		<card><name id="LEG095_Unfriendly_Welcome">Unfriendly Welcome</name><set>LEG</set></card>
+		<card><name id="LEG095_Unfriendly_Welcome">Unfriendly Welcome</name><set>LEG</set></card>
+		<card><name id="LEG095_Unfriendly_Welcome">Unfriendly Welcome</name><set>LEG</set></card>
+		<card><name id="LEG210_Black_Sun_Swoop">Black Sun Swoop</name><set>LEG</set></card>
+		<card><name id="LEG210_Black_Sun_Swoop">Black Sun Swoop</name><set>LEG</set></card>
+		<card><name id="LEG210_Black_Sun_Swoop">Black Sun Swoop</name><set>LEG</set></card>
+		<card><name id="LEG210_Black_Sun_Swoop">Black Sun Swoop</name><set>LEG</set></card>
+		<card><name id="LEG015_Crimson_Axe_A">Crimson Axe (A)</name><set>LEG</set></card>
+		<card><name id="LEG015_Crimson_Axe_A">Crimson Axe (A)</name><set>LEG</set></card>
+		<card><name id="LEG015_Crimson_Axe_A">Crimson Axe (A)</name><set>LEG</set></card>
+		<card><name id="LEG206_Anzat_One_A">Anzat One (A)</name><set>LEG</set></card>
+		<card><name id="LEG206_Anzat_One_A">Anzat One (A)</name><set>LEG</set></card>
+		<card><name id="LEG208_Black_Sun_Boarding_Ship">Black Sun Boarding Ship</name><set>LEG</set></card>
+		<card><name id="LEG208_Black_Sun_Boarding_Ship">Black Sun Boarding Ship</name><set>LEG</set></card>
+		<card><name id="LEG208_Black_Sun_Boarding_Ship">Black Sun Boarding Ship</name><set>LEG</set></card>
+		<card><name id="LEG208_Black_Sun_Boarding_Ship">Black Sun Boarding Ship</name><set>LEG</set></card>
+		<card><name id="LEG143_Grinning_Liar_A">Grinning Liar (A)</name><set>LEG</set></card>
+	</superzone>
+	<superzone name="Supply">
+	</superzone>
+	<superzone name="Sideboard">
+	</superzone>
+	<superzone name="Outside the game">
+	</superzone>
+</deck>

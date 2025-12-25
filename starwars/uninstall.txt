@@ -1,6 +1,21 @@
 <uninstall>
 
-<dateYYMMDD>250425</dateYYMMDD>
+<dateYYMMDD>251223</dateYYMMDD>
+
+<removepath>decks/New_Rep_DS_Starter.dek</removepath>
+<removepath>decks/New_Rep_LS_Starter.dek</removepath>
+<removepath>decks/Old_Rep_DS_Starter.dek</removepath>
+<removepath>decks/Old_Rep_LS_Starter.dek</removepath>
+<removepath>decks/Reb_DS_Starter.dek</removepath>
+<removepath>decks/Reb_LS_Starter.dek</removepath>
+<removepath>decks/Rep_DS_Starter.dek</removepath>
+<removepath>decks/Rep_LS_Starter.dek</removepath>
+<removepath>decks/Res_DS_Starter.dek</removepath>
+<removepath>decks/Res_LS_Starter.dek</removepath>
+
+<removepath>sets/setimages/TMW/TMW149_Calodan_Lookouts.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA030_Death_Star_II_E.jpg</removepath>
+<removepath>sets/setimages/ALTA/ALTA186_Emperor_Palpatine_D2.jpg</removepath>
 
 <removepath>sets/setimages/OBWN/OBWN015_No_Longer.jpg</removepath>
 <removepath>sets/setimages/OBWN/OBWN027_Shadow_of_Empire.jpg</removepath>
