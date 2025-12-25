@@ -1,0 +1,73 @@
+<deck version="0.8">
+	<meta>
+		<game>starwars</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LEG100_Wolf_Sazen_A">Wolf Sazen (A)</name><set>LEG</set></card>
+		<card><name id="LEG197_Wolf_Sazen_B">Wolf Sazen (B)</name><set>LEG</set></card>
+		<card><name id="LEG299_Wolf_Sazen_C">Wolf Sazen (C)</name><set>LEG</set></card>
+		<card><name id="LEG082_Shado_Vao_A">Shado Vao (A)</name><set>LEG</set></card>
+		<card><name id="LEG186_Shado_Vao_B">Shado Vao (B)</name><set>LEG</set></card>
+		<card><name id="LEG274_Shado_Vao_C">Shado Vao (C)</name><set>LEG</set></card>
+		<card><name id="LEG237_Jedi_Master">Jedi Master</name><set>LEG</set></card>
+		<card><name id="LEG237_Jedi_Master">Jedi Master</name><set>LEG</set></card>
+		<card><name id="LEG237_Jedi_Master">Jedi Master</name><set>LEG</set></card>
+		<card><name id="LEG237_Jedi_Master">Jedi Master</name><set>LEG</set></card>
+		<card><name id="LEG092_Tili_Qua_A">Tili Qua (A)</name><set>LEG</set></card>
+		<card><name id="LEG294_Twin_Suns_Pilot">Twin Suns Pilot</name><set>LEG</set></card>
+		<card><name id="LEG294_Twin_Suns_Pilot">Twin Suns Pilot</name><set>LEG</set></card>
+		<card><name id="LEG294_Twin_Suns_Pilot">Twin Suns Pilot</name><set>LEG</set></card>
+		<card><name id="LEG294_Twin_Suns_Pilot">Twin Suns Pilot</name><set>LEG</set></card>
+		<card><name id="LEG048_Jedi_Council_F">Jedi Council (F)</name><set>LEG</set></card>
+		<card><name id="LEG048_Jedi_Council_F">Jedi Council (F)</name><set>LEG</set></card>
+		<card><name id="LEG239_Jedi_Squad">Jedi Squad</name><set>LEG</set></card>
+		<card><name id="LEG239_Jedi_Squad">Jedi Squad</name><set>LEG</set></card>
+		<card><name id="LEG239_Jedi_Squad">Jedi Squad</name><set>LEG</set></card>
+		<card><name id="LEG239_Jedi_Squad">Jedi Squad</name><set>LEG</set></card>
+		<card><name id="LEG238_Jedi_Scout_Speeder">Jedi Scout Speeder</name><set>LEG</set></card>
+		<card><name id="LEG238_Jedi_Scout_Speeder">Jedi Scout Speeder</name><set>LEG</set></card>
+		<card><name id="LEG238_Jedi_Scout_Speeder">Jedi Scout Speeder</name><set>LEG</set></card>
+		<card><name id="LEG238_Jedi_Scout_Speeder">Jedi Scout Speeder</name><set>LEG</set></card>
+		<card><name id="LEG053_Kol_Skywalker_A">Kol Skywalker (A)</name><set>LEG</set></card>
+		<card><name id="LEG153_Jedi_Landspeeder">Jedi Landspeeder</name><set>LEG</set></card>
+		<card><name id="LEG153_Jedi_Landspeeder">Jedi Landspeeder</name><set>LEG</set></card>
+		<card><name id="LEG295_Twin_Suns_X_83_Twintail">Twin Suns X-83 Twintail</name><set>LEG</set></card>
+		<card><name id="LEG295_Twin_Suns_X_83_Twintail">Twin Suns X-83 Twintail</name><set>LEG</set></card>
+		<card><name id="LEG295_Twin_Suns_X_83_Twintail">Twin Suns X-83 Twintail</name><set>LEG</set></card>
+		<card><name id="LEG295_Twin_Suns_X_83_Twintail">Twin Suns X-83 Twintail</name><set>LEG</set></card>
+		<card><name id="LEG296_Twintail_Escort_Squadron">Twintail Escort Squadron</name><set>LEG</set></card>
+		<card><name id="LEG296_Twintail_Escort_Squadron">Twintail Escort Squadron</name><set>LEG</set></card>
+		<card><name id="LEG296_Twintail_Escort_Squadron">Twintail Escort Squadron</name><set>LEG</set></card>
+		<card><name id="LEG296_Twintail_Escort_Squadron">Twintail Escort Squadron</name><set>LEG</set></card>
+		<card><name id="LEG094_Twin_Suns_Squadron_D">Twin Suns Squadron (D)</name><set>LEG</set></card>
+		<card><name id="LEG094_Twin_Suns_Squadron_D">Twin Suns Squadron (D)</name><set>LEG</set></card>
+		<card><name id="LEG145_Hidden_Temple_Fleet">Hidden Temple Fleet</name><set>LEG</set></card>
+		<card><name id="LEG145_Hidden_Temple_Fleet">Hidden Temple Fleet</name><set>LEG</set></card>
+		<card><name id="LEG145_Hidden_Temple_Fleet">Hidden Temple Fleet</name><set>LEG</set></card>
+		<card><name id="LEG145_Hidden_Temple_Fleet">Hidden Temple Fleet</name><set>LEG</set></card>
+		<card><name id="LEG013_Combined_Defense_Fleet">Combined Defense Fleet</name><set>LEG</set></card>
+		<card><name id="LEG013_Combined_Defense_Fleet">Combined Defense Fleet</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG242_Kark_This_Destiny_Sludge">Kark This Destiny Sludge</name><set>LEG</set></card>
+		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
+		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
+		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
+		<card><name id="LEG291_Take_What_is_Given">Take What is Given</name><set>LEG</set></card>
+		<card><name id="LEG062_Luke_s_Spirit_C">Luke&apos;s Spirit (C)</name><set>LEG</set></card>
+		<card><name id="LEG155_Jedi_s_Lightsaber">Jedi&apos;s Lightsaber</name><set>LEG</set></card>
+		<card><name id="LEG155_Jedi_s_Lightsaber">Jedi&apos;s Lightsaber</name><set>LEG</set></card>
+		<card><name id="LEG175_Ossus_Meditation_Garden">Ossus Meditation Garden</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG298_Whatever_Works">Whatever Works</name><set>LEG</set></card>
+		<card><name id="LEG039_Heroic_Leap">Heroic Leap</name><set>LEG</set></card>
+		<card><name id="LEG039_Heroic_Leap">Heroic Leap</name><set>LEG</set></card>
+	</superzone>
+	<superzone name="Supply">
+	</superzone>
+	<superzone name="Sideboard">
+	</superzone>
+	<superzone name="Outside the game">
+	</superzone>
+</deck>
