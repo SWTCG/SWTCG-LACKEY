@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>251223</lastupdateYYMMDD>
+<lastupdateYYMMDD>251225</lastupdateYYMMDD>
 
-<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/updatelist.txt</updateurl>
-<message>Legacy Test Release</message>
+<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
+<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
+<message>Legacy Release!</message>
 
 </version>
