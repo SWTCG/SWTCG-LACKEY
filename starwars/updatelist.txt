@@ -11114,6 +11114,5 @@ WAE/WAE030_Trandoshan_Slavers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 15TH/15thpromo_Skywalker_Legacy.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_Skywalker_Legacy.jpg	
 15TH/15thpromo_Slaughter_on_Ossus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_Slaughter_on_Ossus.jpg	
 15TH/15thpromo_Sword_of_the_Jedi.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_Sword_of_the_Jedi.jpg	
-15TH/15thpromo_TIE_Predator.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_TIE_Predator.jpg	
-
+15TH/15thpromo_TIE_Predator.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_TIE_Predator.jpg
 15TH/15thpromo_You_re_a_Skywalker.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/15TH/15thpromo_You_re_a_Skywalker.jpg
