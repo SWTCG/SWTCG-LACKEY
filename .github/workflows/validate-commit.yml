@@ -75,3 +75,7 @@ jobs:
           webhook-url: ${{ secrets.validationWebhook }}
           content: >
             All of the issues on branch ${{ github.ref }} are now fixed! 🎉
+
+      - name: Fail workflow if plugin failed
+        if: steps.validate.outputs.failed == 'true'
+        run: exit 1
