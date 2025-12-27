@@ -50,15 +50,16 @@ jobs:
       - name: Check previous workflow result
         id: previous
         env:
-          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PREV_CONCLUSION=$(gh api repos/${{ github.repository }}/actions/workflows/${{ github.workflow }}.yml/runs -f branch=${{ github.ref_name }} --jq '.workflow_runs[1].conclusion')
+          PREV_CONCLUSION=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -H "Accept: application/vnd.github+json" "https://api.github.com/repos/${{ github.repository }}/actions/workflows/validate-commit.yml/runs?branch=${{ github.ref_name }}" | jq -r '.workflow_runs[1].conclusion')
 
           if [ "$PREV_CONCLUSION" = "failure" ]; then
             echo "previous_failed=true" >> "$GITHUB_OUTPUT"
           else
             echo "previous_failed=false" >> "$GITHUB_OUTPUT"
           fi
+
 
 
       - name: Send error discord message
