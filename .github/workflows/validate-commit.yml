@@ -1,30 +1,41 @@
 name: validate-commit
 on: [push]
-env:
-  DISCORD_NAME: coder
-  FILE_SIZE: 0
+
 jobs:
   validate-commit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Report branch info
-        run: |
-          echo "Detected push to ${{ github.ref }} by $GITHUB_ACTOR"
+        run: echo "Detected push to ${{ github.ref }} by $GITHUB_ACTOR"
+
       - name: Check out repository code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
       - name: Validate the plugin
         run: |
-          python3 missingCardFinder.py > output.txt && cat output.txt
+          python3 missingCardFinder.py > output.txt
+          cat output.txt
+
       - name: Check for output
+        id: check
         run: |
-          export FILESIZE=$(wc -c output.txt | awk '{print $1}') && echo "FILE_SIZE=$FILESIZE" >> $GITHUB_ENV
+          FILESIZE=$(wc -c < output.txt)
+          echo "filesize=$FILESIZE" >> "$GITHUB_OUTPUT"
+
       - name: Find Discord user
+        id: discord
         run: |
-          export USERCODE=$(cat .github/workflows/usernames.json | jq -r --arg actor "$GITHUB_ACTOR" '.[$actor]') && echo "DISCORD_NAME=$USERCODE" >> $GITHUB_ENV
+          USERCODE=$(jq -r --arg actor "$GITHUB_ACTOR" '.[$actor]' .github/workflows/usernames.json)
+          echo "discord_name=$USERCODE" >> "$GITHUB_OUTPUT"
+
       - name: Send discord message
+        if: steps.check.outputs.filesize != '0'
         uses: tsickert/discord-webhook@v4.0.0
-        if: ${{env.FILE_SIZE != '0'}}
         with:
           webhook-url: ${{ secrets.validationWebhook }}
           filename: output.txt
-          content: Hey ${{ env.DISCORD_NAME }}, it looks like there was an error with your last plugin commit on branch ${{ github.ref }}.
+          content: >
+            Hey ${{ steps.discord.outputs.discord_name }},
+            it looks like there was an error with your last plugin commit
+            on branch ${{ github.ref }}.
