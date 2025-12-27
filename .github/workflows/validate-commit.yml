@@ -52,14 +52,14 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          PREV_CONCLUSION=$(gh api \
-            repos/${{ github.repository }}/actions/workflows/${{ github.workflow }}.yml/runs \
-            --jq '.workflow_runs[1].conclusion')
+          PREV_CONCLUSION=$(gh api repos/${{ github.repository }}/actions/workflows/${{ github.workflow }}.yml/runs --jq '.workflow_runs[1].conclusion')
 
           if [ "$PREV_CONCLUSION" = "failure" ]; then
             echo "previous_failed=true" >> "$GITHUB_OUTPUT"
           else
             echo "previous_failed=false" >> "$GITHUB_OUTPUT"
+          fi
+
 
       - name: Send error discord message
         if: steps.validate.outputs.failed == 'true' || steps.check.outputs.filesize != '0'
