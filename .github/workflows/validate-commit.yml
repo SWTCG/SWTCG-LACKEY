@@ -7,7 +7,7 @@ jobs:
 
     steps:
       - name: Report branch info
-        run: echo "Detected push to ${{ github.ref }} by $GITHUB_ACTOR"
+        run: echo "Detected push to ${{ github.ref_name }} by $GITHUB_ACTOR"
 
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -59,7 +59,7 @@ jobs:
           content: >
             Hey ${{ steps.discord.outputs.discord_name }},
             there was a problem validating your last plugin commit
-            on branch ${{ github.ref }}.
+            on branch `${{ github.ref_name }}`.
 
       - name: Send success discord message
         if: steps.validate.outputs.failed == 'false' && steps.previous.outputs.previous_failed == 'true'
@@ -67,7 +67,7 @@ jobs:
         with:
           webhook-url: ${{ secrets.validationWebhook }}
           content: >
-            All of the issues on branch ${{ github.ref }} are now fixed! 🎉
+            All of the issues on branch `${{ github.ref_name }}` are now fixed! 🎉
 
       - name: Fail workflow if plugin failed
         if: steps.validate.outputs.failed == 'true'
