@@ -35,13 +35,11 @@ jobs:
 
           cat output.txt
 
-
       - name: Check for output
         id: check
         run: |
           FILESIZE=$(wc -c < output.txt)
           echo "filesize=$FILESIZE" >> "$GITHUB_OUTPUT"
-
 
       - name: Find Discord user
         id: discord
@@ -49,8 +47,22 @@ jobs:
           USERCODE=$(jq -r --arg actor "$GITHUB_ACTOR" '.[$actor]' .github/workflows/usernames.json)
           echo "discord_name=$USERCODE" >> "$GITHUB_OUTPUT"
 
-      - name: Send discord message
-        if: steps.check.outputs.filesize != '0' || steps.validate.outputs.failed == 'true'
+      - name: Check previous workflow result
+        id: previous
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PREV_CONCLUSION=$(gh api \
+            repos/${{ github.repository }}/actions/workflows/${{ github.workflow }}.yml/runs \
+            --jq '.workflow_runs[1].conclusion')
+
+          if [ "$PREV_CONCLUSION" = "failure" ]; then
+            echo "previous_failed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "previous_failed=false" >> "$GITHUB_OUTPUT"
+
+      - name: Send error discord message
+        if: steps.validate.outputs.failed == 'true' || steps.check.outputs.filesize != '0'
         uses: tsickert/discord-webhook@v4.0.0
         with:
           webhook-url: ${{ secrets.validationWebhook }}
@@ -60,3 +72,10 @@ jobs:
             there was a problem validating your last plugin commit
             on branch ${{ github.ref }}.
 
+      - name: Send success discord message
+        if: steps.validate.outputs.failed == 'false' && steps.previous.outputs.previous_failed == 'true'
+        uses: tsickert/discord-webhook@v4.0.0
+        with:
+          webhook-url: ${{ secrets.validationWebhook }}
+          content: >
+            All of the issues on branch ${{ github.ref }} are now fixed! 🎉
