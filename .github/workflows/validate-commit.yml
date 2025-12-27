@@ -15,25 +15,15 @@ jobs:
       - name: Validate the plugin
         id: validate
         run: |
-          set +e
-          python3 missingCardFinder.py > output.txt 2> error.txt
-          EXIT_CODE=$?
-
-          if [ $EXIT_CODE -ne 0 ]; then
-            {
-              echo "❌ Plugin validation crashed"
-              echo
-              echo "Exit code: $EXIT_CODE"
-              echo
-              echo "Error output:"
-              cat error.txt
-            } > output.txt
+          python3 missingCardFinder.py > output.txt 2>&1
+          FILESIZE=$(wc -c < output.txt)
+          if [ "$FILESIZE" -ne 0 ]; then
             echo "failed=true" >> "$GITHUB_OUTPUT"
           else
             echo "failed=false" >> "$GITHUB_OUTPUT"
           fi
-
           cat output.txt
+
 
       - name: Check for output
         id: check
