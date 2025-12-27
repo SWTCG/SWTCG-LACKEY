@@ -50,6 +50,11 @@ jobs:
             echo "previous_failed=false" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Debug outputs
+        run: |
+          echo "validate.failed = '${{ steps.validate.outputs.failed }}'"
+          echo "check.filesize = '${{ steps.check.outputs.filesize }}'"
+          echo "previous.previous_failed = '${{ steps.previous.outputs.previous_failed }}'"
 
 
       - name: Send error discord message
