@@ -13,15 +13,35 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Validate the plugin
+        id: validate
         run: |
-          python3 missingCardFinder.py > output.txt
+          set +e
+          python3 missingCardFinder.py > output.txt 2> error.txt
+          EXIT_CODE=$?
+
+          if [ $EXIT_CODE -ne 0 ]; then
+            {
+              echo "❌ Plugin validation crashed"
+              echo
+              echo "Exit code: $EXIT_CODE"
+              echo
+              echo "Error output:"
+              cat error.txt
+            } > output.txt
+            echo "failed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "failed=false" >> "$GITHUB_OUTPUT"
+          fi
+
           cat output.txt
+
 
       - name: Check for output
         id: check
         run: |
           FILESIZE=$(wc -c < output.txt)
           echo "filesize=$FILESIZE" >> "$GITHUB_OUTPUT"
+
 
       - name: Find Discord user
         id: discord
@@ -30,12 +50,13 @@ jobs:
           echo "discord_name=$USERCODE" >> "$GITHUB_OUTPUT"
 
       - name: Send discord message
-        if: steps.check.outputs.filesize != '0'
+        if: steps.check.outputs.filesize != '0' || steps.validate.outputs.failed == 'true'
         uses: tsickert/discord-webhook@v4.0.0
         with:
           webhook-url: ${{ secrets.validationWebhook }}
           filename: output.txt
           content: >
             Hey ${{ steps.discord.outputs.discord_name }},
-            it looks like there was an error with your last plugin commit
+            there was a problem validating your last plugin commit
             on branch ${{ github.ref }}.
+
