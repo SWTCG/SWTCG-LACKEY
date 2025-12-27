@@ -1,30 +1,74 @@
 name: validate-commit
 on: [push]
-env:
-  DISCORD_NAME: coder
-  FILE_SIZE: 0
+
 jobs:
   validate-commit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Report branch info
-        run: |
-          echo "Detected push to ${{ github.ref }} by $GITHUB_ACTOR"
+        run: echo "Detected push to ${{ github.ref_name }} by $GITHUB_ACTOR"
+
       - name: Check out repository code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
       - name: Validate the plugin
+        id: validate
         run: |
-          python3 missingCardFinder.py > output.txt && cat output.txt
+          python3 missingCardFinder.py > output.txt 2>&1
+          FILESIZE=$(wc -c < output.txt)
+          if [ "$FILESIZE" -ne 0 ]; then
+            echo "failed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "failed=false" >> "$GITHUB_OUTPUT"
+          fi
+          cat output.txt
+
+
       - name: Check for output
+        id: check
         run: |
-          export FILESIZE=$(wc -c output.txt | awk '{print $1}') && echo "FILE_SIZE=$FILESIZE" >> $GITHUB_ENV
+          FILESIZE=$(wc -c < output.txt)
+          echo "filesize=$FILESIZE" >> "$GITHUB_OUTPUT"
+
       - name: Find Discord user
+        id: discord
         run: |
-          export USERCODE=$(cat .github/workflows/usernames.json | jq -r --arg actor "$GITHUB_ACTOR" '.[$actor]') && echo "DISCORD_NAME=$USERCODE" >> $GITHUB_ENV
-      - name: Send discord message
+          USERCODE=$(jq -r --arg actor "$GITHUB_ACTOR" '.[$actor]' .github/workflows/usernames.json)
+          echo "discord_name=$USERCODE" >> "$GITHUB_OUTPUT"
+
+      - name: Check previous workflow result
+        id: previous
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PREV_CONCLUSION=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" -H "Accept: application/vnd.github+json" "https://api.github.com/repos/${{ github.repository }}/actions/workflows/validate-commit.yml/runs?branch=${{ github.ref_name }}" | jq -r '.workflow_runs[1].conclusion')
+
+          if [ "$PREV_CONCLUSION" = "failure" ]; then
+            echo "previous_failed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "previous_failed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send error discord message
+        if: steps.validate.outputs.failed == 'true' || steps.check.outputs.filesize != '0'
         uses: tsickert/discord-webhook@v4.0.0
-        if: ${{env.FILE_SIZE != '0'}}
         with:
           webhook-url: ${{ secrets.validationWebhook }}
           filename: output.txt
-          content: Hey ${{ env.DISCORD_NAME }}, it looks like there was an error with your last plugin commit on branch ${{ github.ref }}.
+          content: >
+            Hey ${{ steps.discord.outputs.discord_name }},
+            there was a problem validating your last plugin commit
+            on branch `${{ github.ref_name }}`.
+
+      - name: Send success discord message
+        if: steps.validate.outputs.failed == 'false' && steps.previous.outputs.previous_failed == 'true'
+        uses: tsickert/discord-webhook@v4.0.0
+        with:
+          webhook-url: ${{ secrets.validationWebhook }}
+          content: >
+            All of the issues on branch `${{ github.ref_name }}` are now fixed! 🎉
+
+      - name: Fail workflow if plugin failed
+        if: steps.validate.outputs.failed == 'true'
+        run: exit 1
