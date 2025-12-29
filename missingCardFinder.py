@@ -80,28 +80,40 @@ def processUpdateList():
 				currentSet = nextSet
 				cards = processSetFile(currentSet)
 			processULCard(imageLink, currentSet, cards)
+		for key in cards.keys():
+			if cards[key] == True:
+				missingCards[key] = key + " from set file " + currentSet + ".txt has no corresponding updatelist.txt entry"
 
 def validateOtherDates():
 	with io.open(basePluginPath + "uninstall.txt", "r", encoding='cp1252') as uninstall:
 		line = uninstall.readline()
-		while not line.startswith("<dateYYMMDD>"):
+		while line and not line.startswith("<dateYYMMDD>"):
 			line = uninstall.readline()
+		if not line:
+	    print("Missing <dateYYMMDD> tag in uninstall.txt")
+			return
 		date = line[12:-14]
 		if len(date) != 6 or not date.isdigit():
 			print("Illegal uninstall.txt date format: " + date)
 
 	with io.open(basePluginPath + "version.txt", "r", encoding='cp1252') as version:
 		line = version.readline()
-		while not line.startswith("<lastupdateYYMMDD>"):
+		while line and not line.startswith("<lastupdateYYMMDD>"):
 			line = version.readline()
+		if not line:
+	    print("Missing <dateYYMMDD> tag in uninstall.txt")
+			return
 		date = line[18:-20]
 		if len(date) != 6 or not date.isdigit():
 			print("Illegal version.txt date format: " + date)
 
 	with io.open(basePluginPath + "plugininfo.txt", "r", encoding='cp1252') as plugininfo:
 		line = plugininfo.readline()
-		while not line.startswith("<pluginversion>"):
+		while line and not line.startswith("<pluginversion>"):
 			line = plugininfo.readline()
+		if not line:
+	    print("Missing <dateYYMMDD> tag in uninstall.txt")
+			return
 		date = line[15:-17]
 		if len(date) != 10:
 			print("Illegal date format for plugininfo.txt - wrong number of characters: " + date)
