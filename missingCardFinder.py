@@ -90,7 +90,7 @@ def validateOtherDates():
 		while line and not line.startswith("<dateYYMMDD>"):
 			line = uninstall.readline()
 		if not line:
-	    print("Missing <dateYYMMDD> tag in uninstall.txt")
+			print("Missing <dateYYMMDD> tag in uninstall.txt")
 			return
 		date = line[12:-14]
 		if len(date) != 6 or not date.isdigit():
@@ -101,7 +101,7 @@ def validateOtherDates():
 		while line and not line.startswith("<lastupdateYYMMDD>"):
 			line = version.readline()
 		if not line:
-	    print("Missing <dateYYMMDD> tag in uninstall.txt")
+			print("Missing <dateYYMMDD> tag in uninstall.txt")
 			return
 		date = line[18:-20]
 		if len(date) != 6 or not date.isdigit():
@@ -112,7 +112,7 @@ def validateOtherDates():
 		while line and not line.startswith("<pluginversion>"):
 			line = plugininfo.readline()
 		if not line:
-	    print("Missing <dateYYMMDD> tag in uninstall.txt")
+			print("Missing <dateYYMMDD> tag in uninstall.txt")
 			return
 		date = line[15:-17]
 		if len(date) != 10:
