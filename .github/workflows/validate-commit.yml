@@ -15,13 +15,19 @@ jobs:
       - name: Validate the plugin
         id: validate
         run: |
+          set -o pipefail
           python3 missingCardFinder.py > output.txt 2>&1
+          EXIT_CODE=$?
+
           FILESIZE=$(wc -c < output.txt)
-          if [ "$FILESIZE" -ne 0 ]; then
+
+          if [ "$EXIT_CODE" -ne 0 ] || [ "$FILESIZE" -ne 0 ]; then
             echo "failed=true" >> "$GITHUB_OUTPUT"
           else
             echo "failed=false" >> "$GITHUB_OUTPUT"
           fi
+
+          echo "filesize=$FILESIZE" >> "$GITHUB_OUTPUT"
           cat output.txt
 
 
