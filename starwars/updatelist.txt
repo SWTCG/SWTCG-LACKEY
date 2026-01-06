@@ -5568,7 +5568,7 @@ LEG/LEG020_Darth_Krayt_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 LEG/LEG021_Darth_Krayt_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG021_Darth_Krayt_E.jpg
 LEG/LEG022_Darth_Krayt_s_Armor_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG022_Darth_Krayt_s_Armor_A.jpg
 LEG/LEG023_Darth_Krayt_s_Immortality_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG023_Darth_Krayt_s_Immortality_A.jpg
-LEG/LEG024_Darth_Krayt_s_Lightsabers_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG024_Darth_Krayt_s_Lightsabers_B.jpg
+LEG/LEG024_Darth_Krayt_s_Lightsabers_B_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG024_Darth_Krayt_s_Lightsabers_B_v2.jpg
 LEG/LEG025_Darth_Maladi_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG025_Darth_Maladi_A.jpg
 LEG/LEG026_Darth_Nihl_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG026_Darth_Nihl_A.jpg
 LEG/LEG027_Darth_Stryfe_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG027_Darth_Stryfe_A.jpg
@@ -5607,7 +5607,7 @@ LEG/LEG059_Lieutenant_Ona_Antilles_A.jpg	https://raw.githubusercontent.com/SWTCG
 LEG/LEG060_Light_Side_Healing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG060_Light_Side_Healing.jpg
 LEG/LEG061_Lords_of_the_One_Sith_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG061_Lords_of_the_One_Sith_A.jpg
 LEG/LEG062_Luke_s_Spirit_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG062_Luke_s_Spirit_C.jpg
-LEG/LEG063_Mara_s_Spirit_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG063_Mara_s_Spirit_A.jpg
+LEG/LEG063_Mara_s_Spirit_A_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG063_Mara_s_Spirit_A_v2.jpg
 LEG/LEG064_Marasiah_Fel_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG064_Marasiah_Fel_B.jpg
 LEG/LEG065_Meditation_of_Emptiness.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG065_Meditation_of_Emptiness.jpg
 LEG/LEG066_Mynock_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG066_Mynock_C.jpg
@@ -5648,7 +5648,7 @@ LEG/LEG100_Wolf_Sazen_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY
 LEG/LEG101_501st_Legion_H.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG101_501st_Legion_H.jpg
 LEG/LEG102_Ackley_Battle_Fortress.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG102_Ackley_Battle_Fortress.jpg
 LEG/LEG103_Admiral_Gar_Stazi_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG103_Admiral_Gar_Stazi_B.jpg
-LEG/LEG104_Agamar_Meeting_Grounds.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG104_Agamar_Meeting_Grounds.jpg
+LEG/LEG104_Agamar_Meeting_Grounds_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG104_Agamar_Meeting_Grounds_v2.jpg
 LEG/LEG105_All_Terrain_Armored_Heavy_Transport.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG105_All_Terrain_Armored_Heavy_Transport.jpg
 LEG/LEG106_Alliance_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG106_Alliance_B.jpg
 LEG/LEG107_Andeddu_s_Keep.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG107_Andeddu_s_Keep.jpg
@@ -5719,7 +5719,7 @@ LEG/LEG171_New_Imperial_Moff.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-L
 LEG/LEG172_New_Imperial_Walker.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG172_New_Imperial_Walker.jpg
 LEG/LEG173_Nune_class_Shuttle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG173_Nune_class_Shuttle.jpg
 LEG/LEG174_One_Sith_Lightsaber.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG174_One_Sith_Lightsaber.jpg
-LEG/LEG175_Ossus_Meditation_Garden.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG175_Ossus_Meditation_Garden.jpg
+LEG/LEG175_Ossus_Meditation_Garden_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG175_Ossus_Meditation_Garden_v2.jpg
 LEG/LEG176_Pellaeon_class_Star_Destroyer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG176_Pellaeon_class_Star_Destroyer.jpg
 LEG/LEG177_Poison_Dac.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG177_Poison_Dac.jpg
 LEG/LEG178_Queen_Jool_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LEG/starwars/sets/setimages/LEG/LEG178_Queen_Jool_A.jpg

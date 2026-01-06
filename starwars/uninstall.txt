@@ -2,6 +2,11 @@
 
 <dateYYMMDD>251223</dateYYMMDD>
 
+<removepath>sets/setimages/LEG/LEG024_Darth_Krayt_s_Lightsabers_B.jpg</removepath>
+<removepath>sets/setimages/LEG/LEG063_Mara_s_Spirit_A.jpg</removepath>
+<removepath>sets/setimages/LEG/LEG104_Agamar_Meeting_Grounds.jpg</removepath>
+<removepath>sets/setimages/LEG/LEG175_Ossus_Meditation_Garden.jpg</removepath>
+
 <removepath>decks/New_Rep_DS_Starter.dek</removepath>
 <removepath>decks/New_Rep_LS_Starter.dek</removepath>
 <removepath>decks/Old_Rep_DS_Starter.dek</removepath>
