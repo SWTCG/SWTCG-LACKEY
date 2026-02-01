@@ -1,6 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>251223</dateYYMMDD>
+<dateYYMMDD>260201</dateYYMMDD>
+
+<removepath>sets/setimages/VV2/VV2promo_Screecher_s_Reach.jpg</removepath>
 
 <removepath>sets/setimages/LEG/LEG024_Darth_Krayt_s_Lightsabers_B.jpg</removepath>
 <removepath>sets/setimages/LEG/LEG063_Mara_s_Spirit_A.jpg</removepath>
