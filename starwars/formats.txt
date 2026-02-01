@@ -15,9 +15,6 @@
 <set>BOTS</set>
 <set>TMW</set>
 <set>BOBF</set>
-<set>EAW</set>
-<set>BEP</set>
-<set>GPC</set>
 <set>BAE</set>
 <set>WAE</set>
 <set>ALTA</set>
