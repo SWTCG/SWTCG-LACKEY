@@ -4,6 +4,6 @@
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Standard Format Update and Scripts Added to UNION, VV1, and HWN</message>
+<message>Standard Format Update and Bugfixes</message>
 
 </version>
