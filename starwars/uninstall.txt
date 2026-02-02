@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>260201</dateYYMMDD>
+<dateYYMMDD>260131</dateYYMMDD>
 
 <removepath>sets/setimages/VV2/VV2promo_Screecher_s_Reach.jpg</removepath>
 
@@ -8,6 +8,8 @@
 <removepath>sets/setimages/LEG/LEG063_Mara_s_Spirit_A.jpg</removepath>
 <removepath>sets/setimages/LEG/LEG104_Agamar_Meeting_Grounds.jpg</removepath>
 <removepath>sets/setimages/LEG/LEG175_Ossus_Meditation_Garden.jpg</removepath>
+<removepath>sets/setimages/LEG/LEG225_Feral_Rakghoul.jpg</removepath>
+<removepath>sets/setimages/LEG/LEGpromo_Darth_Maladi_B.jpg</removepath>
 
 <removepath>decks/New_Rep_DS_Starter.dek</removepath>
 <removepath>decks/New_Rep_LS_Starter.dek</removepath>
