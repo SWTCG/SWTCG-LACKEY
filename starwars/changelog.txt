@@ -1,0 +1,20 @@
+CHANGELOG
+
+
+1 Feb 2026
+----------------
+General Updates:
+- We've added a change long to track any card name changes and balance updates/errata.
+- Cards with name fixes will be removed from any decks they are saved in and must re-added manually.
+
+Name Changes:
+- Assassin's Decoy Ship - extra space removed
+- Battle Protocol Droid (B) - missing (B) added to name
+- Derek "Hobbie" Klivian (A) - Quotation marks added to "Hobbie"
+- Commander Cody (D) - name fixed from "Commander Code"
+- Build on Hope - name fixed from "Built of Hope"
+
+Balance/Errata:
+- Death Star II (E) - build discount changed to the first trap per turn.
+- Emperor Palpatine (D2) - Battle card discount ability change to from hand only.
+- Calodan Lookouts - Force gain changed to only opponent's units.
