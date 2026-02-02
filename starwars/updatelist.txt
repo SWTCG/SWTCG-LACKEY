@@ -23,7 +23,7 @@ plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.
 plugins/starwars/changelog.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/changelog.txt	64781
 plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/plugininfo.txt	734221
 plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/pluginpreferences.txt	454353
-plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/uninstall.txt	3470600
+plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/uninstall.txt	3478172
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/ListOfCardDataFiles.txt	269907
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/formats.txt	142238
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/defaultchat.txt	14016
@@ -145,7 +145,7 @@ plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/sets/JG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/JG.txt	2989469
 plugins/starwars/sets/JK.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/JK.txt	2859631
 plugins/starwars/sets/KAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/KAE.txt	5829805
-plugins/starwars/sets/LEG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/LEG.txt	7772427
+plugins/starwars/sets/LEG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/LEG.txt	7772690
 plugins/starwars/sets/MAM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/MAM.txt	134693
 plugins/starwars/sets/MAND.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/MAND.txt	2097777
 plugins/starwars/sets/OBWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/OBWN.txt	3541166
@@ -5605,7 +5605,7 @@ LEG/LEG055_Kol_s_Spirit_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 LEG/LEG056_Krayt_s_Dark_Vision.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG056_Krayt_s_Dark_Vision.jpg
 LEG/LEG057_Legacy.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG057_Legacy.jpg
 LEG/LEG058_Legacy_of_the_Fallen.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG058_Legacy_of_the_Fallen.jpg
-LEG/LEG059_Lieutenant_Ona_Antilles_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG059_Lieutenant_Ona_Antilles_A.jpg
+LEG/LEG059_Lieutenant_Ona_Antilles_A_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG059_Lieutenant_Ona_Antilles_A_v2.jpg
 LEG/LEG060_Light_Side_Healing.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG060_Light_Side_Healing.jpg
 LEG/LEG061_Lords_of_the_One_Sith_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG061_Lords_of_the_One_Sith_A.jpg
 LEG/LEG062_Luke_s_Spirit_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG062_Luke_s_Spirit_C.jpg
