@@ -5771,7 +5771,7 @@ LEG/LEG221_Emperor_Roan_Fel_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-
 LEG/LEG222_Fel_Imperial_TIE_Predator_Squadron.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG222_Fel_Imperial_TIE_Predator_Squadron.jpg
 LEG/LEG223_Fel_TIE_Predator.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG223_Fel_TIE_Predator.jpg
 LEG/LEG224_Fel_Imperial_Stormtrooper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG224_Fel_Imperial_Stormtrooper.jpg
-LEG/LEG225_Feral_Rakghoul.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG225_Feral_Rakghoul.jpg
+LEG/LEG225_Feral_Rakghoul_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG225_Feral_Rakghoul_v2.jpg
 LEG/LEG226_Full_Throttle.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG226_Full_Throttle.jpg
 LEG/LEG227_Fury_Class_Starfighter.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG227_Fury_Class_Starfighter.jpg
 LEG/LEG228_Galactic_Alliance_Commando.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEG228_Galactic_Alliance_Commando.jpg
@@ -5852,7 +5852,7 @@ LEG/LEGpromo_Antares_Draco_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-L
 LEG/LEGpromo_Cade_Skywalker_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Cade_Skywalker_C.jpg
 LEG/LEGpromo_Darth_Krayt_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Krayt_E.jpg
 LEG/LEGpromo_Darth_Krayt_s_Armor_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Krayt_s_Armor_A.jpg
-LEG/LEGpromo_Darth_Maladi_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Maladi_B.jpg
+LEG/LEGpromo_Darth_Maladi_B_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Maladi_B_v2.jpg
 LEG/LEGpromo_Darth_Nihl_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Nihl_B.jpg
 LEG/LEGpromo_Darth_Stryfe_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Stryfe_A.jpg
 LEG/LEGpromo_Darth_Talon_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/master/starwars/sets/setimages/master/LEGpromo_Darth_Talon_B.jpg

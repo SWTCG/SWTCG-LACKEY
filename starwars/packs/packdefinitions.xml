@@ -1013,4 +1013,16 @@
         <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
     </chance>
 </pack>
+<pack>
+    <packtitle>Standard Combined</packtitle>
+    <packimage>BOTS</packimage>
+    <packkind>Pack</packkind>
+    <packformat>Sealed</packformat>
+    <packcommoncrit><field>Classification</field><eval>CONTAINS</eval><data>STAND</data></packcommoncrit>
+    <chance>
+        <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+        <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+        <kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+    </chance>
+</pack>
 </packdefinitions>
