@@ -10500,7 +10500,7 @@ UNION/UNION045_San_Tekka_Family_A.jpg	https://lackey.swtcg.com/starwars/sets/set
 UNION/UNION046_See_You_Again.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION046_See_You_Again.jpg
 UNION/UNION047_Shan_Family_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION047_Shan_Family_B.jpg
 UNION/UNION048_Shine.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION048_Shine.jpg
-UNION/UNION049_Sinjir_Rath_Velus_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION049_Sinjir_Rath_Velus_A.jpg
+UNION/UNION049_Sinjir_Rath_Velus_A_v2.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION049_Sinjir_Rath_Velus_A_v2.jpg
 UNION/UNION050_Skywalker_Family_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION050_Skywalker_Family_D.jpg
 UNION/UNION051_Skywalker_Family_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION051_Skywalker_Family_E.jpg
 UNION/UNION052_Solo_Family_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION052_Solo_Family_E.jpg
@@ -10658,6 +10658,7 @@ UNION/UNIONpromo_Sana_Starros_A.jpg	https://lackey.swtcg.com/starwars/sets/setim
 UNION/UNIONpromo_Shan_Family_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNIONpromo_Shan_Family_B.jpg
 UNION/UNIONpromo_Skywalker_Family_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNIONpromo_Skywalker_Family_D.jpg
 UNION/UNIONpromo_Skywalker_Family_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNIONpromo_Skywalker_Family_E.jpg
+UNION/UNIONpromo_Sinjir_Rath_Velus_A.jpg   https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNION049_Sinjir_Rath_Velus_A.jpg
 UNION/UNIONpromo_Solo_Family_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNIONpromo_Solo_Family_E.jpg
 UNION/UNIONpromo_Somebody_to_Love.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNIONpromo_Somebody_to_Love.jpg
 UNION/UNIONpromo_Stand_By_Me.jpg	https://lackey.swtcg.com/starwars/sets/setimages/UNION/UNIONpromo_Stand_By_Me.jpg
