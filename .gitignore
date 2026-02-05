@@ -66,3 +66,12 @@ v16/*
 /starwars/pluginpreferences.txt
 starwars/pluginpreferences.txt
 *.~lock.*
+
+# Claude Code
+CLAUDE.md
+.claudeignore
+.ignore
+
+# Script output
+scripts/output.txt
+scripts/PSDs/

@@ -1,5 +1,5 @@
-import os
 import io
+from SWTCG import getCardFromLine
 
 
 setCode = "LEG"
@@ -23,17 +23,13 @@ def processUpdateList():
 				if firstLine:
 					firstLine = False
 					continue
-				card = line.split('\t')
-				name = card[0]
-				imageFrag = card[2]
-				rarity = card[10]
-				number = card[11]
-				if number == "":
-					if rarity == "S":
-						number = "sub"
-					elif rarity == "P":
-						number = "promo"
-				newLine = setCode + "/" + imageFrag + ".jpg" + "	" + "https://lackey.swtcg.com/starwars/sets/setimages/" + setCode + "/" + imageFrag + ".jpg\n"
+				try:
+					card = getCardFromLine(line)
+				except (IndexError, KeyError):
+					continue
+				if not card:
+					continue
+				newLine = setCode + "/" + card.imageFrag + ".jpg" + "	" + "https://lackey.swtcg.com/starwars/sets/setimages/" + setCode + "/" + card.imageFrag + ".jpg\n"
 				updateList.write(newLine)
 			setFile.close()
 			updateList.close()

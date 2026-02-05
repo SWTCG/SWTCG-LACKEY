@@ -1,7 +1,8 @@
 import os
 import io
+from SWTCG import getCardFromLine
 
-basePluginPath = "starwars/"
+basePluginPath = "../starwars/"
 baseSetPath = basePluginPath + "sets/"
 
 missingCards = {}
@@ -33,9 +34,14 @@ def processSetFile(setCode):
 			if firstLine:
 				firstLine = False
 				continue
-			card = line.split('\t')
-			name = card[0]
-			imageFrag = card[2]
+			try:
+				card = getCardFromLine(line)
+			except (IndexError, KeyError):
+				continue
+			if not card:
+				continue
+			name = card.name
+			imageFrag = card.imageFrag
 			cards[imageFrag] = True
 			if name in allCards.keys():
 				print("Duplicate name found for card: " + name)
