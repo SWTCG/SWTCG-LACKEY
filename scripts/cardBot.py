@@ -23,8 +23,9 @@ if not TOKEN:
     raise RuntimeError("DISCORD_TOKEN environment variable not set.")
 
 ALL_CARDS = []
-CARDS_BY_SET = {}
 NORMALIZED_NAMES = {}  # normalized name -> Card
+RANDOM_CARDS = []  # Excludes subordinates
+RANDOM_CARDS_BY_SET = {}  # Excludes subordinates
 
 
 def normalize_name(name: str) -> str:
@@ -104,17 +105,17 @@ async def on_ready():
 # @tasks.loop(seconds=30)
 async def dailyPost():
     # if datetime.now().weekday() != 6:  # 0 = Monday
-    #     return  
+    #     return
     channel = client.get_channel(int(TARGET_CHANNEL_ID))
     if channel is None:
         print("Channel not found!")
         return
 
-    if not ALL_CARDS:
+    if not RANDOM_CARDS:
         print("No cards loaded!")
         return
 
-    card = pyrandom.choice(ALL_CARDS)
+    card = pyrandom.choice(RANDOM_CARDS)
     color = getColor(card)
     embed = discord.Embed(
       title="Random Card of the Day!",
@@ -145,19 +146,19 @@ def getColor(card):
 
 @client.command()
 async def random(ctx, setCode: str = None):
-    if not ALL_CARDS:
+    if not RANDOM_CARDS:
         print("No cards loaded!")
         return
 
     if setCode:
         setCode = setCode.upper()
-        cards = CARDS_BY_SET.get(setCode)
+        cards = RANDOM_CARDS_BY_SET.get(setCode)
 
         if not cards:
             await ctx.send(f"I'm terribly sorry, but I don't recognize that set code: `{setCode}`.\n")
             return
     else:
-        cards = ALL_CARDS
+        cards = RANDOM_CARDS
 
     card = pyrandom.choice(cards)
 
@@ -183,13 +184,13 @@ async def random(ctx, setCode: str = None):
 @client.tree.command(name="random", description="Get a random card, optionally from a specific set.")
 @app_commands.describe(set_code="Optional set code to filter by (e.g., ANH, ROTJ)")
 async def slash_random(interaction: discord.Interaction, set_code: str = None):
-    if not ALL_CARDS:
+    if not RANDOM_CARDS:
         await interaction.response.send_message("No cards loaded!", ephemeral=True)
         return
 
     if set_code:
         set_code = set_code.upper()
-        cards = CARDS_BY_SET.get(set_code)
+        cards = RANDOM_CARDS_BY_SET.get(set_code)
         if not cards:
             await interaction.response.send_message(
                 f"I don't recognize that set code: `{set_code}`.",
@@ -197,7 +198,7 @@ async def slash_random(interaction: discord.Interaction, set_code: str = None):
             )
             return
     else:
-        cards = ALL_CARDS
+        cards = RANDOM_CARDS
 
     card = pyrandom.choice(cards)
     color = getColor(card)
@@ -213,17 +214,27 @@ async def slash_random(interaction: discord.Interaction, set_code: str = None):
 
 
 def loadAllCards():
-    """Load all cards from TSV set files, skipping Subordinate cards."""
-    global ALL_CARDS, CARDS_BY_SET, NORMALIZED_NAMES
+    """Load all cards from TSV set files.
 
-    ALL_CARDS, CARDS_BY_SET = loadAllSets(SETS_FOLDER, skipSubordinates=True, ignoredFiles=IGNORED_SETS)
+    ALL_CARDS includes all cards for direct lookups.
+    RANDOM_CARDS excludes subordinates for random commands.
+    """
+    global ALL_CARDS, NORMALIZED_NAMES, RANDOM_CARDS, RANDOM_CARDS_BY_SET
+
+    ALL_CARDS, _ = loadAllSets(SETS_FOLDER, skipSubordinates=False, ignoredFiles=IGNORED_SETS)
 
     NORMALIZED_NAMES = {}
     for card in ALL_CARDS:
         normalized = normalize_name(card.name)
         NORMALIZED_NAMES[normalized] = card
 
-    print(f"Loaded {len(ALL_CARDS)} valid cards from {len(CARDS_BY_SET)} sets (after filtering).")
+    # Build filtered lists for random commands (exclude subordinates)
+    RANDOM_CARDS = [c for c in ALL_CARDS if c.typeline != "Subordinate"]
+    RANDOM_CARDS_BY_SET = {}
+    for card in RANDOM_CARDS:
+        RANDOM_CARDS_BY_SET.setdefault(card.setCode, []).append(card)
+
+    print(f"Loaded {len(ALL_CARDS)} cards from {len(RANDOM_CARDS_BY_SET)} sets ({len(RANDOM_CARDS)} for random).")
 
 def bold(s):
     return "**" + s + "**"
