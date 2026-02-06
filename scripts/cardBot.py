@@ -67,7 +67,19 @@ def find_close_matches(query: str, limit: int = 5) -> list[tuple[Card, int]]:
 intents = discord.Intents.default()
 intents.message_content = True
 
-client = commands.Bot(command_prefix='!', intents=intents)
+client = commands.Bot(
+    command_prefix='!',
+    intents=intents,
+    allowed_installs=discord.app_commands.AppInstallationType(
+        guild=True,
+        user=True
+    ),
+    allowed_contexts=discord.app_commands.AppCommandContext(
+        guild=True,
+        dm_channel=True,
+        private_channel=True  # Enables group DM support
+    )
+)
 tree = client.tree
 
 @client.event
@@ -78,6 +90,13 @@ async def on_ready():
     client.started = True
     loadAllCards()
     dailyPost.start()
+
+    # Sync slash commands with Discord
+    try:
+        synced = await client.tree.sync()
+        print(f"Synced {len(synced)} command(s)")
+    except Exception as e:
+        print(f"Failed to sync commands: {e}")
 
     print('SWTCG bot ready')
 
@@ -159,6 +178,38 @@ async def random(ctx, setCode: str = None):
     embed.set_image(url=card.getImageUrl())
 
     await ctx.send(embed=embed)
+
+
+@client.tree.command(name="random", description="Get a random card, optionally from a specific set.")
+@app_commands.describe(set_code="Optional set code to filter by (e.g., ANH, ROTJ)")
+async def slash_random(interaction: discord.Interaction, set_code: str = None):
+    if not ALL_CARDS:
+        await interaction.response.send_message("No cards loaded!", ephemeral=True)
+        return
+
+    if set_code:
+        set_code = set_code.upper()
+        cards = CARDS_BY_SET.get(set_code)
+        if not cards:
+            await interaction.response.send_message(
+                f"I don't recognize that set code: `{set_code}`.",
+                ephemeral=True
+            )
+            return
+    else:
+        cards = ALL_CARDS
+
+    card = pyrandom.choice(cards)
+    color = getColor(card)
+
+    title = f"Random Card from {set_code}:" if set_code else "Random Card:"
+    embed = discord.Embed(
+        title=title,
+        description=f"**{card.name}** - {card.setName}",
+        color=color
+    )
+    embed.set_image(url=card.getImageUrl())
+    await interaction.response.send_message(embed=embed)
 
 
 def loadAllCards():
