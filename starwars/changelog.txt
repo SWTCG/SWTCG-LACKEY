@@ -1,5 +1,6 @@
 CHANGELOG
-
+Name Changes:
+- Dishonestly Among Thieves -> Dishonesty Among Thieves (extra 'L' removed)
 
 1 Feb 2026
 ----------------
