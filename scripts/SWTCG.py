@@ -1,5 +1,11 @@
 import os
 import io
+import re
+
+# Version letters in card names: space + paren + letter(+digit?) + paren, optionally
+# followed by other parenthetical suffixes like (Promo), (LEGO), (Starter).
+# Examples: " (A)", " (B2)", " (A) (Promo)", " (S) (LEGO)"
+VERSION_LETTER_PATTERN = re.compile(r' \(([A-Z][0-9]?)\)(?:\s+\([^)]+\))*$')
 
 SETS = {"AOTC": "Attack of the Clones", "SR": "Sith Rising", "ANH": "A New Hope", "BOY": "Battle of Yavin", "JG": "Jedi Guardians", "ESB": "The Empire Strikes Back",
 "RAS": "Rogues and Scoundrels", "PM": "The Phantom Menace", "ROTJ": "Return of the Jedi", "ROTS": "Revenge of the Sith", "FOTR": "Fall of the Republic",
@@ -386,6 +392,12 @@ def getCardFromLine(rawLine):
     line = rawLine.split('\t')
     card = Card()
     card.name = line[0]
+
+    # Extract version letter from name (e.g., "Luke Skywalker (A)" -> "A")
+    version_match = VERSION_LETTER_PATTERN.search(card.name)
+    if version_match:
+        card.uniqueLetter = version_match.group(1)
+
     card.setCode = line[1]
     card.setName = SETS[card.setCode]
     card.imageFrag = line[2]
