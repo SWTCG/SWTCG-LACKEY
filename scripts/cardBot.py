@@ -152,8 +152,9 @@ def find_close_matches(query: str, limit: int = 5) -> list[tuple[Card, float]]:
 
     # Stage 1: Fast initial candidates via rapidfuzz
     # Use token_set_ratio for better partial token matching (e.g., "luke a" -> "luke skywalker a")
-    # Increase limit when searching with version to ensure we get all versions
-    stage1_limit = limit * 10 if target_version else limit * 4
+    # For version queries, must be large enough to include ALL cards sharing the base name prefix
+    # (e.g., Anakin alone has 78 cards) so nothing gets cut before stage2 version scoring.
+    stage1_limit = 500 if target_version else limit * 4
     initial_matches = process.extract(
         normalized_query,
         NORMALIZED_NAMES.keys(),
