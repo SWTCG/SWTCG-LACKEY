@@ -331,7 +331,7 @@ def main():
     print(f"=== Deck Validator: {os.path.basename(deck_path)} ===")
 
     allCards, _ = loadAllSets(SETS_FOLDER, ignoredFiles=IGNORED_SETS)
-    cardDb = {card.name.lower(): card for card in allCards}
+    cardDb = {card.name.strip().lower(): card for card in allCards}
     print(f"Loaded {len(allCards)} cards from set files.")
 
     deck_names, outside_names = parseDeck(deck_path)
