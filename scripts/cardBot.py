@@ -35,6 +35,13 @@ RANDOM_CARDS_BY_SET = {}  # Excludes subordinates
 
 NUM_TRIALS_BOT = 250_000
 
+SIDE_COLORS = {
+    'L': '#4a9eff',  # blue
+    'D': '#ff6b6b',  # red
+    'N': '#D2B58C',  # tan
+    'Y': '#51cf66',  # green
+}
+
 COMBAT_KW_RE = {
     'accuracy':    re.compile(r'^Accuracy\s+([+-]?\d+)', re.IGNORECASE),
     'criticalHit': re.compile(r'^Critical\s+Hit\s+(\d+)', re.IGNORECASE),
@@ -384,7 +391,7 @@ def formatSimStats(power, accuracy, criticalHit, fury, aLucky, parry, shields, a
 
     defender_line is None when there are no defensive keywords to show.
     """
-    a_parts = [f"Power {power}"]
+    a_parts = [f"{power} power"]
     if accuracy != 0:
         a_parts.append(f"Acc {accuracy:+d}")
     if criticalHit:
@@ -404,7 +411,7 @@ def formatSimStats(power, accuracy, criticalHit, fury, aLucky, parry, shields, a
     if dLucky:
         d_parts.append(f"Lucky {dLucky}")
 
-    return " | ".join(a_parts), (" | ".join(d_parts) if d_parts else None)
+    return ", ".join(a_parts), (", ".join(d_parts) if d_parts else None)
 
 
 def run_test_mode():
@@ -452,7 +459,7 @@ def run_bot_mode():
 
     async def simulate(power, accuracy, criticalHit, parry, fury, aLucky, dLucky,
                         shields, armor, order, name,
-                        attacker_label=None, defender_label=None):
+                        attacker_label=None, defender_label=None, color='#4a9eff'):
         """Run simulation and return (discord.File, discord.Embed)."""
         eff_power    = max(0, power - shields)
         eff_accuracy = accuracy - (1 if armor else 0)
@@ -463,24 +470,27 @@ def run_bot_mode():
             parry=parry, fury=fury, aLucky=aLucky, dLucky=dLucky,
             order=order, numTrials=NUM_TRIALS_BOT
         )
-        buf = await asyncio.to_thread(generatePlotBuffer, damageDist, name)
-        url = buildWebAppUrl(power, accuracy, criticalHit, parry, fury, aLucky, dLucky,
-                             shields, armor, order, name)
         a_line, d_line = formatSimStats(power, accuracy, criticalHit, fury, aLucky,
                                         parry, shields, armor, dLucky)
+        subtitle = a_line + (" -vs- " + d_line if d_line else "")
+        buf = await asyncio.to_thread(generatePlotBuffer, damageDist, name, subtitle, color)
+        url = buildWebAppUrl(power, accuracy, criticalHit, parry, fury, aLucky, dLucky,
+                             shields, armor, order, name)
 
         lines = []
         if attacker_label:
             lines.append(f"⚔️ **{attacker_label}** — {a_line}")
         else:
             lines.append(f"⚔️ {a_line}")
-        if d_line:
-            lines.append((f"🛡️ **{defender_label}** — " if defender_label else "🛡️ ") + d_line)
+        if defender_label:
+            lines.append(f"🛡️ **{defender_label}**" + (f" — {d_line}" if d_line else ""))
+        elif d_line:
+            lines.append(f"🛡️ {d_line}")
         lines.append(f"Expected: **{exp_dmg:.1f}** damage avg")
         lines.append(f"[Open in calculator ↗]({url})")
 
         file  = discord.File(buf, filename="sim.png")
-        embed = discord.Embed(description="\n".join(lines))
+        embed = discord.Embed(description="\n".join(lines), color=int(color.lstrip('#'), 16))
         embed.set_image(url="attachment://sim.png")
         return file, embed
 
@@ -788,6 +798,7 @@ def run_bot_mode():
         d = extractCombatStats(defender) if defender else {}
         order = getLuckyOrder(attacker.side, defender.side if defender else 'N')
         name  = attacker.name + (f" vs {defender.name}" if defender else "")
+        color = SIDE_COLORS.get(attacker.side, '#4a9eff')
 
         return await simulate(
             power=a['power'], accuracy=a['accuracy'], criticalHit=a['criticalHit'],
@@ -796,7 +807,8 @@ def run_bot_mode():
             shields=d.get('shields', 0), armor=d.get('armor', False),
             order=order, name=name,
             attacker_label=attacker.name,
-            defender_label=defender.name if defender else None
+            defender_label=defender.name if defender else None,
+            color=color
         )
 
     @client.command()
