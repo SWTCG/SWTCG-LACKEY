@@ -393,7 +393,7 @@ def formatSimStats(power, accuracy, criticalHit, fury, aLucky, parry, shields, a
     """
     a_parts = [f"{power} power"]
     if accuracy != 0:
-        a_parts.append(f"Acc {accuracy:+d}")
+        a_parts.append(f"Acc {accuracy:d}")
     if criticalHit:
         a_parts.append(f"Crit {criticalHit}")
     if fury:
@@ -486,7 +486,9 @@ def run_bot_mode():
             lines.append(f"🛡️ **{defender_label}**" + (f" — {d_line}" if d_line else ""))
         elif d_line:
             lines.append(f"🛡️ {d_line}")
-        lines.append(f"Expected: **{exp_dmg:.1f}** damage avg")
+        mode_dmg = max(damageDist, key=damageDist.get)
+        lines.append(f"Avg Damage: **{exp_dmg:.1f}**")
+        lines.append(f"Mode: **{mode_dmg}**")
         lines.append(f"[Open in calculator ↗]({url})")
 
         file  = discord.File(buf, filename="sim.png")
