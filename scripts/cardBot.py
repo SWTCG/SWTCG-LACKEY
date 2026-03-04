@@ -1,12 +1,15 @@
 import argparse
+import asyncio
 import io
 import os
 import random as pyrandom
 import re
+import sys
 from datetime import time
+from urllib.parse import urlencode
 
 from rapidfuzz import fuzz, process
-from SWTCG import Card, getCardFromLine, SETS, COSTLESS_TYPES, loadAllSets
+from SWTCG import Card, getCardFromLine, SETS, COSTLESS_TYPES, isCostless, loadAllSets
 
 # Matches trailing version specifier in user queries: "luke a", "vader b2"
 VERSION_SPECIFIER_RE = re.compile(r'^(.+?)\s+([a-zA-Z][0-9]?)$')
@@ -20,6 +23,7 @@ MIN_MATCH_SCORE = 80.0    # Minimum score to auto-return
 
 IGNORED_SETS = ["HELP.txt", "START.txt"]
 PT_BRANCH = "master"
+WEB_APP_URL = "https://warshawd.github.io/swtcg-dice-calculator/"
 TARGET_CHANNEL_ID = "1445637658163282083"
 POST_TIME = time(14, 0)
 SETS_FOLDER = os.path.join(SCRIPT_DIR, "..", "starwars", "sets")
@@ -28,6 +32,18 @@ ALL_CARDS = []
 NORMALIZED_NAMES = {}  # normalized name -> Card
 RANDOM_CARDS = []  # Excludes subordinates
 RANDOM_CARDS_BY_SET = {}  # Excludes subordinates
+
+NUM_TRIALS_BOT = 250_000
+
+COMBAT_KW_RE = {
+    'accuracy':    re.compile(r'^Accuracy\s+([+-]?\d+)', re.IGNORECASE),
+    'criticalHit': re.compile(r'^Critical\s+Hit\s+(\d+)', re.IGNORECASE),
+    'fury':        re.compile(r'^Fury\s+(\d+)', re.IGNORECASE),
+    'lucky':       re.compile(r'^Lucky\s+(\d+)', re.IGNORECASE),
+    'parry':       re.compile(r'^Parry\s+(\d+)', re.IGNORECASE),
+    'shields':     re.compile(r'^Shields\s+(\d+)', re.IGNORECASE),
+}
+ARMOR_RE = re.compile(r'^Armor\b', re.IGNORECASE)
 
 
 def normalize_name(name: str) -> str:
@@ -190,7 +206,10 @@ def loadAllCards():
     NORMALIZED_NAMES = {}
     for card in ALL_CARDS:
         normalized = normalize_name(card.name)
-        NORMALIZED_NAMES[normalized] = card
+        if normalized in NORMALIZED_NAMES:
+            NORMALIZED_NAMES[normalized] = None  # Collision - fall through to fuzzy
+        else:
+            NORMALIZED_NAMES[normalized] = card
 
     # Build filtered lists for random commands (exclude subordinates)
     RANDOM_CARDS = [c for c in ALL_CARDS if c.typeline != "Subordinate"]
@@ -235,8 +254,9 @@ def findCard(cardName: str) -> Card:
     """
     # Try normalized exact match
     normalized = normalize_name(cardName)
-    if normalized in NORMALIZED_NAMES:
-        return NORMALIZED_NAMES[normalized]
+    exact = NORMALIZED_NAMES.get(normalized)
+    if exact is not None:
+        return exact
 
     # Fuzzy match - find close matches
     matches = find_close_matches(cardName, limit=5)
@@ -248,8 +268,8 @@ def findCard(cardName: str) -> Card:
     # Find matches with similar scores
     similar = [m for m in matches if top_score - m[1] < AMBIGUITY_THRESHOLD]
 
-    if len(similar) > 1:
-        # Multiple similar matches - show only the tied ones for disambiguation
+    if len(similar) > 1 and top_score >= MIN_MATCH_SCORE:
+        # Multiple high-confidence similar matches - show only the tied ones for disambiguation
         print(f"Ambiguous query '{cardName}': {len(similar)} similar matches")
         raise CardNotFoundError(cardName, similar)
     elif top_score >= MIN_MATCH_SCORE:
@@ -283,7 +303,7 @@ def processDetails(card: Card):
         cardType += f" - {card.subtype}"
     details.append(cardType)
 
-    if cardType not in COSTLESS_TYPES:
+    if not isCostless(card.typeline):
         details.append(f"{bold('Cost:')} {card.buildCost}")
 
     if card.isUnit:
@@ -296,6 +316,95 @@ def processDetails(card: Card):
         details.append(f"{bold('Usage Notes:')} {card.usage}")
 
     return "\n".join(details)
+
+
+def getLuckyOrder(attackerSide, defenderSide):
+    if attackerSide == 'D' and defenderSide != 'D': return 'a'
+    if defenderSide == 'D' and attackerSide != 'D': return 'd'
+
+    if attackerSide == 'Y' and defenderSide == 'L': return 'a'
+    if defenderSide == 'Y' and attackerSide == 'L': return 'd'
+
+    if attackerSide == 'N' and defenderSide == 'L': return 'a'
+    if defenderSide == 'N' and attackerSide == 'L': return 'd'
+
+    return 'a'
+
+
+def extractCombatStats(card):
+    """Extract combat keywords from card text by scanning clause-by-clause.
+
+    Splits on '|' and uses re.match() so only clauses that *start* with a
+    keyword are counted — avoiding false positives from ability text that
+    merely references a keyword (e.g. 'Each of your units gets Accuracy 2').
+    """
+    stats = {
+        'power':       int(card.power) if str(card.power).isdigit() else 0,
+        'accuracy':    0,
+        'criticalHit': 0,
+        'fury':        0,
+        'lucky':       0,
+        'parry':       0,
+        'shields':     0,
+        'armor':       False,
+    }
+    for clause in (card.cardText or '').split('|'):
+        clause = clause.strip()
+        for key, pattern in COMBAT_KW_RE.items():
+            m = pattern.match(clause)
+            if m:
+                stats[key] = int(m.group(1))
+                break
+        if ARMOR_RE.match(clause):
+            stats['armor'] = True
+    return stats
+
+
+def buildWebAppUrl(power, accuracy, criticalHit, parry, fury, aLucky, dLucky,
+                   shields, armor, order, name):
+    params = {
+        'power':      power,
+        'accuracy':   accuracy,
+        'crit':       criticalHit,
+        'parry':      parry,
+        'fury':       fury,
+        'aLucky':     aLucky,
+        'dLucky':     dLucky,
+        'shields':    shields,
+        'luckyOrder': order,
+        'name':       name,
+    }
+    if armor:
+        params['armor'] = '1'
+    return WEB_APP_URL + '?' + urlencode(params)
+
+
+def formatSimStats(power, accuracy, criticalHit, fury, aLucky, parry, shields, armor, dLucky):
+    """Return (attacker_line, defender_line) strings summarising extracted stats.
+
+    defender_line is None when there are no defensive keywords to show.
+    """
+    a_parts = [f"Power {power}"]
+    if accuracy != 0:
+        a_parts.append(f"Acc {accuracy:+d}")
+    if criticalHit:
+        a_parts.append(f"Crit {criticalHit}")
+    if fury:
+        a_parts.append(f"Fury {fury}")
+    if aLucky:
+        a_parts.append(f"Lucky {aLucky}")
+
+    d_parts = []
+    if armor:
+        d_parts.append("Armor")
+    if shields:
+        d_parts.append(f"Shields {shields}")
+    if parry:
+        d_parts.append(f"Parry {parry}")
+    if dLucky:
+        d_parts.append(f"Lucky {dLucky}")
+
+    return " | ".join(a_parts), (" | ".join(d_parts) if d_parts else None)
 
 
 def run_test_mode():
@@ -332,6 +441,49 @@ def run_bot_mode():
     from discord import app_commands
     import requests
 
+    _DICE_CALC_DIR = os.path.join(SCRIPT_DIR, '..', '..', 'swtcg-dice-calculator')
+    sys.path.insert(0, _DICE_CALC_DIR)
+    from damageCalculator import runSimulation, generatePlotBuffer
+
+    def warmupKaleido():
+        import plotly.graph_objects as go
+        import plotly.io as pio
+        pio.to_image(go.Figure(), format='png', width=1, height=1)
+
+    async def simulate(power, accuracy, criticalHit, parry, fury, aLucky, dLucky,
+                        shields, armor, order, name,
+                        attacker_label=None, defender_label=None):
+        """Run simulation and return (discord.File, discord.Embed)."""
+        eff_power    = max(0, power - shields)
+        eff_accuracy = accuracy - (1 if armor else 0)
+
+        exp_dmg, _, _, _, damageDist, _ = await asyncio.to_thread(
+            runSimulation,
+            power=eff_power, criticalHit=criticalHit, accuracy=eff_accuracy,
+            parry=parry, fury=fury, aLucky=aLucky, dLucky=dLucky,
+            order=order, numTrials=NUM_TRIALS_BOT
+        )
+        buf = await asyncio.to_thread(generatePlotBuffer, damageDist, name)
+        url = buildWebAppUrl(power, accuracy, criticalHit, parry, fury, aLucky, dLucky,
+                             shields, armor, order, name)
+        a_line, d_line = formatSimStats(power, accuracy, criticalHit, fury, aLucky,
+                                        parry, shields, armor, dLucky)
+
+        lines = []
+        if attacker_label:
+            lines.append(f"⚔️ **{attacker_label}** — {a_line}")
+        else:
+            lines.append(f"⚔️ {a_line}")
+        if d_line:
+            lines.append((f"🛡️ **{defender_label}** — " if defender_label else "🛡️ ") + d_line)
+        lines.append(f"Expected: **{exp_dmg:.1f}** damage avg")
+        lines.append(f"[Open in calculator ↗]({url})")
+
+        file  = discord.File(buf, filename="sim.png")
+        embed = discord.Embed(description="\n".join(lines))
+        embed.set_image(url="attachment://sim.png")
+        return file, embed
+
     TOKEN = os.getenv("DISCORD_TOKEN")
     if not TOKEN:
         raise RuntimeError("DISCORD_TOKEN environment variable not set.")
@@ -363,6 +515,7 @@ def run_bot_mode():
             return 0xD2B58C
         elif card.side == 'Y':
             return 0x006400
+        return discord.Color.default()
 
     @client.event
     async def on_ready():
@@ -371,6 +524,7 @@ def run_bot_mode():
 
         client.started = True
         loadAllCards()
+        asyncio.create_task(asyncio.to_thread(warmupKaleido))
         dailyPost.start()
 
         # Sync slash commands with Discord
@@ -612,6 +766,139 @@ def run_bot_mode():
         except Exception as e:
             print(e)
             await ctx.send("I'm terribly sorry, but I can't find a card with that name. Perhaps you should double check your spelling?")
+
+    # ------------------------------------------------------------------ attack
+
+    def parseAttackArg(arg):
+        """Split 'Attacker vs Defender' into (attacker_name, defender_name|None)."""
+        parts = re.split(r'\s+vs\s+', arg, maxsplit=1, flags=re.IGNORECASE)
+        return parts[0].strip(), (parts[1].strip() if len(parts) > 1 else None)
+
+    async def runAttack(attacker_name, defender_name):
+        attacker = findCard(attacker_name)
+        if not attacker.isUnit:
+            raise ValueError(f"{attacker.name} is not a unit.")
+        defender = None
+        if defender_name:
+            defender = findCard(defender_name)
+            if not defender.isUnit:
+                raise ValueError(f"{defender.name} is not a unit.")
+
+        a = extractCombatStats(attacker)
+        d = extractCombatStats(defender) if defender else {}
+        order = getLuckyOrder(attacker.side, defender.side if defender else 'N')
+        name  = attacker.name + (f" vs {defender.name}" if defender else "")
+
+        return await simulate(
+            power=a['power'], accuracy=a['accuracy'], criticalHit=a['criticalHit'],
+            parry=d.get('parry', 0), fury=a['fury'],
+            aLucky=a['lucky'], dLucky=d.get('lucky', 0),
+            shields=d.get('shields', 0), armor=d.get('armor', False),
+            order=order, name=name,
+            attacker_label=attacker.name,
+            defender_label=defender.name if defender else None
+        )
+
+    @client.command()
+    async def attack(ctx, *, arg):
+        attacker_name, defender_name = parseAttackArg(arg)
+        try:
+            async with ctx.typing():
+                file, embed = await runAttack(attacker_name, defender_name)
+            await ctx.send(file=file, embed=embed)
+        except CardNotFoundError as e:
+            if e.suggestions:
+                suggestion_list = "\n".join(f"• {c.name}" for c, _ in e.suggestions)
+                await ctx.send(f"Couldn't find **{e.query}**. Did you mean:\n{suggestion_list}")
+            else:
+                await ctx.send(f"Couldn't find a card named **{e.query}**.")
+        except Exception as e:
+            await ctx.send(f"Error: {e}")
+
+    @client.tree.command(name="attack", description="Simulate an attack between two cards.")
+    @app_commands.describe(attacker="Attacking card name", defender="Defending card name (optional)")
+    async def slash_attack(interaction: discord.Interaction, attacker: str, defender: str = None):
+        await interaction.response.defer()
+        try:
+            file, embed = await runAttack(attacker, defender)
+            await interaction.followup.send(file=file, embed=embed)
+        except CardNotFoundError as e:
+            if e.suggestions:
+                suggestion_list = "\n".join(f"• {c.name}" for c, _ in e.suggestions)
+                await interaction.followup.send(
+                    f"Couldn't find **{e.query}**. Did you mean:\n{suggestion_list}", ephemeral=True)
+            else:
+                await interaction.followup.send(
+                    f"Couldn't find a card named **{e.query}**.", ephemeral=True)
+        except Exception as e:
+            await interaction.followup.send(f"Error: {e}", ephemeral=True)
+
+    # ------------------------------------------------------------------ roll
+
+    @client.command()
+    async def roll(ctx, *args):
+        try:
+            params = {}
+            for arg in args:
+                if ':' in arg:
+                    k, _, v = arg.partition(':')
+                    params[k.lower()] = v
+
+            power = int(params.get('power', 0))
+            if power <= 0:
+                await ctx.send("Please specify power: `!roll power:6`")
+                return
+
+            accuracy = int(params.get('accuracy', params.get('acc', 0)))
+            crit     = int(params.get('crit', 0))
+            fury     = int(params.get('fury', 0))
+            parry    = int(params.get('parry', 0))
+            shields  = int(params.get('shields', 0))
+            armor    = params.get('armor', '').lower() in ('1', 'true', 'yes')
+            alucky   = int(params.get('alucky', params.get('lucky', 0)))
+            dlucky   = int(params.get('dlucky', 0))
+            name     = params.get('name', f"Power {power}")
+
+            async with ctx.typing():
+                file, embed = await simulate(
+                    power=power, accuracy=accuracy, criticalHit=crit,
+                    parry=parry, fury=fury, aLucky=alucky, dLucky=dlucky,
+                    shields=shields, armor=armor, order='a', name=name
+                )
+            await ctx.send(file=file, embed=embed)
+        except Exception as e:
+            await ctx.send(f"Error: {e}")
+
+    @client.tree.command(name="roll", description="Simulate an attack with custom stats.")
+    @app_commands.describe(
+        power="Attack dice (required)",
+        accuracy="Accuracy modifier",
+        crit="Critical Hit value",
+        fury="Fury value",
+        parry="Defender Parry",
+        shields="Defender Shields",
+        armor="Defender has Armor",
+        alucky="Attacker Lucky",
+        dlucky="Defender Lucky",
+        name="Label for the chart"
+    )
+    async def slash_roll(interaction: discord.Interaction,
+                         power: int,
+                         accuracy: int = 0, crit: int = 0, fury: int = 0,
+                         parry: int = 0, shields: int = 0, armor: bool = False,
+                         alucky: int = 0, dlucky: int = 0,
+                         name: str = None):
+        await interaction.response.defer()
+        try:
+            file, embed = await simulate(
+                power=power, accuracy=accuracy, criticalHit=crit,
+                parry=parry, fury=fury, aLucky=alucky, dLucky=dlucky,
+                shields=shields, armor=armor, order='a',
+                name=name or f"Power {power}"
+            )
+            await interaction.followup.send(file=file, embed=embed)
+        except Exception as e:
+            await interaction.followup.send(f"Error: {e}", ephemeral=True)
 
     client.run(TOKEN)
 
