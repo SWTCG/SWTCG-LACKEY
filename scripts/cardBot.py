@@ -36,10 +36,10 @@ RANDOM_CARDS_BY_SET = {}  # Excludes subordinates
 NUM_TRIALS_BOT = 250_000
 
 SIDE_COLORS = {
-    'L': '#4a9eff',  # blue
-    'D': '#ff6b6b',  # red
+    'L': '#3498DB',  # blue  (matches discord.Color.blue())
+    'D': '#E74C3C',  # red   (matches discord.Color.red())
     'N': '#D2B58C',  # tan
-    'Y': '#51cf66',  # green
+    'Y': '#006400',  # green (matches 0x006400 in getColor)
 }
 
 COMBAT_KW_RE = {
