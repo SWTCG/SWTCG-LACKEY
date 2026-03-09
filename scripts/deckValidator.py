@@ -94,11 +94,16 @@ def parseTxtFile(path):
     for line in lines:
         stripped = line.strip()
         if not stripped:
+            if deck_names and not in_outside:
+                in_outside = True  # blank line after deck cards = outside section
             continue
         if stripped.lower() in SECTION_HEADERS:
             in_outside = True
             continue
         parts = line.split("\t", 1)
+        if len(parts) < 2:
+            # Fall back to space-separated format: "count name"
+            parts = line.split(" ", 1)
         if len(parts) == 2 and parts[0].strip().isdigit():
             count = int(parts[0].strip())
             name = parts[1].strip()

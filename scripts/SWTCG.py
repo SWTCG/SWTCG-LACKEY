@@ -20,6 +20,7 @@ SETS = {"AOTC": "Attack of the Clones", "SR": "Sith Rising", "ANH": "A New Hope"
 "BOTS": "Battle of the Sarlacc", "TMW": "The Mandalorian Way", "BAE": "Battle At Exegol", "BOBF": "The Book of Boba Fett", "ALTA": "A Long Time Ago", "UNION": "Union", "OBWN": "Obi-Wan Kenobi", "IA": "Imperial Assault",
 "EAW": "Empire at War", "BEP": "Boonta Eve Podrace", "GPC": "Galactic Podracing Circuit", "WAE": "Doctor Aphra: Worst Among Equals", "VV1": "Visions Volume 1", "VV2": "Visions Volume 2",
 "VDR": "Darth Vader: Shadows and Secrets", "HWN": "Halloween", "MAM": "Make A Mando", "LEG": "Legacy",
+"LOTA": "Legends of the Alliance",
 "HELP": "Help Cards", "START": "Starter Decks"}
 
 # Card types that don't have build costs

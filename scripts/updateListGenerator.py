@@ -2,7 +2,7 @@ import io
 from SWTCG import getCardFromLine
 
 
-setCode = "LEG"
+setCode = "LOTA"
 
 
 basePluginPath = "../starwars"
@@ -15,7 +15,7 @@ def constructSetFilePath(setCode):
 
 
 def processUpdateList():
-	with io.open(basePluginPath + "updatelist.txt", "a", encoding='cp1252') as updateList:
+	with io.open("updatelist_snippet.txt", "w", encoding='cp1252') as updateList:
 
 		with io.open(constructSetFilePath(setCode), "r", encoding='utf-8') as setFile:
 			firstLine = True
