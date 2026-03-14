@@ -262,7 +262,7 @@ def main() -> None:
         url_base = RELEASE_BASE
         print(f'Type:   release')
 
-    out_path = args.output or os.path.join(PLUGIN_DIR, 'updatelistNEW.txt')
+    out_path = args.output or os.path.join(PLUGIN_DIR, 'updatelist.txt')
 
     print(f'Date:   {date_str}')
     print()
