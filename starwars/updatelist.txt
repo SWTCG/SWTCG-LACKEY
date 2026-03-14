@@ -27,7 +27,7 @@ plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/ListOfCardDataFiles.txt	273666
 plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/formats.txt	142238
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/version.txt	22535
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/version.txt	30047
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/spawned.jpg	-36423

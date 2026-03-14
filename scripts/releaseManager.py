@@ -112,7 +112,7 @@ def _replace_tag(content: str, tag: str, value: str) -> str:
     )
 
 
-def bump_versions(date_str: str, message: str | None = None) -> None:
+def bump_versions(date_str: str, url_base: str, message: str | None = None) -> None:
     d = date.fromisoformat(date_str)
     fmt_yymmdd     = d.strftime('%y%m%d')              # 260314
     fmt_yymmdd_pre = (d - timedelta(days=1)).strftime('%y%m%d')  # 260313
@@ -128,9 +128,16 @@ def bump_versions(date_str: str, message: str | None = None) -> None:
         with io.open(path, 'r', encoding=ENCODING) as f:
             content = f.read()
         content = _replace_tag(content, tag, value)
-        if filename == 'version.txt' and message is not None:
-            content = _replace_tag(content, 'message', message)
-            print(f'  {filename:<20} {tag} -> {value}, message -> {message}')
+        if filename == 'version.txt':
+            for url_tag in ('versionurl', 'updateurl'):
+                m = re.search(rf'<{url_tag}>([^<]*)</{url_tag}>', content)
+                if m:
+                    content = _replace_tag(content, url_tag, replace_url_base(m.group(1), url_base))
+            if message is not None:
+                content = _replace_tag(content, 'message', message)
+                print(f'  {filename:<20} {tag} -> {value}, message -> {message}')
+            else:
+                print(f'  {filename:<20} {tag} -> {value}')
         else:
             print(f'  {filename:<20} {tag} -> {value}')
         with io.open(path, 'w', encoding=ENCODING, newline='\n') as f:
@@ -204,7 +211,7 @@ def rewrite_updatelist(date_str: str, url_base: str, out_path: str) -> None:
 
     out_name = os.path.basename(out_path)
     print(f'  {out_name}: {checksums_updated} checksums updated, '
-          f'{checksums_skipped} kept (file not found locally)')
+          f'{checksums_skipped} files missing locally')
     print(f'  {out_name} date -> {fmt_mm_dd_yy}')
     print(f'  Written to: {out_path}')
 
@@ -212,6 +219,29 @@ def rewrite_updatelist(date_str: str, url_base: str, out_path: str) -> None:
 # ---------------------------------------------------------------------------
 # Validation
 # ---------------------------------------------------------------------------
+
+def check_date_spacing(date_str: str) -> None:
+    """Warn if new uninstall date is not strictly later than the current updatelist date."""
+    new_uninstall = date.fromisoformat(date_str) - timedelta(days=1)
+    src_path = os.path.join(PLUGIN_DIR, 'updatelist.txt')
+    try:
+        with io.open(src_path, 'r', encoding=ENCODING) as f:
+            first_line = f.readline()
+        parts = first_line.rstrip('\n').split('\t')
+        if len(parts) >= 2 and parts[1]:
+            current_date = date(
+                2000 + int(parts[1][6:8]),
+                int(parts[1][0:2]),
+                int(parts[1][3:5]),
+            )
+            if new_uninstall <= current_date:
+                print(f'WARNING: new uninstall date ({new_uninstall.strftime("%y%m%d")}) '
+                      f'is not later than current updatelist date '
+                      f'({current_date.strftime("%y%m%d")}). '
+                      f'Clients may not re-download updated files.')
+    except Exception:
+        pass
+
 
 def run_validation() -> None:
     print('\nRunning missingCardFinder.py...')
@@ -267,8 +297,10 @@ def main() -> None:
     print(f'Date:   {date_str}')
     print()
 
+    check_date_spacing(date_str)
+
     print('Bumping version dates...')
-    bump_versions(date_str, args.message)
+    bump_versions(date_str, url_base, args.message)
 
     print('\nGenerating updatelist...')
     rewrite_updatelist(date_str, url_base, out_path)
