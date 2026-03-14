@@ -5893,7 +5893,7 @@ LOTA/LOTA16_Primed_Probe_Droid.jpg	https://lackey.swtcg.com/starwars/sets/setima
 LOTA/LOTA17_Radiant_Holocron.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA17_Radiant_Holocron.jpg
 LOTA/LOTA18_Ravenous_Wampa.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA18_Ravenous_Wampa.jpg
 LOTA/LOTA19_SC2_M_Repulsor_Tank.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA19_SC2_M_Repulsor_Tank.jpg
-LOTA/LOTA20_Trandoshan_Hunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA20_Trandoshan_Hunter.jpg
+LOTA/LOTA20_Trandoshan_Bounty_Hunter.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA20_Trandoshan_Bounty_Hunter.jpg
 LOTA/LOTA21_A_12_Sniper_Rifle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA21_A_12_Sniper_Rifle.jpg
 LOTA/LOTA22_DXR_6_Disruptor_Rifle.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA22_DXR_6_Disruptor_Rifle.jpg
 LOTA/LOTA23_Heart_of_the_Empire.jpg	https://lackey.swtcg.com/starwars/sets/setimages/LOTA/LOTA23_Heart_of_the_Empire.jpg
