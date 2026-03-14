@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>260201</lastupdateYYMMDD>
+<lastupdateYYMMDD>260314</lastupdateYYMMDD>
 
 <versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
 <updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
-<message>Standard Format Update and Bugfixes</message>
+<message>LOTA playtest</message>
 
 </version>
