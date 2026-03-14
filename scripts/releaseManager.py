@@ -277,8 +277,8 @@ def main() -> None:
         help='Output path for the generated updatelist (default: starwars/updatelistNEW.txt)',
     )
     parser.add_argument(
-        '-s', '--skip-validate', action='store_true',
-        help='Skip running missingCardFinder.py',
+        '-v', '--validate', action='store_true',
+        help='Run missingCardFinder.py after generating updatelist',
     )
     args = parser.parse_args()
 
@@ -305,7 +305,7 @@ def main() -> None:
     print('\nGenerating updatelist...')
     rewrite_updatelist(date_str, url_base, out_path)
 
-    if not args.skip_validate:
+    if args.validate:
         run_validation()
 
     print('\nDone.')
