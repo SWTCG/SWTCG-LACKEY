@@ -400,7 +400,7 @@ def getCardFromLine(rawLine):
         card.uniqueLetter = version_match.group(1)
 
     card.setCode = line[1]
-    card.setName = SETS[card.setCode]
+    card.setName = SETS.get(card.setCode, card.setCode)
     card.imageFrag = line[2]
     card.side = line[3]
     card.typeline = line[4]  # Note: In set files this is just the type (e.g., "Character")
