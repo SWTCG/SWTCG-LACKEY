@@ -36,6 +36,7 @@
 <filetoinclude>JK.txt</filetoinclude>
 <filetoinclude>KAE.txt</filetoinclude>
 <filetoinclude>LEG.txt</filetoinclude>
+<filetoinclude>LOTA.txt</filetoinclude>
 <filetoinclude>MAM.txt</filetoinclude>
 <filetoinclude>MAND.txt</filetoinclude>
 <filetoinclude>OBWN.txt</filetoinclude>
