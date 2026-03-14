@@ -1,5 +1,11 @@
 import os
 import io
+import re
+
+# Version letters in card names: space + paren + letter(+digit?) + paren, optionally
+# followed by other parenthetical suffixes like (Promo), (LEGO), (Starter).
+# Examples: " (A)", " (B2)", " (A) (Promo)", " (S) (LEGO)"
+VERSION_LETTER_PATTERN = re.compile(r' \(([A-Z][0-9]?)\)(?:\s+\([^)]+\))*$')
 
 SETS = {"AOTC": "Attack of the Clones", "SR": "Sith Rising", "ANH": "A New Hope", "BOY": "Battle of Yavin", "JG": "Jedi Guardians", "ESB": "The Empire Strikes Back",
 "RAS": "Rogues and Scoundrels", "PM": "The Phantom Menace", "ROTJ": "Return of the Jedi", "ROTS": "Revenge of the Sith", "FOTR": "Fall of the Republic",
@@ -14,6 +20,7 @@ SETS = {"AOTC": "Attack of the Clones", "SR": "Sith Rising", "ANH": "A New Hope"
 "BOTS": "Battle of the Sarlacc", "TMW": "The Mandalorian Way", "BAE": "Battle At Exegol", "BOBF": "The Book of Boba Fett", "ALTA": "A Long Time Ago", "UNION": "Union", "OBWN": "Obi-Wan Kenobi", "IA": "Imperial Assault",
 "EAW": "Empire at War", "BEP": "Boonta Eve Podrace", "GPC": "Galactic Podracing Circuit", "WAE": "Doctor Aphra: Worst Among Equals", "VV1": "Visions Volume 1", "VV2": "Visions Volume 2",
 "VDR": "Darth Vader: Shadows and Secrets", "HWN": "Halloween", "MAM": "Make A Mando", "LEG": "Legacy",
+"LOTA": "Legends of the Alliance",
 "HELP": "Help Cards", "START": "Starter Decks"}
 
 # Card types that don't have build costs
@@ -386,8 +393,14 @@ def getCardFromLine(rawLine):
     line = rawLine.split('\t')
     card = Card()
     card.name = line[0]
+
+    # Extract version letter from name (e.g., "Luke Skywalker (A)" -> "A")
+    version_match = VERSION_LETTER_PATTERN.search(card.name)
+    if version_match:
+        card.uniqueLetter = version_match.group(1)
+
     card.setCode = line[1]
-    card.setName = SETS[card.setCode]
+    card.setName = SETS.get(card.setCode, card.setCode)
     card.imageFrag = line[2]
     card.side = line[3]
     card.typeline = line[4]  # Note: In set files this is just the type (e.g., "Character")
