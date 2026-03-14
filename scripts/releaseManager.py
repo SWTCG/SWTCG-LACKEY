@@ -5,8 +5,8 @@ Automates:
   2. updatelist.txt URL switching (playtest/release) and checksum regeneration
 
 Usage:
-  python releaseManager.py [--mode playtest|release] [--branch BRANCH]
-                           [--date YYYY-MM-DD] [--skip-validate]
+  python releaseManager.py [--type playtest|release] [--branch BRANCH]
+                           [--date YYYY-MM-DD] [--message MSG] [--validate]
 """
 
 import argparse
@@ -132,7 +132,9 @@ def bump_versions(date_str: str, url_base: str, message: str | None = None) -> N
             for url_tag in ('versionurl', 'updateurl'):
                 m = re.search(rf'<{url_tag}>([^<]*)</{url_tag}>', content)
                 if m:
-                    content = _replace_tag(content, url_tag, replace_url_base(m.group(1), url_base))
+                    new_url = replace_url_base(m.group(1), url_base)
+                    content = _replace_tag(content, url_tag, new_url)
+                    print(f'  {filename:<20} {url_tag} -> {new_url}')
             if message is not None:
                 content = _replace_tag(content, 'message', message)
                 print(f'  {filename:<20} {tag} -> {value}, message -> {message}')
