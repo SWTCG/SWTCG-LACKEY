@@ -9950,6 +9950,7 @@ TMW/TMWpromo_Ancient_Temple_Ruins.jpg	https://raw.githubusercontent.com/SWTCG/SW
 TMW/TMWpromo_Bo_Katan_Kryze_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Bo_Katan_Kryze_E.jpg	
 TMW/TMWpromo_Carson_s_X_Wing_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Carson_s_X_Wing_A.jpg	
 TMW/TMWpromo_Din_Djarin_F.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Din_Djarin_F.jpg	
+TMW/TMWpromo_Elia_Kane_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Elia_Kane_A.jpg	
 TMW/TMWpromo_Grogu_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Grogu_G.jpg	
 TMW/TMWpromo_Ice_Spider_Queen.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Ice_Spider_Queen.jpg	
 TMW/TMWpromo_Imperial_Research_Lab.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/TMW/TMWpromo_Imperial_Research_Lab.jpg	
