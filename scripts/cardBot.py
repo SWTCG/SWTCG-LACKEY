@@ -464,7 +464,7 @@ def run_bot_mode():
         eff_power    = max(0, power - shields)
         eff_accuracy = accuracy - (1 if armor else 0)
 
-        exp_dmg, avg_hits, _, _, damageDist, _ = await asyncio.to_thread(
+        exp_dmg, _, _, _, damageDist, hitsDist = await asyncio.to_thread(
             runSimulation,
             power=eff_power, criticalHit=criticalHit, accuracy=eff_accuracy,
             parry=parry, fury=fury, aLucky=aLucky, dLucky=dLucky,
@@ -486,8 +486,9 @@ def run_bot_mode():
             lines.append(f"🛡️ **{defender_label}**" + (f" — {d_line}" if d_line else ""))
         elif d_line:
             lines.append(f"🛡️ {d_line}")
+        mode_hits = max(hitsDist, key=hitsDist.get)
         lines.append(f"Avg Damage: **{exp_dmg:.1f}**")
-        lines.append(f"Avg Hits: **{avg_hits:.1f}**")
+        lines.append(f"Mode Hits: **{mode_hits}**")
         lines.append(f"[Open in calculator ↗]({url})")
 
         file  = discord.File(buf, filename="sim.png")
