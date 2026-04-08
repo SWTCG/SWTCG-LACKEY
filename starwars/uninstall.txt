@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>2600408</dateYYMMDD>
+<dateYYMMDD>260408</dateYYMMDD>
 
 <removepath>sets/setimages/OBWN/OBWN016_Obi_Wan_Kenobi_E2.jpg</removepath>
 
