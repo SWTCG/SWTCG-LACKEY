@@ -75,3 +75,6 @@ CLAUDE.md
 # Script output
 scripts/output.txt
 scripts/PSDs/
+
+#sets experiment
+starwars/old_sets
