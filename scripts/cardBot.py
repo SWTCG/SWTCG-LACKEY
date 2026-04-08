@@ -4,6 +4,7 @@ import io
 import os
 import random as pyrandom
 import re
+import requests
 import sys
 from datetime import time
 from urllib.parse import urlencode
@@ -27,6 +28,17 @@ WEB_APP_URL = "https://warshawd.github.io/swtcg-dice-calculator/"
 TARGET_CHANNEL_ID = "1445637658163282083"
 POST_TIME = time(14, 0)
 SETS_FOLDER = os.path.join(SCRIPT_DIR, "..", "starwars", "sets")
+
+DECK_DB_URL = os.getenv('DECK_DB_URL', 'http://localhost:8000')
+BOT_API_KEY = os.getenv('BOT_API_KEY', '')
+# Number keycap emojis 1-5 mapped to rating values
+RATING_EMOJIS = {
+    '\u0031\ufe0f\u20e3': 1,
+    '\u0032\ufe0f\u20e3': 2,
+    '\u0033\ufe0f\u20e3': 3,
+    '\u0034\ufe0f\u20e3': 4,
+    '\u0035\ufe0f\u20e3': 5,
+}
 
 ALL_CARDS = []
 NORMALIZED_NAMES = {}  # normalized name -> Card
@@ -442,11 +454,59 @@ def run_test_mode():
                     print(f"    {score:6.1f}  {card.name}")
 
 
+def _card_from_embed(embed):
+    """Extract a Card from a bot embed. Returns None if not a card embed.
+
+    Card command embeds use card.name as the title directly.
+    COTD/random embeds use "**card.name** - setName" in the description.
+    """
+    if embed.title:
+        card = next((c for c in ALL_CARDS if c.name == embed.title), None)
+        if card:
+            return card
+    if embed.description:
+        m = re.match(r'^\*\*(.+?)\*\*', embed.description)
+        if m:
+            return next((c for c in ALL_CARDS if c.name == m.group(1)), None)
+    return None
+
+
+def _post_rating(discord_user_id, card_name, set_code, rating):
+    """Synchronous — call via asyncio.to_thread."""
+    try:
+        r = requests.post(
+            f'{DECK_DB_URL}/api/ratings',
+            json={'discord_user_id': str(discord_user_id),
+                  'card_name': card_name, 'set_code': set_code, 'rating': rating},
+            headers={'X-Bot-API-Key': BOT_API_KEY},
+            timeout=5
+        )
+        return r.json()
+    except Exception as e:
+        print(f'Rating API error: {e}')
+        return None
+
+
+def _delete_rating(discord_user_id, card_name, set_code):
+    """Synchronous — call via asyncio.to_thread."""
+    try:
+        r = requests.delete(
+            f'{DECK_DB_URL}/api/ratings',
+            json={'discord_user_id': str(discord_user_id),
+                  'card_name': card_name, 'set_code': set_code},
+            headers={'X-Bot-API-Key': BOT_API_KEY},
+            timeout=5
+        )
+        return r.json()
+    except Exception as e:
+        print(f'Rating delete API error: {e}')
+        return None
+
+
 def run_bot_mode():
     import discord
     from discord.ext import commands, tasks
     from discord import app_commands
-    import requests
 
     _DICE_CALC_DIR = os.path.join(SCRIPT_DIR, '..', '..', 'swtcg-dice-calculator')
     sys.path.insert(0, _DICE_CALC_DIR)
@@ -564,16 +624,79 @@ def run_bot_mode():
         embed = discord.Embed(
           title="Random Card of the Day!",
           description=f"**{card.name}** - {card.setName}\n\n"
-                    "What do you think about it? Have you ever used it in a deck before?",
+                    "What do you think about it? Have you ever used it in a deck before?\n"
+                    "React 1-5 to rate this card!",
           color=color
         )
 
         embed.set_image(url=card.getImageUrl())
-        await channel.send(embed=embed)
+        msg = await channel.send(embed=embed)
+        for emoji in RATING_EMOJIS:
+            await msg.add_reaction(emoji)
 
     @dailyPost.before_loop
     async def before_dailyPost():
         await client.wait_until_ready()
+
+    _dm_sent_users = set()
+
+    async def _notify_unlinked(user_id):
+        if user_id in _dm_sent_users:
+            return
+        _dm_sent_users.add(user_id)
+        try:
+            user = await client.fetch_user(user_id)
+            await user.send(
+                f"Thanks for reacting! To save your card ratings, "
+                f"link your Discord account at: {DECK_DB_URL}"
+                f"\n(This message is sent only once.)"
+            )
+        except Exception as e:
+            print(f'Could not DM user {user_id}: {e}')
+
+    @client.event
+    async def on_raw_reaction_add(payload):
+        if payload.user_id == client.user.id:
+            return
+        emoji_str = str(payload.emoji)
+        if emoji_str not in RATING_EMOJIS:
+            return
+        channel = client.get_channel(payload.channel_id)
+        if channel is None:
+            return
+        try:
+            message = await channel.fetch_message(payload.message_id)
+        except discord.NotFound:
+            return
+        if not message.embeds:
+            return
+        card = _card_from_embed(message.embeds[0])
+        if card is None:
+            return
+        result = await asyncio.to_thread(
+            _post_rating, payload.user_id, card.name, card.setCode, RATING_EMOJIS[emoji_str])
+        if result and not result.get('ok') and result.get('reason') == 'unlinked':
+            await _notify_unlinked(payload.user_id)
+
+    @client.event
+    async def on_raw_reaction_remove(payload):
+        if payload.user_id == client.user.id:
+            return
+        if str(payload.emoji) not in RATING_EMOJIS:
+            return
+        channel = client.get_channel(payload.channel_id)
+        if channel is None:
+            return
+        try:
+            message = await channel.fetch_message(payload.message_id)
+        except discord.NotFound:
+            return
+        if not message.embeds:
+            return
+        card = _card_from_embed(message.embeds[0])
+        if card is None:
+            return
+        await asyncio.to_thread(_delete_rating, payload.user_id, card.name, card.setCode)
 
     @client.command()
     async def random(ctx, setCode: str = None):
@@ -607,7 +730,6 @@ def run_bot_mode():
                 color=color
             )
         embed.set_image(url=card.getImageUrl())
-
         await ctx.send(embed=embed)
 
     @client.tree.command(name="random", description="Get a random card, optionally from a specific set.")
