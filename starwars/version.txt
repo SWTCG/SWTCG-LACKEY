@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>260314</lastupdateYYMMDD>
+<lastupdateYYMMDD>260411</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/updatelist.txt</updateurl>
-<message>LOTA playtest</message>
+<message>LOTA playtest including TMR</message>
 
 </version>
