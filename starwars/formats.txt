@@ -50,6 +50,7 @@
 <set>TM</set>
 <set>TMW</set>
 <set>BOBF</set>
+<set>TMR</set>
 </format>
 
 <format>
