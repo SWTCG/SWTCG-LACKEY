@@ -65,6 +65,7 @@ v16/*
 /starwars/updatelistPREP.txt
 /starwars/pluginpreferences.txt
 starwars/pluginpreferences.txt
+/starwars/columnwidths.txt
 *.~lock.*
 
 # Claude Code
