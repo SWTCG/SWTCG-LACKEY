@@ -930,11 +930,25 @@
 	</chance>
 </pack>
 <pack>
-	<packtitle>The Mandalorian Returns - Draft Plus</packtitle>
+	<packtitle>TMR - Draft Plus</packtitle>
 	<packimage>TMW</packimage>
 	<packkind>Pack</packkind>
 	<packformat>Sealed</packformat>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TMR</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>NR</data></crit></kind>
+		<kind><qty>2</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>NC</data></crit></kind>
+		<kind><qty>1</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>UR</data></crit></kind>
+		<kind><qty>3</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>UU</data></crit></kind>
+		<kind><qty>6</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>UC</data></crit></kind>
+	</chance>
+</pack>
+<pack>
+	<packtitle>TMW - Draft Plus</packtitle>
+	<packimage>TMW</packimage>
+	<packkind>Pack</packkind>
+	<packformat>Sealed</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TMW</data></packcommoncrit>
 	<chance>
 		<kind><qty>1</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>NR</data></crit></kind>
 		<kind><qty>2</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>NC</data></crit></kind>
