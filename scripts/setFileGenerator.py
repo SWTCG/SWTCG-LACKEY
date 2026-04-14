@@ -38,7 +38,7 @@ _CONTINUATION_ENDERS = re.compile(
     r')',
     re.IGNORECASE
 )
-currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification'])
+currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification','DraftRarity'])
 currentSet.head()
 
 cardSet = "LOTA"
