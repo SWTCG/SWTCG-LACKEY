@@ -1,4 +1,4 @@
-starwars	04-11-26
+starwars	04-16-26
 images/avatars/exp_cj.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/images/avatars/exp_cj.jpg	486690
 images/avatars/Ferus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/images/avatars/Ferus.jpg	401217
 images/avatars/twinsuns.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/images/avatars/twinsuns.jpg	9666
@@ -21,13 +21,13 @@ images/backgrounds/SWTCG_WC2022_European_Regional_Playmat.png	https://raw.github
 images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/images/backgrounds/SWTCG_WC2022_Championship_Playmat.png	-327138
 plugins/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/2022_Star_Wars_Trading_Card_Game_Full_Rulebook.pdf	21977684
 plugins/starwars/changelog.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/changelog.txt	72654
-plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/plugininfo.txt	734225
-plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/pluginpreferences.txt	463678
-plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/uninstall.txt	3492304
-plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/ListOfCardDataFiles.txt	277364
-plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/formats.txt	143436
+plugins/starwars/plugininfo.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/plugininfo.txt	734230
+plugins/starwars/pluginpreferences.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/pluginpreferences.txt	454353
+plugins/starwars/uninstall.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/uninstall.txt	3492308
+plugins/starwars/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/ListOfCardDataFiles.txt	280994
+plugins/starwars/formats.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/formats.txt	137413
 plugins/starwars/defaultchat.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/defaultchat.txt	14016
-plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/version.txt	31309
+plugins/starwars/version.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/version.txt	30938
 plugins/starwars/bot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/bot.jpg	4977
 plugins/starwars/cardback.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/cardback.jpg	-26419
 plugins/starwars/spawned.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/spawned.jpg	-36423
@@ -44,7 +44,7 @@ plugins/starwars/decks/Starter_Rep_DS.dek	https://raw.githubusercontent.com/SWTC
 plugins/starwars/decks/Starter_Rep_LS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/decks/Starter_Rep_LS.dek	572435
 plugins/starwars/decks/Starter_Res_DS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/decks/Starter_Res_DS.dek	565795
 plugins/starwars/decks/Starter_Res_LS.dek	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/decks/Starter_Res_LS.dek	558308
-plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/packdefinitions.xml	3720253
+plugins/starwars/packs/packdefinitions.xml	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/packdefinitions.xml	3900167
 plugins/starwars/packs/15TH.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/15TH.jpg	34445
 plugins/starwars/packs/AAA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/AAA.jpg	2489558
 plugins/starwars/packs/AGD.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/AGD.jpg	532512
@@ -113,80 +113,80 @@ plugins/starwars/packs/VDR1.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LA
 plugins/starwars/packs/VP.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/VP.jpg	529453
 plugins/starwars/packs/WAE.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/WAE.jpg	-207097
 plugins/starwars/packs/YV.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/packs/YV.jpg	0
-plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/15TH.txt	2720660
-plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/AAA.txt	4674623
-plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/AGD.txt	7542552
-plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ALTA.txt	22869159
-plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ANH.txt	3432673
-plugins/starwars/sets/AOTC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/AOTC.txt	2768155
-plugins/starwars/sets/BAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BAE.txt	5049348
-plugins/starwars/sets/BEP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BEP.txt	997381
-plugins/starwars/sets/BF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BF.txt	3071211
-plugins/starwars/sets/BH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BH.txt	2265886
-plugins/starwars/sets/BL.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BL.txt	8907673
-plugins/starwars/sets/BOBF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOBF.txt	5643571
-plugins/starwars/sets/BOC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOC.txt	4259643
-plugins/starwars/sets/BOE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOE.txt	3899885
-plugins/starwars/sets/BOH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOH.txt	1668285
-plugins/starwars/sets/BOSB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOSB.txt	3162087
-plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOTS.txt	4594516
-plugins/starwars/sets/BOY.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOY.txt	2488069
-plugins/starwars/sets/CAD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/CAD.txt	3466346
-plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/CWSO.txt	2574696
-plugins/starwars/sets/DAN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/DAN.txt	4727186
-plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/EAW.txt	1175660
-plugins/starwars/sets/EE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/EE.txt	2629520
-plugins/starwars/sets/ER.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ER.txt	2922404
-plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ESB.txt	4934327
-plugins/starwars/sets/FOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/FOR.txt	5902392
-plugins/starwars/sets/FOTR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/FOTR.txt	2483079
-plugins/starwars/sets/GPC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/GPC.txt	1039682
-plugins/starwars/sets/HWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/HWN.txt	1172878
-plugins/starwars/sets/IA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/IA.txt	779334
-plugins/starwars/sets/ION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ION.txt	4964165
-plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JEDI.txt	1823974
-plugins/starwars/sets/JG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JG.txt	3010757
-plugins/starwars/sets/JK.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JK.txt	2900940
-plugins/starwars/sets/KAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/KAE.txt	5896180
-plugins/starwars/sets/LEG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/LEG.txt	7886052
-plugins/starwars/sets/LOTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/LOTA.txt	720803
+plugins/starwars/sets/15TH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/15TH.txt	2702814
+plugins/starwars/sets/AAA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/AAA.txt	4607055
+plugins/starwars/sets/AGD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/AGD.txt	7467680
+plugins/starwars/sets/ALTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ALTA.txt	22715533
+plugins/starwars/sets/ANH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ANH.txt	3366631
+plugins/starwars/sets/AOTC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/AOTC.txt	2700997
+plugins/starwars/sets/BAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BAE.txt	4981508
+plugins/starwars/sets/BEP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BEP.txt	983529
+plugins/starwars/sets/BF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BF.txt	3038099
+plugins/starwars/sets/BH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BH.txt	2255822
+plugins/starwars/sets/BL.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BL.txt	8827647
+plugins/starwars/sets/BOBF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOBF.txt	5599197
+plugins/starwars/sets/BOC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOC.txt	4207121
+plugins/starwars/sets/BOE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOE.txt	3827713
+plugins/starwars/sets/BOH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOH.txt	1643607
+plugins/starwars/sets/BOSB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOSB.txt	3129249
+plugins/starwars/sets/BOTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOTS.txt	4547874
+plugins/starwars/sets/BOY.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/BOY.txt	2445485
+plugins/starwars/sets/CAD.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/CAD.txt	3415854
+plugins/starwars/sets/CWSO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/CWSO.txt	2555118
+plugins/starwars/sets/DAN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/DAN.txt	4656906
+plugins/starwars/sets/EAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/EAW.txt	1166420
+plugins/starwars/sets/EE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/EE.txt	2605124
+plugins/starwars/sets/ER.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ER.txt	2884686
+plugins/starwars/sets/ESB.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ESB.txt	4878269
+plugins/starwars/sets/FOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/FOR.txt	5834294
+plugins/starwars/sets/FOTR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/FOTR.txt	2437539
+plugins/starwars/sets/GPC.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/GPC.txt	1027080
+plugins/starwars/sets/HWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/HWN.txt	1164472
+plugins/starwars/sets/IA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/IA.txt	770936
+plugins/starwars/sets/ION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ION.txt	4916645
+plugins/starwars/sets/JEDI.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JEDI.txt	1806704
+plugins/starwars/sets/JG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JG.txt	2991591
+plugins/starwars/sets/JK.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JK.txt	2861672
+plugins/starwars/sets/KAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/KAE.txt	5832836
+plugins/starwars/sets/LEG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/LEG.txt	7776774
+plugins/starwars/sets/LOTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/LOTA.txt	711735
 plugins/starwars/sets/MAM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/MAM.txt	135933
-plugins/starwars/sets/MAND.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/MAND.txt	2101055
-plugins/starwars/sets/OBWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/OBWN.txt	3589205
-plugins/starwars/sets/PM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/PM.txt	1988113
-plugins/starwars/sets/RAS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RAS.txt	2635833
-plugins/starwars/sets/RAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RAW.txt	2868350
-plugins/starwars/sets/RO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RO.txt	5670495
-plugins/starwars/sets/RO2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RO2.txt	1929103
-plugins/starwars/sets/ROTJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ROTJ.txt	2300883
-plugins/starwars/sets/ROTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ROTS.txt	2366377
-plugins/starwars/sets/RS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RS.txt	4664749
-plugins/starwars/sets/SAV.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SAV.txt	1777421
-plugins/starwars/sets/SBS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SBS.txt	4177816
-plugins/starwars/sets/SITH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SITH.txt	1987936
-plugins/starwars/sets/SMUG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SMUG.txt	2045372
-plugins/starwars/sets/SOLO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SOLO.txt	5172379
-plugins/starwars/sets/SOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SOR.txt	5388241
-plugins/starwars/sets/SR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SR.txt	1557979
-plugins/starwars/sets/TAL.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TAL.txt	8168653
-plugins/starwars/sets/TDT.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TDT.txt	9621236
-plugins/starwars/sets/TEN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TEN.txt	1086511
-plugins/starwars/sets/TFA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TFA.txt	4718199
-plugins/starwars/sets/TLJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TLJ.txt	6292092
-plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TM.txt	7857100
-plugins/starwars/sets/TMR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TMR.txt	3921738
-plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TMW.txt	6892896
-plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TOR.txt	3477635
-plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TROS.txt	6211327
-plugins/starwars/sets/TUF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TUF.txt	3741213
-plugins/starwars/sets/UNION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/UNION.txt	6391908
-plugins/starwars/sets/VDR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VDR.txt	838351
-plugins/starwars/sets/VP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VP.txt	5459518
-plugins/starwars/sets/VV1.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VV1.txt	1110093
-plugins/starwars/sets/VV2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VV2.txt	1117242
-plugins/starwars/sets/WAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/WAE.txt	882568
-plugins/starwars/sets/YV.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/YV.txt	2691174
-plugins/starwars/sets/START.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/START.txt	4530311
+plugins/starwars/sets/MAND.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/MAND.txt	2099593
+plugins/starwars/sets/OBWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/OBWN.txt	3542807
+plugins/starwars/sets/PM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/PM.txt	1960893
+plugins/starwars/sets/RAS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RAS.txt	2614983
+plugins/starwars/sets/RAW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RAW.txt	2818600
+plugins/starwars/sets/RO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RO.txt	5609073
+plugins/starwars/sets/RO2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RO2.txt	1908781
+plugins/starwars/sets/ROTJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ROTJ.txt	2284129
+plugins/starwars/sets/ROTS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/ROTS.txt	2327053
+plugins/starwars/sets/RS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/RS.txt	4593385
+plugins/starwars/sets/SAV.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SAV.txt	1743119
+plugins/starwars/sets/SBS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SBS.txt	4122612
+plugins/starwars/sets/SITH.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SITH.txt	1958516
+plugins/starwars/sets/SMUG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SMUG.txt	2016054
+plugins/starwars/sets/SOLO.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SOLO.txt	5097643
+plugins/starwars/sets/SOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SOR.txt	5323335
+plugins/starwars/sets/SR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/SR.txt	1522353
+plugins/starwars/sets/TAL.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TAL.txt	8135553
+plugins/starwars/sets/TDT.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TDT.txt	9526062
+plugins/starwars/sets/TEN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TEN.txt	1077887
+plugins/starwars/sets/TFA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TFA.txt	4654119
+plugins/starwars/sets/TLJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TLJ.txt	6235386
+plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TM.txt	7760470
+plugins/starwars/sets/TMR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TMR.txt	3921962
+plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TMW.txt	6835203
+plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TOR.txt	3444971
+plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TROS.txt	6118511
+plugins/starwars/sets/TUF.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TUF.txt	3698987
+plugins/starwars/sets/UNION.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/UNION.txt	6345214
+plugins/starwars/sets/VDR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VDR.txt	831545
+plugins/starwars/sets/VP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VP.txt	5435900
+plugins/starwars/sets/VV1.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VV1.txt	1096839
+plugins/starwars/sets/VV2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VV2.txt	1100752
+plugins/starwars/sets/WAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/WAE.txt	873074
+plugins/starwars/sets/YV.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/YV.txt	2691674
+plugins/starwars/sets/START.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/START.txt	4458161
 plugins/starwars/sets/HELP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/HELP.txt	87321
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
 plugins/starwars/sounds/attack.wav	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sounds/attack.wav	-280414
@@ -11229,96 +11229,96 @@ WAE/WAE027_Accresker_Penal_Legionaries.jpg	https://raw.githubusercontent.com/SWT
 WAE/WAE028_Exploding_Asteroid.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/WAE/WAE028_Exploding_Asteroid.jpg	
 WAE/WAE029_Harvest_on_Ktath_atn.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/WAE/WAE029_Harvest_on_Ktath_atn.jpg	
 WAE/WAE030_Trandoshan_Slavers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/WAE/WAE030_Trandoshan_Slavers.jpg	
-YV/YV01_Brutal_Merciless_Unstoppable.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV01_Brutal_Merciless_Unstoppable.jpg
-YV/YV02_Devotion_to_the_Cosmic_Lord_Yun_Yuuzhan.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV02_Devotion_to_the_Cosmic_Lord_Yun_Yuuzhan.jpg
-YV/YV03_Devotion_to_the_Modeler_Yun_Ne_Shel.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV03_Devotion_to_the_Modeler_Yun_Ne_Shel.jpg
-YV/YV04_Elite_Yuuzhan_Vong_Commander.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV04_Elite_Yuuzhan_Vong_Commander.jpg
-YV/YV05_Elite_Yuuzhan_Vong_Master_Shaper.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV05_Elite_Yuuzhan_Vong_Master_Shaper.jpg
-YV/YV06_Exodus.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV06_Exodus.jpg
-YV/YV07_Forgiven_in_Victory.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV07_Forgiven_in_Victory.jpg
-YV/YV08_Legacy_of_Torment_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV08_Legacy_of_Torment_B.jpg
-YV/YV09_Nen_Yim_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV09_Nen_Yim_C.jpg
-YV/YV10_Nom_Anor_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV10_Nom_Anor_G.jpg
-YV/YV11_Onimi_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV11_Onimi_B.jpg
-YV/YV12_Shimrra_Jamaane_D.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV12_Shimrra_Jamaane_D.jpg
-YV/YV13_Shimrra_s_Slayers_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV13_Shimrra_s_Slayers_C.jpg
-YV/YV14_Slivilith.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV14_Slivilith.jpg
-YV/YV15_The_True_Way.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV15_The_True_Way.jpg
-YV/YV16_Tsavong_Lah_E.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV16_Tsavong_Lah_E.jpg
-YV/YV17_Umrach.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV17_Umrach.jpg
-YV/YV18_Vagh_Rodiek.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV18_Vagh_Rodiek.jpg
-YV/YV19_Woe_to_Our_Enemies.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV19_Woe_to_Our_Enemies.jpg
-YV/YV20_Yo_gand_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV20_Yo_gand_A.jpg
-YV/YV21_Yuuzhan_Vong_Advance_Scout_Ship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV21_Yuuzhan_Vong_Advance_Scout_Ship.jpg
-YV/YV22_Yuuzhan_Vong_Galaxy.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV22_Yuuzhan_Vong_Galaxy.jpg
-YV/YV23_Yuuzhan_Vong_Navy_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV23_Yuuzhan_Vong_Navy_A.jpg
-YV/YV24_Yuuzhan_Vong_Priestess.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV24_Yuuzhan_Vong_Priestess.jpg
-YV/YV25_Yuuzhan_Vong_War.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV25_Yuuzhan_Vong_War.jpg
-YV/YV26_Blast_Bug.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV26_Blast_Bug.jpg
-YV/YV27_Darth_Vua_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV27_Darth_Vua_A.jpg
-YV/YV28_Devotion_to_the_Slayer_Yun_Yammka.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV28_Devotion_to_the_Slayer_Yun_Yammka.jpg
-YV/YV29_Devotion_to_the_Trickster_Yun_Harla.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV29_Devotion_to_the_Trickster_Yun_Harla.jpg
-YV/YV30_Fero_Xyn.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV30_Fero_Xyn.jpg
-YV/YV31_Master_Your_Fear.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV31_Master_Your_Fear.jpg
-YV/YV32_Nagme_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV32_Nagme_B.jpg
-YV/YV33_Nas_Choka_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV33_Nas_Choka_B.jpg
-YV/YV34_Nei_Rin_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV34_Nei_Rin_A.jpg
-YV/YV35_Radank_Claw.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV35_Radank_Claw.jpg
-YV/YV36_Refugee_Crisis.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV36_Refugee_Crisis.jpg
-YV/YV37_Sgauru_and_Tu_Scart_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV37_Sgauru_and_Tu_Scart_A.jpg
-YV/YV38_Spiked_Razor_Bug.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV38_Spiked_Razor_Bug.jpg
-YV/YV39_Steng_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV39_Steng_A.jpg
-YV/YV40_Thud_Bug_Attack.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV40_Thud_Bug_Attack.jpg
-YV/YV41_Tkun.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV41_Tkun.jpg
-YV/YV42_Vol_Chaka_Class_Gunship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV42_Vol_Chaka_Class_Gunship.jpg
-YV/YV43_Voxyn_Queen_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV43_Voxyn_Queen_C.jpg
-YV/YV44_Ychna.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV44_Ychna.jpg
-YV/YV45_Yuuzhan_Vong_Dreadnoughts.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV45_Yuuzhan_Vong_Dreadnoughts.jpg
-YV/YV46_Yuuzhan_Vong_Elite_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV46_Yuuzhan_Vong_Elite_A.jpg
-YV/YV47_Yuuzhan_Vong_Executor.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV47_Yuuzhan_Vong_Executor.jpg
-YV/YV48_Yuuzhan_Vong_Grand_Ceremony.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV48_Yuuzhan_Vong_Grand_Ceremony.jpg
-YV/YV49_Yuuzhan_Vong_Markings.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV49_Yuuzhan_Vong_Markings.jpg
-YV/YV50_Yuuzhan_Vong_Navy_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV50_Yuuzhan_Vong_Navy_B.jpg
-YV/YV51_Devotion_to_the_Lovers_Yun_Qaah_Yun_Txiin.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV51_Devotion_to_the_Lovers_Yun_Qaah_Yun_Txiin.jpg
-YV/YV52_Devotion_to_the_Pardoners_Yun_Shuno_Yun_Lingni.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV52_Devotion_to_the_Pardoners_Yun_Shuno_Yun_Lingni.jpg
-YV/YV53_Domain_Lah_Worldship_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV53_Domain_Lah_Worldship_B.jpg
-YV/YV54_Grutchin_Symbiote.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV54_Grutchin_Symbiote.jpg
-YV/YV55_Harrar_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV55_Harrar_C.jpg
-YV/YV56_I_friil Ma_nat_Class_Warship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV56_I_friil Ma_nat_Class_Warship.jpg
-YV/YV57_Mezhan_Kwaad_B.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV57_Mezhan_Kwaad_B.jpg
-YV/YV58_Nina_Galfridian_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV58_Nina_Galfridian_C.jpg
-YV/YV59_P_hiili.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV59_P_hiili.jpg
-YV/YV60_Place_of_Sacrifice.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV60_Place_of_Sacrifice.jpg
-YV/YV61_Quednak.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV61_Quednak.jpg
-YV/YV62_Sharing_Pain.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV62_Sharing_Pain.jpg
-YV/YV63_Suuv_Ban_D_krid_Class_Warship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV63_Suuv_Ban_D_krid_Class_Warship.jpg
-YV/YV64_Tenacious_Amphistaff.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV64_Tenacious_Amphistaff.jpg
-YV/YV65_Tsalok_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV65_Tsalok_C.jpg
-YV/YV66_Vongerella_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV66_Vongerella_A.jpg
-YV/YV67_Vua_Rapuung_C.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV67_Vua_Rapuung_C.jpg
-YV/YV68_Yorik_et.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV68_Yorik_et.jpg
-YV/YV69_Yuuzhan_Vong_Agent.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV69_Yuuzhan_Vong_Agent.jpg
-YV/YV70_Yuuzhan_Vong_Pilot.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV70_Yuuzhan_Vong_Pilot.jpg
-YV/YV71_Yuuzhan_Vong_Priests.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV71_Yuuzhan_Vong_Priests.jpg
-YV/YV72_Yuuzhan_Vong_Slaveship.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV72_Yuuzhan_Vong_Slaveship.jpg
-YV/YV73_Yuuzhan_Vong_Training.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV73_Yuuzhan_Vong_Training.jpg
-YV/YV74_Veteran_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV74_Veteran_Yuuzhan_Vong_Warrior.jpg
-YV/YV75_Yuuzhan_tar_Creche_of_the_Gods.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YV75_Yuuzhan_tar_Creche_of_the_Gods.jpg
-YV/YVpromo_Nei_Rin_A.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVpromo_Nei_Rin_A.jpg
-YV/YVpromo_Nom_Anor_G.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVpromo_Nom_Anor_G.jpg
-YV/YVpromo_Tenacious_Amphistaff.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVpromo_Tenacious_Amphistaff.jpg
-YV/YVpromo_The_True_Way.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVpromo_The_True_Way.jpg
-YV/YVpromo_Ychna.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVpromo_Ychna.jpg
-YV/YVsub_Coralskipper_Scout.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Coralskipper_Scout.jpg
-YV/YVsub_Coralskipper_Swarm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Coralskipper_Swarm.jpg
-YV/YVsub_Elite_Yuuzhan_Vong_Warrior.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Elite_Yuuzhan_Vong_Warrior.jpg
-YV/YVsub_Grutchin.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Grutchin.jpg
-YV/YVsub_Thud_Bug_Swarm.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Thud_Bug_Swarm.jpg
-YV/YVsub_Voxyn_Clone.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Voxyn_Clone.jpg
-YV/YVsub_War_Refugees.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_War_Refugees.jpg
-YV/YVsub_Yuuzhan_Vong_Detachment.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Yuuzhan_Vong_Detachment.jpg
-YV/YVsub_Yuuzhan_Vong_Seer.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Yuuzhan_Vong_Seer.jpg
-YV/YVsub_Yuuzhan_Vong_Workers.jpg	https://lackey.swtcg.com/starwars/sets/setimages/YV/YVsub_Yuuzhan_Vong_Workers.jpg
+YV/YV01_Brutal_Merciless_Unstoppable.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV01_Brutal_Merciless_Unstoppable.jpg
+YV/YV02_Devotion_to_the_Cosmic_Lord_Yun_Yuuzhan.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV02_Devotion_to_the_Cosmic_Lord_Yun_Yuuzhan.jpg
+YV/YV03_Devotion_to_the_Modeler_Yun_Ne_Shel.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV03_Devotion_to_the_Modeler_Yun_Ne_Shel.jpg
+YV/YV04_Elite_Yuuzhan_Vong_Commander.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV04_Elite_Yuuzhan_Vong_Commander.jpg
+YV/YV05_Elite_Yuuzhan_Vong_Master_Shaper.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV05_Elite_Yuuzhan_Vong_Master_Shaper.jpg
+YV/YV06_Exodus.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV06_Exodus.jpg
+YV/YV07_Forgiven_in_Victory.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV07_Forgiven_in_Victory.jpg
+YV/YV08_Legacy_of_Torment_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV08_Legacy_of_Torment_B.jpg
+YV/YV09_Nen_Yim_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV09_Nen_Yim_C.jpg
+YV/YV10_Nom_Anor_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV10_Nom_Anor_G.jpg
+YV/YV11_Onimi_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV11_Onimi_B.jpg
+YV/YV12_Shimrra_Jamaane_D.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV12_Shimrra_Jamaane_D.jpg
+YV/YV13_Shimrra_s_Slayers_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV13_Shimrra_s_Slayers_C.jpg
+YV/YV14_Slivilith.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV14_Slivilith.jpg
+YV/YV15_The_True_Way.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV15_The_True_Way.jpg
+YV/YV16_Tsavong_Lah_E.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV16_Tsavong_Lah_E.jpg
+YV/YV17_Umrach.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV17_Umrach.jpg
+YV/YV18_Vagh_Rodiek.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV18_Vagh_Rodiek.jpg
+YV/YV19_Woe_to_Our_Enemies.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV19_Woe_to_Our_Enemies.jpg
+YV/YV20_Yo_gand_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV20_Yo_gand_A.jpg
+YV/YV21_Yuuzhan_Vong_Advance_Scout_Ship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV21_Yuuzhan_Vong_Advance_Scout_Ship.jpg
+YV/YV22_Yuuzhan_Vong_Galaxy.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV22_Yuuzhan_Vong_Galaxy.jpg
+YV/YV23_Yuuzhan_Vong_Navy_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV23_Yuuzhan_Vong_Navy_A.jpg
+YV/YV24_Yuuzhan_Vong_Priestess.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV24_Yuuzhan_Vong_Priestess.jpg
+YV/YV25_Yuuzhan_Vong_War.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV25_Yuuzhan_Vong_War.jpg
+YV/YV26_Blast_Bug.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV26_Blast_Bug.jpg
+YV/YV27_Darth_Vua_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV27_Darth_Vua_A.jpg
+YV/YV28_Devotion_to_the_Slayer_Yun_Yammka.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV28_Devotion_to_the_Slayer_Yun_Yammka.jpg
+YV/YV29_Devotion_to_the_Trickster_Yun_Harla.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV29_Devotion_to_the_Trickster_Yun_Harla.jpg
+YV/YV30_Fero_Xyn.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV30_Fero_Xyn.jpg
+YV/YV31_Master_Your_Fear.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV31_Master_Your_Fear.jpg
+YV/YV32_Nagme_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV32_Nagme_B.jpg
+YV/YV33_Nas_Choka_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV33_Nas_Choka_B.jpg
+YV/YV34_Nei_Rin_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV34_Nei_Rin_A.jpg
+YV/YV35_Radank_Claw.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV35_Radank_Claw.jpg
+YV/YV36_Refugee_Crisis.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV36_Refugee_Crisis.jpg
+YV/YV37_Sgauru_and_Tu_Scart_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV37_Sgauru_and_Tu_Scart_A.jpg
+YV/YV38_Spiked_Razor_Bug.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV38_Spiked_Razor_Bug.jpg
+YV/YV39_Steng_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV39_Steng_A.jpg
+YV/YV40_Thud_Bug_Attack.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV40_Thud_Bug_Attack.jpg
+YV/YV41_Tkun.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV41_Tkun.jpg
+YV/YV42_Vol_Chaka_Class_Gunship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV42_Vol_Chaka_Class_Gunship.jpg
+YV/YV43_Voxyn_Queen_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV43_Voxyn_Queen_C.jpg
+YV/YV44_Ychna.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV44_Ychna.jpg
+YV/YV45_Yuuzhan_Vong_Dreadnoughts.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV45_Yuuzhan_Vong_Dreadnoughts.jpg
+YV/YV46_Yuuzhan_Vong_Elite_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV46_Yuuzhan_Vong_Elite_A.jpg
+YV/YV47_Yuuzhan_Vong_Executor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV47_Yuuzhan_Vong_Executor.jpg
+YV/YV48_Yuuzhan_Vong_Grand_Ceremony.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV48_Yuuzhan_Vong_Grand_Ceremony.jpg
+YV/YV49_Yuuzhan_Vong_Markings.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV49_Yuuzhan_Vong_Markings.jpg
+YV/YV50_Yuuzhan_Vong_Navy_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV50_Yuuzhan_Vong_Navy_B.jpg
+YV/YV51_Devotion_to_the_Lovers_Yun_Qaah_Yun_Txiin.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV51_Devotion_to_the_Lovers_Yun_Qaah_Yun_Txiin.jpg
+YV/YV52_Devotion_to_the_Pardoners_Yun_Shuno_Yun_Lingni.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV52_Devotion_to_the_Pardoners_Yun_Shuno_Yun_Lingni.jpg
+YV/YV53_Domain_Lah_Worldship_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV53_Domain_Lah_Worldship_B.jpg
+YV/YV54_Grutchin_Symbiote.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV54_Grutchin_Symbiote.jpg
+YV/YV55_Harrar_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV55_Harrar_C.jpg
+YV/YV56_I_friil Ma_nat_Class_Warship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV56_I_friil Ma_nat_Class_Warship.jpg
+YV/YV57_Mezhan_Kwaad_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV57_Mezhan_Kwaad_B.jpg
+YV/YV58_Nina_Galfridian_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV58_Nina_Galfridian_C.jpg
+YV/YV59_P_hiili.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV59_P_hiili.jpg
+YV/YV60_Place_of_Sacrifice.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV60_Place_of_Sacrifice.jpg
+YV/YV61_Quednak.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV61_Quednak.jpg
+YV/YV62_Sharing_Pain.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV62_Sharing_Pain.jpg
+YV/YV63_Suuv_Ban_D_krid_Class_Warship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV63_Suuv_Ban_D_krid_Class_Warship.jpg
+YV/YV64_Tenacious_Amphistaff.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV64_Tenacious_Amphistaff.jpg
+YV/YV65_Tsalok_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV65_Tsalok_C.jpg
+YV/YV66_Vongerella_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV66_Vongerella_A.jpg
+YV/YV67_Vua_Rapuung_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV67_Vua_Rapuung_C.jpg
+YV/YV68_Yorik_et.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV68_Yorik_et.jpg
+YV/YV69_Yuuzhan_Vong_Agent.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV69_Yuuzhan_Vong_Agent.jpg
+YV/YV70_Yuuzhan_Vong_Pilot.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV70_Yuuzhan_Vong_Pilot.jpg
+YV/YV71_Yuuzhan_Vong_Priests.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV71_Yuuzhan_Vong_Priests.jpg
+YV/YV72_Yuuzhan_Vong_Slaveship.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV72_Yuuzhan_Vong_Slaveship.jpg
+YV/YV73_Yuuzhan_Vong_Training.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV73_Yuuzhan_Vong_Training.jpg
+YV/YV74_Veteran_Yuuzhan_Vong_Warrior.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV74_Veteran_Yuuzhan_Vong_Warrior.jpg
+YV/YV75_Yuuzhan_tar_Creche_of_the_Gods.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YV75_Yuuzhan_tar_Creche_of_the_Gods.jpg
+YV/YVpromo_Nei_Rin_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVpromo_Nei_Rin_A.jpg
+YV/YVpromo_Nom_Anor_G.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVpromo_Nom_Anor_G.jpg
+YV/YVpromo_Tenacious_Amphistaff.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVpromo_Tenacious_Amphistaff.jpg
+YV/YVpromo_The_True_Way.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVpromo_The_True_Way.jpg
+YV/YVpromo_Ychna.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVpromo_Ychna.jpg
+YV/YVsub_Coralskipper_Scout.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Coralskipper_Scout.jpg
+YV/YVsub_Coralskipper_Swarm.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Coralskipper_Swarm.jpg
+YV/YVsub_Elite_Yuuzhan_Vong_Warrior.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Elite_Yuuzhan_Vong_Warrior.jpg
+YV/YVsub_Grutchin.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Grutchin.jpg
+YV/YVsub_Thud_Bug_Swarm.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Thud_Bug_Swarm.jpg
+YV/YVsub_Voxyn_Clone.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Voxyn_Clone.jpg
+YV/YVsub_War_Refugees.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_War_Refugees.jpg
+YV/YVsub_Yuuzhan_Vong_Detachment.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Yuuzhan_Vong_Detachment.jpg
+YV/YVsub_Yuuzhan_Vong_Seer.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Yuuzhan_Vong_Seer.jpg
+YV/YVsub_Yuuzhan_Vong_Workers.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/YV/YVsub_Yuuzhan_Vong_Workers.jpg
 15TH/15thpromo_Canderous_Ordo_s_Grit_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/15TH/15thpromo_Canderous_Ordo_s_Grit_A.jpg	
 15TH/15thpromo_Confronting_the_Progenitor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/15TH/15thpromo_Confronting_the_Progenitor.jpg	
 15TH/15thpromo_Czerka_Corporation.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/15TH/15thpromo_Czerka_Corporation.jpg	
