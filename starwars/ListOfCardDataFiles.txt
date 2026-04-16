@@ -73,4 +73,5 @@
 <filetoinclude>VV1.txt</filetoinclude>
 <filetoinclude>VV2.txt</filetoinclude>
 <filetoinclude>WAE.txt</filetoinclude>
+<filetoinclude>YV.txt</filetoinclude>
 </listofcarddatafiles>
