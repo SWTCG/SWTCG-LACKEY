@@ -1,12 +1,14 @@
 <formatdefinitions>
 
 <format>
-<label>Legacy</label>
-<set>LEG</set>
+<label>YV</label>
+<set>YV</set>
 </format>
 
 <format>
 <label>Standard</label>
+<set>YV</set>
+<set>LOTA</set>
 <set>TMR</set>
 <set>LEG</set>
 <set>HWN</set>
