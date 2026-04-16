@@ -2,7 +2,7 @@ import io
 from SWTCG import getCardFromLine
 
 
-setCode = "LOTA"
+setCode = "YV"
 
 
 basePluginPath = "../starwars"
