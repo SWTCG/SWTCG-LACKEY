@@ -22,7 +22,7 @@ AMBIGUITY_THRESHOLD = 5.0  # Scores within this range are considered similar
 MIN_MATCH_SCORE = 80.0    # Minimum score to auto-return
 
 IGNORED_SETS = ["HELP.txt", "START.txt"]
-PT_BRANCH = "master"
+PT_BRANCH = "LOTA"
 WEB_APP_URL = "https://warshawd.github.io/swtcg-dice-calculator/"
 TARGET_CHANNEL_ID = "1445637658163282083"
 POST_TIME = time(14, 0)
