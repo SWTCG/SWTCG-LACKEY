@@ -21,7 +21,7 @@ Imperial Navy Helmsman	ANH	ANH019_Imperial_Navy_Helmsman	D	Character	Imperial Na
 Imperial Sentry Droid	ANH	ANH020_Imperial_Sentry_Droid	D	Character	Imperial Patrol Droid	3	60	1	1	R	20		When the battle phase ends, if this unit is the Character arena, look at your opponent's hand.		WOTC, REB, EP456	
 IT-0 Interrogator Droid	ANH	ANH021_IT_0_Interrogator_Droid	D	Character	Imperial Interrogation Droid	4	20	1	3	R	21		[tap] -> Look at your opponent's hand. If there are any Battle or Mission cards there, choose one of them. Your opponent discards that card. Play only during your build step.		WOTC, REB, EP456	
 Jawa Leader	ANH	ANH022_Jawa_Leader	N	Character	Tatooine Jawa	3	20	3	3	R	22		As long as this unit is in the Character arena, each other Jawa (yours and your opponent's) gets +1 power.		WOTC, REB, EP456	
-Krayt Dragon	ANH	ANH023_Krayt_Dragon	N	Ground	Tatooine Dragon Creature	9	30	8	7	R	23		When this unit damages another unit and the other unit is discarded, untap this unit.		WOTC, REB, EP456	
+Krayt Dragon	ANH	ANH023_Krayt_Dragon	N	Ground	Tatooine Dragon Creature	9	30	8	7	R	23		When this unit damages another unit and the other unit is discarded, untap this unit.		WOTC, REB	
 Leia's Kiss	ANH	ANH024_Leia_s_Kiss	L	Battle						R	24		Pay 3 Force -> One of your units gets +30 speed and Accuracy 1 until end of turn.		WOTC, REB, EP456	
 Luke Skywalker (B)	ANH	ANH025_Luke_Skywalker_B	L	Character	Jedi Padawan	4	50	4	3	R	25		Pay 2 Force -> Evade 1 | Pay 2 Force -> Luke gets +20 speed until the end of turn.		WOTC, REB, EP456	
 Luke Skywalker (A)	ANH	ANH026_Luke_Skywalker_A	L	Character	Jedi Padawan	5	50	4	4	R	26		Pay 2 Force -> Evade 1 | [tap] -> Search your deck. You may take a Luke Skywalker card from your deck. Show it to your opponent and put it into your hand. Then shuffle your deck. Play only during the build step.		WOTC, REB, EP456	
@@ -122,7 +122,7 @@ Wuher (A)	ANH	ANH120_Wuher_A	N	Character	Tatooine Bartender	2	10	1	2	U	120	As lo
 Air Cover	ANH	ANH121_Air_Cover	N	Battle						C	121		One of your Ground units gets +3 power for this attack. Play only if you have more units in the Space arena than your opponent.		WOTC, REB, EP456	
 Precise Blast	ANH	ANH122_Precise_Blast	N	Battle						C	122		Pay 2 Force -> One of your Ground units gets +4 power for this attack.		WOTC, REB, EP456	
 Stay Sharp	ANH	ANH123_Stay_Sharp	N	Battle						C	123		Pay 2 Force -> One of your units gets +1 power and Critical Hit 1 for this attack..		WOTC, REB, EP456	
-Carrack Cruiser	ANH	ANH124_Carrack_Cruiser	D	Space	Imperial Transport	5	40	5	5	C	124				WOTC, REB, EP456	
+Carrack Cruiser	ANH	ANH124_Carrack_Cruiser	D	Space	Imperial Transport	5	40	5	5	C	124				WOTC, REB	
 Darth Vader (C)	ANH	ANH125_Darth_Vader_C	D	Character	Dark Jedi Knight - Sith Lord	5	40	5	5	C	125		Pay 2 Force -> Evade 2 | Pay 1 Force -> Intercept		WOTC, REB, EP456	
 Death Star Cannon Tower	ANH	ANH126_Death_Star_Cannon_Tower	D	Ground	Imperial Fortification	3	20	0	3	C	126		Ion Cannon 3		WOTC, REB, EP456	
 Death Star Guard Squad	ANH	ANH127_Death_Star_Guard_Squad	D	Ground	Imperial Soldier	3	20	3	3	C	127				WOTC, REB, EP456	
@@ -154,7 +154,7 @@ Rebel Pilot	ANH	ANH152_Rebel_Pilot	L	Character	Rebel Officer	2	20	2	2	C	152		[Pi
 Rebel Squad	ANH	ANH153_Rebel_Squad	L	Ground	Rebel Soldier	2	20	2	2	C	153		Pay 2 Force -> Intercept		WOTC, REB, EP456	
 Rescue	ANH	ANH154_Rescue	N	Battle						C	154		Pay 4 Force -> Choose one: prevent up to 2 damage to one of your units, or one of your units gets +3 power for this attack.		WOTC, REB, EP456	
 Slipping Through	ANH	ANH155_Slipping_Through	N	Battle						C	155		Pay 8 Force -> Choose an arena. Prevent all damage that would be done by units in that arena until end of turn.		WOTC, REB, EP456	
-Sorusuub V-35 Courier	ANH	ANH156_SoruSuub_V_35_Courier	L	Ground	Independent Speeder	2	30	2	2	C	156				WOTC, REB, EP456	
+Sorusuub V-35 Courier	ANH	ANH156_SoruSuub_V_35_Courier	L	Ground	Independent Speeder	2	30	2	2	C	156				WOTC, REB	
 Synchronized Assault	ANH	ANH157_Synchronized_Assault	N	Battle						C	157		Pay 4 Force -> Each of your Starfighters gets Accuracy 1 until end of turn.		WOTC, REB, EP456	
 Stormtrooper Assault Team	ANH	ANH158_Stormtrooper_Assault_Team	D	Ground	Imperial Clone Stormtrooper	2	30	2	2	C	158		Damage from this unit's attack can't be prevented.		WOTC, REB, EP456	
 Stormtrooper DV-523	ANH	ANH159_Stormtrooper_DV_523	D	Character	Imperial Clone Stormtrooper	4	40	5	4	C	159		This unit gets -2 power as long as it's attacking a unique Character.		WOTC, REB, EP456	
@@ -176,9 +176,9 @@ X-Wing Red Two	ANH	ANH174_X_wing_Red_Two	L	Space	Rebel Starfighter	3	50	2	2	C	17
 X-Wing Attack Formation	ANH	ANH175_X_wing_Attack_Formation	L	Space	Rebel Squadron	6	50	4	4	C	175		Critical Hit 3 | Pay 2 Force -> Evade 1		WOTC, REB, EP456	
 Y-Wing Gold One	ANH	ANH176_Y_wing_Gold_One	L	Space	Rebel Starfighter	4	40	3	2	C	176		Stun 3		WOTC, REB, EP456	
 Y-Wing Gold Squadron	ANH	ANH177_Y_wing_Gold_Squadron	L	Space	Rebel Squadron	5	40	4	4	C	177		Pay 2 Force -> Intercept | Critical Hit 1		WOTC, REB, EP456	
-YT-1300 Transport	ANH	ANH178_YT_1300_Transport	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB, EP456	
-YV-664 Light Freighter	ANH	ANH179_YV_664_Light_Freighter	N	Space	Independent Transport	4	30	3	3	C	179		Shields 1 | Discard this unit from the Space arena -> You get +2 build point this turn. Play only during your build step.		WOTC, REB, EP456	
-Z-95 Headhunter	ANH	ANH180_Z_95_Headhunter	N	Space	Independent Starfighter	3	40	2	2	C	180				WOTC, REB, EP456	
+YT-1300 Transport	ANH	ANH178_YT_1300_Transport	N	Space	Independent Transport	3	30	2	3	C	178		Shields 1		WOTC, REB	
+YV-664 Light Freighter	ANH	ANH179_YV_664_Light_Freighter	N	Space	Independent Transport	4	30	3	3	C	179		Shields 1 | Discard this unit from the Space arena -> You get +2 build point this turn. Play only during your build step.		WOTC, REB	
+Z-95 Headhunter	ANH	ANH180_Z_95_Headhunter	N	Space	Independent Starfighter	3	40	2	2	C	180				WOTC, REB	
 Darth Vader (C) (Promo)	ANH	ANHpromo_Darth_Vader_C	D	Character	Dark Jedi Knight - Sith Lord	5	40	5	5	P			Pay 2 Force -> Evade 2 | Pay 1 Force -> Intercept		WOTC, REB, EP456	
 Luke Skywalker (C) (Promo)	ANH	ANHpromo_Luke_Skywalker_C	L	Character	Jedi Padawan	3	40	2	3	P			As long as you have another Jedi in the Character arena, Luke gets +2 power and "Pay 3 Force -> Evade 1".		WOTC, REB, EP456	
 Obi-Wan Kenobi (F) (Promo)	ANH	ANHpromo_Obi_Wan_Kenobi_F	L	Character	Jedi Knight	6	40	5	5	P			Pay 2 Force -> Evade 2 | Pay 1 Force -> Intercept | When Obi-Wan is discarded from the Character arena, you gain +4 Force.		WOTC, REB, EP456	
