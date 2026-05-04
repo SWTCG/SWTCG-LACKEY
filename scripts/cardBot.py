@@ -460,17 +460,6 @@ def _card_url(card):
     return f"{DECK_DB_PUBLIC_URL}/card/{quote(card.setCode)}/{quote(card.name)}"
 
 
-def _card_view(card):
-    """Return a discord View containing a link button to the card's deck-db page."""
-    view = discord.ui.View()
-    view.add_item(discord.ui.Button(
-        label="View on deck-db",
-        url=_card_url(card),
-        style=discord.ButtonStyle.link
-    ))
-    return view
-
-
 def _card_from_embed(embed):
     """Extract a Card from a bot embed. Returns None if not a card embed.
 
@@ -524,6 +513,16 @@ def run_bot_mode():
     import discord
     from discord.ext import commands, tasks
     from discord import app_commands
+
+    def _card_view(card):
+        """Return a discord View containing a link button to the card's deck-db page."""
+        view = discord.ui.View()
+        view.add_item(discord.ui.Button(
+            label="View on deck-db",
+            url=_card_url(card),
+            style=discord.ButtonStyle.link
+        ))
+        return view
 
     _DICE_CALC_DIR = os.path.join(SCRIPT_DIR, '..', '..', 'swtcg-dice-calculator')
     sys.path.insert(0, _DICE_CALC_DIR)
