@@ -1,24 +1,21 @@
 <formatdefinitions>
 
 <format>
-<label>Legacy</label>
-<set>LEG</set>
+<label>YV</label>
+<set>YV</set>
 </format>
 
 <format>
 <label>Standard</label>
+<set>YV</set>
+<set>LOTA</set>
+<set>TMR</set>
 <set>LEG</set>
 <set>HWN</set>
 <set>VDR</set>
 <set>OBWN</set>
-<set>FOR</set>
-<set>BOTS</set>
-<set>TMW</set>
-<set>BOBF</set>
-<set>BAE</set>
 <set>WAE</set>
 <set>ALTA</set>
-<set>MAM</set>
 <set>VV1</set>
 <set>VV2</set>
 <set>UNION</set>
@@ -50,6 +47,7 @@
 <set>TM</set>
 <set>TMW</set>
 <set>BOBF</set>
+<set>TMR</set>
 </format>
 
 <format>

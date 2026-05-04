@@ -239,6 +239,7 @@ class Card:
         self.cardText = "[game text]"
         self.script = "[script]"
         self.classification = "[classification]"
+        self.draftRarity = ""
         self.uniqueLetter = ""
         self.isUnit = False
         self.isPromo = False
@@ -385,7 +386,8 @@ class Card:
             'Usage': self.usage if self.usage != "[usage]" else "",
             'Text': self.cardText,
             'Script': self.script if self.script != "[script]" else "",
-            'Classification': classification
+            'Classification': classification,
+            'DraftRarity': self.draftRarity
         }
 
 
@@ -416,5 +418,6 @@ def getCardFromLine(rawLine):
     card.cardText = line[13]
     card.script = line[14]
     card.classification = line[15]
+    card.draftRarity = line[16] if len(line) > 16 else ""
     card.isUnit = isUnit(card.typeline)
     return card

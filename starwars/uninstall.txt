@@ -1,7 +1,8 @@
 <uninstall>
 
-<dateYYMMDD>260131</dateYYMMDD>
+<dateYYMMDD>260415</dateYYMMDD>
 
+<removepath>sets/setimages/OBWN/OBWN016_Obi_Wan_Kenobi_E2.jpg</removepath>
 
 <removepath>sets/setimages/UNION/UNION049_Sinjir_Rath_Velus_A.jpg</removepath>
 

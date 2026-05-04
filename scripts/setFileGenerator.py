@@ -12,12 +12,16 @@ _CONTINUATION_STARTERS = re.compile(
     r'^('
     r'If you do\b|'
     r"If you don't\b|"
-    r'Or:\b|'           # "Or: ..." inside a "Choose one:" ability (no \s — Or: may be alone on line)
+    r'Or:|'             # "Or: ..." inside a "Choose one:" ability — may be alone on line or followed by space
     r'Play only\b|'     # "Play only when/during/once per turn"
     r'That (unit|Character|Space|Ground)\b|'
     r'It can\b|'
     r'You may play this\b|'
-    r'For this attack\b'
+    r'For this attack\b|'
+    r'->|'                  # cost/effect arrow split to start of line
+    r'\*|'                  # pilot ability bullet — * separates abilities, no | needed
+    r'Vong\b|'              # "Yuuzhan Vong" wrapped across lines
+    r'Subordinate(?!s)'     # singular type descriptor mid-phrase (e.g. "put 1 X/Y/Z Name Subordinate into arena")
     r')'
 )
 
@@ -28,20 +32,23 @@ _CONTINUATION_ENDERS = re.compile(
     r'->$|'                         # cost/effect split across lines (anchored — avoids matching -> inside quoted abilities)
     r':$|'                          # "choose one:", "INSERT:", "Last Stand:", "Or:" alone
     r',$|'                          # comma-terminated stat list (e.g. "+2 power,")
-    r'\bor$|\band$|'                # coordinating conjunctions
+    r'\bor$|\band$|\bthan$|'        # coordinating conjunctions / comparisons
     r'\bwith$|\bwithout$|'
     r'\bto$|\bthe$|\ba$|\ban$|'
-    r'\bgets$|\bget$|\bloses$|\blose$|'
+    r'\bgets$|\bget$|\bloses$|\blose$|\bremove$|\badd$|\bplace$|\bput$|\btake$|\bcosts$|'
     r'\bher$|\bhis$|\bits$|\bthis$|'
     r'\bin$|\bon$|\bfor$|\bby$|\bfrom$|\binto$|\bagainst$|\buntil$|'
-    r'\btimes$|\bhas$|\bhave$'
+    r'\btimes$|\bhas$|\bhave$|'
+    r'\byour$|'                         # possessive mid-phrase (e.g. "remove counters from your / Resource")
+    r'\d/\d+$|'                         # stat block (cost/power/health) mid-phrase, e.g. "1 50/3/3 / CardName"
+    r'\bYuuzhan$'                       # "Yuuzhan Vong" wrapped across lines
     r')',
     re.IGNORECASE
 )
-currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification'])
+currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification','DraftRarity'])
 currentSet.head()
 
-cardSet = "LOTA"
+cardSet = "YV"
 
 cwd = os.getcwd()
 
@@ -81,15 +88,17 @@ def _italic_line_indices(layer):
         return set()
 
 
-def processGameText(layer):
+def processGameText(layer, is_subordinate=False):
     """Extract game text from a PSD layer, inserting | between ability clauses.
 
     Each \\r in PSD text is an intentional line break between abilities. We
     insert | for new clauses and a plain space for continuation lines (e.g.
     "Play only when...", "If you do,", "Or:" inside a Choose-one ability).
 
-    Fully-italic lines are skipped: on subordinate cards flavor text follows a
-    single \\r (not the double \\r\\r used on standard cards) and is set in italics.
+    Fully-italic lines are skipped only on subordinate cards: their flavor text
+    follows a single \\r (not the double \\r\\r used on standard cards) and is set
+    in italics. Standard cards use \\r\\r to delimit flavor text, so italic
+    detection is not applied (reminder text, which is also italic, must be kept).
     """
     try:
         text = layer.text
@@ -98,15 +107,18 @@ def processGameText(layer):
         if fp != -1:
             text = text[:fp]
         # Normalize special characters (mirrors cleanGameText, preserving \r for splitting)
-        text = (text.replace("\u00bd", "Tap")
+        # Strip control characters (0x00-0x1F) except \r (0x0D), which is used for line splitting
+        text = re.sub(r'[\x00-\x0c\x0e-\x1f]', '', text)
+        text = (text.replace("\u00bd", "[Tap]")
+                    .replace("<", "[Pilot]")
+                    .replace(">", "*")
                     .replace("§", "->")
-                    .replace("<", "")
                     .replace("\u201c", '"')
                     .replace("\u201d", '"')
                     .replace("\u2018", "'")
                     .replace("\u2019", "'"))
-        # Identify italic lines (flavor text on subordinate cards)
-        italic_lines = _italic_line_indices(layer)
+        # Identify italic lines (flavor text on subordinate cards only)
+        italic_lines = _italic_line_indices(layer) if is_subordinate else set()
         # Split on line breaks and decide: new clause (|) or continuation (space)
         segments = text.split("\r")
         parts = []
@@ -154,6 +166,9 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
 
     if fileNameNumber == "promo":
         card.isPromo = True
+
+    if fileNameNumber == "sub":
+        card.number = ""
 
     print("Processing " + fileNameNumber)
 
@@ -226,7 +241,7 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
         if layer.name == "Subtype (Subordinate)":
             card.setTypeline(layer.text)
         if layer.name == "Game text":
-            card.cardText = processGameText(layer)
+            card.cardText = processGameText(layer, is_subordinate=True)
 
         # Subordinate side symbols (visible layer at top level)
         if layer.is_visible() and layer.name in ("Light", "Dark", "Neutral", "Yuuzhan Vong"):

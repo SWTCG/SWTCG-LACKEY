@@ -57,7 +57,7 @@ for filename in os.listdir(BASE_DIR):
     if not filename.lower().endswith(".psd"):
         continue
 
-    path = os.path.join(SOURCE_DIR, filename)
+    path = os.path.join(BASE_DIR, filename)
 
     try:
         psd = PSDImage.open(path)
