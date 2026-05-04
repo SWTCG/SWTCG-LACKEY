@@ -65,4 +65,17 @@ v16/*
 /starwars/updatelistPREP.txt
 /starwars/pluginpreferences.txt
 starwars/pluginpreferences.txt
+/starwars/columnwidths.txt
 *.~lock.*
+
+# Claude Code
+CLAUDE.md
+.claudeignore
+.ignore
+
+# Script output
+scripts/output.txt
+scripts/PSDs/
+
+#sets experiment
+starwars/old_sets

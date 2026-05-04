@@ -1,6 +1,12 @@
 <uninstall>
 
-<dateYYMMDD>260131</dateYYMMDD>
+<dateYYMMDD>260502</dateYYMMDD>
+
+<removepath>sets/setimages/LEG/LEGpromo_Admiral_Gar_Stazi_C.jpg</removepath>
+
+<removepath>sets/setimages/OBWN/OBWN016_Obi_Wan_Kenobi_E2.jpg</removepath>
+
+<removepath>sets/setimages/UNION/UNION049_Sinjir_Rath_Velus_A.jpg</removepath>
 
 <removepath>sets/setimages/VV2/VV2promo_Screecher_s_Reach.jpg</removepath>
 

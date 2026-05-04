@@ -14,10 +14,13 @@ jobs:
 
       - name: Validate the plugin
         id: validate
+        continue-on-error: true
         run: |
           set -o pipefail
-          python3 missingCardFinder.py > output.txt 2>&1
+          set +e
+          cd scripts && python3 missingCardFinder.py > output.txt 2>&1
           EXIT_CODE=$?
+          set -e
 
           FILESIZE=$(wc -c < output.txt)
 
@@ -31,19 +34,15 @@ jobs:
           cat output.txt
 
 
-      - name: Check for output
-        id: check
-        run: |
-          FILESIZE=$(wc -c < output.txt)
-          echo "filesize=$FILESIZE" >> "$GITHUB_OUTPUT"
-
       - name: Find Discord user
+        if: always()
         id: discord
         run: |
           USERCODE=$(jq -r --arg actor "$GITHUB_ACTOR" '.[$actor]' .github/workflows/usernames.json)
           echo "discord_name=$USERCODE" >> "$GITHUB_OUTPUT"
 
       - name: Check previous workflow result
+        if: always()
         id: previous
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -57,18 +56,18 @@ jobs:
           fi
 
       - name: Send error discord message
-        if: steps.validate.outputs.failed == 'true' || steps.check.outputs.filesize != '0'
+        if: always() && steps.validate.outputs.failed == 'true'
         uses: tsickert/discord-webhook@v4.0.0
         with:
           webhook-url: ${{ secrets.validationWebhook }}
-          filename: output.txt
+          filename: scripts/output.txt
           content: >
             Hey ${{ steps.discord.outputs.discord_name }},
             there was a problem validating your last plugin commit
             on branch `${{ github.ref_name }}`.
 
       - name: Send success discord message
-        if: steps.validate.outputs.failed == 'false' && steps.previous.outputs.previous_failed == 'true'
+        if: always() && steps.validate.outputs.failed == 'false' && steps.previous.outputs.previous_failed == 'true'
         uses: tsickert/discord-webhook@v4.0.0
         with:
           webhook-url: ${{ secrets.validationWebhook }}
@@ -76,5 +75,5 @@ jobs:
             All of the issues on branch `${{ github.ref_name }}` are now fixed! 🎉
 
       - name: Fail workflow if plugin failed
-        if: steps.validate.outputs.failed == 'true'
+        if: always() && steps.validate.outputs.failed == 'true'
         run: exit 1

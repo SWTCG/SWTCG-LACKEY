@@ -2,101 +2,192 @@ from psd_tools import PSDImage
 import pandas as pd
 import os
 import glob
+import re
 
-validBuildCosts = ['Multi-arena build', 'Space build', 'Ground build', 'Character build', 'Space Build', 'Ground Build', 'Character Build', 'Resource Build', 'Trap Build', 'Campaign Build', 'Mission Build', 'Trait Build', 'Skill Build', 'Equipment Build', 'Multi-Arena Build', 'Resource Build']
-currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification'])
-currentSet.head()            
+from SWTCG import Card, VALID_BUILD_COSTS
 
-cardSet = "LEG"
+# Segments that follow a line break but continue the PREVIOUS ability (not a new clause).
+# Checked before the uppercase-start fallback that assumes a new clause.
+_CONTINUATION_STARTERS = re.compile(
+    r'^('
+    r'If you do\b|'
+    r"If you don't\b|"
+    r'Or:|'             # "Or: ..." inside a "Choose one:" ability — may be alone on line or followed by space
+    r'Play only\b|'     # "Play only when/during/once per turn"
+    r'That (unit|Character|Space|Ground)\b|'
+    r'It can\b|'
+    r'You may play this\b|'
+    r'For this attack\b|'
+    r'->|'                  # cost/effect arrow split to start of line
+    r'\*|'                  # pilot ability bullet — * separates abilities, no | needed
+    r'Vong\b|'              # "Yuuzhan Vong" wrapped across lines
+    r'Subordinate(?!s)'     # singular type descriptor mid-phrase (e.g. "put 1 X/Y/Z Name Subordinate into arena")
+    r')'
+)
+
+# If the PREVIOUS segment ends with one of these, the next segment continues it.
+# These words/symbols cannot grammatically end an ability clause in SWTCG card text.
+_CONTINUATION_ENDERS = re.compile(
+    r'('
+    r'->$|'                         # cost/effect split across lines (anchored — avoids matching -> inside quoted abilities)
+    r':$|'                          # "choose one:", "INSERT:", "Last Stand:", "Or:" alone
+    r',$|'                          # comma-terminated stat list (e.g. "+2 power,")
+    r'\bor$|\band$|\bthan$|'        # coordinating conjunctions / comparisons
+    r'\bwith$|\bwithout$|'
+    r'\bto$|\bthe$|\ba$|\ban$|'
+    r'\bgets$|\bget$|\bloses$|\blose$|\bremove$|\badd$|\bplace$|\bput$|\btake$|\bcosts$|'
+    r'\bher$|\bhis$|\bits$|\bthis$|'
+    r'\bin$|\bon$|\bfor$|\bby$|\bfrom$|\binto$|\bagainst$|\buntil$|'
+    r'\btimes$|\bhas$|\bhave$|'
+    r'\byour$|'                         # possessive mid-phrase (e.g. "remove counters from your / Resource")
+    r'\d/\d+$|'                         # stat block (cost/power/health) mid-phrase, e.g. "1 50/3/3 / CardName"
+    r'\bYuuzhan$'                       # "Yuuzhan Vong" wrapped across lines
+    r')',
+    re.IGNORECASE
+)
+currentSet = pd.DataFrame(columns=['Name','Set','ImageFile','Side','Type','Subtype','Cost','Speed','Power','Health','Rarity','Number','Usage','Text','Script','Classification','DraftRarity'])
+currentSet.head()
+
+cardSet = "YV"
 
 cwd = os.getcwd()
 
-class Card:
-  cardName = "[name]"
-  buildCost = "[buildCost]"
-  speed = "[speed]"
-  power = "[power]"
-  health = "[health]"
-  typeline = "[typeline]"
-  cardNumber = ""
-  cardText = "[game text]"
-  side = "[side]"
-  rarity = "[rarity]"
-  uniqueLetter = ""
-  isUnit = False
-  isPromo = False
-  sideCount = 0
-  rarityCount = 0
+
+def _italic_line_indices(layer):
+    """Return a set of 0-based line indices where every character is italic.
+
+    Uses the PSD text engine's StyleRun data to check FauxItalic per character,
+    then maps character positions back to \\r-delimited lines. Used to detect
+    flavor text lines on subordinate cards (which use a single \\r before flavor
+    text rather than the double \\r\\r used on standard cards).
+    """
+    try:
+        style_run = layer.engine_dict.get('StyleRun', {})
+        runs = style_run.get('RunArray', [])
+        lengths = style_run.get('RunLengthArray', [])
+        if not runs or not lengths:
+            return set()
+        # Build a per-character italic map
+        italic = []
+        for run, length in zip(runs, lengths):
+            style = run.get('StyleSheet', {}).get('StyleSheetData', {})
+            italic.extend([bool(style.get('FauxItalic', False))] * length)
+        # Map character positions to line indices
+        text = layer.text
+        italic_lines = set()
+        pos = 0
+        for i, line in enumerate(text.split('\r')):
+            end = pos + len(line)
+            chars = italic[pos:end]
+            # Mark line italic if non-empty and every character is italic
+            if line.strip() and chars and all(chars):
+                italic_lines.add(i)
+            pos = end + 1  # +1 for the \r
+        return italic_lines
+    except Exception:
+        return set()
 
 
-def logIssue(cardName, field, reason):
-  print(cardName + " -- issue proccessing field: " + field + " -- " + reason)
+def processGameText(layer, is_subordinate=False):
+    """Extract game text from a PSD layer, inserting | between ability clauses.
+
+    Each \\r in PSD text is an intentional line break between abilities. We
+    insert | for new clauses and a plain space for continuation lines (e.g.
+    "Play only when...", "If you do,", "Or:" inside a Choose-one ability).
+
+    Fully-italic lines are skipped only on subordinate cards: their flavor text
+    follows a single \\r (not the double \\r\\r used on standard cards) and is set
+    in italics. Standard cards use \\r\\r to delimit flavor text, so italic
+    detection is not applied (reminder text, which is also italic, must be kept).
+    """
+    try:
+        text = layer.text
+        # Strip flavor text separated by double \r (standard cards)
+        fp = text.find("\r\r")
+        if fp != -1:
+            text = text[:fp]
+        # Normalize special characters (mirrors cleanGameText, preserving \r for splitting)
+        # Strip control characters (0x00-0x1F) except \r (0x0D), which is used for line splitting
+        text = re.sub(r'[\x00-\x0c\x0e-\x1f]', '', text)
+        text = (text.replace("\u00bd", "[Tap]")
+                    .replace("<", "[Pilot]")
+                    .replace(">", "*")
+                    .replace("§", "->")
+                    .replace("\u201c", '"')
+                    .replace("\u201d", '"')
+                    .replace("\u2018", "'")
+                    .replace("\u2019", "'"))
+        # Identify italic lines (flavor text on subordinate cards only)
+        italic_lines = _italic_line_indices(layer) if is_subordinate else set()
+        # Split on line breaks and decide: new clause (|) or continuation (space)
+        segments = text.split("\r")
+        parts = []
+        for i, seg in enumerate(segments):
+            seg = seg.strip()
+            if not seg or i in italic_lines:
+                continue
+            if not parts:
+                parts.append(seg)
+            elif (seg[0].islower()
+                  or (seg[0] in ('+', '-') and len(seg) > 1 and seg[1].isdigit())
+                  or _CONTINUATION_STARTERS.match(seg)
+                  or _CONTINUATION_ENDERS.search(parts[-1])):
+                # Continuation: append to the current clause with a space
+                parts[-1] += " " + seg
+            else:
+                # New clause
+                parts.append(seg)
+        return " | ".join(parts)
+    except Exception:
+        return "[game text]"
 
 
-def processGameText(layer):
-  try:
-    cardText = layer.text
-    flavor_position = cardText.find("\r\r")
-    if flavor_position != -1:
-      cardText = cardText[:flavor_position]
-    cardText = cardText.replace("\r"," ").replace("§","->").replace('<', '').replace('“','"').replace('”','"').replace('’', "'").replace("½", "Tap")
-    return cardText
-  except:
-    return "[game text]" 
+def processUniqueLetter(layer):
+    """Extract unique letter from a visible layer."""
+    if layer.is_visible():
+        return layer.text.upper()
+    return None
 
-def processCardName(layer):
-  cardName = layer.text.replace('’', "'")
-  return cardName
-
-def processUniqueLetter(layer, letter):
-  if layer.is_visible():
-    letter = layer.text.upper()
-  return letter
-
-def processSubordinateSides(layer, side, sideCount):
-    if layer.name == "Dark":
-        if layer.is_visible():
-            side = "D"
-            sideCount += 1
-    if layer.name == "Light":
-        if layer.is_visible():
-            side = "L"
-            sideCount += 1
-    if layer.name == "Neutral":
-        if layer.is_visible():
-            side = "N"
-            sideCount += 1
-    if layer.name == "Yuuzhan Vong":
-        if layer.is_visible():
-            side = "Y"
-            sideCount += 1
-    return side, sideCount
 
 def processBuildCost(layer):
-  for child in layer:
-    if child.is_visible() and child.name in validBuildCosts:
-      return child.text
+    """Extract build cost from a Build Cost layer group."""
+    for child in layer:
+        if child.is_visible() and child.name in VALID_BUILD_COSTS:
+            return child.text
+    return None
 
 def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
     card = Card()
+    card.imageFrag = imageFrag
+    uniqueLetter = None
 
     if fileNameNumber != "promo" and fileNameNumber != "sub":
-      card.cardNumber = fileNameNumber
+        card.number = fileNameNumber
 
     if fileNameNumber == "promo":
-      card.isPromo = True
+        card.isPromo = True
+
+    if fileNameNumber == "sub":
+        card.number = ""
 
     print("Processing " + fileNameNumber)
+
+    # Temporary storage for name (will be finalized with setCardName at the end)
+    rawName = "[name]"
 
     for layer in psd:
         if layer.name == "Card Text":
             for child in layer:
                 if child.name == "Card Name":
-                    card.cardName = processCardName(child)
+                    rawName = child.text
                 if child.name == "Unique Letter":
-                    card.uniqueLetter = processUniqueLetter(child, card.uniqueLetter)
+                    letter = processUniqueLetter(child)
+                    if letter:
+                        uniqueLetter = letter
                 if child.name == "Build Cost":
-                    card.buildCost = processBuildCost(child)
+                    cost = processBuildCost(child)
+                    if cost:
+                        card.buildCost = cost
                 if child.name == "Speed":
                     card.speed = child.text
                 if child.name == "Power":
@@ -104,97 +195,43 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
                 if child.name == "Health":
                     card.health = child.text
                 if child.name == "Typeline":
-                        card.typeline = child.text.lstrip(" ")
-                        if card.typeline.lower().startswith("space") or card.typeline.lower().startswith("ground") or card.typeline.lower().startswith("character"):
-                          card.isUnit = True
+                    card.setTypeline(child.text)
                 # for non-unit the layer is called 'Number'
                 if child.name == "Card Number" or child.name == "Number":
-                        cardNumbertext = child.text
-                        card.cardNumber = cardNumbertext[:cardNumbertext.find("/")]
-                
-                if ("Game Text") in child.name:
-                        card.cardText = processGameText(child)
-            
-                        
-            if card.typeline.lower().startswith("event") or card.typeline.lower().startswith("battle"):
-              card.buildCost = ""
-            elif card.buildCost == "[buildCost]":
-              logIssue(imageFrag, buildCost, " no correctly named layer found")
-            if card.typeline == "[typeline]":
-              logIssue(imageFrag, typeline, " no correctly named layer found")
-            if card.isUnit:
-              if card.speed == "[speed]":
-                logIssue(imageFrag, card.speed, " no correctly named layer found")
-              if card.power == "[power]":
-                logIssue(imageFrag, card.power, " no correctly named layer found")
-              if card.health == "[health]":
-                logIssue(imageFrag, card.health, " no correctly named layer found")
-            else:
-              card.speed = ""
-              card.power = ""
-              card.health = ""
-            if card.cardNumber == "[number]":
-              logIssue(imageFrag, "[number]",  " no correctly named layer found")
-            elif fileNameNumber != "promo" and card.cardNumber != fileNameNumber:
-              logIssue(imageFrag, "[number]", " number on card (" + card.cardNumber + ") doesn't match number in file name (" + fileNameNumber + ")")
-            if card.cardText == "[game text]":
-              logIssue(imageFrag, card.cardText,  " no correctly named layer found")
-            
+                    cardNumberText = child.text
+                    card.number = cardNumberText[:cardNumberText.find("/")]
+                if "Game Text" in child.name:
+                    card.cardText = processGameText(child)
 
         if layer.name == 'Side Symbols' or layer.name == "Side":
             for child in layer:
-               if child.is_visible():
-                   match child.name:
-                       case "Light":
-                           card.side = "L"
-                           card.sideCount += 1
-                       case "Neutral":
-                           card.side = "N"
-                           card.sideCount += 1
-                       case "Dark":
-                           card.side = "D"
-                           card.sideCount += 1
-                       case "Yuuzhan Vong":
-                           card.side = "Y"
-                           card.sideCount += 1
-            if card.sideCount == 0 or card.sideCount > 1:
-              logIssue(imageFrag, "[side]", str(card.sideCount) + " layers marked visible")
-              card.side = "[side]"
-                      
+                if child.is_visible():
+                    card.setSide(child.name)
+
         if layer.name == 'Rarities':
             for child in layer:
-              if child.is_visible():
-                match child.name:
-                  case "Common":
-                    card.rarity = 'C'
-                    card.rarityCount += 1
-                  case "Uncommon":
-                    card.rarity = 'U'
-                    card.rarityCount += 1
-                  case "Rare":
-                    card.rarity = 'R'
-                    card.rarityCount += 1
-                  case "Promo":
-                    card.rarity = 'P'
-                    card.rarityCount += 1
+                if child.is_visible():
+                    card.setRarity(child.name)
 
-          #Equipment Unique Letters are different
+        # Equipment Unique Letters are different
         if layer.name == "Background":
-          if layer.is_group():
-            for child in layer:
-              if child.is_visible():
-                if child.name == "Equipment":
-                  for subChild in child:
-                    if subChild.name == "Version Letter":
-                      card.uniqueLetter = processUniqueLetter(subChild, card.uniqueLetter)
+            if layer.is_group():
+                for child in layer:
+                    if child.is_visible() and child.name == "Equipment":
+                        for subChild in child:
+                            if subChild.name == "Version Letter":
+                                letter = processUniqueLetter(subChild)
+                                if letter:
+                                    uniqueLetter = letter
 
         if layer.name == "Card Name":
-            card.cardName = processCardName(layer)
+            rawName = layer.text
         if layer.name == "Unique Letters":
             for child in layer:
-              match child.name:
-                case "Unique Letter":
-                  card.uniqueLetter = processUniqueLetter(child, card.uniqueLetter)
+                if child.name == "Unique Letter":
+                    letter = processUniqueLetter(child)
+                    if letter:
+                        uniqueLetter = letter
         if layer.name == "Speed":
             card.speed = layer.text
         if layer.name == "Power":
@@ -202,67 +239,27 @@ def processGenericPSD(psd, imageFrag, fileNameNumber, currentSet):
         if layer.name == "Health":
             card.health = layer.text
         if layer.name == "Subtype (Subordinate)":
-            card.typeline = layer.text
+            card.setTypeline(layer.text)
         if layer.name == "Game text":
-            card.cardText = processGameText(layer)
-        card.side, card.sideCount = processSubordinateSides(layer, card.side, card.sideCount)
+            card.cardText = processGameText(layer, is_subordinate=True)
 
+        # Subordinate side symbols (visible layer at top level)
+        if layer.is_visible() and layer.name in ("Light", "Dark", "Neutral", "Yuuzhan Vong"):
+            card.setSide(layer.name)
 
-    dash_position = card.typeline.find("-")
-    card.typeline  = card.typeline.lower()
-    if card.typeline.startswith("mission") or card.typeline.startswith("battle") or card.typeline.startswith("event") or card.typeline.startswith("resource"):
-        cardType = card.typeline.lstrip(" ").title().rstrip()
-        subtype = ""
-    else:
-        if dash_position != -1:
-          cardType = card.typeline[0:dash_position]
-          cardSubtype = card.typeline[dash_position + 1:]
-          cardType = cardType.lstrip(" ").title().rstrip()
-          subtype = cardSubtype.lstrip(" ").title().replace("\r"," ").rstrip()
-        else:
-          cardType = card.typeline
-          subtype = "" 
-    
-    if card.typeline.lstrip(" ").startswith("subordinate"):
-        card.buildCost = ""
-        card.rarity = "S"
-
+    # Finalize card name with unique letter
+    card.setCardName(rawName, uniqueLetter)
 
     # Validate
-    if len(card.uniqueLetter) > 0:
-      card.cardName = card.cardName.rstrip('\n')
-      card.cardName = card.cardName.rstrip('\r')
-      card.cardName = card.cardName.rstrip('\r\n')
-      card.cardName = card.cardName + " (" + card.uniqueLetter + ")"
-      if card.isPromo:
-        card.cardName = card.cardName + " (Promo)"
-      if card.uniqueLetter != imageFrag[-len(card.uniqueLetter):]:
-        logIssue(imageFrag, "uniqueLetter", " unique letter in card (" + card.uniqueLetter + ") doesn't match unique letter in file name (" + imageFrag[-len(card.uniqueLetter):] + ")")
-        print(imageFrag)
-    if card.typeline == "[typeline]":
-      logIssue(imageFrag, card.typeline,  " no correctly named layer found")
-    if card.speed == "[speed]":
-      logIssue(imageFrag, card.speed,  " no correctly named layer found")
-    if card.power == "[power]":
-      logIssue(imageFrag, card.power,  " no correctly named layer found")
-    if card.health == "[health]":
-      logIssue(imageFrag, card.health,  " no correctly named layer found")
-    if card.cardText == "[game text]":
-      logIssue(imageFrag, card.cardText,  " no correctly named layer found")
-    if card.sideCount == 0 or card.sideCount > 1:
-      logIssue(imageFrag, "[side]", str(card.sideCount) + " layers marked visible")
-      card.side = "[side]"
-    if card.rarityCount > 1 or (card.rarityCount == 0 and card.rarity != "S") :
-      logIssue(imageFrag, "[rarity]", str(card.rarityCount) + " layers maked visible")
-      card.rarity = "[rarity]"
+    card.validate(imageFrag)
+    card.validateNumberMatch(fileNameNumber, imageFrag)
+    if uniqueLetter:
+        card.validateUniqueLetter(imageFrag)
 
-
-    card.cardName = card.cardName.rstrip()
-    new_row = {'Name':card.cardName,'Set':cardSet,'ImageFile':imageFrag,'Side':card.side,'Type':cardType,'Subtype':subtype,
-           'Cost':card.buildCost,'Speed':card.speed,'Power':card.power,'Health':card.health,'Rarity':card.rarity,'Number':card.cardNumber,
-           'Usage':'','Text':card.cardText,'Script':'','Classification':'LEG'}
+    # Add to DataFrame
+    new_row = card.toSetFileRow(cardSet, classification=cardSet)
     new_row_insert = pd.DataFrame(new_row, index=[0])
-    currentSet = pd.concat([new_row_insert,currentSet.loc[:]]).reset_index(drop=True)
+    currentSet = pd.concat([new_row_insert, currentSet.loc[:]]).reset_index(drop=True)
     return currentSet
 
 
