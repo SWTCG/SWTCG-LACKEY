@@ -7,7 +7,7 @@ import re
 import requests
 import sys
 from datetime import time
-from urllib.parse import urlencode
+from urllib.parse import urlencode, quote
 
 from rapidfuzz import fuzz, process
 from SWTCG import Card, getCardFromLine, SETS, COSTLESS_TYPES, isCostless, loadAllSets
@@ -30,6 +30,7 @@ POST_TIME = time(14, 0)
 SETS_FOLDER = os.path.join(SCRIPT_DIR, "..", "starwars", "sets")
 
 DECK_DB_URL = os.getenv('DECK_DB_URL', 'http://localhost:8000')
+DECK_DB_PUBLIC_URL = os.getenv('DECK_DB_PUBLIC_URL', 'https://swtcg-deckdb.com')
 BOT_API_KEY = os.getenv('BOT_API_KEY', '')
 # Number keycap emojis 1-5 mapped to rating values
 RATING_EMOJIS = {
@@ -454,6 +455,22 @@ def run_test_mode():
                     print(f"    {score:6.1f}  {card.name}")
 
 
+def _card_url(card):
+    """Return the public deck-db URL for a card."""
+    return f"{DECK_DB_PUBLIC_URL}/card/{quote(card.setCode)}/{quote(card.name)}"
+
+
+def _card_view(card):
+    """Return a discord View containing a link button to the card's deck-db page."""
+    view = discord.ui.View()
+    view.add_item(discord.ui.Button(
+        label="View on deck-db",
+        url=_card_url(card),
+        style=discord.ButtonStyle.link
+    ))
+    return view
+
+
 def _card_from_embed(embed):
     """Extract a Card from a bot embed. Returns None if not a card embed.
 
@@ -630,7 +647,7 @@ def run_bot_mode():
         )
 
         embed.set_image(url=card.getImageUrl())
-        msg = await channel.send(embed=embed)
+        msg = await channel.send(embed=embed, view=_card_view(card))
         _message_card_cache[msg.id] = card
         for emoji in RATING_EMOJIS:
             await msg.add_reaction(emoji)
@@ -672,7 +689,7 @@ def run_bot_mode():
             user = await client.fetch_user(user_id)
             await user.send(
                 f"Hello! To save your card ratings, you need to log in with "
-                f"your Discord account at: https://swtcg-deckdb.com"
+                f"your Discord account at: {DECK_DB_PUBLIC_URL}"
                 f"\n(This message is sent only once.)"
             )
         except Exception as e:
@@ -736,7 +753,7 @@ def run_bot_mode():
                 color=color
             )
         embed.set_image(url=card.getImageUrl())
-        msg = await ctx.send(embed=embed)
+        msg = await ctx.send(embed=embed, view=_card_view(card))
         _message_card_cache[msg.id] = card
 
     @client.tree.command(name="random", description="Get a random card, optionally from a specific set.")
@@ -768,7 +785,7 @@ def run_bot_mode():
             color=color
         )
         embed.set_image(url=card.getImageUrl())
-        await interaction.response.send_message(embed=embed)
+        await interaction.response.send_message(embed=embed, view=_card_view(card))
         msg = await interaction.original_response()
         _message_card_cache[msg.id] = card
 
@@ -868,7 +885,7 @@ def run_bot_mode():
                 color=color
             )
             embed.set_image(url=card.getImageUrl())
-            await interaction.response.send_message(embed=embed)
+            await interaction.response.send_message(embed=embed, view=_card_view(card))
             msg = await interaction.original_response()
             _message_card_cache[msg.id] = card
         except CardNotFoundError as e:
@@ -900,7 +917,7 @@ def run_bot_mode():
                 color=color
             )
             embed.set_image(url=card.getImageUrl())
-            msg = await ctx.send(embed=embed)
+            msg = await ctx.send(embed=embed, view=_card_view(card))
             _message_card_cache[msg.id] = card
         except CardNotFoundError as e:
             print(e)
