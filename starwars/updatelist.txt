@@ -149,7 +149,6 @@ plugins/starwars/sets/JG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 plugins/starwars/sets/JK.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/JK.txt	2900940
 plugins/starwars/sets/KAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/KAE.txt	5896180
 plugins/starwars/sets/LEG.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/LEG.txt	7886052
-plugins/starwars/sets/LOTA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/LOTA.txt	720803
 plugins/starwars/sets/MAM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/MAM.txt	135933
 plugins/starwars/sets/MAND.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/MAND.txt	2101055
 plugins/starwars/sets/OBWN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/OBWN.txt	3589205
@@ -174,7 +173,6 @@ plugins/starwars/sets/TEN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/TFA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TFA.txt	4718199
 plugins/starwars/sets/TLJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TLJ.txt	6292092
 plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TM.txt	7857100
-plugins/starwars/sets/TMR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TMR.txt	3921738
 plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TMW.txt	6892896
 plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TOR.txt	3477635
 plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/TROS.txt	6211327
@@ -185,7 +183,6 @@ plugins/starwars/sets/VP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKE
 plugins/starwars/sets/VV1.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VV1.txt	1110093
 plugins/starwars/sets/VV2.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/VV2.txt	1117242
 plugins/starwars/sets/WAE.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/WAE.txt	882568
-plugins/starwars/sets/YV.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/YV.txt	2691174
 plugins/starwars/sets/START.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/START.txt	4530311
 plugins/starwars/sets/HELP.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/HELP.txt	87321
 plugins/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sounds/A-guide-to-Star-Wars-sounds.txt	145510
@@ -5753,7 +5750,7 @@ LEG/LEG197_Wolf_Sazen_B.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY
 LEG/LEG198_Wolf_s_Promise.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG198_Wolf_s_Promise.jpg
 LEG/LEG199_Wolf_s_Sacrifice.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG199_Wolf_s_Sacrifice.jpg
 LEG/LEG200_Zenoc_Quah_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG200_Zenoc_Quah_A.jpg
-LEG/LEG201_Admiral_Gar_Stazi_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG201_Admiral_Gar_Stazi_C.jpg
+LEG/LEG201_Admiral_Gar_Stazi_C_v2.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG201_Admiral_Gar_Stazi_C_v2.jpg
 LEG/LEG202_Alien_Stormtrooper_Squad.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG202_Alien_Stormtrooper_Squad.jpg
 LEG/LEG203_Alliance_C.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG203_Alliance_C.jpg
 LEG/LEG204_Anson_Trask_A.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/sets/setimages/LEG/LEG204_Anson_Trask_A.jpg
