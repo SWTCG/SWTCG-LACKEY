@@ -631,6 +631,7 @@ def run_bot_mode():
 
         embed.set_image(url=card.getImageUrl())
         msg = await channel.send(embed=embed)
+        _message_card_cache[msg.id] = card
         for emoji in RATING_EMOJIS:
             await msg.add_reaction(emoji)
 
@@ -638,7 +639,30 @@ def run_bot_mode():
     async def before_dailyPost():
         await client.wait_until_ready()
 
+    _message_card_cache = {}  # message_id -> Card
     _dm_sent_users = set()
+
+    async def _get_card_for_reaction(payload):
+        """Return the Card for a reaction payload using an in-memory cache with HTTP fallback."""
+        card = _message_card_cache.get(payload.message_id)
+        if card is not None:
+            return card
+        channel = client.get_channel(payload.channel_id)
+        if channel is None:
+            try:
+                channel = await client.fetch_channel(payload.channel_id)
+            except (discord.NotFound, discord.Forbidden):
+                return None
+        try:
+            message = await channel.fetch_message(payload.message_id)
+        except (discord.NotFound, discord.Forbidden):
+            return None
+        if not message.embeds:
+            return None
+        card = _card_from_embed(message.embeds[0])
+        if card is not None:
+            _message_card_cache[payload.message_id] = card
+        return card
 
     async def _notify_unlinked(user_id):
         if user_id in _dm_sent_users:
@@ -647,8 +671,8 @@ def run_bot_mode():
         try:
             user = await client.fetch_user(user_id)
             await user.send(
-                f"Thanks for reacting! To save your card ratings, "
-                f"link your Discord account at: {DECK_DB_URL}"
+                f"Hello! To save your card ratings, you need to log in with "
+                f"your Discord account at: https://swtcg-deckdb.com"
                 f"\n(This message is sent only once.)"
             )
         except Exception as e:
@@ -661,16 +685,7 @@ def run_bot_mode():
         emoji_str = str(payload.emoji)
         if emoji_str not in RATING_EMOJIS:
             return
-        channel = client.get_channel(payload.channel_id)
-        if channel is None:
-            return
-        try:
-            message = await channel.fetch_message(payload.message_id)
-        except discord.NotFound:
-            return
-        if not message.embeds:
-            return
-        card = _card_from_embed(message.embeds[0])
+        card = await _get_card_for_reaction(payload)
         if card is None:
             return
         result = await asyncio.to_thread(
@@ -684,16 +699,7 @@ def run_bot_mode():
             return
         if str(payload.emoji) not in RATING_EMOJIS:
             return
-        channel = client.get_channel(payload.channel_id)
-        if channel is None:
-            return
-        try:
-            message = await channel.fetch_message(payload.message_id)
-        except discord.NotFound:
-            return
-        if not message.embeds:
-            return
-        card = _card_from_embed(message.embeds[0])
+        card = await _get_card_for_reaction(payload)
         if card is None:
             return
         await asyncio.to_thread(_delete_rating, payload.user_id, card.name, card.setCode)
@@ -730,7 +736,8 @@ def run_bot_mode():
                 color=color
             )
         embed.set_image(url=card.getImageUrl())
-        await ctx.send(embed=embed)
+        msg = await ctx.send(embed=embed)
+        _message_card_cache[msg.id] = card
 
     @client.tree.command(name="random", description="Get a random card, optionally from a specific set.")
     @app_commands.describe(set_code="Optional set code to filter by (e.g., ANH, ROTJ)")
@@ -762,6 +769,8 @@ def run_bot_mode():
         )
         embed.set_image(url=card.getImageUrl())
         await interaction.response.send_message(embed=embed)
+        msg = await interaction.original_response()
+        _message_card_cache[msg.id] = card
 
     @client.command()
     @commands.has_role(700748867104145478)
@@ -860,6 +869,8 @@ def run_bot_mode():
             )
             embed.set_image(url=card.getImageUrl())
             await interaction.response.send_message(embed=embed)
+            msg = await interaction.original_response()
+            _message_card_cache[msg.id] = card
         except CardNotFoundError as e:
             print(e)
             if e.suggestions:
@@ -889,7 +900,8 @@ def run_bot_mode():
                 color=color
             )
             embed.set_image(url=card.getImageUrl())
-            await ctx.send(embed=embed)
+            msg = await ctx.send(embed=embed)
+            _message_card_cache[msg.id] = card
         except CardNotFoundError as e:
             print(e)
             if e.suggestions:
