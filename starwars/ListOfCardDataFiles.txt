@@ -36,7 +36,6 @@
 <filetoinclude>JK.txt</filetoinclude>
 <filetoinclude>KAE.txt</filetoinclude>
 <filetoinclude>LEG.txt</filetoinclude>
-<filetoinclude>LOTA.txt</filetoinclude>
 <filetoinclude>MAM.txt</filetoinclude>
 <filetoinclude>MAND.txt</filetoinclude>
 <filetoinclude>OBWN.txt</filetoinclude>
@@ -62,7 +61,6 @@
 <filetoinclude>TFA.txt</filetoinclude>
 <filetoinclude>TLJ.txt</filetoinclude>
 <filetoinclude>TM.txt</filetoinclude>
-<filetoinclude>TMR.txt</filetoinclude>
 <filetoinclude>TMW.txt</filetoinclude>
 <filetoinclude>TOR.txt</filetoinclude>
 <filetoinclude>TROS.txt</filetoinclude>
@@ -73,5 +71,4 @@
 <filetoinclude>VV1.txt</filetoinclude>
 <filetoinclude>VV2.txt</filetoinclude>
 <filetoinclude>WAE.txt</filetoinclude>
-<filetoinclude>YV.txt</filetoinclude>
 </listofcarddatafiles>

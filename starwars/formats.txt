@@ -1,8 +1,8 @@
 <formatdefinitions>
 
 <format>
-<label>YV</label>
-<set>YV</set>
+<label>Legacy</label>
+<set>LEG</set>
 </format>
 
 <format>

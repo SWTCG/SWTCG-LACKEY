@@ -929,7 +929,7 @@
 		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 	</chance>
 </pack>
-<pack>
+<!-- <pack>
 	<packtitle>TMR - Draft Plus</packtitle>
 	<packimage>TMW</packimage>
 	<packkind>Pack</packkind>
@@ -956,7 +956,7 @@
 		<kind><qty>3</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>UU</data></crit></kind>
 		<kind><qty>6</qty><crit><field>DraftRarity</field><eval>CONTAINS</eval><data>UC</data></crit></kind>
 	</chance>
-</pack>
+</pack> -->
 <pack>
     <packtitle>Yuuzhan Vong War</packtitle>
     <packimage>tuf</packimage>
