@@ -116,7 +116,7 @@ plugins/starwars/packs/YV.jpg	https://lackey.swtcg.com/starwars/packs/YV.jpg	0
 plugins/starwars/sets/15TH.txt	https://lackey.swtcg.com/starwars/sets/15TH.txt	2713510
 plugins/starwars/sets/AAA.txt	https://lackey.swtcg.com/starwars/sets/AAA.txt	4608363
 plugins/starwars/sets/AGD.txt	https://lackey.swtcg.com/starwars/sets/AGD.txt	7467680
-plugins/starwars/sets/ALTA.txt	https://lackey.swtcg.com/starwars/sets/ALTA.txt	22748399
+plugins/starwars/sets/ALTA.txt	https://lackey.swtcg.com/starwars/sets/ALTA.txt	22747058
 plugins/starwars/sets/ANH.txt	https://lackey.swtcg.com/starwars/sets/ANH.txt	3364327
 plugins/starwars/sets/AOTC.txt	https://lackey.swtcg.com/starwars/sets/AOTC.txt	2680744
 plugins/starwars/sets/BAE.txt	https://lackey.swtcg.com/starwars/sets/BAE.txt	4982383
