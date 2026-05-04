@@ -518,7 +518,7 @@ def run_bot_mode():
         """Return a discord View containing a link button to the card's deck-db page."""
         view = discord.ui.View()
         view.add_item(discord.ui.Button(
-            label="View on deck-db",
+            label="View on swtcg-deckdb",
             url=_card_url(card),
             style=discord.ButtonStyle.link
         ))
@@ -641,7 +641,7 @@ def run_bot_mode():
           title="Random Card of the Day!",
           description=f"**{card.name}** - {card.setName}\n\n"
                     "What do you think about it? Have you ever used it in a deck before?\n"
-                    "React 1-5 to rate this card!",
+                    f"React 1-5 to rate this card!\n[View on swtcg-deckdb]({_card_url(card)})",
           color=color
         )
 
@@ -742,13 +742,13 @@ def run_bot_mode():
         if setCode:
             embed = discord.Embed(
                 title=f"Random Card from {setCode}:",
-                description=f"**{card.name}** - {card.setName}",
+                description=f"**{card.name}** - {card.setName}\n[View on swtcg-deckdb]({_card_url(card)})",
                 color=color
             )
         else:
             embed = discord.Embed(
                 title="Random Card:",
-                description=f"**{card.name}** - {card.setName}",
+                description=f"**{card.name}** - {card.setName}\n[View on swtcg-deckdb]({_card_url(card)})",
                 color=color
             )
         embed.set_image(url=card.getImageUrl())
@@ -780,7 +780,7 @@ def run_bot_mode():
         title = f"Random Card from {set_code}:" if set_code else "Random Card:"
         embed = discord.Embed(
             title=title,
-            description=f"**{card.name}** - {card.setName}",
+            description=f"**{card.name}** - {card.setName}\n[View on swtcg-deckdb]({_card_url(card)})",
             color=color
         )
         embed.set_image(url=card.getImageUrl())
@@ -880,7 +880,7 @@ def run_bot_mode():
             color = getColor(card)
             embed = discord.Embed(
                 title=f"{card.name}",
-                description=f"{card.setCode} #{card.number}",
+                description=f"{card.setCode} #{card.number}\n[View on swtcg-deckdb]({_card_url(card)})",
                 color=color
             )
             embed.set_image(url=card.getImageUrl())
@@ -912,7 +912,7 @@ def run_bot_mode():
             color = getColor(card)
             embed = discord.Embed(
                 title=f"{card.name}",
-                description=f"{card.setCode} #{card.number}",
+                description=f"{card.setCode} #{card.number}\n[View on swtcg-deckdb]({_card_url(card)})",
                 color=color
             )
             embed.set_image(url=card.getImageUrl())
