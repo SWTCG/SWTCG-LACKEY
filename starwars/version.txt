@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>260416</lastupdateYYMMDD>
+<lastupdateYYMMDD>260503</lastupdateYYMMDD>
 
-<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/LOTA/starwars/updatelist.txt</updateurl>
-<message>LOTA, TMR, YV playtesting</message>
+<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
+<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
+<message>May 4th Misc Update</message>
 
 </version>
