@@ -457,7 +457,7 @@ def run_test_mode():
 
 def _card_url(card):
     """Return the public deck-db URL for a card."""
-    return f"{DECK_DB_PUBLIC_URL}/card/{quote(card.setCode)}/{quote(card.name)}"
+    return f"{DECK_DB_PUBLIC_URL}/card/{quote(card.setCode, safe='')}/{quote(card.name, safe='')}"
 
 
 def _card_from_embed(embed):
