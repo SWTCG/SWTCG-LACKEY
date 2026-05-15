@@ -77,7 +77,6 @@ plugins/starwars/packs/jg.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/packs/jk.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/jk.jpg	591920
 plugins/starwars/packs/kae.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/kae.jpg	1462702
 plugins/starwars/packs/LEG.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/LEG.jpg	267431
-plugins/starwars/packs/LOTA.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/LOTA.jpg	267431
 plugins/starwars/packs/mand.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/mand.jpg	-51488
 plugins/starwars/packs/OBWN.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/OBWN.jpg	-198680
 plugins/starwars/packs/pm.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/pm.jpg	500955
@@ -102,7 +101,6 @@ plugins/starwars/packs/tdt.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LAC
 plugins/starwars/packs/tfa.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/tfa.jpg	734165
 plugins/starwars/packs/TLJ.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/TLJ.jpg	1201105
 plugins/starwars/packs/TM.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/TM.jpg	1389412
-plugins/starwars/packs/TMR.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/TMR.jpg	1389412
 plugins/starwars/packs/TMW.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/TMW.jpg	2592083
 plugins/starwars/packs/tor.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/tor.jpg	629528
 plugins/starwars/packs/TORMisc.jpg	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/packs/TORMisc.jpg	-239716
@@ -173,6 +171,7 @@ plugins/starwars/sets/TEN.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACK
 plugins/starwars/sets/TFA.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TFA.txt	4654119
 plugins/starwars/sets/TLJ.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TLJ.txt	6235386
 plugins/starwars/sets/TM.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TM.txt	7760612
+plugins/starwars/sets/TMR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TMR.txt	7760612
 plugins/starwars/sets/TMW.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TMW.txt	6836953
 plugins/starwars/sets/TOR.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TOR.txt	3445120
 plugins/starwars/sets/TROS.txt	https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/sets/TROS.txt	6119232
