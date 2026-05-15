@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>260514</dateYYMMDD>
+<dateYYMMDD>260516</dateYYMMDD>
 
 <removepath>sets/setimages/LEG/LEGpromo_Admiral_Gar_Stazi_C.jpg</removepath>
 
