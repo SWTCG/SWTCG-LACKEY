@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>260517</lastupdateYYMMDD>
+<lastupdateYYMMDD>260712</lastupdateYYMMDD>
 
-<versionurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/SWTCG/SWTCG-LACKEY/refs/heads/TMR/starwars/updatelist.txt</updateurl>
-<message>TMR pt</message>
+<versionurl>https://lackey.swtcg.com/starwars/version.txt</versionurl>
+<updateurl>https://lackey.swtcg.com/starwars/updatelist.txt</updateurl>
+<message>Column updates</message>
 
 </version>
