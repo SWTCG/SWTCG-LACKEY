@@ -160,7 +160,7 @@ Klatooinian Mercenary	BOBF	BOBFsub_Klatooinian_Mercenary	N	Subordinate	Character
 Micro Probe Droid	BOBF	BOBFsub_Micro_Probe_Droid	N	Subordinate	Ground - Droid		40	0	2	S			Stealth | [Tap] -> Your opponent reveals their hand or pays 2 Force.		NEW, MV, STAND, COL5	
 Mod Bike	BOBF	BOBFsub_Mod_Bike	N	Subordinate	Ground - Tatooine Crime Gang Cyborg Speeder		60	2	2	S			[Pilot] Cyborg Pilot. The Cyborg gets: *+10 speed and +1 health		NEW, MV, STAND, COL5	
 Nikto Biker	BOBF	BOBFsub_Nikto_Biker	N	Subordinate	Character - Nikto Tatooine Crime Gang Mercenary		30	2	2	S			[Pilot] Speeder Pilot. The Speeder gets: *+2 power		NEW, MV, STAND, COL5	
-Pyke Enforcer	BOBF	BOBFsub_Pyke_Enforcer	N	Subordinate	Ground/Character - Pyke Crime Gang Soldier		4	2	2	S			Pay 1 Force -> Intercept		NEW, MV, STAND, COL5	
+Pyke Enforcer	BOBF	BOBFsub_Pyke_Enforcer	N	Subordinate	Ground/Character - Pyke Crime Gang Soldier		40	2	2	S			Pay 1 Force -> Intercept		NEW, MV, STAND, COL5	
 Spaceport Starship	BOBF	BOBFsub_Spaceport_Starship	N	Subordinate	Space - Independent Transport		40	1	2	S			[Tap] -> One of your opponent's Space unit gets -5 speed until end of turn.		NEW, MV, STAND, COL5	
 Trandoshan Mercenary	BOBF	BOBFsub_Trandoshan_Mercenary	N	Subordinate	Character - Trandoshan Tatooine Crime Gang Mercenary		40	3	2	S			Fury 1		NEW, MV, STAND, COL5	
 Tusken Massiff	BOBF	BOBFsub_Tusken_Massiff	N	Subordinate	Ground/Character - Tatooine Tusken Creature		50	2	2	S			Surge 1 | Pay 1 Force -> Intercept		NEW, MV, STAND, COL5	

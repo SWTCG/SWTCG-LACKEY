@@ -43,4 +43,4 @@ Lan Ar-Shoo (A)	VV1	VV1sub_Lan_Ar_Shoo_A	N	Subordinate	Ground/Character - Musici
 Sith Pirate	VV1	VV1sub_Sith_Pirate	D	Subordinate	Character - Rebel Sith Pirate		50	2	2	S			Critical Hit 1 Fury 1		STAND, COL2	
 TD-4 (A)	VV1	VV1sub_TD_4_A	L	Subordinate	Character - Droid		40	1	2	S			[Tap] -> The attacking Character gets Accuracy -1 until end of turn.		STAND, COL2	
 V-5 (A)	VV1	VV1sub_V_5_A	N	Subordinate	Character - Droid Musician Entertainer		40	2	2	S			Each of your Entertainers gets Focus 1.		STAND, COL2	
-Village Bride	VV1	VV1sub_Village_Bride	L	Subordinate	Ground/Charcter - Farmer Villager		50	1	2	S			Parry 1		STAND, COL2	
+Village Bride	VV1	VV1sub_Village_Bride	L	Subordinate	Ground/Character - Farmer Villager		50	1	2	S			Parry 1		STAND, COL2	

@@ -278,7 +278,7 @@ Beta Trawler	TM	TMsub_Beta_Trawler	N	Subordinate	Character - Crime Gang Merchant
 Blue Krill	TM	TMsub_Blue_Krill	N	Subordinate	Ground - Krill Sorgan Aquatic Creature Squad		30	0	2	S					NEW, MV, COL3	
 Compound Mercenaries	TM	TMsub_Compound_Mercenaries	N	Subordinate	Ground - Nikto Desert Crime Gang Squad		40	3	2	S			Area Damage 2		NEW, MV, COL3	
 Death Trooper Attack Squad	TM	TMsub_Death_Trooper_Attack_Squad	D	Subordinate	Ground/Character - Imperial Remnant Stormtrooper Squad		50	3	3	S			Double Strike		NEW, MV, COL3	
-EV-series Bartender Droid	TM	TMsub_EV_series_Bartender_Droid	N	Subordinate	Tatooine Merchant Droid		40	0	3	S			Pay 1 build point -> Draw 2 cards. Play only during your build step.	<s><l>Pay 1BP to draw 2 cards</l><f>/draw 2;/player stat2 -1;/s pays 1BP to draw 2 cards using EV-series Bartender Droid</f></s>	NEW, MV, COL3	
+EV-series Bartender Droid	TM	TMsub_EV_series_Bartender_Droid	N	Subordinate	Character - Tatooine Merchant Droid		40	0	3	S			Pay 1 build point -> Draw 2 cards. Play only during your build step.	<s><l>Pay 1BP to draw 2 cards</l><f>/draw 2;/player stat2 -1;/s pays 1BP to draw 2 cards using EV-series Bartender Droid</f></s>	NEW, MV, COL3	
 Guild Members	TM	TMsub_Guild_Members	N	Subordinate	Ground - Nevarro Bounty Hunter Squad		50	3	1	S			Bounty: Gain 1 Force		NEW, MV, COL3	
 Klatooinian Pillagers	TM	TMsub_Klatooinian_Pillagers	N	Subordinate	Ground/Character - Klatooinian Pirate Squad		40	2	2	S					NEW, MV, COL3	
 Kyuzo Bounty Hunter	TM	TMsub_Kyuzo_Bounty_Hunter	N	Subordinate	Character - Kyuzo Bounty Hunter		40	3	1	S			Bounty: Draw a card.		NEW, MV, COL3	
